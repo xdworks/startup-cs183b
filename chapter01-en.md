@@ -169,6 +169,8 @@ A subset of You're the Boss is you have flexibility, you have control over your 
 > If you're going to be an entrepreneur, you will actually get some flex time to be honest. You'll be able to work any 24 hours a day you want!
 > -Phil Libin
 
+你什麼時候都可以開始你那一天工作24小時的工作。
+
 This truly resonates with me as well. Some of the reasons for this again, you're always on call. So maybe you don't intend to work all parts of the day, but you don't control which ones.
 
 You're a role model of the company, and this is super important. So if you're an employee at a company, you might have some good weeks and you might have some bad weeks, some weeks when you're low energy and you might want to take a couple days off. That's really bad if you're an entrepreneur. Your team will really signal off of what you're bringing to the table. So if you take your foot off the gas, so will they.
