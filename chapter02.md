@@ -1,7 +1,7 @@
 # 標題：創業點子、產品、團隊和執行（第二部分）
 
 * 作者：Sam Altman
-* ## 譯者： Iceyl Tao，杜月，聞宇
+* 譯者： Iceyl Tao，杜月，聞宇
 * 原翻譯連結：https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_2/Lecture_2_translated.md
 
 上期課程的Q & A
