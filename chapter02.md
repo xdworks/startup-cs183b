@@ -1,191 +1,222 @@
-# Lecture 2 - Team and Execution (Sam Altman)
+# 標題：創業點子、產品、團隊和執行（第二部分）
 
-http://genius.com/Sam-altman-lecture-2-ideas-products-teams-and-execution-part-ii-annotated
+* 作者：Sam Altman
+* ## 譯者： Iceyl Tao，杜月，聞宇
+* 原翻譯連結：https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_2/Lecture_2_translated.md
 
-Before I jump into today's lecture, I wanted to answer a few questions people had emailed me about the last lecture that we didn't have time for. So, if you have a question about what we covered last time, I am welcome to answer it now, starting with you.
+上期課程的Q & A
 
-Q: How do I identify if a market has a fast growth rate now and also for the next ten years?
+在開始今天的課程之前，我想先回答一下同學們郵件問到，上節課沒時間涉及的一些問題。所以如果對上節課的內容有疑問，我現在非常樂意解答。就從你開始吧。
 
-A: The good news about this is this is one of the big advantages students have. You should just trust your instincts on this. Older people have to basically guess about the technologies young people are using. But you can just watch what you're doing and what your friends are doing and you will almost certainly have better instincts than anybody older than you. And so the answer to this is just trust your instincts, think about what you're doing more, think about what you're using, what you're seeing people your age using, that will almost certainly be the future.
+問: 如果市場現在增長率很快，怎麼判定它未來十年依然能保持呢？
 
-Okay, one more question on the last lecture before we start.
+答: 好消息就是，學生有一大優勢：相信你的直覺。年輕人正在使用的科技對於年紀大一點的人來說只能靠猜（來了解）。而你們只要看看自己在幹嘛，身邊的朋友在幹嘛，直覺就幾乎肯定會比年紀大一點的人準得多。所以答案就是直覺，想想自己最近做什麼做的多，想想自己在用什麼，你的同齡人在用什麼，那基本上就是未來導向了。
 
-Q: How do you deal with burnout while still being productive and remaining productive.
+好，再回答一個上節課的問題，然後我們開始今天的內容。
 
-A: The answer to this is just that it sucks and you keep going. Unlike a student where you can throw up your hands and say you know I'm really burnt out and I'm just going to get bad grades this quarter, one of the hard parts about running a startup is that it's real life and you just have to get through it. The canonical advice is to go on a vacation and that never works for founders. It's sort of all consuming in this way that is very difficult to understand.
 
-So what you do is you just keep going. You rely on people, it's really important, founder depression is a serious thing and you need to have a support network. But the way through burn out is just to address the challenges, to address the things that are going wrong and you'll eventually feel better.
+問：你在保持高效率的同時怎麼平衡自己特別疲勞的狀況？
 
-Last lecture, we covered the idea and the product and I want to emphasize that if you don't get those right, none of the rest of this is going to save you. Today, we're going to talk about how to hire and how to execute. Hopefully you don't execute the people you hire. Sometimes.
+答：答案很簡單，儘管他妹的非常不爽，也只能挺住。不像當學生的時候，你可以一甩手說，你太累了不管了，不就一學期分數低一點麼。創業最苦的最現實的就是，必鬚麵對現實熬過去。傳統的建議是休個假，不過對創業者來說完全不適用。【基本上就全是這麼消耗過去的，簡直不可想像。】
 
-First, I want to talk about cofounders. Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. That's all true and certainly in YC's case, the number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring. Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.
+所以，能做的就是繼續戰鬥。你得靠朋友，這非常重要。創業者抑鬱不是空穴來風，所以你必須有個支持性的朋友圈。但是戰勝疲勞的方法也只是更加凸顯了（創業的）挑戰，凸顯了出問題時候的情況，不過最終，【你會感到好很多的】。
 
-And for some reason, students are really bad at this. They just pick someone. They're like, I want to start a business and you want to start a business, let's start a startup together. There are these cofounder dating things where you're like, Hey I'm looking for a cofounder, we don't really know each other, let's start a company. And this is like, crazy. You would never hire someone like this and yet people are willing to choose their business partners this way. It's really really bad. And choosing a random random cofounder, or choosing someone you don't have a long history with, choosing someone you're not friends with, so when things are really going wrong, you have this sort of past history to bind you together, usually ends up in disaster.
+## Ideas, Products, Teams and Execution Part II
 
-We had one YC batch in which nine out of about seventy-five companies added on a new cofounder between when we interviewed the companies and when they started, and all nine of those teams fell apart within the next year. The track record for companies where the cofounders don't know each other is really bad.
 
-A good way to meet a cofounder is to meet in college. If you're not in college and you don't know a cofounder, the next best thing I think is to go work at an interesting company. If you work at Facebook or Google or something like that, it's almost as cofounder rich as Stanford. It's better to have no cofounder than to have a bad cofounder, but it's still bad to be a solo founder. I was just looking at the stats here before we started. For the top, and I may have missed one because I was counting quickly, but I think, for the top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
+上節課我們講到了創意和產品，我想強調的是，如果你們沒理解這兩點，那之後的內容也是無益。今天，我們要討論的是如何招聘和如何裁員。希望你們不會時不時裁掉自己雇來的員工。
 
-So, best of all, cofounder you know, not as good as that, but still okay, solo founder. Random founder you meet, and yet students do this for some reason, really really bad.
+首先，我想講的是創業合夥人。創業合夥人間的關係是整個公司裡最重要的關係之一。人人都說，合夥人間逐漸萌生的緊張是必須重視的問題，也是必須立即重視的問題。這都千真萬確，YC也是如此。新公司夭折的首要原因就是合夥人們鬧蹦了。但出於某些原因，許多人選擇合夥人還不如招聘員工那麼上心。千萬別這樣！（選合夥人）是創業生涯中最重要的決定之一，也必須予以最高的重視。
 
-So as you're thinking about cofounders and people that could be good, there's a question of what you're looking for right? At YC we have this public phrase, and it's relentlessly resourceful, and everyone's heard of it. And you definitely need relentlessly resourceful cofounders, but there's a more colorful example that we share at the YC kickoff. Paul Graham started using this and I've kept it going.
 
-So, you're looking for cofounders that need to be unflappable, tough, they know what to do in every situation. They act quickly, they're decisive, they're creative, they're ready for anything, and it turns out that there's a model for this in pop culture. And it sounds very dumb, but it's at least very memorable and we've told every class of YC this for a long time and I think it helps them.
+也不知道為什麼，學生在這方面真是遜爆了，總是隨便選個誰。常常是我想創業，你也想創業，那我們一塊創業吧。簡直跟速配似的，我想找個合夥人，我們相互不了解，一塊創業吧。這簡直就是2B吧。誰都不會這麼選職員，但居然好多人就這麼敲定了商業合夥人。真的非常非常不靠譜。無比隨意的選定合夥人，或者選交情不夠深的，還算不上朋友的人，一旦出了問題，就沒有深厚的基礎保證你們的關係，通常結果都會很慘痛。
 
-And that model is James Bond. And again, this sounds crazy, but it will at least stick in your memory and you need someone that behaves like James Bond more than you need someone that is an expert in some particular domain.
+YC有一批一共有75個公司，其中有九個公司在我們面試他們，和他們開始創業之間這段時間裡，增加了新合夥人，第二年，這九個公司全崩盤了。合夥人彼此不了解的公司，記錄真的是相當不好。
 
-As I mentioned earlier, you really want to know your cofounders for awhile, ideally years. This is especially true for early hires as well, but incidentally, more people get this right for early hires than they do for cofounders. So, take advantage of school. In addition to relentlessly resourceful, you want a tough and a calm cofounder. There are obvious things like smart, but everyone knows you want a smart cofounder, they don't prioritize things like tough and calm enough, especially if you feel like you yourself aren't, you need a cofounder who is. If you aren't technical, and even if most of the people in this room feel like they are, you want a technical cofounder. There's this weird thing going on in startups right now where it's become popular to say, You know what, we don't need a technical cofounders, we're gonna hire people, we're just gonna be great managers.
+大學是認識合夥人的好地方。如果你沒在學校裡，也還沒有合夥人，那我覺得最好的選擇是去個有意思的公司工作。如果能到諸如facebook或者google之類的公司工作，那裡的合夥人資源和斯坦福一樣豐富。即使沒有合夥人也比差勁的合夥人要好，但是獨自創業並不理想。首先在我們開始之前，我只是想陳述一下數據。在YC最有價值的二十個公司中——我可能漏掉了一兩個因為我只迅速數了一下——幾乎所有都有至少兩個合夥人。我們對獨立創業者的贊助比率大致在十分之一。
 
-That doesn't work too well in our experience. Software people should really be starting software companies. Media people should be starting media companies. In the YC experience, two or three cofounders seems to be about perfect. One, obviously not great, five, really bad. Four works sometimes, but two or three I think is the target.
 
-The second part of how to hire: try not to. One of the weird things you'll notice as you start a company, is that everyone will ask you how many employees you have. And this is the metric people use to judge how real your startup is and how cool you are. And if you say you have a high number of employees, they're really impressed. And if you say you have a low number of employees, then you sound like this little joke. But actually it sucks to have a lot of employees, and you should be proud of how few employees you have. Lots of employees ends up with things like a high burn rate, meaning you're losing a lot of money every month, complexity, slow decision making, the list goes on and it's nothing good.
+所以，最好是和了解的合夥人合作，不然的話，獨自創業雖然稍為遜色，但也可行。
 
-So you want to be proud of how much you can get done with a small numbers of employees. Many of the best YC companies have had a phenomenally small number of employees for their first year, sometimes none besides the founders. They really try to stay small as long as they possibly can. At the beginning, you should only hire when you desperately need to. Later, you should learn to hire fast and scale up the company, but in the early days the goal should be not to hire. And one of the reasons this is so bad, is that the cost of getting an early hire wrong is really high. In fact, a lot of the companies that I've been very involved with, that have had a very bad early hire in the first three or so employees never recover, it just kills the company.
+當你考慮合夥人和可能合適的人選時，問題就在於究竟選擇什麼樣的才好。在YC我們有一個公共詞彙，就是“【無限資源】”，這人人都聽說過。你絕對需要【取之不盡用之不竭資源豐富】的合夥人，但是在YC發布會上，我們通常會舉一個更色彩斑斕的例子。Paul Graham最先開始用的，我繼續發揚光大。
 
-Airbnb spent five months interviewing their first employee. And in their first year, they only hired two. Before they hired a single person, they wrote down a list of the culture values that they wanted any Airbnb employee to have. One of those what that you had to bleed Airbnb, and if you didn't agree to that they just wouldn't hire you. As an example of how intense Brian Chesky is, he's the Airbnb CEO, he used to ask people if they would take the job if they got a medical diagnosis that they have one year left to life. Later he decided that that was a little bit too crazy and I think he relaxed it to ten years, but last I heard, he still asks that question.
+你要尋找淡定、堅韌不拔，在什麼情況下都知道該怎麼做的合夥人。他們反應迅速，抉擇果斷，創意豐富，時刻可以應付一切。在流行文化里就有這樣一個例子。聽起來好像很傻叉，但是至少特別好記，而且很久以來YC的每個課程我們都會講到，對學員也非常有幫助。
 
-These hires really matter, these people are what go on to define your company, and so you need people that believe in it almost as much as you do. And it sounds like a crazy thing to ask, but he's gotten this culture of extremely dedicated people that come together when the company faces a crisis. And when the company faced a big crisis early on, everyone lived in the office, and they shipped product every day until the crisis was over. One of the remarkable observations about Airbnb is that if you talk to any of the first forty or so employees, they all feel like they were a part of the founding of the company.
+這個例子就是邦德（James Bond）。聽起來很玄，但是至少你們會記憶猶新。比起一個某領域的專家，你會更需要一個像邦德一樣的人。
 
-But by having an extremely high bar, by hiring slowly ensures that everyone believes in the mission, you can get that. So let's say, you listened to the warning about not hiring unless you absolutely have too. When you're in this hiring mode, it should be your number one priority to get the best people. Just like when you're in product mode that should be your number one priority. And when you're in fundraising mode, fundraising is your number one priority.
 
-On thing that founders always underestimate is how hard it is to recruit. You think you have this great idea and everyone's going to join. But that's not how it works. To get the very best people, they have a lot of great options and so it can easily take a year to recruit someone. It's this long process and so you have to convince them that your mission is the most important of anything that they're looking at. This is another case of why it's really important to get the product right before looking at anything else. The best people know that they should join a rocketship.
+像我之前提到的，你真的有必要對你的合夥人有長期了解，最好是多年的了解。這也適用於早期的員工僱用。奇怪的是，大多人在招聘時比選合夥人時對此認識得更清楚。所以，好好利用學校的機會吧。除過【無限資源】之外，合夥人還要堅毅冷靜。有些特質一看就很重要，比如聰明，但是每個人都想要個聰明的合夥人，卻不夠看重堅毅和冷靜。尤其是自認為不夠堅毅冷靜的人，就更需要一個這樣的合夥人。如果你不夠懂技術，即便可能在座絕大部分人都覺得自己技術上夠強，那也還是需要一名技術合夥人。如今在創業圈裡開始流行一個說法，說：“我們不需要技術合夥人，僱人就行了，我們管理得夠出色就行。” 這不靠譜。
 
-By the way, that's my number one piece of advice if you're going to join a startup, is pick a rocketship. Pick a company that's already working and that not everyone yet realizes that, but you know because you're paying attention, that it's going to be huge. And again, you can usually identify these. But good people know this, and so good people will wait, to see that you're on this trajectory before they join.
+在我們的經驗中這並不很奏效。做軟件在行的人就應該去做軟件公司，做媒體在行的人也正應該去做媒體公司。從YC的經驗中看，兩到三個合夥人最為完美。一個人，顯然不是很好；五個人，就很沒譜了；四個人有時候還成；但是我認為兩到三個才是目標。
 
-One question that people asked online this morning was how much time you should be spending on hiring. The answer is zero or twenty-five percent. You're either not hiring at all or it's probably your single biggest block of time. In practice, all these books on management say you should spend fifty percent of your time hiring, but the people that give that advice, it's rare for them to even spend ten percent themselves. Twenty-five percent is still a huge amount of time, but that's really how much you should be doing once you're in hiring mode.
+第二部分是如何僱員工：盡量不僱。開始一個公司的時候，你會發現一個怪事，就是大家都會問你公司有多少員工。人們用這種方式來判斷你開公司這事有多現實，你有多酷。如果你說你有好多員工，他們就印象深刻。你要是沒幾個員工，就好像在搞笑。但真實情況是，員工多其實會苦不堪言，而你應該為為員工數量少而驕傲。大量員工導致高消耗率——每月要花一大筆錢，還有複雜化，決策緩慢，等等等等，總之沒什麼好處。
 
-If you compromise and hire someone mediocre you will always regret it. We like to warn founders of this but no one really feels it until they make the mistake the first time, but it can poison the culture. Mediocre people at huge companies will cause some problems, but it won't kill the company. A single mediocre hire within the first five will often in fact kill a startup.
 
-A friend of mine has a sign up in the conference room that he uses for interviews and he positions the sign that the candidate is looking at it during the interview and it says that mediocre engineers do not build great companies. Yeah that's true, it’s really true. You can get away with it in a big company because people just sort of fall through the cracks but every person at a startup sets the tone. So if you compromise in the first five, ten hires it might kill the company. And you can think about that for everyone you hire: will I bet the future of this company on this single hire? And that's a tough bar. At some point in the company, when you're bigger, you will compromise on a hire. There will be some pressing deadline or something like that you will still regret. But this is the difference between theory and practice we're going to have later speakers talk about what to do when this happens. But in the early days you just can't screw it up.
+所以你應該為少數員工能完成多少工作而驕傲。YC最好的公司第一年的員工數都極少，有的除了公司創建者外一個員工也沒有。他們盡可能保持人員最少。在最開始，除非萬不得已，不然就別僱員工。之後，再學著盡快僱人，擴大公司規模。但是早期，目標是盡量少僱人。不值得僱很多員工的一大原因是，早期用人錯誤的消耗是極高的。實際上，我曾經很了解的許多公司，在頭三個月左右的早期用人上非常失敗。這導致他們一蹶不振，自此隕落。
 
-Sources of candidates. This is another thing that students get wrong a lot. The best source for hiring by far is people that you already know and people that other employees in the company already know. Most great companies in text have been built by personal referrals for the first hundred employees and often many more. Most founders feel awkward but calling anyone good that they've ever met and asking their employees to do the same. But she'll notice if you go to work at Facebook or Google one of the things they do in your first few weeks is an HR person sits you down and beat out of you every smart person you’ve ever met to be able to recruit them.
+Airbnb花了五個月的時間面試他們首個僱員。在他們第一年裡，一共也只僱用過兩個員工。在他們招聘任何一個人之前，他們都會列出他們希望Airbnb員工具有的所有文化價值。【？？？】，如果你不接受，他們就根本不會僱用你。Airbnb的CEO是Brian Chesky，一個關於他有多極端【intense】的例子是，他曾經會問（面試者），如果他已經拿到醫學診斷說自己只剩下一年可活了，還會不會做這份工作。後來他覺得這個問題有點太離譜，我記得好像是把期限放寬到了10年，不過就我所知，他現在還在問這個問題。
 
-These personal referrals really are the trick to hiring. Another tip is to look outside the valley. It is brutally competitive to hire engineers here but you probably know people elsewhere in the world that would like to work with you.
+員工招聘真的很要緊，這些員工將定義你的公司，所以你也需要和你一樣對公司信念堅定的人。聽起來他（Brian Chesky）這個面試問題很瘋狂，但是他就是如此才創造了這樣忠誠度極高的公司文化。當公司面臨危機時，這些員工能夠共同面對。早先公司面臨一個更大的危機時，每個人都以公司為家，每天發貨，直到危機結束。Airbnb非常卓越的一點就在於，如果你跟公司的大約頭四十個員工聊聊，他們都感到自己是公司創建過程的一部分。
 
-Another question that founders ask us a lot about his experience and how much that matters. The short version here is that experience matters for some roles and not for others. When you're hiring someone that is going to run a large part of your organization experience probably matters a lot. For most of the early hires that you make at a startup, experience probably doesn't matter that much and you should go for aptitude and belief in what you’re doing. Most of the best hires that I've made in my entire life have never done that thing before. So it's really worth thinking, is this a role where I care about experience or not. And you'll often find to don’t, especially in the early days.
 
-There are three things I look for in a hire. Are they smart? Do they get things done? Do I want to spend a lot of time around them? And if I get an answer, if I can say yes to all three of these, I never regret it, it's almost always worked out. You can learn a lot about all three of these things in an interview but the very best way is working together, so ideally someone you've worked together with in the past and in that case you probably don't even need an interview. If you haven't, then I think it's way better to work with someone on a project for a day or two before hiring them. You'll both learn a lot they will too and most first-time founders are very bad interviewers but very good at evaluating someone after they've worked together.
+通過極高的標準和緩慢的僱用過程，就能夠確保每個僱員都相信公司的使命。這是可以達成的。所以，假設你採納了警告，不到非不得已不僱員工。在這種僱用模式裡，最首要的就是吸納最好的員工。而在籌款階段，記得籌款的優先級最高。
 
-So one of the pieces of advice that we give at YC is try to work on a project together instead of an interview. If you are going to interview, which you probably will, you should ask specifically about projects that someone worked on in the past. You'll learn a lot more than you will with brainteasers. For some reason, young technical cofounders love to ask brainteasers rather than just ask what someone has done. Really dig in to projects people have worked on. And call references. That is another thing that first time founders like to skip. You want to call some people that these people have worked with in the past. And when you do, you don't just want to ask, How was so-and-so, you really want to dig in. Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again? You really have to press on these reference calls.
+創業者常常低估的一點是招人有多困難。你覺得你創意極好，人人都會加入。事實卻並非如此。最好的人選本身也面臨著無數機遇，一年都未必能招到一個合適的。（招聘）過程會相當漫長，所以你更得說服​​他們你的公司使命是他們尋找的最重要的方向。這個例子也再次說明了，選對產品有多麼重要，是其他一切開始的前提。最好的人才也希望加入一個能極速起飛的企業(rocketship)。
 
-Another thing that I have noticed from talking to YC companies is that good communication skills tend to correlate with hires that work out. I used to not pay attention to this. We’re going to talk more about why communication is so important in an early startup. If someone is difficult to talk to, if someone cannot communicate clearly, it's a real problem in terms of their likelihood to work out. Also. for early employees you want someone that has somewhat of a risk-taking attitude. You generally get this, otherwise they wouldn't be interested in a startup, but now that startups are sort of more in fashion, you want people that actually sort of like a little bit of risk. If someone is choosing between joining McKinsey or your startup it's very unlikely they're going to work out at the startup.
 
-You also want people who are maniacally determined and that is slightly different than having a risk tolerant attitude. So you really should be looking for both. By the way, people are welcome to interrupt me with questions as stuff comes up.
+順便提一下，如果你準備加入一個初創公司，我最大的建議就是加入一個rocketship. 找一個已經在運作，但是大多數其他人還沒有註意到的，以後能夠做大做強的公司。你關注了，所以你了解它。通常都很容易看出這些特點。但是好的人才懂得辨識，所以在加入之前會等著看這公司方向是否正確。
 
-There is a famous test from Paul Graham called the animal test. The idea here is that you should be able to describe any employee as an animal at what they do. I don't think that translates out of English very well but you need unstoppable people. You want people that are just going to get it done. Founders who usually end up being very happy with their early hires usually end up describing these people as the very best in the world at what they do.
+早上有人在網上問，招人花多少時間好。答案就是要麼一點功夫不花，不然就投入25%時間。要么不投入，要么可能會投入最大塊的時間。實際上，管理書籍上一般會說花一半的時間在招人上，但是說這話的人通常招人花的時間還不到10%。25%是相當多的時間，但是一旦進入招聘模式，還真的是有必要花這麼多時間。
 
-Mark Zuckerberg once said that he tries to hire people that A. he'd be comfortable hanging with socially and B. he’d be comfortable reporting to if the roles were reversed. This strikes me as a very good framework. You don't have to be friends with everybody, but you should at least enjoy working with them. And if you don't have that, you should at least deeply respect them. But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
 
-While I'm on this topic of hiring, I want to talk about employee equity. Founders screw this up all the time. I think as a rough estimate, you should aim to give about ten percent of the company to the first ten employees.
+如果你妥協的招個湊合的人才，你一定會後悔。我們總是警告創業者，但是很多人不犯一次錯誤都意識不到它的重要性。（偶合的員工）真的對公司文化非常不好。大公司裡，水平湊合的員工也會引發問題，但不至於毀滅公司。而起步公司裡的頭五個員工一旦有一個湊合的職員，很可能就會讓公司夭折。
 
-They have to earn it over four years anyway, and if they're successful, they're going to contribute way more than that. They're going to increase the value of the company way more than that, and if they don't then they won't be around anyway.
+我一個朋友總在面試的會議室裡立一個標牌，還放在面試者面試時候一定能看見的地方，上面寫著：半瓶醋的工程師建不起來好公司。對的，就是這樣，真的是這樣。大公司就比較無所謂，因為【員工慢慢就被篩掉了】，但是對初創公司來說，每個人都會奠定公司基調。所以如果招的前五、前十個人你就在湊合了，公司可能就會被拖垮。每招一個人的時候都該想想：能不能拿公司的前途押在這人身上？這是個很嚴苛的標準。以後公司做大了，你可能可以將就招招某個職位。但也許會出現【緊迫的最後期限之類的事情】，還是會讓你後悔。但是理論和實際有所不同，後面會有別人來講如果這種事真的發生了該怎麼辦。但是創業早期，絕對不能犯錯誤。
 
-For whatever reason founders are usually very stingy with equity to employees and very generous with equity for investors. I think this is totally backwards. I think this is one of the things founders screw up the most often. Employees will only add more value over time. Investors will usually write the check and then, despite a lot of promises, don't usually do that much. Sometimes they do, but your employees are really the ones that build the company over years and years.
 
-So I believe in fighting with investors to reduce the amount of equity they get and then being as generous as you possibly can with employees. The YC companies that have done this well, the YC companies that have been super generous with their equity to early employees, in general, are the most successful ones that we've funded.
+人才來源。學生在這個話題上也老有錯誤觀念。人才最好的來源是你或者公司其他員工已經了解的人。教科書上最好的公司裡前一百個，甚至常常更多員工都來源於個人推薦。許多創業者覺得，主動聯繫自己覺得好，或者同事覺得好的人才，會有些尷尬。但是如果你在Facebook或者google工作，入職的頭幾週就會有人力資源的人來​​和你聊，​​把你認識的每個聰明人都挖掘出來，以便以後能招聘他們。
 
-One thing that founders forget is that after they hire employees, they have to retain them. I'm not going to go into full detail here because we're going to have a lecture on this later, but I do want to talk about it a little bit because founders get this wrong so often. You have to make sure your employees are happy and feel valued. This is one of the reasons that equity grants are so important. People in the excitement of joining a startup don't think about it much, but as they come in day after day, year after year, if they feel they have been treated unfairly that will really start to grate on them and resentment will build.
 
-But more than that, learning just a little bit of management skills, which first-time CEOs are usually terrible at, goes a long way. One of the speakers at YC this summer, who is now extremely successful, struggled early on and had his team turn over a few times. Someone asked him what his biggest struggle was and he said, turns out you shouldn't tell your employees they're fucking up every day unless you want them all to leave because they will.
+招聘的關鍵真的在於個人推薦。還有個建議是到【矽谷外】找找。可能當地的工程師招聘競爭慘烈，但是你可能認識世界其他地方有願意來工作的人選。
 
-But as a founder, this is a very natural instinct. You think you can do everything the best and it’s easy to tell people when they’re not doing it well. So learning just a little bit here will prevent this massive team churn. It also doesn't come naturally to most founders to really praise their team. It took me a little while to learn this too. You have to let your team take credit for all the good stuff that happens, and you take responsibility for the bad stuff.
+創業者還常問我們關於經驗的問題，經驗有多重要。簡短的回答是，有的角色需要經驗，有的無所謂。如果要招聘一個將要管理公司大量事物的人，​​經驗就可能相當重要。創業早期的大部分招聘可能都並不太需要著重經驗，潛質和【少量經驗】才是更重要的。我一生中招的最成功的幾個人，以前都從沒在公司特定方向方面從業過。必須好好考慮，某職位到底需不需要在意經驗。其實常常是不需要的，尤其在創業早期。
 
-You have to not micromanage. You have to continually give people small areas of responsibility. These are not the things that founders think about. I think the best thing you can do as a first-time founder is to be aware that you will be a very bad manager and try to overcompensate for that. Dan Pink talks about these three things that motivate people to do great work: autonomy, mastery, and purpose. I never thought about that when I was running my company but I've thought about since and I think that’s actually right. I think it's worth trying to think about that. It also took me a while to learn to do things like one on one and to give clear feedback.
 
-All of these things are things first time CEO don't normally do, and maybe I can save you from not doing that.
+我招聘的時候看重三點。人才聰明嗎？能完成事情嗎？我是否願意和他們相處？如果我能得到答案，如果三個問題的答案都是肯定的，那我絕不會後悔，絕對奏效。面試裡可以看到這三方面不少東西，但是能解答這三個問題最好的方法是一起工作。所以曾經一起工作過的人最為理想，甚至都沒必要再面試他們。如果沒有和他們一起工作過，那最好是正式僱用前先和他們一起做一兩天的項目。你們雙方都會學到很多，他們也會的。大多數首次創業者作為面試官都不怎麼樣，但是都非常善於評價共事者。
 
-The last part on the team section is about firing people when it's not working. No matter what I say here is not going to prevent anyone from doing it wrong and the reason that I say that is that firing people is one of the worst parts of running a company. Actually in my own experience, I'd say it is the very worst part. Every first time founder waits too long, everyone hopes that an employee will turn around. But the right answer is to fire fast when it's not working. It's better for the company, it's also better for the employee. But it's so painful and so awful, that everyone gets it wrong the first few times.
+因而YC的一個建議就是，用共同完成一個項目來代替面試。如果要面試，你八成要，就問問他們過去曾經完成過的項目中的特定問題。比起問知識儲備，你會多很多收穫。出於某些原因，年輕的技術型創業者總喜歡考知識，而不是問之前做過什麼。仔細發掘面試者過去做過的項目。初期創業者還老是不願主動聯繫有關係的人。給曾經一起工作過的人打電話吧！聯繫的時候，不要就只問問“最近怎麼樣”，好好挖掘一下！這人能不能排到你共事者們的前5%？他們有什麼特長之處？你會不會再聘用他？你為什麼沒聘用他？真的要好好利用這些聯絡。
 
-In addition to firing people who are doing bad at their job, you also wanna fire people who are a) creating office politics, and b) who are persistently negative. The rest of the company is always aware of employees doing things like this, and it's just this huge drag - it's completely toxic to the company. Again, this is an example of something that might work OK in a big company, although I'm still skeptical, but will kill a startup. So that you need to watch out for people that are ifs.
 
-So, the question is, how do you balance firing people fast and making early employees feel secure? The answer is that when an employee's not working, it's not like they screw up once or twice. Anyone will screw up once or twice, or more times than that, and you know you should be like very loving, not take it out on them, like, be a team, work together.
+在同YC公司的交談中，我發現成功的招聘和優秀的溝通能力往往息息相關。我之前沒注意到這點。因此，我們要談談為什麼溝通能力對於早期創業如此重要。如果和一個人很難交流或者很難清楚地溝通，那將嚴重影響到他們的順利發展。同時，你會期望你的早期員工有點冒險精神。早期員工一般都具備這種冒險精神，否則，他們也不會真對創業感興趣，但現在，創業變得有些普遍了，你需要真正喜歡一點冒險的人。如果一個人要在麥肯錫和你的創業團隊兩份工作中選擇，那麼結果他很可能不會選擇加入創業團隊。
 
-If someone is getting every decision wrong, that's when you need to act, and at that point it'll be painfully aware to everyone. It's not a case of a few screw-ups, it's a case where every time someone does something, you would have done the opposite yourself. You don't get to make their decisions but you do get to choose the decision-makers. And, if someone's doing everything wrong, just like a consistent thing over like a period of many weeks or a month, you'll be aware of it.
+你也希望這些人擁有堅定的決心，這有些不同於富於冒險精神。所以你應找到同時具備這兩種品質的人。另外，如果你們有任何問題，歡迎隨時打斷我。保羅·格雷厄姆（Paul Graham）有一個著名的實驗，叫做動物實驗。實驗主要在於能夠根據任一員工的表現將其比作一種動物。我想這可能不太好用語言描述，但你需要無堅不摧的人。
 
-This is one of those cases where in theory, it sounds complicated to be sure what you're talking about, and in practice there's almost never any doubt. It's the difference between someone making one or two mistakes and just constantly screwing everything up, or causing problems, or making everyone unhappy, is painfully obvious the first time you see it.
+你需要能夠解決任何問題的人。創始人對他們感到滿意的早期員工通常的評價是：他們最擅長於做他們在做事情。馬克伯格(Zuckerburg)曾說過他希望僱傭A.在社交方面，能夠舒服地相處的人B.如果角色互換，願意向他匯報工作的人。
 
-When should co-founders decide on the equity split?
 
-For some reason, I've never really been sure why this is, a lot of founders, a lot of co-founders like to leave this off for a very long time. You know, they'll even sign the incorporation documents in some crazy way so that they can wait to have this discussion.
+這是個非常好的招聘方式，真的觸動了我。你不用和每個人成為朋友，但你至少應該能享受和他們共事。如果你做不到這點那你至少應該非常尊重他們。但是，如果你不想在人事方面花費太多時間，你應該相信再次相信直覺。
 
-This is not a discussion that gets easier with time, you wanna set this ideally very soon after you start working together. And it should be near-equal. If you're not willing to give someone - your co-founder - you know, like an equal share of the equity, I think that should make you think hard about whether or not you want them as a co-founder. But in any case, you should try to have the ink dry on this before the company gets too far along. Like, certainly in the first number of weeks.
+討論招聘這個話題時，我想談談員工股份。創始人總是把這個搞得很糟糕。我認為往少裡估算【大致上】，應該給公司最初10名員工10%的股份。
 
-So the question is - I said that inexperience is OK - how do you know if someone's gonna scale past, not scale up to a role, as things go on and later become crippling. People that are really smart and that can learn new things can almost always find a role in the company as time goes on. You may have to move them into something else, something other than where they started. You know, it may be that you hire someone to lead the engineering team that over time can't scale as you get up to 50 people, and you give them a different role. Really good people that can almost find some great place in the company, I have not seen that be a problem too often.
 
-So the question is what happens when your relationship with your cofounder falls apart. We're gonna have a session on mechanics later on in the course, but here is the most important thing that founders screw up. Which is, every cofounder, you yourself of course, has to have vesting. Basically what you're doing with cofounder vesting is you're pre-negotiating what happens if one of you leaves. And so the normal stance on this in Silicon Valley is that it takes four years, let's say you split the equity fifty-fifty, is that it takes four years to earn all of that. And the clock doesn't start until one year in. So if you leave after one year, you keep twenty-five percent of the equity, and if you leave after two years, fifty, and on and on like that.
+當然，員工需要用四年以上的時間才能贏得這些股權，如果他們真的能得到股權，他們貢獻得將比得到的多得多。他們將大大提升公司的價值如果他們做不到，他們也留不下來。
 
-If you don't do that and if you have a huge fallout and one founder leaves early on with half the company, you have this deadweight on your equity table, and it's very hard to get investors to fund you or to do anything else. So number one piece of advice to prevent that is to have vesting on the equity. We pretty much won't fund a company now where the founders don't have vested equity because it's just that bad. The other thing that comes up in the relationship between the cofounders, which happens to some degree in every company, is talk about it early, don't let it sit there and fester.
 
-If you have to choose between hiring a sub-optimal employee and losing your customers to a competitor, what do you do? If it's going to be one of the first five employees at a company I would lose those customers. The damage that it does to the company- it's better to lose some customers than to kill the company. Later on, I might have a slightly different opinion, but it's really hard to say in the general case.
+不管出於什麼原因，創始人通常在股份方面對員工很吝嗇，但卻對投資人相當慷慨。我認為這完全是本末倒置。我想這是創始人最經常搞砸的事情之一。員工為公司增加越來越多的價值。而投資人經常就是寫張支票給錢，然後除了一堆許諾之外，就不會再多做什麼。有時候投資人也會出點力，但員工才是真正的年復一年在建設發展公司的人。
 
-I am going to get to that later. The question is: what about cofounders that aren't working in the same location? The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well. The data on this is look at say the 30 successful software companies of all time and try to point to a single example where the cofounders were in different locations. It's really really tough.
+所以，我堅信應當盡量減少投資人得到的股份並且，盡可能對員工慷慨些。YC公司在這方面做得很好。給早期員工最多股份的YC公司通常也是我們投資的所有企業裡最成功的。
 
-Alright, so now we're going to talk about execution. Execution for most founders is not the most fun part of running the company, but it is the most critical. Many cofounders think they're just signing up to this beautiful idea and then they're going to go be on magazine covers and go to parties. But really what it’s about more than anything else, what being a cofounder really means, is signing up for this years long grind on execution and you can’t outsource this.
 
-The way to have a company that executes well is you have to execute well yourself. Every thing at a startup gets modeled after the founders. Whatever the founders do becomes the culture. So if you want a culture where people work hard, pay attention to detail, manage the customers, are frugal, you have to do it yourself. There is no other way. You cannot hire a COO to do that while you go off to conferences. The company just needs to see you as this maniacal execution machine. As I said in the first lecture, there’s at least a hundred times more people with great ideas than people who are willing to put in the effort to execute them well. Ideas by themselves are not worth anything, only executing well is what adds and creates value.
+另一件創始人經常忽略的事情是如果僱傭了員工，就要留住他們。我這裡就不細說了，因為以後會專門有一講討論這個問題。但我還是想稍微提一下，因為創始人實在是太經常犯這種錯誤你需要確認你的員工工作得滿意，並且感到有價值。這就是股權授予如此重要的原因。人們通常對於加入一個初創公司會感到很激動，因此不會過多考慮股權的事情，但是，日復一日，年復一年，如果他們對待遇不滿意，這不滿意就會刺激他們，讓他們心生怨言。
 
-A big part of execution is just putting in the effort, but there is a lot you can learn about how to be good at it. And so we’re going to have three classes that just talk about this.
 
-The CEO, people ask me all the time about the jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
+但更重要的是，要學習一些管理技巧，這是大有益處的，新CEO們這方面通常特別菜，今年夏天，有一個YC的創業者，他現在已經很成功了，早期卻很掙扎，進行了好幾次團隊【轉型】【重組？】。有人問他遇到的最大挑戰是什麼結果他說，你不應該天天說你的員工老在搞砸事情，除非你想把他們趕跑。他們真的會因此離開。
 
-Execution gets divided into two key questions. One, can you figure out what to do and two, can you get it done. So I want to talk about two parts of getting it done, assuming that you’ve already figured out what to do. And those are focus and intensity. So focus is critical. One of my favorite questions to ask founders about what they’re spending their time and their money on. This reveals almost everything about what founders think is important.
+但作為一名創始人，這是一種本能。你覺得自己能把一切事情做到最好，尤其別人做的不夠好時，就特別容易這麼教訓別人。所以在這方面學上一兩招能能預防大規模的這種團隊【流失】。對於創始人來說，也不是天生就懂得稱讚自己的團隊。我也花了不少時間才學會這點。你必須學會把功勞歸於團隊，而把責任留給自己。
 
-One of the hardest parts about being a founder is that there are a hundred important things competing for your attention every day. And you have to identify the right two or three, work on those, and then ignore, delegate, or defer the rest. And a lot of these things that founders think are important, interviewing a lot at different law firms, going to conferences, recruiting advisers, whatever, they just don’t matter. What really does matter varies with time, but it’s an important piece of advice. You need to figure out what the one or two most important things are, and then just do those.
+你不能事無鉅細親自操刀，而要劃分職責交給別人。這些不是創始人應該考慮的。我認為首次創業者首先必須要自知，自知自己是一名不合格的管理者，並倍加努力進行改善。Dan Pink表示有三個要素激發著人們去從事偉大的工作，這三種要素是：自製力【自主】，掌控力，和決心。在我開公司的時候，我從未想到過這些但我後來考慮了這個問題並且認為這樣是對的。我想值得去思考這些。學會【一對一做事情】並給出清晰的解決方案也花費我不少時間。
 
-And you can only have two or three things every day, because everything else will just come at you. There will be fires every day and if you don't get good at setting what those two or three things are, you'll never be good at getting stuff done. This is really hard for founders. Founders get excited about starting new things.
+所有這些事情都是首次出任CEO的人不常做到的，或許我可以讓你免於做那些。
 
-Unfortunately the trick to great execution is to say no a lot. You’re saying no ninety-seven times out of a hundred, and most founders find they have to make a very conscious effort to do this. Most startups are nowhere near focused enough. They work really hard-maybe-but they don’t work really hard at the right things, so they'll still fail. One of the great and terrible things about starting a start up is that you get no credit for trying. You only get points when you make something the market wants. So if you work really hard on the wrong things, no one will care.
+關於團隊要講的最後一部分是如何辭退不合適的員工。我在這裡說再多也不能避免你們在這方面犯錯我這麼說是有原因的因為辭退員工是經營公司時最鬱悶的事情。實際上就我的經驗而言，這確實是最糟糕的部分。每個首次創業者都等太久才會決定辭退某人，他們都希望這些員工能夠變好但正確的處理辦法是，不合適的員工得儘早辭退。這對公司對於那些員工本人，都是更好的結果。但辭退員工實在是太討厭，太令人痛苦了，以至於人們在最初的幾次總是會犯錯誤。
 
-So then there's this question of how do you figure out what to focus on each day. Each day it's really important to have goals. Most good founders I know have a set of small overarching goals for the company that everybody in the company knows. You know it could be something like ship a product by this date, get this certain growth rate, get this engagement rate, hire for these key roles, those are some of them but everyone in the company can tell you each week what are our key goals. And then everybody executes based off of that.
+另外，除了需要辭退那些做不好本職工作人，還需要辭退另外兩類員工：A）搞辦公室政治的人B）一直態度消極的人。如果公司有這樣的人，其他員工都會心知肚明。這對公司來說將是巨大的累贅。完全有害無利的。另外，這也是一個在大公司無所謂，但可能會扼殺創業公司的例子不過其實我也很懷疑大公司究竟ho不ho的住。所以你要小心上面那兩類人。
 
-The founders really set the focus. Whatever the founders care about, whatever the founders focus on, that's going to set the goals for the whole company. The best founders repeat these goals over and over, far more often than they think they should need to. They put them up on the walls they talk about them in one on ones and at all-hands meetings each week. And it keeps the company focus. One of the keys to focus, and why I said cofounders that aren't friends really struggle, is that you can't be focused without good communication. Even if you have only four or five people at a company, a small communication breakdown is enough for people to be working on slightly different things. And then you lose focus and the company just scrambles.
+那麼，現在的問題是，如何在快速辭退一些員工和保證其他員工安全感之間找到平衡？解決辦法是，如果有不稱職的員工，不稱職不是指他們一次兩次搞砸了事情。誰都會有一兩次的失​​誤，甚至更多次，這時候你應當表現得非常友善，不要把自己得的怒氣發洩到他們身上，要表現得像個團隊，一起解決問題。
 
-I'm going to talk about this a little bit later, but growth and momentum are something you can never lose focus on. Growth and momentum are what a startup lives on and you always have to focus on maintaining these. You should always know how you're doing against your metrics, you should have a weekly review meeting every week, and you should be extremely suspicious if you’re ever talking about, we’re not focused on growth right now, we’re not growing that well right now but we're doing this other thing, we don't have a timeline for when we are going to ship this because we're focused on this other thing, we’re doing a re-brand, whatever, almost always a disaster.
 
-So you want to have the right metrics and you want to be focused on growing those metrics and having momentum. Don't let the company get distracted or excited about other things. A common mistake is that companies get excited by their own PR. It's really easy to get PR with no results and it actually feels like you're really cool. But in a year you'll have nothing, and at that point you won't be cool anymore, and you'll just be talking about these articles from a year ago that, Oh you know these Stanford students start a new start up, it's going to be the next big thing and now you have nothing and that sucks.
+如果一個人工作上總是犯錯，你就得採取行動，到了這個地步，對雙方來說都很痛苦。這不是關於少數弄糟事情的人的個案，而是每次某些人做某些事情，你自己都完全不會這麼做你沒法幫他們做決定，但你必須選對要做決定的人。如果一個人總是失誤，持續比如一個星期甚至一個月你就得注意。
 
-As I mentioned already, be in the same space. I think this is pretty much a nonstarter. Remote confounding teams is just really really hard. It slows down the cycle time more than anybody ever thinks it's going to.
 
-The other piece besides focus for execution is intensity. Startups only work at a fairly intense level. A friend of mine says the secret to start up success is extreme focus and extreme dedication. You can have a startup and one other thing, you can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. There's a lot of great things about a startup, but this is not one of them. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
+理論上聽起來很複雜，但實際操作中通常簡單無疑。一個人犯一兩次錯誤和不停的把事情搞砸，不停地製造問題，或者弄得人人都不開心是不一樣的，這種情況一眼就能看出來。
 
-The good news here is that a small amount of extra work on the right thing makes a huge difference. One example that I like to give is thinking about the viral coefficient for a consumer web product. How many new users each existing user brings in. If it's .99 the company will eventually flatline and die. And if it's 1.01 you'll be in this happy place of exponential growth forever.
 
-So this is one concrete example of where a tiny extra bit of work is the difference between success and failure. When we talk to successful founders they tell stories like this all the time. Just outworking their competitors by a little bit was what made them successful.
+## 創業夥伴應該什麼時候決定分配股權？
 
-So you have to be really intense. This only comes from the CEO, this only comes from the founders. One of the biggest advantages that start ups have is execution speed and you have to have this relentless operating rhythm. Facebook has this famous poster that says move fast and break things. But at the same time they manage to be obsessed with quality. And this is why it's hard. It's easy to move fast or be obsessed with quality, but the trick is to do both at a startup. You need to have a culture where the company has really high standards for everything everyone does, but you still move quickly.
+我一直不太明白為什麼這麼多創業者和創業夥伴將這件事一拖再拖。他們甚至採用一些極端方式來簽訂合併文件，這樣他們就能夠拖更久。
 
-Apple, Google, and Facebook have each done this extremely well. It's not about the product, it's about everything they do. They move fast and they break things, they're frugal in the right places, but they care about quality everywhere. You don't buy people shitty computers if you don't want them to write shitty code. You have to set a quality bar that runs through the entire company. Related to this is that you have to be decisive. Indecisiveness is a startup killer. Mediocre founders spend a lot of time talking about grand plans, but they never make a decision. They're talking about you know I could do this thing, or I could do that other thing, and they're going back and forth and they never act. And what you actually need is this bias towards action.
+這個決定並不會隨時間流逝就變得容易協商，最理想的，是在你們開始共事不久就解決掉。而且，每人分配到的股權應該大致相當。如果你不想給別人——你的創業夥伴——相對平等的股權，我想你就該仔細想想你是否希望他們成為你的合夥人。但不管怎樣，你應該在公司規模發展壯大前，就讓股權塵埃落定。比如，最初的幾週（就決定）。
 
-The best founders work on things that seem small but they move really quickly. But they get things done really quickly. Every time you talk to the best founders they've gotten new things done. In fact, this is the one thing that we learned best predicts a success of founders in YC. If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful. Part of this is that you can do huge things in incremental pieces. If you keep knocking down small chunks one at a time, in a year you look back and you've done this amazing thing. On the other hand, if you disappear for a year and you expect to come back with something amazing all at once, it usually never happens.
 
-So you have to pick these right size projects. Even if you're building this crazy synthetic biology company and you say well I have to go away for a year, there's no way to do this incrementally, you can still usually break it into smaller projects.
+我認為缺乏經驗是可以的，所以問題關鍵在於，怎樣知道某人能否勝任某職位，而不是只會吹牛，然後逐漸體現出不稱職，把事情搞砸。那些真正聰明並且善於學習新東西的人，隨著時間的發展幾乎都能夠在公司中找到他們的角色。可能需要調動他們的職位，讓他們接手不同於他們最初工作的事情。你可能雇了一個人來管理工程師團隊，但是隨著時間的推移，比如當你們達到50人以上的時候，他無法管理那麼多人，那你就給他一個新職位。一些真正優秀的人總能在公司裡找到他們適合的位置，至少我沒有頻繁看到這問題。
 
-So speed is this huge premium. The best founders usually respond to e-mail the most quickly, make decisions most quickly, they're generally quick in all of these ways. And they had this do what ever it takes attitude.
+所以，當你和你創業夥伴的關係破裂時應當怎樣做？我們以後會有單獨一節課來討論【？】。但是創業者，每個創業合作者，當然也包括你自己，都必須有股權兌現的權利。在這最重要的一點上創業者總是搞砸對於聯合創始人股權兌現權利，談合作夥伴的股權兌現，基本上就是在提前協商，如果其中一人離開團隊，這種情況該如何處理。因此，矽谷裡一般這種情況都要花上四年時間，假如你們五五平分股權，就需要花四年的時間來把它們全部賺回。並且從（持股？？）滿一年才開始計算。所以如果你一年後就離開，你持有股份的25%如果你兩年後離開，則是50%，以此類推。
 
-They also show up a lot.
 
-They come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations. I’ll tell a quick story here.
+如果你沒有如此操作，並且你們完全吵翻了，其中一個創始人早早就走了，並且帶走了半個公司，在你的股權分配方面就有了重負，會導致很難有投資人會投你，或者採取其他行動。所以最重要的防以上情況發生的建議就是，建立股權退出機制。現在我們極不傾向於投資一家沒有創始人股權變現機制的企業因為這很難操作。在每一家公司都一定程度存在著著另一個問題關於和創業夥伴間關係。一定要早點討論（創業夥伴間的關係），不能一直拖著、置之不理直至惡化。
 
-When I was running my own company, we found out we were about to lose a deal. It was sort of this critical deal from the first big customer in the space. And it was going to go to this company that had been around for year before we were. And they had this like all locked up. And we called and said “we have this better product you have to meet with us” and they said “well we’re signing this deal tomorrow. sorry.” We drove to the airport, we got on a plane, we were at their office at 6am the next morning. We just sat there, they told us to go away, we just kept sitting there. Finally once of the junior guys decided to meet with us, after that, finally one of the senior guys decided to meet with us. They ended up ripping up the contract with the other company, and we closed the deal with them about a week later. And I’m sure, that had we not gotten on a plane, had we not shown up in person, that would not have worked out.
+如果在僱傭一名【不那麼得力的(語義上我不太明白這里為什麼是sub-optimal)】員工和讓客戶流失至競爭對手兩項中選擇，你會選擇哪一個？如果這名員工是公司的早期五名員工之一，我將選擇失去顧客的員工。這樣做對公司造成的傷害會小一點，流逝一點客戶總比公司倒閉要好得多。之後，也許我的觀點稍有不同，但真的不是所有情況全都適用。
 
-And so, you just sort of show and and do these things, when people say get on plane in marginal situations, they actually mean it, but they don’t mean it literally. But I actually think it’s good, literal advice.
+這個話題我一會也將說到。問題是：你怎麼看創始團隊不在同一個地點辦公？答案是，不要這樣。總的來說我對距離辦公持懷疑態度，但在公司剛創立的時候，當溝通和響應速度比其他任何事情都要重要的時候，電話會議的確並不是很有效。我們遍尋世界上最成功的軟件公司，並且試圖找出能夠證明創始團隊在不同地點辦公的例子，很難找的出來。
 
-So I mentioned this momentum and growth earlier. Once more: the momentum and growth are the lifeblood of startups. This is probably in the top three secrets of executing well. You want a company to be winning all the time. If you ever take your foot off the gas pedal, things will spiral out of control, snowball downwards. A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum, it’s this prime directive for managing a startup. If I can only tell founders one thing about how to run a company, it would be this.
+好的，我們接著來聊一下執行。對於大部分的創始團隊來說，執行這個部分並不是創業最有趣的部分，但這是最重要的部分。許多創始團隊認為他們只要發布了NB的創業點子（可以這麼翻嘛當然可以），之後就可以上雜誌封面出任CEO擔任董事長迎娶白富美走向人生的巔峰。但是它比任何其他事情都重要，它是一個創業者的個人價值所在，你必須堅定的花費數年時間在執行這一環節中，你也不能把它外包。
 
-For most software startups, this translates to keep growing. For hardware startups it translates to: don’t let your ship dates slip. This is what we tell people during YC, and they usually listen and everything is good. What happens at the end of YC is that they get distracted on other things, and then growth slows down. And somehow, after that happens, people start getting unhappy and quitting and everything falls apart. It’s hard to figure out a growth engine because most companies grow in new ways, but there’s this thing: if you build a good product it will grow. So getting this product right at the beginning is the best way not to lose momentum later.
+要想把公司管理得好，你也要管理好你自己。初創企業的一切規矩都是創始人定的。創始人的行事作風將形成公司的文化。所以如果你希望公司文化是拼命工作，那麼你就需要死摳細節，維護顧客關係，當然最基本的是，你自己也得拼命工作，沒有其他辦法。你不能僱一個COO做這件事，而你自己出去開會。你要像一台瘋狂工作的機器，讓給大家都看到。正如我在第一章所說，有NB點子的人是願意努力把點子變成現實的人的一百倍。點子本身一文不值，只有執行得好才能加分並且創造​​價值。
 
-If you do lose momentum, most founders try to get it back in the wrong way. They give these long speeches about vision for the company and try to rally the troops with speeches. But employees in a company where momentum has sagged, don’t want to hear that. You have to save the vision speeches for when the company is winning. When you’re not winning, you just have to get momentum back in small wins. A board member of mine used to say that sales fix everything in a startup. And that is really true. So you figure out where you can get these small wins and you get that done. And then you’ll be amazed at how all the other problems in a startup disappear.
 
-Another thing that you’ll notice if you have momentum sag, is that everyone starts disagreeing about what to do. Fights come out when a company loses momentum. And so a framework for that that I think works is that when there’s disagreement among the team about what to do, then you ask your users and you do whatever your users tell you. And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.” If you just call it out, if you just acknowledge that, you’ll find that things get way better.
+執行中很大的部分是努力與勤奮，但同時你也可以通過學習一些方法來讓自己善於執行。我們會有三堂專門的課來講這部分。
 
-To use a Facebook example again, when Facebook’s growth slowed in 2008, mark instituted a “growth group.” They worked on very small things to make Facebook grow faster. All of these by themselves seemed really small, but they got the curve of Facebook back up. It quickly became the most prestigious group there. Mark has said that it’s been one of Facebook’s best innovations. According to friends of mine that worked at Facebook at the time, it really turned around the dynamic of the company. And it went from this thing where everyone was feeling bad, and momentum was gone, back to a place that was winning.
+大家一直都在問我CEO這份工作的含義。近些日子我想到了差不多5個點。前四個每個人都會認為這是CEO的職責：設立目標、籌集經費、對你想僱的人、工作人員、合作夥伴、媒體、幾乎所有人忽悠公司願景、招人和管理團隊。但是第五點是一個執行層面的門檻，這不是大部分創業者非常激動的想做或者希望自己去做的，但我認為這實際上是CEO最重要的職責之一，團隊中沒有其他人可以替代、只有CEO才能做。
 
-So a good way to keep momentum is to establish an operating rhythm at the company early. Where you ship product and launch new features on a regular basis. Where you’re reviewing metrics every week with the entire company. This is actually one of the best things your board can do for you. Boards add value to business strategy only rarely. But very frequently you can use them as a forcing function to get the company to care about metrics and milestones.
+執行分為兩個主要問題，第一，你是否能意識到該去做什麼，第二，你是否能把它做到。我想聊一下如果想把它做到有兩個點，假設你已經想到該去做什麼了。這兩個點就是專注和拼命。專注非常重要。我最喜歡問創業者們的一個問題就是他們將把時間和錢花在什麼地方。這裡差不多能看出這個創業者認為哪些東西重要。
 
-One thing that often disrupts momentum and really shouldn’t is competitors. Competitors making noise in the press I think probably crushes a company’s momentum more often than any other external factor.
+做一個創業者最難的部分就是每天有成百上千的事情都很重要分散你的注意力。你必須認清哪兩三件事是真正需要注意的，去做這些，然後把其他的忽略、刪除或者推遲。有很多這樣那樣的事創業者認為它們很重要，在不同的律所去面試很多人，開會，招顧問，其實這些都不重要。真正重要的事情隨階段推移也會有變化，但只有一條非常有價值的建議，你需要認清哪一兩件事是最重要的，然後只做這一兩件。
 
-So here’s a good rule of thumb: don’t worry about a competitor at all, until they’re actually beating you with a real, shipped product. Press releases are easier to write than code, and that is still easier than making a great product. So remind your company of this, and this is sort of a founder’s role, is not to let the company get down because of the competitors in the press.
 
-This great quote from Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
+你每天只能計劃2-3件事，因為你得去處理其他突然發生的事情。每天都有緊急事項，如果你不善於安排你計劃的2-3件事，你的計劃就總是完不成。這對於創業者來說非常難。創業者只對從頭開始做新的事情感到興奮。
 
-These are almost never the companies that put out a lot of press releases. And they bum people out.
+不幸的是，擁有良好的執行力的秘訣在於無數次說“不”。100次中你將會有97次說“不”，大部分的創業者發現它們不得不刻意非常努力的去說“不”。大部分初創企業都不夠專注。他們真的工作非常努力，可能吧，但是他們不是在正確的事情上工作努力，所以他們仍會失敗。創立一個初創企業好也不好的事情在於，你並不會僅因為嘗試而得到認可。只有當你做了市場認可的東西的時候你才能得分。所以如果你在錯誤的事情上努力，沒人會在意。
+
+所以接下來的問題就是，你怎麼去認清你每天該關注的是哪些問題。每一天都應該有目標。我認識的大部分好的創始人都有一些關於公司的小的首要目標，公司裡的其他人也都知道。就像某個日期之前把這個產品原型做出來，增長百分之多少多少，獲得多少參與度，招到這幾個重要崗位的人，這只是其中的一些但是公司裡的所有人每週都能告訴你我們的重要目標是什麼。然後所有人都會在這基礎上去做事情。
+
+創始人特別需要確定關注點。不管創始人關心什麼，關注什麼，這件事都將成為整個公司奮鬥的目標。最好的創始人會反復重复這些目標，重複次數比他們認為他們需要的還要多。他們把這些掛在牆上，他們一遍一遍跟每個人提到，每週週會上去說。這讓使得整個公司專注。專注的一個重要要素在於，這也是為什麼我說聯合創始人如果不是好朋友就會有很大問題，因為沒有好的溝通你們就無法專注。即便是公司只有四五個人，一點點的溝通不暢都足以讓團隊目標去做的事情上有輕微差異。之後你們就喪失了專注力，公司就是一盤散沙。
+
+我一會會接著討論這件事，但是增長速度和勢頭是你不能不關注的東西。增長速度和勢頭是初創企業依仗的根本，你必須專注於把握它們。你總是應該知道你和你的指標相比完成的怎樣，你每週都應該有個回顧週會，如果你每次都說下面這些話的時候你應當極度自省，我們目前沒有專注於增長速度，我們現在增長得不太好但是我們正在做另一件事，我們並沒有出原型的時間表因為我們專注於做另一件事情，我們在做品牌重塑，不管是什麼，基本都是災難。
+
+所以你要有正確的指標，然後你要專注於不斷提升這些指標，保持勢頭。不要讓團隊被其他事情分散注意力或者心情。一個常見的錯誤是團隊被自己的PR曝光所迷惑，覺得很興奮。其實沒有成果也很容易獲得曝光，感覺自己非常NB，但是一年後你還是什麼都沒有，而且在那時你也不會再覺得自己NB，這時候你只能提起一年前的那篇文章。你得悉那些斯坦福的學生創立了個初創公司，那家公司未來會成為下一個大公司，而你什麼都沒有，這感覺很糟。
+
+正如我已經提到的，盡量一起辦公。我認為這點非常非常重要。彼此遠距離的創業團隊做事情真的非常非常難，距離對更新速度的不良影響比所有人想像的都要大。
+
+對於執行力來說，除了專注以外，另一個重要要素就是拼命。創業團隊一直在一個非常緊張的環境下工作。我的一個朋友說，創業團隊成功的秘訣就在於極致專注與極致獻身。你可以有個創業公司和其他事情，譬如說你可以有個家庭，但是你不可能同時又很多事情在做。創業並不是工作生活平衡的最好選擇，這多多少少是個悲催的現實。做一家創業公司有很多很棒的感受，但享受生活可能並不是其中之一。初創團隊在創業過程中會拼盡全力，所付出的其實很難描述。你至少希望要比競爭對手做得更好。
+
+好消息是只要在正確的事情上付出額外的辛苦，這將會帶來巨大的改變。一個例子是我們設想一下一個面向大眾的網頁產品的病毒傳播效率。每個老用戶能帶多少新用戶進來？如果是0.99，那麼這個公司的增長曲線將會逐漸變緩最終死掉。如果是1.01你將會受益於這個非常棒的指數永遠增長。
+
+所以這是具體的小努力就會帶來成功與失敗之差的例子。當我們和成功的創始人聊天時，他們經常講起類似的故事。就只是比他們的競爭對手做得好了一點點，最終這一點點使他們成功。
+
+所以你們真的應該拼命。這種感覺只有CEO只有創始人們的精神中才能迸發。初創企業在執行力方面最大的優勢就是速度，而你必須讓它成為一個不可放緩的激昂進行曲。Facebook有一張著名的海報上面說“跑快點，把東西都打破”。但同時他們對品質也要求的非常嚴格。所以這才是它的困難之處。行動得快很容易，關注品質也很容易，但難的是初創企業要兼顧這兩個。你的團隊需要有非常高標準完成每個人做的每件事的文化，但你們仍需要迅速行動。
+
+Apple，Google，Facebook在這件事上做得非常好。不光是產品，他們做的每一件事情都是如此。他們行動迅速打破常規，他們在一些正確的地方非常節省成本，但是他們無時無刻不關注質量。如果你不想讓你的程序員們寫出很渣的代碼，你也不應該給他們買很渣的電腦。你應該設立全公司通用的質量標準，你也要非常堅定的支持這個標準。不堅定是創業公司最大的毒瘤。平庸的創業者花費大量時間討論大的計劃，但是他們從來不下決定。他們說你知道我能做這件事，或者我能做那件事，然後他們前後搖擺、一事無成。所以你真正需要的是去行動的決定。
+
+最好的創業者會去做看上去小的事情，但是他們行動非常迅速。他們非常快就能完成這些事情。每次你跟最好的創業者聊天，他們已經把新的事情做完。事實上在YC的創業者中有一條製勝的鐵律，如果每次我們提到一個團隊他們已經把新的東西都做出來了，這是我們最好的預測指標，這個團隊將會非常成功。有一個辦法是將很龐大的工作拆解開來做。如果你持續不斷的分解小部分的工作去完成，積累一年你回頭看的時候，你已經做了非常了不起的事情。另一方面，如果你一年什麼都沒有做你期待一次性帶來了不起的成果，這樣的事情幾乎從來沒發生過。
+
+所以你應該去選擇適量的工作去做。即便是你創立了一家奇葩的生物合成的公司，你說，我需要離開一年時間，儘管沒辦法把它拆開一點點來做，你通常還是能找到辦法從一個小項目開始做的。
+
+速度是最大的獎勵，最好的創業者通常回email回得最快，下決定下得最快，他們幾乎在所有事情上都很迅速。即便是需要思考和態度的事情他們也會這樣去做。（凡是涉及到態度的問題，他們都會這麼做。）
+
+他們總是在很多場合出現。
+
+他們去開會，他們去公司，他們單獨會見我們。對我最受用的一句話是：只要有機會，他們就坐著飛機去。我在這裡講個小故事。
+
+我在創立我自己的公司的時候，我們發現我們將要失去一個訂單。這差不多是我們最大的客戶的一個重要訂單。它將簽給比我們早一年創立的一家競爭對手。並且他們這個交易已經鎖定。我們打電話過去說“我們有更好的產品，你們應該見見我們”，他們說“抱歉，我們明天就簽合同了”。我們開車去機場，登上飛機，第二天早上到了他們辦公室，我們坐在那兒，他們讓我們走開，我們還是坐在那。最後一個級別很低的人決定要見見我們，之後一個級別高一些的人決定要見一下我們。最終他們撕毀掉了和另一家公司的協議，我們在一周後和他們簽了合同。我非常確定的是，如果我們沒登上那架飛機，沒有親自去挽回，這個合同就簽不成。
+
+所以你只是出現並且做做這類事情，當人們說只要有機會，他們就坐著飛機去的時候，他們是真的這樣做得，不只是說說。我的確認為這樣很好，所以當成建議。
+
+所以我之前提到了要把握勢頭和增長速度。再強調一下：試劑盒增長速度是初創企業的生命之源。這幾乎位列如何運行良好的三個秘訣之中。你希望一個公司一直在贏，如果你一旦把腳從油門上拿下來，很多事情就無法控制，正如雪崩一樣。一個好的團隊感覺良好，就會一直贏。如果一個團隊一段時間都沒有成果感覺沒有動力，那麼他們就會一直輸。所以一定要保持勢頭，這是管理初創企業最重要的方針。如果我只能告訴創業者如何管理團隊的一件事情，我將告訴他們這件。
+
+對於大部分軟件創業團隊來說，這意味著持續增長。對於硬件團隊它意味著：不要跳票。這就是我們在YC告訴大家的，他們通常都會聽，所有事情做得都很好。在YC孵化結束的時候，他們被其他事情分心，然後增長變緩停滯。然後在這之後，團隊成員越來越不開心，他們離開團隊於是團隊就散了。其實很難確切指出增長的驅動力是什麼，因為大部分公司會通過新的方式獲得增長，但是有一件事情：如果你做了一個好的產品，那麼它會增長。所以一開始一定要做一個正確的產品，這是後續不會失去勢頭的最好方法。
+
+如果你失去了增長勢頭，大部分的創業者會希望用錯誤的方式挽回。他們發表長篇大論講述公司願景，希望利用演講重振士氣。但是如果當團隊的員工們勢頭都已經鬆懈了的時候，他們不想听這個。你應該把願景演講留在公司成功的時候。當你沒有成功，你需要用小的成功來把勢頭贏回來。我的董事會成員之一過去常說銷量是維護初創公司的一切。我認為這句話很對。所以你要找到你能獲取小的成功的地方，並且做到它。然後你會驚奇的發現初創公司的其他許多問題都消失了。
+
+當你的勢頭減弱時你應該注意的另一件事是，團隊其他成員開始反對你的指示。當團隊勢頭減弱的事後，衝突就會出現。對此我認為有效的框架是當團隊的爭議集中在要做什麼的時候，在用戶那裡尋求答案，做用戶希望你們做的事情。你需要提醒成員們：“注意，很多事情不奏效並不是因為我們真的彼此討厭，我們只要回到正軌一切就都會正常運轉起來”只要你把它說出來，只要你意識到這點，你將會發現事情進展的順利多了。
+
+再次舉Facebook的例子，當2008年Facebook增長放緩的時候，馬克設立了一個“增長小組”。他們著手做了許多小事，讓Facebook增長更快。他們做的所有事情看上去都很小，但是他們讓Facebook的增長曲線回升。它迅速成為公司最受尊敬的工作組之一。馬克曾說過這是Facebook最好的創新之一。根據我的一位那時在Facebook的好友所說，它真的讓公司充滿動力。從這件事情上也可以看出，當所有人都感覺不再良好，當勢頭已經減弱的時候，是勝利讓勢頭重回高點。
+
+所以保持勢頭的一個好的方法是在公司早期的時候樹立一個運行的節奏。在那個時間點出原型，在哪個時間點在原有基礎上上架新品，在哪個時間點你和全公司​​一起回顧進展。這實際上是董事會能為你做的最好的事情。董事會其實很少能為團隊的戰略提供價值，但是你可以將他們視為一個督促的職能，讓公司關注節奏和每個重要時點。
+
+有一件經常影響勢頭，但真的不應該受影響的事情就是競爭對手。競爭對手會在媒體發出一些噪音，會比其他外在的因素更打擊一些公司的勢頭。
+
+所以有個很好地大拇指定律：不要擔心競爭對手，除非他們真的拿一款已經成為現實、出了原型的產品打敗了你。發布媒體消息比寫代碼簡單多了，寫代碼比做出一款NB的產品簡單多了。所以提醒你的團隊，這也是創始人的職責，不要因為競爭對手的報導而讓團隊變得消沉。
+
+我很喜歡Henry Ford說過的一句話：“競爭對手最害怕的是從不受他們影響的人，這些人不但不受影響還不斷把自己的那攤事兒做得更好”
+
+這些公司不是那些總是發布新聞媒體宣傳的公司。人們就會遠離那些公司。（這些公司幾乎不受那些公司發布的消息的壓力影響，而且，他們會自動的隔離那些消息。）
