@@ -1,39 +1,45 @@
 # Sam Altman - Advice for Ambitious 19 Year Olds  
 
-http://genius.com/Sam-altman-advice-for-ambitious-19-year-olds-annotated
+* 作者：Sam Aleman
+* 原翻譯連結：http://startupclass.club/topics/8
 
-I get asked this question fairly often, and I now have a lot of data on what works, so I thought I’d share my response.
+「我今年19歲(我高中畢業了)，我是一個有抱負的青年，接下來我最應該干點啥？」（譯者註：美國的高中是四年制，所以大家一般是19歲高中畢業）
 
-Usually, people are deciding between going to college (and usually working on side projects while they do so), joining a company, or starting their own startup. [1] [2]
+經常有人這樣問我。近幾年我通過許多案例提取出了一些有共性的東西，覺得有必要分享給大家。
 
-The secret is that any of these can be right answer, and you should make your decision based on the specific circumstances of each option. The critical point is that you want to do the thing that is most likely to get you on a path to do something great.
+一般來說，高中畢業生會有三個選擇[2] [3]： 
+1. 去上大學（且一般會做點兼職項目）； 
+2. 加入一家公司； 
+3. 自己開一家創業公司。
 
-No matter what you choose, build stuff and be around smart people. “Stuff” can be a lot of different things—open source projects outside of class, a startup, a new sales process at a company you work at—but, obviously, sitting around talking with your friends about how you guys really should build a website together does not count.
+秘決是：以上任何一個都可能是正確答案，但你在做決定前要對各個選項仔細分析。關鍵點在於，你的選擇要最有可能讓你走在一條正確的道路上：做一件偉大的事情。
 
-The best people always seem to be building stuff and hanging around smart people, so if you have to decide between several options, this may be a good filter.
+不管你的選擇是什麼，做點東西，且呆在一群聰明人中間。“東西”可能是許多不同的事情—下課後搞的開源軟件項目，一家創業公司，你所工作的公司的一個新的銷售流程，等等。但是，和你的好基友們坐著大談你們最應該一起做哪個網站不算。
 
-Working on something good will pull you along a path where good things keep happening to you. (In fact, this effect is so strong that there’s a danger of getting sucked into too many interesting things and getting distracted from what you really want to do.)
+牛人一般都會做點東西，且周圍圍著一堆聰明人。所以如果你需要在幾個選擇間做決定，這可能算是一個參考標準。
 
-In making this decision, you want to take the right kind of risk. Most people think about risk the wrong way—for example, staying in college seems like a non-risky path. However, getting nothing done for four of your most productive years is actually pretty risky. Starting a company that you’re in love with is the right kind of risk. Becoming employee number 50 at a company that still has a good chance of failure is the wrong kind of risk.
+努力做點好東西經常會讓你碰到好運氣（正是因為如此，以至於你時常面臨險境：有太多有趣的事情可以做了，你根本沒時間幹你真正喜歡的那個）。
 
-If you stay in college, make sure you learn something worthwhile and work on interesting projects—college is probably the best place to meet people to work with. If you’re really worried you’ll miss some critical social experience by dropping out of college, you should probably stay.
+在做這個決定的時候，你可能希望承擔最小的風險。許多人不知道什麼才是真正的風險– 比如說，上大學看起來像是一條沒什麼風險的路。但是，在你生產力最高的4年裡，什麼都沒干成，這本身就是挺大的風險了。創建一家你熱愛的公司可能算是大小適中的風險，而成為一家倒閉可能性很大的公司的第50號僱員風險也挺大的。
 
-If you join a company, my general advice is to join a company on a breakout trajectory. There are a usually a handful of these at a time, and they are usually identifiable to a smart young person. They are a very good risk/reward tradeoff. Such a company is almost certainly going to be successful, but the rest of the world isn’t quite as convinced of it as they should be. Fortunately, these companies love ambitious young people. In addition to the equity being a great deal (you might get 1/10th of the equity you’d get if you going a tiny new startup, but at 1/100th or 1/1000th of the risk), you will work with very good people, learn what success looks like, and get a W on your record (which turns out to be quite valuable). Spending a few years at a company that fails has path consequences, and working at an already-massively-successful company means you will learn much less, and probably work with less impressive people.
+如果你上大學，確保自己學到一些真正值得學的東西，並且干點有趣的項目。大學校園可能是你能遇到聯合創始人最好的地方了。但如果你真的很擔心自己會因為退學而錯過非常重要的社交經驗，那最好還是呆在學校裡吧。
 
-Incidentally, don’t let salary be a factor. I just watched someone turn down one of these breakout companies because Microsoft offered him $30k per year more in salary—that was a terrible decision. He will not build interesting things and may not work with smart people. In a few years, when it’s time for something new, the options in front of him will be much worse than they could have been.
+如果你選擇加入一家公司，我的建議是加入爆發式增長的公司。一般來說，這樣的公司一抓一大把，而且一般來說聰明人總是找到得這樣的公司。它們通常都有很好的風險/收益比。這樣的公司往往走向成功，但其它的公司就不一定了。幸運的是，這些公司都喜歡有抱負的年輕人。收益往往是很可觀的（如果你加入一家創業公司，你可能得到1/10的股權，但只承擔了1/100甚至1/1000的風險），你將會和很牛的人一起工作，見識到什麼才是成功，並賺到一大筆錢（歷史證明這挺重要的）。在一家小公司里呆幾年也可以算是走在成功的路上(哪怕公司最終倒閉了)；而在一家已經非常成功的公司工作意味著你會少學到很多東西，且可能整天與一堆庸才一起工作。
 
-If you start a company, only do so if you have an idea you’re in love with. If you’re hanging out with your friends trying to come up with an idea, I don’t think you should start that company (although there are many who disagree with me). Starting a failed startup is less bad than joining a failed company as an employee (and you’ll certainly learn much more in the former case). If you fail at an idea that you really loved and could have been great, you’re unlikely to regret it, and people will not hold it against you. Failing at a me-too copycat startup is worse. Remember that there will be lots of other opportunities to start companies, and that startups are a 6-10 year commitment—wait for the right one
+順便說一句，不要關注工資。我最近看到有人拒掉這種爆發式公司，因為微軟給的年薪多3萬美元– 這是一個糟糕的決定。他可能不會有機會去做有趣的產品，不會與聰明人一起工作。幾年後，要跳槽的話，他面臨的選擇將比他應該有的差很多。
 
-One big pro for starting a company is that it’s usually the way to learn the most in the shortest amount of time. One big con is that it’s easy to start a company for the wrong reasons—usually so that you can say you’re starting a company—and this makes it easy to cloud your judgment.
+如果你開一家公司，確保你真的是要去做你熱愛的事情。開一家失敗的公司，不會比加入一家失敗的公司更糟糕（在前者中你自然會學會很多東西）。如果你真正熱愛的、可能成為偉大產品的idea失敗了，你不太可能會後悔，人們也不會怪你。抄襲別人的idea開一家山寨公司而失敗就不一樣了。如果你經常和朋友混在一起，拍腦袋想出來一個idea，我覺得你不應該開公司（雖然可能有許多人會反對我這個觀點）。記住，開公司的機會很多，開一家公司意味著6-10年的投入，要等到那個正確的機會。
 
-No matter what you choose, keep your personal burn rate low and minimize your commitments. I have seen a lot of people miss great opportunities because they couldn’t afford a reduction in salary or because they couldn’t move or didn’t have the time.
+正面來看，開公司經常能讓你在最短的時間內學到最多的東西。反面來看，人們很容易因為一個錯誤的原因而開公司：往往只是因為你想自封為創始人– 這常常讓你蒙住自己的眼睛。
 
-Think about risk the right way. Drew Houston gave a great commencement speech where he said you only have to be right once. That’s true. The risk is not getting on the path where you get to be right that one critical time.
+不管你怎麼選擇，保持精力，擦亮眼睛。我經常看到許多人因為不願意降薪、不想搬家、或者沒有時間，而錯過絕佳的機會。
 
+正確思考風險。Drew Houston(譯者註：Dropbox的CEO及創始人)在一次偉大的畢業典禮上說：人生只需要做成一件事情。這是對的。風險在於，正確的那一次關鍵時刻，你卻不想上船。
 
-Thanks to Lachy Groom and Nick Sivo for reading drafts of this.
+感謝Lachy Groom和Nick Sivo幫我評審本文的初稿。
 
-[1] Sometimes, a 4th option is being a VC. This is usually a mistake—the best way to become a VC is not to grind your way up the ladder from junior associate intern. Even if you want to be a VC, you’re much better off starting or joining a startup, and getting partner offers when you’re 28. Plus, good founders want to work with an investor that has operational experience.
+[1] Sam Altman是YC的新CEO，也是Loopt的CEO及聯合創始人。Loopt是一個基於地理位置的社交網絡手機應用程序，由Altman在斯坦福大學上二年級的時候創立。2012年3月，Loopt被Green Dot Corporation以3000萬美元的價格進行了人才收購。在斯坦福期間，他還參與開發了直升飛機自動導航系統。Altman還是著名的創業孵化器Y Combinator的兼職合夥人。他在2008年被《商業周刊》評選為“最佳技術領域年輕企業家”之一。Y Combinator創始人Paul Graham認為他是30年以來Top 5的最有趣的創始人。
 
-[2] Interestingly, no one is ever considering going into academia.
- 
+[2] 對於有些人來說，第4個選擇是去當VC。但這往往是錯誤的–從低級別的實習助理慢慢往上爬，不是成為VC的最好的方式。如果你真的想當VC, 加入或者創建一家創業公司，在你28歲的時候成為合夥人，是一條明智得多的路。而且，優秀的創始人喜歡跟有實戰經驗的投資者合作。
+
+[3] 有趣的是，幾乎沒人考慮往學術界發展。
