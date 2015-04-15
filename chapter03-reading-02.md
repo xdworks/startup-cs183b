@@ -1,0 +1,47 @@
+Steve Jobs - 1995 Interview with Computerworld’s Oral History Project 
+
+http://genius.com/Steve-jobs-1995-interview-with-computerworlds-oral-history-project-annotated
+
+Q: It sounds really exciting. The question I was going to ask -- and you've partially answered it -- was about start-up companies. As I look around the facility here and your literature, there are alliances written all over the walls literally. You're aligned with Hewlett-Packard, Sun, Oracle and Digital and all the systems integrators. Communications companies and information technology companies are merging. And becoming one. Do you think it will ever be possible for a new major start-up company to develop if they're going to focus on major applications or software? Will there ever be another?
+
+A: I think yes. One might sometimes say in despair no, but I think yes. And the reason is because human minds settle into fixed ways of looking at the world and that's always been true and it's probably always going to be true.
+
+I've always felt that death is the greatest invention of life. I'm sure that life evolved without death at first and found that without death, life didn't work very well because it didn't make room for the young. It didn't know how the world was fifty years ago. It didn't know how the world was twenty years ago. It saw it as it is today, without any preconceptions, and dreamed how it could be based on that. We're not satisfied based on the accomplishment of the last thirty years. We're dissatisfied because the current state didn't live up to their ideals. Without death there would be very little progress.
+
+One of the things that happens in organizations as well as with people is that they settle into ways of looking at the world and become satisfied with things and the world changes and keeps evolving and new potential arises but these people who are settled in don't see it. That's what gives start-up companies their greatest advantage. The sedentary point of view is that of most large companies.
+
+In addition to that, large companies do not usually have efficient communication paths from the people closest to some of these changes at the bottom of the company to the top of the company which are the people making the big decisions. There may be people at lower levels of the company that see these changes coming but by the time the word ripples up to the highest levels where they can do something about it, it sometimes takes ten years. Even in the case where part of the company does the right thing at the lower levels, usually the upper levels screw it up somehow. I mean IBM and the personal computer business is a good example of that.
+
+I think as long as humans don't solve this human nature trait of sort of settling into a world view after a while, there will always be opportunity for young companies, young people to innovate. As it should be.
+
+Q: And that was going to be my closing question before I gave you chance to sort of free associate on your own. That is to talk to young people who sort of look to you as a role model. Opportunities for innovation you think they're still possible. What are the factors of success for young people today? What should they avoid?
+
+A: I get asked this a lot and I have a pretty standard answer which is, a lot of people come to me and say "I want to be an entrepreneur." And I go "Oh that's great, what's your idea?"And they say "I don't have one yet." And I say "I think you should go get a job as a busboy or something until you find something you're really passionate about because it's a lot of work."
+
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard. You put so much of your life into this thing. There are such rough moments in time that I think most people give up. I don't blame them. It's really tough and it consumes your life. If you've got a family and you're in the early days of a company, I can't imagine how one could do it. I'm sure it's been done but it's rough. It's pretty much an eighteen hour day job, seven days a week for awhile. Unless you have a lot of passion about this, you're not going to survive. You're going to give it up. So you've got to have an idea, or a problem or a wrong that you want to right that you're passionate about, otherwise you're not going to have the perseverance to stick it through. I think that's half the battle right there.
+
+Q: Your talking made me think of the other side of that. You talk about the passion side. What would you say, there's passion and then there's power. What you would say about the responsibilities of power, once you've achieved a certain level of success?
+
+A: Power? What is that?
+
+Q: You need passion to build a company like Apple or IBM or any other major company. Once you've taken the passion to that level and built a company and are in the position like a Bill Gates at Microsoft or anybody else, yourself, what are the responsibilities of those who have succeeded and have economic power, social power? I mean, you've changed the world. What are your responsibilities within that?
+
+A: That question can be taken on many levels. Obviously if you're running a company you have responsibilities but as an individual I don't think you have responsibilities. I think the work speaks for itself. I don't think that people have special responsibilities just because they've done something that other people like or don't like. I think the work speaks for itself.
+
+I think people could choose to do things if they want to but we're all going to be dead soon, that's my point of view. Somebody once told me, they said "Live each day as if it would be your last and one day you'll certainly be right." I do that. You never know when you're going to go but you are going to go pretty soon. If you're going to leave anything behind it's going to be your kids, a few friends and your work. So that's what I tend to worry about. I don't tend to think about responsibility. A matter of fact I tend to like to on occasion pretend I don't have any responsibilities. I try to remember the last day when I didn't have anything to do and didn't have anything to do the following day that I had to do and I had no responsibilities. It was decades ago. I pretend when I want to feel that way. I don't think in those terms. I think you have a responsibility to do really good stuff and get it out there for people to use and let them build on the shoulders of it and keep making better stuff.
+
+Q: So the responsibility is to yourself and your own standards.
+
+A: In our business, one person can't do anything anymore. You create a team of people around you. You have a responsibility of integrity of work to that team. Everybody does try to turn out the best work that they can.
+
+Q: Any final comments or thoughts either for the record or off the record?
+
+A: No. Not really. Timeframe's an interesting thing when you think about people looking back. I do think when people look back on this in a hundred years, they're going to see this as a remarkable time in history. And especially this area believe it or not. When you think of the innovation that's come out of this area, Silicon Valley and the whole San Francisco Berkeley Bay area, you've got the invention of the integrated circuit, the invention of the microprocessor, the invention of semiconductor memory, the invention of the modern hard disk drive, the invention of the modern floppy disk drive, the invention of the personal computer, invention of genetic engineering, the invention of object-oriented technology, the invention of graphical user interfaces at PARC, followed by Apple, the invention of networking. All that happened in this Bay area. It's incredible.
+
+Q: Yeah, why do you think it happened? Why here?
+
+A: Why here? Two or three reasons. I mean, this place is a remarkable place actually. You have to go back a little bit in history. This is where the beatnik era happened, San Francisco, which was a pretty interesting thing. This is where the hippie movement happened. This is the only place in America where Rock n Roll really happened. I mean all of the bands, most of the bands outside of Bob Dylan in the sixties, they all came outta here. From Joan Baez to Jefferson Airplane to the Grateful Dead, everything came outta here. Janis Joplin, Jimi Hendrix, everybody. Why is that? That's a little strange when you think about it.
+
+Then you've also had Stanford and Berkeley, two awesome universities drawing smart people from all around the world and depositing them in this clean, sunny, nice place where there's a whole bunch of other nice people and pretty good food. At times, a lot of drugs and a lot of fun things to do. And so they stayed. And so there's a lot of human capital pouring in here. A lot of human capital. The average, you know, people seem pretty bright here relative to the rest of the country and people seem pretty open minded here relative to the rest of the county. And I think it's just a very unique place. And I think it's got the track record to prove it. So that tends to attract more people, too. And I give a lot of credit to the universities, probably the most credit to Stanford and Berkeley. And UC Cal.
+
+Thanks.
