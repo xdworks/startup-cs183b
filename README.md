@@ -1,4 +1,4 @@
-My Awesome Book
+Startup Class
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本書僅供學習之用，原作內容與翻譯內容皆屬原作者。
