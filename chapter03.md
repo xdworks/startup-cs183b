@@ -139,27 +139,35 @@ Airbnb的創始人Brain Chesky和Joe Gebbia特別之處不在於他們是技術�
 所以詭異的是，如果你想創立成功的企業，你不應該去讀那種標新立異、專注於教導學生創立企業的大學。而是用最傳統最經典的教育方式教導學生學習方法的大學。
 如果你想創立自己的公司，你應該做的是學習有用的東西。如果你對某個領域有生來就擅長或者抱有強烈好奇。它就是你天然傾向去做的事情。創業家這個概念，哎「創業家」這個詞可真難說，其中重要的是在特定的方面做到出類拔萃。
 
-谷歌創始人Larry Page之所以成為Larry Page是因為他在搜索領域是專家。他成為搜索領域的專家是因為他生來對此感興趣。而並不是其他功利的的動機。事實上最好的創業動機很少是功利性的。在最後的階段才引入功利的動機往往會使你做得最好。所以是對年輕的、想創業的朋友最終極的建議是：好好學習，天天向上。
+谷歌創始人Larry Page之所以成為Larry Page是因為他在搜索領域是專家。他成為搜索領域的專家是因為他生來對此感興趣。而並不是其他功利的的動機。事實上最好的創業動機很少是功利性的。在最後的階段才引入功利的動機往往會使你做得最好。所以以上是對年輕的、想創業的朋友最終極的建議是：好好學習，天天向上。
 
-Alright how much time do we have left? Eighteen minutes for questions good god. Do you guys have the questions?
+好，接下來我們還剩多少時間？操，只剩十八分鐘了。在座有什麼問題想問嗎？
 
-Q: Sure we will start with two questions. How can a nontechnical founder most efficiently contribute to a startup?
 
-A: If the startup is, if the startup is working in some domain, if it’s not a pure technology startup but is working in some very specific domain, like if it is Uber and the non technical founder was an expert in the limo business then actually then the non technical founder would be doing most of the work. Recruiting drivers and doing whatever else Uber has to do and the technical founder would be just writing the iPhone app which probably less, well iPhone and android app, which is less than half of it. If it’s purely a technical start up the non technical founder does sales and brings coffee and cheeseburgers to the programmer.
 
-Q: Do you see any value in business school for people who want to pursue entrepreneurship?
+Q: 首先，是問一個非技術背景的創始人，如何有效管理一家初創公司？
 
-A: Basically no, it sounds undiplomatic, but business school was designed to teach people management. Management is a problem that you only have in a startup if you are sufficiently successful. So really what you need to know early on to make a start up successful is developing products. You would be better off going to design school if you would want to go to some sort of school. Although frankly the way to learn how to do it is just to do it. One of the things I got wrong early on is that I advised people who were interested in starting a startup to go work for some other company for a few years before starting their own. Honestly the best way to learn on how to start a startup is just to just try to start it.
+A: 這就要看初創公司，是否涉及特定的細分領域。如果是一家專注在一個非常細分領域的非純技術型團隊。比如 Uber，他們的創始人並不是專業技術出身，但是卻有著豐富的豪華轎車商業經驗，運作起來也能得心應手。無論是招募司機還是其他的事，非技術出身的創始人都需要包攬下來。這就便於負責技術的創始人只需要做 iPhone 版，負責 iPhone 和 Android 的軟體開發。而這只佔整體工作的不到一半。如果是一家純技術創業團隊，非技術出身的創始人可以負責銷售業務，或者幫開發者端咖啡和起司漢堡。
 
-You may not be successful but you will learn faster if you just do it. Business schools are trying really hard to do this. They were designed to train the officer core of large companies, which is what business seemed to be back when it was a choice to be either the officer core of large companies or Joe's Shoe Store. Then there was this new thing, Apple, that started as small as Joe's Shoe Store and turns into this giant mega company but they were not designed for that world they are good at what they’re good at. They should just do that and screw this whole entrepreneurship thing.
 
-Q: Management is a problem only if you are successful. What about those first two or three people?
+Q: 你怎麼看商學院校對準備創業的人的價值？
 
-A: Ideally you are successful before you even hire two or three people. Ideally you don't even have two or three people for quite awhile. When you do the first hires in a startup they are almost like founders. They should be motivated by the same things, they can’t be people you have to manage. This is not like the office, these have to be your peers, you shouldn’t have to manage them much.
+A: 我猜他問的是：我覺得他有沒有價值。（觀眾：如果有，那麼價值體現在哪裡？）
 
-Q: So is it just a big no no, someone has to be managed no way they should be on the founding team.
+我希望他沒有，那我就不用回答第二個問題了。然後我也順便回答了你的第一個問題。好，問題就是商學院對於想要創業的人群的價值，如果有，那麼價值體現在哪裡？
 
-A: In the case were you are doing something were you need some super advanced technical thing and there is some boffin that knows this thing and no one else in this world including on how to wipe his mouth. It may be to your advantage to hire said boffin and wipe his mouth for him. As a general rule you want people who are self motivated early on they should just be like founders.
+基本上沒有價值。我知道這聽起來很不客氣。但是商科院校的課程，主要是關於管理的，而管理只有在項目已經足夠成功的，才是你應該關心的問題。所以，在初始創業階段，你真正需要關心的只是產品開發。如果你想去學校充充電，最好選擇一些產品設計開發院校。平心而論，只有實踐才能出真知。知道嗎？我以前曾經犯過一個錯誤，就是建議那些懷抱創業夢的人先去其他公司工作幾年，再考慮出來幹。而事實上最好的學習如何創業的方法就是從現在開始，直接嘗試去做。
+
+當然，這樣做也許會失敗，但同時你也會學得更快。所以不一定有價值。雖然現在的商科院校正在努力回歸這條以做而學的道路上。但在從前，商學院課程都只是為想要成為大公司的核心骨幹而設計的。從前的商業生態圈，要嘛不就是大鱷，要麼就是小蔥。根本不存在我們現在看到的創業型成長公司。直到蘋果公司，它改變了這一切。他證明了一個小蔥可以從和一家鞋店一樣的規模，瞬間成長為大鱷一般的商業王國。它並沒有屈服於原來那種兩級的生態圈，而是做著他們擅長的事情，並一步步成長起來，最終改變並重新定義了整個創業圈，而且做得實在太帥了。
+
+Q: 所以你認為當公司足夠成功時才需要管理。那你如何管理初創時招募的兩個或者三個成員？
+
+A: 最理想的情況是，在招募最初的團隊以前，公司就已經足夠成熟。Sam 你剛才是不是說了 Airbnb 花了五個月才招到他們的第一個員工。你甚至在很長一段時間內，都不需要招募任何人。對於初創公司來說，早期招募的員工，就像找創始人一樣，他們應該和你一樣，對項目有著高度積極性，而不應該是你需要監督管理的人。這和普遍意義上的辦公室不太一樣，你應該視他們為你的共事者，而不是太多地限制管理他們。
+
+
+Q: 所以這是否意味著一個需要被管理的人，不可能成為創始團隊之一？
+
+A: 也有一種情況就是你正在進行的工作正需要一些超級先進的技術才能支持，同時又有一些牛人恰好知道該怎麼做，綜觀世界，沒人可以取代他了。招募這些牛人能讓你如虎添翼，而他們恰好不是那種可以主動自發做事情的人，那你就需要提供相應的管理，鞭策和呵護。但是通常來說，那些在初創時期就像 Founder 一樣具有自動自發特質的人，就是你想要的創始成員。
 
 Q: Do you think we are currently in a bubble?
 
