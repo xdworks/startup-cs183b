@@ -1,4 +1,4 @@
-Lecture 20: Closing Thoughts and Later-Stage Advice 
+# Lecture 20: Closing Thoughts and Later-Stage Advice 
 
 大家午安。今天是“如何創業”最後一次講座了。今天的內容和原先不同，前面講的內容都是創業初期要幹的事。我們今天講的內容大家在短期內還不必考慮，應該說不用考慮。鑑於在大家的公司​​經歷市場需求考驗之前，我沒機會跟在座的大部分同學繼續分享了。我給大家列出來了一些，在創業公司擴張時要考慮的一些問題。很多創始人，在這些方面沒能很好地進行過渡。
 
