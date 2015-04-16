@@ -1,40 +1,24 @@
-# 標題：創業中違反直覺的地方，以及如何獲得好的創業點子
+# Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas 
 
-* 作者：Paul Graham 
-* 譯者： 聞宇, Iceyl Tao,高雪梨
-* 原翻譯連結：https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_3/Lecture_3_translated.md
+One of the advantages of having kids is that when you have to give advice to people you can ask yourself, "what would I tell my own kids?", and actually you'll find this really focuses you. So even though my kids are little, my two year old today, when asked what he'll be after two, said "a bat." The correct answer was three, but "a bat" is so much more interesting. So even though my kids are little, I already know what I would tell them about startups, if they were in college, so that is what I'm going to tell you. You're literally going to get what I would tell my own kids, since most of you are young enough to be my own kids.
 
+Startups are very counterintuitive and I'm not sure exactly why. It could be simply because knowledge about them has not permeated our culture yet, but whatever the reason, this is an area where you cannot trust your intuition all the time. It's like skiing in that way - any of you guys learn to ski as adults? When you first try skiing and you want to slow down, your first impulse is to lean back, just like in everything else. But lean back on the skis and you fly down the hill out of control. So, as I learned, part of learning to ski is learning to suppress that impulse. Eventually you get new habits, but in the beginning there is this list of things you're trying to remember as you start down the hill: alternate feet, make s-turns, do not drag the inside foot, all this stuff.
 
-有孩子的一個好處就是，給別人建議的時候就可以先問問自己：「我會回答自己的孩子什麼答案？」你會發現這特別有助於找到關鍵點。我孩子還小，今天我問我2歲的小孩，你2歲後該是什麼了？他說「一隻蝙蝠」。正確答案是「三歲」可是「蝙蝠」這個答案有意思多了。所以儘管我孩子還小，我已經想好了當他們上大學的時候，我就會要跟他們講這些關於創業的事。這也是我今天要跟你們講的內容，所以你們真的就要聽到我會給我孩子的建議， 你們的年齡也都差不多可以做我孩子了。
+Startups are as unnatural as skiing and there is a similar list of stuff you have to remember for startups. What I'm going to give you today is the beginning of the list, the list of the counterintuitive stuff you have to remember to prevent your existing instincts from leading you astray.
 
+The first thing on it is the fact I just mentioned: startups are so weird that if you follow your instincts they will lead you astray. If you remember nothing more than that, when you're about to make a mistake, you can pause before making it. When I was running Y Combinator we used to joke that our function was to tell founders things they would ignore, and it's really true. Batch after batch the YC partners warned founders about mistakes they were about to make and the founders ignored them, and they came back a year later and said, "I wish we'd listened." But that dude is in their cap table and there is nothing they can do.
 
-創業往往是反直覺的事情，我也不知道到底為什麼，可能很簡單就是因為關於創業的理念還沒有融入當前文化，但是不管原因如何，這個領域就是一個不能完全依靠直覺的領域。就很像滑雪，你們誰是長大以後才學的滑雪嗎？第一次滑雪，想要慢下來時的第一反應是就跟從事其他運動一樣：後仰。你最終會得到新的習慣，但是滑雪的時候後仰，就會衝著下坡直飛下去。所以我從滑雪裡面學到的，一部分就是要學著抑制這種衝動。但是在學滑雪的最一開始，你得試著記住一長串的東西：換腳啦，S型滑啦，不要拖內側腳啦，等等等等。
+Q: Why do founders persistently ignore the partner’s advice?
 
+A: That's the thing about counterintuitive ideas, they contradict your intuitions, they seem wrong, so of course your first impulse is to ignore them and, in fact, that's not just the curse of Y Combinator, but to some extent our raison d'être. You don't need people to give you advice that does not surprise you. If founders' existing intuition gave them the right answers, they would not need us. That's why there are a lot of ski instructors, and not many running instructors; you don't see those words together, "running instructor," as much as you see "ski instructor." It's because skiing is counterintuitive, sort of what YC is—business ski instructors—except you are going up slopes instead of down them, well ideally.
 
-創業就和滑雪一樣，就是一件很彆扭的事情創業也有要記住的一長串東西。今天我要告訴你們的，只是這一長串的開頭，你必須記住這些反直覺的東西，才能防止已有的直覺讓你誤入歧途。
+You can, however, trust your instincts about people. Your life so far hasn't been much like starting a startup, but all the interactions you've had with people are just like the interactions you have with people in the business world. In fact, one of the big mistakes that founders make is to not trust their intuition about people enough. They meet someone, who seems impressive, but about whom they feel some misgivings and then later when things blow up, they say, "You know I knew there was something wrong about that guy, but I ignored it because he seemed so impressive."
 
+There is this specific sub-case in business, especially if you come from an engineering background, as I believe you all do. You think business is supposed to be this slightly distasteful thing. So when you meet people who seem smart, but somehow distasteful, you think, "Okay this must be normal for business," but it's not. Just pick people the way you would pick people if you were picking friends. This is one of those rare cases where it works to be self indulgent. Work with people you would generally like and respect and that you have known long enough to be sure about because there are a lot of people who are really good at seeming likable for a while. Just wait till your interests are opposed and then you’ll see.
 
-第一條就是我剛才提到的：創業是很詭異的，如果你單憑直覺它會把你帶迷路。只要你記得這一條，當你要犯錯誤的時候至少犯錯之前會猶豫一下。我運營YC的時候我們老開玩笑說，我們的職責就是告訴創業者他們忽視的東西，真的就是這樣。我們為一批又一批創業者將犯的錯誤發出警告，創業者還是忽視它們，一年後他們回來的時候說「真希望當年聽進去了」。不過，那伙計現在已經融了資把股權控制權分了出去，無力回天
+The second counterintuitive point, this might come as a little bit of a disappointment, but what you need to succeed in a startup is not expertise in startups. That makes this class different from most other classes you take. You take a French class, at the end of it you've learned how to speech French. You do the work, you may not sound exactly like a French person, but pretty close, right? This class can teach you about startups, but that is not what you need to know. What you need to know to succeed in a startup is not expertise in startups, what you need is expertise in your own users.
 
-
-Q: 為什麼創業者執迷不悟地忽視合作夥伴的建議呢？
-
-A: 這就是反直覺，它們和直覺不符，所以剛看到時覺得不對勁，所以你最初的反應就是忽視它們，事實上這不僅是YC的難題，一定程度上你也不需要那些推陳乏新的建議對吧？如果創業者的直覺總是對的，那他們也不需要我們了。這就是為什麼有很多的滑雪教練，卻沒幾個跑步教練。比起「滑雪教練」，你都不會太常看到「跑步」和「教練」這兩個詞放在一起。正因為滑雪是反直覺的，（滑雪教練）好像YC一樣，YC就像商業滑雪教練。--唯一的不同是在理想情況下讓你走上坡路而不是下坡路。
-
-不過你大可相信自己對人的直覺。生活雖然不同於創業，但你在生活中和人的交往，正和在商業世界裡是一樣的。事實上創業者常犯的一個大錯誤就是在人際上不夠相信直覺。遇到看起來相當不錯但又覺得有些負面印象的人，之後事情搞砸了他們就說：「你看吧我就知道這人哪裡不對，但是我卻無視這個徵兆，因為他當初看起來相當厲害。」
-
-
-在商場上有一小類例子，尤其如果你的背景是學工程的，我相信你們都有這背景。你覺得生意是種有點銅酸臭有點low逼的東西。所以當你遇到看起來很聰明但隱約感覺有點討厭的人的時候，就想說「好吧做生意一定就是這樣」。 但是這是不對的！選人才跟選朋友一樣，這是極少可以任性一回的狀況，為了安全起見，選擇你喜歡、敬重的人、而且你足夠了解他們的人。因為有些人非常擅長暫時表面上討喜，等到發生利益衝突了你就會明白。
-
-
-第二個反直覺點可能有點令人失望，但是創業成功的前提並非專長於創業。這讓本課程和你們上的很多其他課不同。如果你選修了法語，好好學習課程結束你就學會了說法語。可能你說的並不是那麼像法國人，但是也已經很接近了，對吧？本課程可以教你們關於創業的知識，但是那不是你們需要知道的。你需要明白出色的創業者並非專長於創業，而是身為一個了解你的用戶的專家。
-
-
-扎克伯格並不是因為他是創業的專家所以才造就了Facebook的成功，他儘管在創業方面是個新手但還是成功了。 Facebook甚至起初把公司以LLC的型式註冊在了弗羅里達。你們都比他懂得多。作為一個創業新手，他的成功來源於充分理解用戶。你們大部分人都不知道怎麼籌集天使輪，對吧？如果這讓你們感覺不好大可不必，因為我可以告訴你，扎克伯格可能也不知道籌集天使基金的方法。就算Ron Conway給他寫那張巨額支票的時候他注意過（天使基金），他現在估計也已經忘記這件事了。
-
-事實上，我煩心的是，年輕創業者可能不僅沒必要仔細學習創業方法論，學它可能甚至會很危險。因為年輕創業者另一個標誌性錯誤就是按照創業的步驟按部就班。 首先想到一個看起來非常好的主意，估個好價籌集資金，在SoMa租個不錯的辦公室，僱幾個朋友當員工，之後逐漸意識到自己完完全全搞爆了。因為當模仿所有創業的步驟時，他們卻忘記了最重要的事情就是做人們需要的東西。
-
-
+Mark Zuckerberg did not succeed at Facebook because he was an expert in startups, he succeeded despite being a complete noob at startups; I mean Facebook was first incorporated as a Florida LLC. Even you guys know better than that. He succeeded despite being a complete noob at startups because he understood his users very well. Most of you don't know the mechanics of raising an angel round, right? If you feel bad about that, don't, because I can tell you Mark Zuckerberg probably doesn't know the mechanics of raising an angel round either; if he was even paying attention when Ron Conway wrote him the big check, he probably has forgotten about it by now.
 
 In fact, I worry it's not merely unnecessary for people to learn in detail about the mechanics of starting a startup, but possibly somewhat dangerous because another characteristic mistake of young founders starting startups is to go through the motions of starting a startup. They come up with some plausible sounding idea, they raise funding to get a nice valuation, then the next step is they rent a nice office in SoMa and hire a bunch of their friends, until they gradually realize how completely fucked they are because while imitating all the outward forms of starting a startup, they have neglected the one thing that is actually essential, which is to make something people want. By the way that's the only use of that swear word, except for the initial one, that was involuntary and I did check with Sam if it would be okay; he said he had done it several times, I mean use the word.
 
