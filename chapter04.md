@@ -1,6 +1,8 @@
-# Lecture 4: Building Product, Talking to Users, and Growing 
+# 標題：做產品，和用戶交流，然後成長
 
-http://genius.com/Adora-cheung-lecture-4-building-product-talking-to-users-and-growing-annotated
+* 作者：Adora Cheung，Homejoy創始人
+* 譯者：杜月，馬達拉，丹尼爾·吳佳農 
+* 原翻譯連結：https://github.com/kalasoo/startupclass-cn/blob/master/Lecture_4/Lecture_4_translated.md
 
 謝謝你們的邀請。今天我要講的內容是關於如何從最初的沒有用戶增長到擁有許多用戶。我假定你們現在腦袋中已經有很多絕佳的主意，並且你們在想著接下來要做些什麼。
 
