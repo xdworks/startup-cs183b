@@ -1,4 +1,4 @@
-Lecture 15: How to Manage 
+# Lecture 15: How to Manage 
 
 當Sam給我發郵件，問我能否講50分鐘的管理課。我馬上想到，我剛寫了一本300頁的管理書，厚厚的一本書。
 
