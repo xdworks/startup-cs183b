@@ -2,6 +2,7 @@ Lecture 11: Company Culture and Building a Team, Part II
 
 Sam Altman: Part two of Culture and Team. We have Ben Silbermann, the founder of Pinterest, and John and Patrick Collison, the founders of Stripe. Founders that have obviously, some of the best thinking about culture and building their teams.
 
+
 There's three areas we are going to cover today. One will be general thoughts on culture as a follow up on the last lecture. And then we are really going to dig in to the findings of these companies and building out the early team. Then how that changes and evolves as these guys have scaled their companies to the hundred plus, I don't even know how many employees you have now but quite a lot, these very large organizations and how they adapt these principles of culture. But to start off, I just want to ask a very open ended question which is, what are the core pieces of culture that you found to be the most important in building out your companies?
 
 Ben Silbermann: Sure. What are the most important parts? For us, we think on a few dimensions. One is who we hire, what those people value. Two is what we do every day. Why do we do it? Three is what we choose to communicate and I think four is how we choose to celebrate. Then the converse of this is what you choose to punish, but in general I think running a company based on what we celebrate is more exciting than what we punish. I think, the four things I think make up the bulk of it for us.
