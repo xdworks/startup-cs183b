@@ -4,6 +4,7 @@
 * [Lecture 2: Team and Execution](chapter02.md)
 * [Lecture 3: Counterintuitive Parts of Startups, and How to Have Ideas](chapter03.md)
 * [Lecture 4: Building Product, Talking to Users, and Growing](chapter04.md)
+* [Lecture 6: Growth](chapter06.md)
 * [Lecture 10: Company Culture and Building a Team, Part I](chapter10.md)
 * [Lecture 11: Company Culture and Building a Team, Part II](chapter11.md)
 * [Lecture 14: How to Operate ](chapter14.md)
