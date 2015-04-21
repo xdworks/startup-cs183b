@@ -121,8 +121,8 @@ So what we noticed in 2004, in college, was for some reason it was really hard t
 我們注意到
 當時分享文件不怎麼容易
 雖然現在挺容易的
-10年前的話要么很貴
-要么數據很難從一家公司的網絡中移到另一家
+10年前的話要麼很貴
+要麼數據很難從一家公司的網絡中移到另一家
 當時我找了份實習工作
 工作中使用數據的話就從紙質資料上抄下來
 再把資料放回櫃子裡
@@ -266,8 +266,8 @@ This is back in early, mid 2006 up to late 2006. I was 23 at the time, my cofoun
 在普通用戶領域
 有兩種經營模式可選
 You can either have people pay for your application or you could provide advertising on the application. To give you a little bit of perspective, these are today's numbers. In the consumer world there are about thirty-five billion spent on mobile apps every year. Pretty big number right? Thirty-five billion dollars. That's a lot of money being spent on mobile apps today. For advertising, the global digital advertising is $135 billion dollars. So most consumer businesses are going after, if you are not doing e-commerce, are going after about $170 billion dollars of either purchasing power on applications or global advertising around these types of services. So big number, a lot of opportunity there.
-要么讓用戶付費使用產品
-要么在產品中打廣告
+要麼讓用戶付費使用產品
+要麼在產品中打廣告
 讓大家有更深的體會
 這是目前的統計數字
 讓大家體會一下兩模式的對比
@@ -502,7 +502,7 @@ We are moving to a world of cheaper, on demand computing from a world of expensi
 計算成本從昂貴
 變得便宜低成本
 目前創業的一個優勢是
-顧客採納新技術的阻力減小了\N481\N00:22:23,800 --> 00:22:26,​​250\N採用你們的產品的阻力減小了\N482\N00:22:26,​​250 --> 00:22:28,910\N計算成本的降低
+顧客採納新技術的阻力減小了  採用你們的產品的阻力減小了  計算成本的降低
 使得採納新技術變得容易
 這就是說更新換代的障礙
 採納你們產品的障礙
@@ -834,20 +834,195 @@ The next thing is, in enterprise, you want to start intentionally small. What I 
 也足夠會引起用戶的重視
 會讓用戶希望去解決它們
 然後你就可以逐漸進行擴展
-要么吸引更大的客戶要么創造更多的用例
+要麼吸引更大的客戶要麼創造更多的用例
 
 Great example is ZenPayroll. ZenPayroll was started by Stanford graduates couple of years ago. Basically, they discovered that the payroll is some small business is complicated and incredibly annoying process. That is because we use the same vendors that we have for decades to do that and they were digitally ordinated. You didn't get your payments as a receipt over email. Very complicated. You didn't get to see graphs of your salaries. There was really no good data around this. And they said we are going to take off the slice that is most painful to start out at, around hiring people and paying people. Just that payroll management process. We are going to plug into a lot of existing structure. But we are going to make it dead simple to go do this. And now they are able to move up market over time as well as deliver new services over time. And what happens is the incumbent in this market, eventually looks at something like Zen Payroll and says, well thats small. Its only for small businesses’. How can it be very powerful? But thats just the start. As they get that wedge, as they fit into the market, they are going to be able to expand again over time. Build out more services and more capabilities. But they found just the right, exact opening to build a new company and have the emerge.
+Zenpayroll是個很好的例子  Zenpayroll是一群斯坦福的研究生創立的
+就在幾年前
+他們發現在小公司管理工資單這件事情
+是一個很複雜​​也很煩人的過程
+因為大家用的都是相同的供應商的軟件
+已經用了幾十年了
+所以軟件還沒有數字化
+你不能通過電子郵件獲得工資單
+非常煩人
+你也不能看到每個月薪資的趨勢圖表
+也沒有十分有用的數據
+這幾個創業者決定從這裡入手
+因為對於創業公司來說
+招聘發薪雖然只是個簡單的管理過程
+但沒有好用的軟件確實是很痛苦的一件事情
+雖然他們使用的很多都是已有的技術
+但卻把這個過程變得非常簡單
+現在他們不僅佔領了很大的市場份額
+也開始擴展新功能
+但成熟的公司對於這個問題的看法通常是
+他們看了關於薪資管理這個領域
+會感覺市場太小了
+只有小公司有這種需求難有大的作為
+但這僅僅是開始
+因為這是一個進入市場的很好的切入點
+隨著時間推移肯定可以不斷進行擴展
+加入更多服務和功能
+可以說他們的創業
+在開始階段的方向是很正確的
 
 Then next you really want to find asymmetries. You want to do things that incumbents can't or won't do because either the economics don't make sense for them, the economics are so unusual, or because technically they can't. I will give you two examples. So, if you are going to build software today for the enterprise that goes after an incumbent category, that has more of a suite? oriented approach. Then what you are going to want to do is build technology that is platform agnostic. What suite players will do is want everything to be integrated with itself, and theres more value with the vertical integration. But you want to go after a different access. Which you want your technology to work across all the platforms. That way you can work with so many different kinds of customers. You can be an ally to so many kinds of platforms, which a traditional incumbent is not able to do. That is technically infeasible because its architecture or its a fundamental component business model to not do that. The other thing is, trying to do things that is economic feasible. You can look at the cost structure of an incumbent company and discover where they are not going to be able to drop their prices. Because that business model is fundamental to the company. Or where can you find ways of monetizing the customer that are unusual or unique that no one has discovered before, thus making impractical for anyone else to do.
 
+下一點是要找到現有結構的不合理之處
+你會發現-- 哎呀我去
+咱們過後能把聲音調調嗎
+至少讓人感覺我是在唱rap那樣子--
+所以你要做的是
+大公司不能做或者不想做的東西
+原因要麼是因為他們對這裡的利潤不感興趣
+要麼是模式與原來很不一樣
+或者他們在技術上做不到
+我講兩個例子
+如果現在你想要做企業軟件
+但在這個行當裡面
+已經有更大的公司在做了
+那麼你要做的是
+創造出與平台無關的技術
+因為前輩們想做的事情是
+把所有內容都整合到自己的軟件裡面
+這樣的垂直整合能帶來很多價值
+但你要從另外一個角度入手
+你要讓你的技術可以適應任何一種平台
+這樣不同類型的客戶就都可以使用你的東西
+這樣你就可以和各種平台建立合作關係
+這是傳統企業做不到的
+說這種方式對於傳統企業在技術上是不可行的
+是因為他們的軟件已經整合設計好了
+或者說他們商業模式的基本組成
+與這一理念相衝突
+另外一種情況是
+做那些大公司在商業上做不到的事情
+比如你可以看看大公司的成本結構
+找出他們在哪個環節無法降低成本
+因為這種商業模式
+是這些公司無法捨棄的
+或者你可以找出一些用戶的
+獨特的需求
+別人沒發現的需求
+因此這也是其他人做不到而你可以做的東西
 There is a company called Zenefits where they have an HR management software company that helps you as a small startup manage all your benefits, all your HR information. And instead of charging the startup that may not value the software stage they are at, they realize they can get commission from the insurance companies that pays for the ability to use their software. The customer itself is not paying for Zenefits. Zenefits platform is being paid for by the insurance company and they have thus created a business model that no other software company has been able to think of or attack. And they are equally going and disrupting a category that has not seen a lot of innovation previously which is the health and benefits space in small businesses.
+有個公司叫Zenefits
+他們做了一個人力資源管理的軟件
+可以幫助小公司
+管理所有的福利和人力資源信息
+他們沒有對創業公司收費
+也許這樣在他們目前處於的階段沒法獲得價值
+但他們發現可以從保險公司那裡
+獲得佣金
+通過這樣的方式公司可以獲得軟件的使用權
+所以客戶本身是不用給Zenefits錢的
+Zenefits這個平台是從保險公司那裡賺錢
+這種模式是他們原創的
+其他軟件公司沒有考慮過也無法與之抗衡
+因此Zenefits成功打亂了這個市場的格局
+在此之前對於小公司的健康與福利這個領域
+沒有多少創新可言
 
 The next is you want to find the mostly crazy, but still reasonable outliers within the customer ecosystem. So you need to find the customers that are at the edge of the business, their business model, their industry and find the unique characteristics of those customers. Leverage them as your early adopters. Paul Graham has a great article where he talks about living in the future and building what is missing when you are living in the future. Thats an easy way to spot trends and patterns about disruption that is playing out. The same is true in the workplace. If you find customers that are working in the future, you will be able to work with them to find what is missing in the future. And how do we build technology that supports all these new use cases that are going to emerge? There is a company called Skycatch that does enterprise drones. At first it seems kind of weird, but in construction space, farming they are using drones now for data capture and modeling different environments. So this company is able to find all the companies that are on the bleeding edge of their industry. What is unique, or new about how those businesses operate. And they worked with a lot of those early adopters to establish their platform. Which really is first enterprise drone company. So the idea is, go look at your market. Find the customers on the bleeding edge of their market who use technology to get a head. And that use technology for performance advantages, and go work with them to see how your product can evolve.
+下一步是要找出在客戶的生態系統中
+比較瘋狂但又能說的通的一些
+極端情況
+你需要找出
+處於這個邊緣的公司
+商業模式或者領域
+找出這些客戶獨有的特點
+讓他們成為你的早期客戶
+Paul Graham有一篇很好的文章
+他講到要活在未來
+並構建未來缺失的東西
+這是一個發現問題的趨勢與規律
+的一個簡單的方法
+在企業中也是一樣的
+如果你的客戶在做一些比較超前的東西
+那麼和他們合作你就能找到
+你以後要做的東西
+以及如何創造在未來使這些東西
+實現的技術
+有個公司叫Skycatch 製造企業無人機
+一開始可能大家會很奇怪
+但在建築農業石油和天然氣等領域
+他們使用無人機收集數據
+用來對不同的環境進行建模
+Skycatch找到了這些
+處於其自身領域邊緣的公司
+發現了這些公司運作的獨特與創新之處
+這些公司很多都成為了他們的早期客戶
+Skycatch幫助他們建立了平台
+這也使他們成為了最早的企業無人機公司之一
+因此這裡的想法是
+找出那些處於市場邊緣的客戶們
+這些用戶
+通過使用技術不斷進步獲得優勢
+然後與他們進行合作把你的產品整合到他們的企業中
+
 
 Listen to your customers but don't always build exactly what they are telling you. This is a really key distinction around building enterprise software. Your customers are going to have a large number of requests. Your job is to instill those lists down into the ultimate product. This does not mean that you are not going to build exactly what they tell you to build. It is your job to listen to their problems, and translate those into what is going to build the best and simplest solution for them. It's really your job, and Palantir does a really good example of very very complex issues and then scaling them down into simple solutions for complex problems that the customer would not have known how to ask for.
+下一件事是
+我們用5分鐘把這裡講完
+能行吧？
+好聽取客戶的建議
+但不是他們說什麼你就做什麼
+這是做企業軟件時很重要的一點
+你的客戶可能有很多的要求
+你的任務是把這些要求提煉出來用來完成你的產品
+但這不是說他們讓你做什麼
+你就去做什麼
+你要做的事聆聽他們的問題
+然後把這些問題
+轉化為最好的最簡單的解決方案
+Palantir就是​​個很好的例子
+他們面臨的情況很複雜
+但他們提出了一個非常簡單的解決方案
+甚至連他們的用戶也沒有想到
+會如此簡單
 
 You want to modularize not customize. So build a platform as opposed to building all the custom technology and customer vertical experiences into the software itself. Make sure you really think about openness and APIs as a way of building experiences. Don't build that directly into the product. Focus on the user always. The magical thing about building an enterprise software company right now is you can keep consumer information at the center of the product. That will always mean that adoption is easier, that your product has a much better chance of going viral. It becomes easier to sell in the organization. Always make sure you bring consumer DNA into the product. Your product should sell itself. But that does not mean you don't need sales people. So this is a really important distinction. Leverage everything about the internet, leverage everything about users to get to your customers. But you still will likely need sales as a way to help your customers navigate your product, help your customers navigate the competitive landscape and ecosystem. So you are going to want very domain specific sales associates that are going to be helpful for your customer in deploying enabled in these positions. But don't make that be a substitute, don't make that be a handicap for not building a great product. So you fundamentally build a product inside that. A company called Mixpanel comes in through the developer and eventually sells to that organization with a more inside sales process. Also read these three books: Crossing the Chasm, the Innovators Dilemma, and Behind the Cloud. These three combined, if you binge and read them all, you will come out ahead.
-
+你要做的是模塊化而非定制化
+建立一個平台
+而不是把所有定制的技術
+以及垂直體驗都直接做到軟件裡面
+要確保API的開放性
+通過這種方式來提高垂直與定制體驗
+而不是直接把它們嵌入產品永遠要考慮用戶
+對於企業軟件公司
+比較神奇的一件事情就是
+你可以在產品中保留品牌基因
+這樣就很容易被廣泛接受
+你的產品也更有可能進行病毒式傳播
+這樣就更容易賣給其他企業了
+所以要確保在產品開發的過程中
+嵌入品牌的基因
+讓你的產品自己給自己宣傳
+但這不是說你就不需要銷售人員了
+這是一個非常重要的差別
+你可以通過互聯網以及用戶
+把你的軟件賣給其他潛在的客戶
+但同時也需要一些銷售人員
+為你的客戶來介紹產品
+幫助你的客戶
+建立競爭優勢和生態系統
+所以你也需要很多
+以具體領域為導向的銷售人員
+這對於你的客戶在他們的公司中
+利用你的軟件發揮更大作用是非常有利的
+但千萬不要因為這樣
+就放棄了創造一個偉大產品的信念
+所以從根本上在產品中傳遞品牌基因是非常重要的
+Mixed Panel這個公司面向開發者提供軟件
+但隨著時間的推移他們也做了很多
+銷售方面的工作
+你們也可以讀讀這三本書
+《跨越鴻溝》《創新者的窘境》以及《雲攻略》
+他們結合了--
+如果你把這三本書讀完
+你就可以甩開對手
+建立一家龐大的軟件公司
 So in closing, today, right now is an amazing time to start a software company. I wish you the best of luck. If it doesn't work, we are hiring. The only other thing is, please do not compete with me because I have a lot of competition already. Ideally either come work with us or build your own company.
 
 那麼總結下今天的內容
@@ -857,5 +1032,5 @@ So in closing, today, right now is an amazing time to start a software company. 
 如果你失敗了我們還在招人來我們這吧
 另外給大家的忠告就是別和我競爭
 以為和我競爭的已經夠多了
-那麼要么加入我們要么自己創業
+那麼要麼加入我們要麼自己創業
 So thank you very much!
