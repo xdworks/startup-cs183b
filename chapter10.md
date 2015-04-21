@@ -1,4 +1,4 @@
-Lecture 10: Company Culture and Building a Team, Part I 
+# Lecture 10: Company Culture and Building a Team, Part I 
 
 我會以幻燈片與一些個人見解來開頭。但是這次主要是與Brian一起討論一下他是怎樣建立起AirBnB文化的。你們在這裡，已經聽了上面的報告。你們應該知道了怎樣開始。你已經組建了一個團隊，你知道瞭如何構建你的產品。它已經落地，正在成長。你已經知道如何讓人們喜歡它，你已經知道，用壟斷力量去創造一個特別的獨一無二的企業，都是宏大目標。你正在追逐的市場，比紙飛機行業稍微又大了點。所以你已經很棒了，對吧？現在該做什麼呢？
 

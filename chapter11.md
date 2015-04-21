@@ -1,4 +1,4 @@
-Lecture 11: Company Culture and Building a Team, Part II 
+# Lecture 11: Company Culture and Building a Team, Part II 
 
 Sam Altman: 我們邀請到了Pinterest的創始人Ben Silverman，Stripe的創始人John Collison和Patrick Collison，他們三位是當前非常成功的創始人。想必他們在文化和團隊建設方面有獨到的見解。
 
