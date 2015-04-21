@@ -193,40 +193,50 @@ Q: 我其實不是很想提到性別問題。但是我還是想問，對於女�
 A: 女性創始人籌錢的確相對比較難。相關數據已經可以證明這一點。潔西卡（YC 的一位女創始合夥人）即將發佈一系列針對女性創業者的報導。他們中大多數人也說，籌集資金很難。還記得我說過，籌集資金的方式嗎？一定要讓你的初創公司運營良好，這點至關重要。VC 在選項目時通常有自己的標準，當你並不是完全符合時，解決這個問題得方法是使你的公司牛逼閃閃。一兩年前當我發了一張初創公司的增長曲線圖，但我並沒說是哪個公司，但我知道他會讓人們開始好奇。它實際上是一個女性成立的創業公司。他們的融資當時遇到困難，但他們的增長圖表是驚人的，所以我就推了它。讓風投好奇。並問我，那是誰？增長圖表沒有性別，所以如果 VC 首先看到增長圖，狠狠讓他們折服。把項目做得好，才是所有創業公司的好出路。
 
 
-Q: What would you learn in college right now?
+Q: 你現在上大學的話想學什麼專業？
 
-A: Literary theory, no just kidding. Honestly, I think I might try and study physics that’s the thing I feel I missed. For some reason, when I was a kid computers were the thing, maybe they still are. I got very excited learning to write code and you can write real programs in your bedroom. You can't build real accelerators, well maybe you can. Maybe physics, I noticed I sort of look longingly at physics so maybe. I don't know if that’s going to be helpful starting a startup and I just told you to follow your own curiosity so who cares if it's helpful, it'll turn out to be helpful.
+A: 文學理論，開玩笑的啦。我想想，我可能想努力學物理，沒有學好物理是我人生一大遺憾。出於某個原因我很感興趣，當我還是個小孩子的時候計算機正盛行，計算機目前仍盛行。我對寫代碼很感興趣，寫代碼對硬件和環境要求不高，只要有台電腦在臥室裡就能寫。但是卻不能在家裡建直線加速器，當然也有可能建成功應該是物理，我覺得答案應該是物理。我一直想學物理，我不知道…我想表達的是，我不知道學物理是否有助於創業，只要跟著好奇心走就行啦。誰關心是否有助於創業呢？從結果來看還是有助於的。
 
-Q: What are your reoccurring systems in your work and personal life that make you efficient?
+Q: 你有什麼機制，讓工作和生活更有效率呢？
 
-A: Having kids is a good way to be efficient. Because you have no time left so if you want to get anything done, the amount of done you do per time is high. Actually many parents, start up founders who have kids have made that point explicitly. They cause you to focus because you have no choice.
+A: 
 
-I wouldn't actually recommend having kids just to make you more focused. You know, I don't think I am very efficient, I have two ways of getting work done. One is during Y Combinator, the way I worked on Y Combinator is I was forced to. I had to set the application deadline, and then people would apply, and then there were all these applications that I had to respond to by a certain time. So I had to read them and I knew if I read them badly, we would get bad startups so I tried really hard to read them well. So I set up this situation that forced me to work. The other kind of work I do is writing essays. And I do that voluntarily, I am walking down the street and the essay starts writing itself in my head. I either force myself to work on less exciting things; I can't help working on exciting things. I don't have any useful techniques for making myself efficient. If you work on things you like, you don't have to force yourself to be efficient.
+生孩子是提高效率的好方法。因為一旦有了孩子留給自己的時間就少了，如果想在有限時間內把工作做完就得提高效率。其實很多人父人母級別的創業者，深有體會。你必須得專注因為你別無他法
 
-Q: When is a good time to turn a side project into a startup?
+我申明一下，我並不鼓勵大家為了變得專注，而生孩子哈。我自己效率並不高，我有兩個辦法逼著自己把事情做完，一個是在YC的時候。我是這麼逼自己的，我設定答複申請的截止日期，創始人提交申請，我必須在一定時間內答复這些申請，因此我得研究這些申請。如果我沒有研究好就可能會投資一些不好的創業公司。我得努力研究申請書，通過設定截止日期來逼著我工作。另一個方法類似於寫文章，我是不由自主地寫的，就像我走在大街上，文章就自己浮現在我的腦海裡了。我要么是，逼著自己做不是那麼感興趣的事。要么是不自主地做感興趣的事，我沒有什麼好辦法來提高效率。不好意思，如果是做感興趣的事
+，根本不需要逼著自己提高效率。
 
-A: You will know, right. So the question is when you turn a side project into a startup, you will know that it is becoming a real startup when it takes over a alarming large percentage of your life, right. My god I've just spent all day working on this thing that’s supposed to be a side project, I am going to fail all of my classes what am I going to do, right. Then maybe it’s turning into a startup.
 
-Q: I know you talked a lot, earlier, about you'll know when your start up is doing extremely well, but I feel like in a lot of cases it's a gray line, where you have some users but not explosive growth that is up and to the right, what would you do or what would you recommend in those situations? Considering allocating time and resources, how do you balance?
+Q: 把小項目變成創業公司，什麼時候是合適時機呢？
 
-A: When a start up is growing but not much. Didn't you tell them they were supposed to read Do Things that Don't Scale? You sir have not done the readings, you are busted. Because there are four, I wrote a whole essay answered that question and that is to do things that don't scale. Just go read that, because I can't remember everything I said. It's about exactly that problem.
+A: 到時你自然就知道了好時機的標記是什麼？什麼時候？問題是把小項目變成創業公司，什麼時候是合適時機呢？當這個項目開始佔據你的絕大部分生活時，此時這個項目正在變成創業公司，例如當你發現，一整天都花在一個小項目上，要掛科了。我該怎麼辦呢？此時會轉變成創業公司。
 
-Q: What kind of startup should not go through incubation, in your opinion?
 
-A: Definitely any that will fail. Or if you'll succeed but you're an intolerable person. That also Sam would probably sooner do without. Short of that, I cannot think of any, because a large percentage, founders are often surprised by how large a percentage of the problems that start ups have are the same regardless of what type of thing they're working on. And those tend to be kind of problems that YC helps the most not the ones that are domain specific. Can you think of the class of startups? That YC wouldn't work for? We had fission and fusion startups in the last batch.
+Q: 您前面提到如果創業發展非常好的話，你是有感覺的。但是很多情況下，好和差之間是有灰色地帶的，例如積累了一些客戶，但是還沒有漲勢迅猛的業績增長圖。你該怎麼辦？或者說在這種情況下，你建議如何分配時間和資源，如何進行平衡？
 
-Q: You mentioned that it's good advice to learn a lot about something that matters, what are some good strategies to figure out what matters?
 
-A: If you think of technology as something that’s spreading as a sort of fractal stain. Anything on the edge represents an interesting idea, sounds familiar. Like I said that was the problem, you have correctly identified the thing I didn't really answer the question were I gave this question begging answer. I said I'm interested in interesting things and you said you were interested in interesting things, work on them and things will work out.
 
-How do you tell what is a real problem? I don't know, that's like important enough to write a whole essay about. I don't know the answer and I probably should write something about that, but I don't know. I figured out a technique for detecting whether you have a taste for generally interesting problems. Which is whether you find working on boring things intolerable and there are known boring things. Like literary theory and working in middle management in some large company. So if you can tolerate those things, then you must have stupendous self-discipline or you don't have a taste for genially interesting problems and vice versa.
+A: 創業公司有發展但是發展不快，對的。你有沒有告訴同學們重新閱讀《Do Things that Don't Scale》？，同學你沒有做好功課啊，你不及格，哈。就這個問題我寫了篇文章《Do Things that Don't Scale》回去後好好讀哈。我忘了我在文章裡是怎麼說的了，文章講的就是這個問題。
 
-Q: Do you like Snapchat?
 
-A: Snapchat? What do I know about Snapchat? We didn't fund them. I want another question.
 
-Q: If you hire people you like, you might get a monoculture and how do you deal with the blind spots that arise?
+Q: 你認為什麼類型的創業公司，不會被孵化？
 
-A: Starting a startup is where many things will be going wrong. You can't expect it to be perfect. The advantage is of hiring people you know and like are far greater than the small disadvantage of having some monoculture. You look at it empirically, at all the most successful startups, someone just hires all their pals out of college.
+A: 當然是注定失敗的公司了，或者是能成功。但是如果創始人讓人難以忍受的話，Sam也是不會同意孵化的，別的想不到了。大部分創業者，驚奇地發現，無論他們開的是什麼項目的公司，他們面臨的問題大部分都是一樣的。YC能提供幫助最大的問題，並不是創業內容領域的問題。你能想出哪類公司，YC是幫不上忙的嗎？反正我想不到，上一批孵化的創業公司中有做核聚變和核裂變的。
 
-Alright you guys thank you.
+Q: 你前面提到，要學習重要的知識。什麼方法可以確定哪些是重要知識？如何確定哪些是重要知識？
+
+A:我前面說過，可以把技術想成是不規則的水滴，其邊緣上的每個點都是有意思的創意。還記得吧？如何確定？如我所說這是問題的核心，你說出了我並沒有回​​答的部分。我並沒有給出明確答案，我前面說我對有意思的東西感興趣，如果對有意思的東西感興趣，著手做就行一定會有成果的。
+
+但是如何判斷什麼樣的問題是好問題呢？我也不知道。這點很重要值得寫篇文章，我也不知道答案。我應該寫篇文章，我也不知道答案。我知道一種方法可以判斷你是否對有意思的事情敏感，就是你無法忍受無聊的事情，有很多事情很無聊比如文學理論。再比如在大公司做中層管理，如果你能忍受這些事情，那麼你要么有驚人的自律，要麼你無法判斷某個問題是否有意思，反之亦然
+。
+
+Q: 你喜歡 Snapchat 嗎？
+
+A: 我對Snapchat不了解，我們沒投資他們公司。
+
+Q: 您講到的僱人方法，可能會導致單一文化，單一文化固然有很多好處，您如何看待由此產生的盲點呢？
+
+A: 創業中，會出現很多問題，不能奢望完美無瑕。僱自己認識和喜歡的人的好處，遠大於由此產生的單一文化問題。由經驗來看，所有最成功的創業公司，在初期招募的都是大學朋友。
+
+謝謝大家。
