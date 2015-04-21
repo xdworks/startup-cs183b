@@ -65,7 +65,7 @@ Whats App的Jan是另一個好例子，Jan一直公佈的是發送信息數目�
 
 在準備本課的講義時，有很多東西都很精彩，都想把鏈接給大家。，我不知道如何取捨，我前面介紹的留存曲線，有一個鏈接是Danny Ferrante講關於留存曲線的，關於激動時刻， 有兩個視頻鏈接： 一個是Chimoff講增長的，他在Facebook創立了增長團隊，另一個是我的朋友Naomi和我四年前，講當時我們是如何看待增長的這兩個視頻都涉及到激動時刻。你們在註冊Facebook時激動時刻是什麼？當你按下註冊按鈕時此時的激動時刻是什麼？
 
-Audience: See your friends.
+Audience: 看到朋友在使用
 
 Schultz: See your friends. Simple as that. I’ve talked to so many companies, and they try to get incredibly complicated about what they’re doing, but it is just as simple as when you see the first picture of one of your friends on Facebook, you go ‘Oh my God, this is what this site is about!’ Zuckerberg talked at Y Combinator about getting people to 10 friends in 14 days; that is why we focus on this metric. The number one most important thing in a social media site is connecting to your friends, because without that, you have a completely empty newsfeed, and clearly you’re not going to come back; you’ll never get any notifications, and you’ll never get any friends telling you about things they are missing on the site.
 
