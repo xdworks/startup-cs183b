@@ -2,14 +2,73 @@ Lecture 11: Company Culture and Building a Team, Part II
 
 Sam Altman: Part two of Culture and Team. We have Ben Silbermann, the founder of Pinterest, and John and Patrick Collison, the founders of Stripe. Founders that have obviously, some of the best thinking about culture and building their teams.
 
+我們邀請到了Pinterest的創始人Ben Silverman
+Stripe的創始人John Collison和Patrick Collison
+他們三位是當前非常成功的創始人
+想必他們在文化和團隊建設方面有獨到的見解
+
 
 There's three areas we are going to cover today. One will be general thoughts on culture as a follow up on the last lecture. And then we are really going to dig in to the findings of these companies and building out the early team. Then how that changes and evolves as these guys have scaled their companies to the hundred plus, I don't even know how many employees you have now but quite a lot, these very large organizations and how they adapt these principles of culture. But to start off, I just want to ask a very open ended question which is, what are the core pieces of culture that you found to be the most important in building out your companies?
 
+我們今天主要探討三個方面的問題
+第一個是對文化的整體的思考
+接著上節課的內容繼續討論
+然後我們會深入討論
+他們兩家公司是
+如何組建最初團隊的
+以及如何隨著公司的發展而變化的
+當公司隊伍擴大到100人時該怎麼做
+我不清楚你們公司現在有多少人肯定不少
+當公司發展壯大時
+如何調整文化戰略
+我拋磚引玉問一個寬泛的問題
+你們認為在創建公司中
+文化建設方面最重要的是什麼？
+
 Ben Silbermann: Sure. What are the most important parts? For us, we think on a few dimensions. One is who we hire, what those people value. Two is what we do every day. Why do we do it? Three is what we choose to communicate and I think four is how we choose to celebrate. Then the converse of this is what you choose to punish, but in general I think running a company based on what we celebrate is more exciting than what we punish. I think, the four things I think make up the bulk of it for us.
+
+對我們公司而言有這麼幾個方面
+第一是僱傭什麼樣的人？
+這些人的價值觀是什麼樣的？
+第二個是每天做什麼？為什麼這麼做？
+第三是傳遞什麼？
+第四是獎勵什麼？
+當然與獎勵相對的是懲罰
+我認為推崇獎勵的公司要比推崇懲罰的公司
+更有活力
+這四點構成了我們公司文化的框架
 
 John Collison: One thing, I think Stripe has placed a large emphasis on, more so than other companies, is transparency internally. I think it's something that's been really valuable for Stripe, and a little bit misunderstood. All the things people talk about, like hiring really great people or giving them a huge amount of leverage.
 
+與其他公司相比
+我們公司在發展中更加重視
+內部透明性
+這點對於我們公司而言非常重要
+也容易導致誤解
+一般的公司經常強調的是
+招募人才給他們良好的發展空間
+
 Transparency for us plays into that. We think that if you are aligned on a high-level about what Stripe is doing, if everyone really believes in the mission, that if everyone has really good access to information, and everyone has a good picture of the current state of Stripe, then that gets you a huge amount on the way there in terms of working productively together. And it forgives a lot of the other things that tend to break as you grow a startup. So as we have grown, we started off two people, we’re now a hundred seventy people, we’ve put a lot of thought into the tooling that goes around, transparency. Because with a hundred and seventy people, there's so much information being produced that you can't just consume it all as a fire hose. And so, how we use email, things like that, we can go into it more later. But that's one of the core things that helped us work well.
+
+而我們經常強調的是透明性
+我們認為如果員工能被授權
+看到Stripe的一舉一動
+如果所有人都堅信公司使命
+如果所有人都能
+知曉公司的現狀
+這樣就會看到
+大家在努力高效地協作
+這樣就會化解
+在創業中遇到的很多問題
+我們公司最初只有兩個人
+我們現在有170多個人
+我們在如何使“透明性”高效運作方面
+花了很多心血
+我們有170多個人每天產生那麼多信息
+不可能讓所有人一下子都消化吸收了
+我們用slack 用郵件等等方法
+後面再詳細介紹
+我認為這一點對於我們公司發展很重要
 
 Patrick Collison: I think culture, to some degree is a resolution to a bandwidth problem. In the sense that, when you start out working on something you are coding all the time, but you can't code all the things that you think the product may need. And so the organization gets larger. Maybe in some idealized world, I don't actually think this is true, but ideally you should be involved in every single decision, in every single type of moment of the company, everything that happens, but obviously you can't. Or maybe you can if you're two people, but you certainly can't if you're five or ten. At that time, it comes very quickly, by a hundred and fifty, it's completely hopeless.
 
