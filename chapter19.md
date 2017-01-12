@@ -1,247 +1,395 @@
-Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying 
+Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying
 
-Tyler: Ok. Great! Thanks for having me.
+感謝Sam的邀請，我叫Tyler 是Clever公司的CEO。
 
-My name's Tyler. I'm the CEO of Clever. What I want to talk today is about sales. I graduated college, where I studied math and statistics, and thought I was destined for this world of finance. I was about to start at a hedge fund, but at the last second a friend of mine roped me into joining his startup to do sales, which I knew nothing about. I had to figure it out on the fly. I spent a couple of years there figuring out sales for this very early stage company. When it came time to start Clever, I started Clever with two co-founders who were very technical and very product oriented. We wanted to build this product for schools and I thought that experience would have no relevancy whatsoever. It turns out that what I picked up while doing sales at this previous job has been a huge part of what’s made Clever grow so quickly today.
+我今天要講的是銷售，先給大家說說我是怎麼走上銷售這條路的，我大學時學的是數學與統計，在座的同學中應該有學這個專業的，我原以為我會投身金融行業，我原打算進一家對沖基金公司，就在入職前夕，一個朋友說服我加入他的創業公司，並且讓我做銷售。
 
-A quick background on Clever: we build software for schools. We are an app platform for developers that is used today by about one in five schools in America. We started it about two years ago.
+而我對銷售一無所知，我臨時抱佛腳學習起了做銷售，花了數年的時間研究初創公司的銷售問題，後來我創辦了Clever，是和兩個合夥人一起創辦的。他倆都是專業人士，其中一人專研產品，我們的產品面向學校，我原以為原先的工作經驗跟現在不搭邊。
 
-Sales has been key. I want to use this time to share some of the things that have worked for me along the way. Of course, there's a million ways to do this, so you'll find what works for you.
+不過實際上原先的銷售經驗，對於Clever的迅速發展，起了至關重要的作用，簡單介紹一下Clever吧，我們為學校開發軟件產品，並為開發者提供應用平台，目前美國1/5的學校在使用我們的產品，還有Clever創於兩年前。
 
-First I want to start about how I used to perceive sales. A lot of people see sales as having mystique around it. It's people who are articulate and impossibly charming. They have these killer closing lines that they use. This is how I saw sales. I think this is how a lot of founders I talk to see sales because they say things to me like, "You know, we're just going to work on the product and build a great product and then when it's finally finished, we're going hire the sales people." What I've learned is that when it comes to "hiring the sales people," as a founder, the reality is that it's you. Paul Graham likes to talk about how there's two things you should be doing at any point in time when you're starting your company. You should be either talking to your users or building your product. The talking to your users part, that's selling. This is intimidating to some people because they're like, "I've never done sales, and I wouldn't even know where to begin." It turns out that as a founder you have some unique advantages that make it possible for you to be really, really good at sales. One of those is your passion for the product and what you're building. The second is your knowledge of the industry and the problem that you're solving. Those two things actually totally trump sales experience from what I've seen.
+銷售是很重要的一部分，今天我要與大家分享一下我的銷售經驗。當然做銷售的方法有千萬條，大家可以找到適合自己的方法，首先給大家講一下我原先對銷售的印象，很多人覺得銷售挺神秘的。
 
-This is actually my co-founder doing sales. This is what sales looks like in the very early stage of a startup. It's not Don Drapers. It's a lot of calls like these. This is something that even as a founder who has never done it before, is very easy to do but you have to commit yourself. What we did at Clever is we dedicated one founder, which was me, to peel off and say, "Ok, Tyler you gotta go figure this out and work on this full time because it's so important to our business."
+銷售人員一般是口齒伶俐魅力無窮，並且還有一些殺手鐧。這是我原先對銷售的印象，我跟很多合夥人交流過他們也有同樣的印象，他們經常這麼​​說：我們要開發一個非常棒的產品。等開發出來後，就僱一些銷售人員賣就行了。
 
-The first thing that everybody knows about sales is it's a funnel. You have these different stages of the funnel and you move your customers through it. A pretty common category is the prospecting category. We were trying to figure out who's even interested. Then you're having a lot of conversations, which is the second level of the funnel. Then you're finding out who's really serious and you want to close them and sign the deal. Then you're in the promised land of revenue. I thought it would be interesting to talk about each stage and a couple of strategies that we've used at Clever that have worked well, so that these aren't abstract but hopefully lessons you can use at your start up.
+經驗告訴我：所謂的銷售人員就是創始人。Paul Graham經常說：運營創業公司的話，在任何時間點，創始人要麼在和用戶交流要麼在開發產品，跟用戶交流其實也屬於銷售的一部分。對於從未涉足銷售的人來講，銷售有點棘手因為甚至不知道從哪入手。
 
-Prospecting is the process of figuring out who will even take your call. There's this guy at Everett Rogers who has created a technology life cycle adoption curve. He describes it as a bell curve where you have innovators who will try new things, early adopters, mid-stage adopters, late adopters, and laggers. One of the things that was really helpful for me in understanding sales at an early start up is he's quantified the tail of this bell curve. This part over here are innovators, those are your potential customers. It might seem discouraging that only 2.5 percent of companies are your potential customers or would even consider buying from a startup that has no users and no revenue, but I found the opposite. I found it extremely helpful to have this frame of mind because when only 2.5 percent of companies will even take your call or consider using your product, you realize what a numbers game this becomes. If you want to reach that 2.5 percent and you want to get some early sales, you're hopefully starting to realize you have to do a lot of calling. You have to talk to a lot of people.
+事實上創始人做銷售，有一些獨特的優勢。第一是對產品的熱情，第二是對所從事的行業熟悉。對要解決的問題熟悉，我認為這兩樣是做好銷售的兩大法寶。
 
-In the early days Clever, this was my job. In the first two months of YC I reached out to over 400 companies trying to to get them to take a call and talk to us about what we were building.
+圖中所示的是我的合夥人在做銷售，這是初創公司的銷售常態，我不是Don Draper那樣的傳奇人物，我得天天打很多電話。即使創始人以前從沒這樣做過，也是挺容易上手的，不過得全身心投入。
 
-There are three methods that I have found to be most successful in prospecting and getting these people. One is your personal network. That's obvious. I'm not going to spend any time there. Another one is conferences, which is surprising to a lot of people. The one that people are most familiar with is cold email. When I say conferences, people think I am talking about CES or E3. The kind of conferences where sales happen look more like this. In the early days we would go to a lot of these because you've got to go to where your users are. If you're selling to CIO's and there happens to be a gathering of them at a hotel in Milwaukee, guess what? That's where you should be. So we went to conferences like these. We got the attendee list in advance. We'd email every single person in advance and try set up meetings so when we got there every single minute of that trip was was well spent. It was huge in Clever's early days. This is where met all of our earliest customers.
+我們Clever對於銷售非常用心，指定一位創始人也就是我，專門做銷售。因為銷售對於Clever至關重要，在學著做銷售的過程中，我有了一些心得。大家都知道的第一點是，銷售是“漏斗狀”的，並且可以分階段地將用戶“過濾”出來，一般分成以下幾個階段。
 
-The second thing I mentioned is cold email. A lot of people don't know how to write cold emails. It's actually easy and the key is not to write a lot. Your email should be concise. This is an email template that I used early on. You're welcome to copy it but it's really short. Here's who I am. Here's what I'm building. I'd love to talk to you about this. Could we find time tomorrow? It's really easy and you can customize this for every business you want to sell to. Find out who the right person is to send it to and you can send out quite a few of these.
+首先是勘探階段，在該階段要找出哪些人對自己的產品感興趣。
 
-That's prospecting. The reason this so important is because you have to build that first layer of the funnel.
+第二階段是，與感興趣的人熱情地交流。然後找出哪些人會買產品，搞定他們並簽訂協議。
 
-Then you have to get them to take your call. This is another place where a lot of founders have questions about what to actually do. The biggest thing to take away, in fact if you ONLY take away one thing from this presentation today this should be it, is when you get them on the phone, remember to shut up. That's really surprising to people. So many founders, when I help them with their first sales pitch, would finally get somebody on the phone who wanted to talk to them about their product and they'd be so proud of this thing that they'd been building for the last three months that all they wanted to do was get on the phone and talk about every feature and talk about why it's the greatest thing in the world. I have that temptation too. It's just part of being really proud of something.
+最後是最開心的入賬階段了，我們針對每一階段都有一些策略，對我們而言這些策略的效果不錯，我來給大家講講，希望大家覺得有用。這些策略不僅僅針對我們的產品，大家也可以拿來用，先說“勘測”，該階段要做的就是，找出那些願意接你電話的人。
 
-It turns out that if you watch the best sales people, the top one percent, or you have a chance to listen in on a call with some of those people, the most surprising thing is how little talking they do. In fact I've seen calls where the sales person told me their goal was to only spend 30 percent of the call talking and have 70 percent of the call be the other person. They would ask a lot of questions. They'd say things like, "Why did you even agree to take my call today?" "This problem that we're talking about solving for you, how do you solve it today?" "What would your ideal solution look like?" They're not doing the talking. They're doing everything they can to find out what this person needs and hopefully understand their problem even better than they do. That's what really great sales is. This is something I drill into everybody at Clever. It's a really important part of sales. If any of you use UberConference, they have this amazing feature where when you hang up a call it sends you an email automatically and tells you how much you talked versus how much the other person talked. Looking at one of those emails, I can tell immediately how likely the sale is based on how much talking we were doing. Do a lot of listening. Really understand their problem.
+我有一點體會，Everett Rogers發明了，技術採用生命週期曲線圖，他描述成了一個鐘形曲線，（從左往右）首先是創新者他們是技術的狂熱追隨者，第二部分是早期採用者，然後是早期大眾、後期大眾落後者。在理解初創公司銷售方面，這個圖對我很有幫助的一點是：
 
-The other part of this stage that surprises a lot of people is you have to follow up. Here's a lot of different steps that you go through: emailing somebody, not getting a response and emailing them back. Calling them, leaving a voice mail. Having a pricing call. There are probably sixty things on this slide that could be steps for closing a deal. These aren't random things -- this was the second deal Clever ever signed. These are all the different steps that we had to do in order to get this done. You can see there's a lot of really embarrassing things up there. I emailed somebody and they didn't respond. I emailed them again and they didn't respond. I emailed them again. This was from somebody who wanted to buy our product. Isn't that crazy? That surprises a lot of people. I see so many founders who think they have a great call with someone and send an email, but don't hear back. They say, "Oh that person might not be interested." Well guess what? This is what it looks like in the best case. You really have to have kind this unhuman and unreasonable willingness to follow up and drive things to closure.
+這個曲線的這個頭也就是創新者部分，就是潛在客戶，在初創公司既沒多少用戶也沒什麼收入時，會考慮從這樣的公司購買產品的商家（消費者）只佔2.5%。
 
-I qualify with that with one thing which is to say when starting a company your time is extremely valuable because it's your only resource. You couldn't possibly do this for every single person who might buy your product. Your goal should be to get people to a yes or no as quickly as you can. Where you die is if you have a thousand maybes and sometimes I talk to founders who say, "Oh yeah I have this great pipeline of a hundred people who have expressed interest in our product." The maybes are what kill you. If you can get to a yes or a no, in some ways a no is even better than a maybe because it allows you to move on and focus somebody who might be a yes.
+看似讓人有點失望，不過我認為恰恰相反，我認為認識到這一點是非常重要的：只有2.5%的人會接你的電話，或考慮使用你的產品，你就知道了這是個什麼樣的數字遊戲了，如果想接觸到這2.5%的客戶。
 
-So, have a super human level of follow up and ambition, but make sure you're focusing it on the right pieces.
+如果想在創業初期把產品賣出去，用簡單的數學算算就知道，得打很多電話，得和很多人磨嘴皮子。
 
-Alright, so you've talked to a ton of people. You've had all these phone calls. You've followed up with them to the point where they know you're not going away and they've got to sign an agreement. This final step is something if you haven't done before it might seem hard but it's actually really simple. It's called red lining. You'll send over an agreement and their lawyers will mark it up. Your lawyers will also mark it up and you kind of go back and forth. If you're part of YC this is really easy because YC has standard template agreements that they give you so you can just use those. But if you weren't part of YC you have to figure this out on your own.
+在Clever創業早期我負責銷售，在加入YC前兩個月，我給超過400家公司打電話，跟他們介紹我們的產品。我認為在爭取用戶方面，有三種方法是最有成效的。
 
-One of the things that I am really excited about is as part of this presentation, YC has agreed to open source their deal documents. The documents that YC founders use are going to be available to everybody. So this should never be a barrier to anyone who wants to do sales for their start up. You've got some great documents. The other place where so many smart people go wrong is they don't remember what their goal is. Your goal is to sign some deals, get some reference customers, get some validation, and get some revenue. If you don't do that, your startup is toast.
+第一是人脈這點很顯然我就不多費口舌了。第二點是會議很多人認為有點不可思議，大家最熟悉的是“冷郵件”。我一提到會議很多人想到的是，像CES（國際消費類電子產品展覽會）或E3（電子娛樂展覽會）這樣的盛會，實際上我所說的會議，是圖中這樣的。
 
-In light of that it's really surprising how many smart people will want to do ten rounds of document review over the most minor points because of pride. Whatever. Make sure the agreement is the way you want it but then sign and move on. I've seen founders spend month quibbling over some indemnification clauses. Their business would have been way better off if they'd just signed the deal and moved on to the next one. That's one trap you can fall into.
+在創業早期我們參加了很多這樣的會議，因為得靠這些會議找到潛在用戶，如果想把產品賣給首席信息官們，而且他們恰巧在Milwaukee的酒店有聚會，你也得參加。我們會參加這樣的會議，提前拿到與會人員名單，並且給他們每個人發郵件，盡力跟他們約時間會面，合理安排每分鐘時間。
 
-Another trap that I see founders struggle with a lot is they're talking to a company who says, "I will use your product but I just need one more feature." Or they say, "You know I'd love to use your product but it doesn't have this one feature. So we're just not ready." To most people, especially if you're ambitious, when somebody says that to you, what you want to think is, "Oh. I can build that feature and then they're going to use my product." The problem is it almost never works that way. Somebody telling you that they want to use your product but it's missing this one feature, I would almost map that to a pass in your mind. Nine times out of ten if you actually build that feature and go back to them, there will be one more feature or some other reason that they're not using the product.
+這對Clever的早期發展很重要，我們就是通過這樣的方法接觸到早期的客戶的。
 
-If somebody says to you, "There's this one thing that's preventing us from using your product." I would do one of two things. One say, "Well that's great! Let's sign an agreement and we'll put in the agreement that we're going to build this feature." In which case, if you build it you're off to the races. More commonly, what we did at Clever was we would say, "That's great. We're going to wait to see if we hear that demand from more customers." Once you have a lot of customers requesting it, then you should build it. Then you don't have to worry about doing something that's a one off, which is what you really want to avoid.
+我要說的第二種方法是冷郵件，很多人不知道怎麼寫，其實挺好寫，關鍵點就是寫得別太多，要簡潔。ppt上是我以前使用的模板，大家可以拷回去用。寫得很簡短包括：我是誰，我們做的是什麼樣的產品，我希望能與您交流一下。我們可以明天約個時間見面聊嗎？
 
-The other trap I would highly recommend you try to avoid is the free trial trap. The customer says, "Can I get a free trial?" You can't blame them that’s a totally reasonable thing to ask for. The problem is when you are starting a startup you need revenue. You need validation. You need users. You need commitment. Free trials get you none of those things. You do all this work and if you end up with a free trial, unfortunately you haven't made as much progress as you think, it's actually terrible. You think you've made progress but at the end of the free trial you’re going to have to sell them all over again. The way I handle this that has worked really well is that when somebody says, "Can I get a free trial?" you say, "We don't do free trials. We do annual agreements and what we'll do is for the first 30 or 60 days, if for any reason you're not happy, you can opt out." That's a way to get you the things that you need while giving them the comfort that they might need to take a chance on a startup. That minor change actually makes a night and day difference when you're thinking about these things.
+挺簡單的，根據產品和收件人的情況，大家可以相應修改一下，就可以發出去了。
 
-Alright, so you've prospected. You've had a lot of conversations. Now you've closed people. You've gone through the red line process. You worked out the free trials. You're on your way to your first sales. Early on, you can think of sales as just like any other thing at a startup. You don't have to do things at scale. In fact you can purposely do unscalable things to try and get early customers. That's the fun part. The other thing that is important to keep in mind is once you've done this enough, what you should start thinking about is what aspects of this are repeatable. What aspects are we going to scale further? Christoph Janz wrote this really great blog post online about the five ways to build a hundred million dollar company. He talks about how he can have a thousand customers buy a product that costs a hundred thousand dollars. Or he can have ten thousand customers buy a product that cost ten thousand dollars. Or he can have a hundred thousand customers by a product that cost a thousand dollars. Even though you don't need to know on day one which bucket you're going to fall into, most companies do fall into one of these buckets. If you want to be in the elephant category of a hundred thousand dollar product, you're going to have a really high touch sales cycle. That's Salesforce. That's Workday. If you think that you're going to be a rabbit and sell products for a thousand dollars a year and your sales process involves flying out to see them, and eight demos, and three months of redlining, then you probably have to rethink something.
+這就是勘探階段要做的事情，勘探之所以重要，是因為它是銷售漏斗的第一個環節。然後得讓對方接你電話，關於這點如何做，很多創始人對此有疑問。最重要的是，如果你今天只能學到一點的話就是這點，最重要的是：
 
-I see a lot of startups who want to be rabbits that don't think about how to do it in a scalable way. That's one area where you can get under water or it just forces you to increase your prices.
+接通電話後，切記要閉嘴。很多人覺得不可思議，我幫助過很多創始人做早期銷售，他們通常犯的錯誤是：好不容易找到了願意接電話的人。他們對於自己奮斗三個月的成果，太自豪了。以至於一接通電話他們就巴拉巴拉地說產品的特點，說產品的功能，說為什麼自己的產品是世界上最好的，我也有這樣的傾向，就是因為對自己的產品太自豪了。
 
-This is how I think about different businesses. It will be helpful for you when you get started and once you've done sales to say, "Ok, where am I?" The corollary to that is, "How do I have to price my product to be a viable business?"
+不過實際上如果觀察最好的銷售人員，全世界前1%的銷售人員，如果你有機會聽一下，這樣的人打電話（我就听過），令人驚訝的就是他們說話竟然很少！
 
-Those are some of the things I figured out building sales at a few different companies, specifically on this very narrow stage of zero to one million. After you get to one million, you'll find there's a million blog posts about how to get from five million to fifty million or ten million to a hundred million, but not the zero to one step. I wanted to focus the presentation on that because there's not as much written about it and it is something that I think is very opaque to our founders. I figured this out just by doing it and I'm confident that if you're starting a company you can too. If for whatever reason you would like to join a startup that's figured it out and hone your skills and hone your craft, we are hiring at Clever. That's an option. If you do want start your own company and you have questions about sales, I put my email address up here. Feel free to reach out at any time. I am happy to help.
+其實很多優秀的銷售人員告訴我，他們的目標就是，自己說話時間佔整個電話的30%，對方佔70%
+，他們會問很多問題，比如“您為什麼會接我電話呢？”“我們的產品可以為您解決的這個問題，您目前是怎麼解決的呢？”“您認為什麼樣的是理想的解決方案呢？”
 
-Thank you.
+他們不是主要說話的那個人，他們做的是盡力找出對方的需求，他們希望能比對方自己更了解對方的問題，這樣才是好的銷售方法。我灌輸給Clever每個員工，這種做法的重要性。
 
-Sam: Thank you very much! That was awesome! Now we're going talk about a little more about how to raise money. Michael Seibel is first going to talk about how you give a pitch and then Qasar will do investor role playing.
+如果大家用過Uberconference，就會知道該應用有個很棒的功能，當你掛掉電話就會自動地收到一封郵件，告訴你你說了多少時間。從這些郵件中能看出一些事，如果我能收到我們Clever銷售人員的通話信息，我根據銷售人員說話時間的多少，馬上就能知道單子做成的可能性有多大，給潛在客戶打電話時，多傾聽理解對方的需求。
 
-Qasar: Yeah, so this isn't mind blowingly new. It really is a basic blocking attack. And the one point we wanted to make before we get started is we actually don't spend a lot of time at YC focusing on this. The main reason is the best way you can make your pitch better is to improve your company. If you - if you have traction and your product is doing well - these conversations are like the investors want to see you succeed. If you remember anything, it's make your company better and the pitch will be easier.
+該階段還要做另一件事：跟進。很多人想不到跟進，大家可以想到要有很多步驟要做，給對方發郵件如果得不到回應，再給對方發一封，給對方打電話留言，ppt上列出來了。
 
-Sam: We're going to spend the time in three kinds of sections. Before the meeting what Michael will kind of focus on will do kind of a role play what meetings actually look like and then we'll just wrap it up. We are going to do Q&A at the end. We'll save five minutes. If there is something we don't cover please write down your questions and we'll go through them.
+要做成一個單子大約有60個步驟，以上不是我隨便列出的。
 
-Michael: My name is Michael Seibel. I am a current YC partner. I started two companies. One was called Justin.tv, which I ended up selling to Amazon. The other was called Socialcam, which sold to Autodesk. What I want to do is break down and demystify the process of creating a pitch. What happens too often when I see companies coming to talk to me is that they don't know how to simply explain what they do or how to ask for money. That's basically what you have to do as a founder.
+是我們Clever做成第二單時切身經歷的，為了做成這單，我們經歷了以上所有步驟。
 
-We're going to go over four things. The first is your 30 second pitch. You need to be armed with this constantly. This is basically how you talk about your company. It's magic. Whether you're talking to people who want give you money or don't want to give you money, this is your go to.
+大家可以看到其中有很多令人尷尬的事，比如給對方發郵件對方沒有回應，再發對方還是沒有回應，再發，對方確是想買我們產品的人啊，令人抓狂很多人覺得不可思議。
 
-The second is your two minute pitch. This is for people who are more interested. This is people who you might want to raise money from or people who you might want to get hire. People with whom you need to get a little bit deeper. Notice that's where I stop. A lot of people practice ten/thirty minute pitches or hour pitches. That's all garbage. You can get everything you need done in two minutes. One thing I like to tell founders is the more you talk, the more you have an opportunity to say something that people don't like. Talk less and it will probably be better.
+很多創始人與對方電話聊得很愉快，再給對方發郵件卻得不到回應，他們就認為對方可能是不感興趣，做成一單就得花很多心思，你得有超出常人般的毅力，做跟進，直到把單子拿下。
 
-I want to tell you about when to fundraise because I think a lot of companies get this a little bit wrong. And then quickly how to to set up investor meetings.
+與此同時要注意一點，創業的話，時間非常寶貴。而且時間還是自己唯一的資本，不可能對每個有可能的顧客，都跟進得這麼緊，所以你的目標就是讓對方儘早給個准信，買還是不買。
 
-The 30 second pitch is so simple. It's three sentences. You can take your time. You can breathe when you do this. You don't have to get that much information out. The first is one sentence on what your company does. Everyone I meet for the first time screws this up. You have to be able to do it in a way that is simple and straight forward, that requires no further questioning on my part. You have to assume I know nothing. Literally nothing about anything. This is how you make it super simple. What we tell people is apply the Mom test. If in one sentence you cannot tell your mom what you do, then rework the sentence. There is a one sentence explanation that your mom or your dad is going to understand. So really, really start there. It's ok if you use basic language. It's ok if you say, "Hey we're Airbnb and we allow you to rent out the extra room in your house." That's simple! You don't have to say, "We're Airbnb and we're a marketplace for space." I don't know what that is! That's going to require more time. Use simple language, it's very important.
+似是而非會折磨死人，有時跟一些創始人交流，他們告訴我：進展的不錯。有一百個人對我們的產品感興趣，這種不確定會害死你。你要得到的是個肯定答案“要”還是“不要”，有時“不要”甚至比含糊不清要好，因為這樣你就可以放心大膽地去找下一位買主了。
 
-The second is in a multi-billion dollar market, it's pretty simple to do this. You know Airbnb might say, "How big is the hotel market? How big is the vacation rental market? How big is the online hotel booking market?" These are simple numbers to look up on Google. It makes an investor understand, "Oh wait. If we're big, if we really blow this company up, it could be worth billions of dollars." Don't skip this up. Second sentence. How big is your market?
+要有超乎常人的毅力和決心來跟進客戶，不過得確保跟進對人了才行，已經與很多很多人交流過了，已經打了無數個電話了，已經義無反顧地跟進了，已經到了不簽你是不會罷休的程度了，他們不得不簽協議了，然後就到了最後一個步驟了。
 
-Third sentence, how much traction do you have? Ideally this sentence is saying something on the order of, "We launched in January and we're growing 30 percent month over month. We have this number of sales. This amount of revenue. This number of users." Very simple. If you can't speak to traction because you're prelaunch, you need to convince the investor that you're moving extremely quickly. "The team started working in January. By March we launched a Beta. By April we launched our product." Convince the investor that you guys are moving fast and that this isn't some long slog. You guys aren't thinking about this like a big corporation. You're thinking about it like a startup where you can move fast and make mistakes. That’s all you have to do in 30 seconds. Three sentences. From that basis you should be able to start a conversation about your company. From that basis I understand exactly what you do. You have no idea how valuable it is to be able to explain to someone what you do in 30 seconds. Internalize that. If you take nothing else away, that's going to help you.
+如果以前沒做過的話會覺得有些不知所措，其實很簡單，叫做“紅線標示”。你給對方發一份協議對方律師閱讀標註，你的律師對他們的修改進行標註雙方來來回回討價還價，如果你加入了YC 那麼這一階段就很容易操作了，因為YC會給你標準的協議模板，你就不用自己弄了用模板就行。
 
-Ok. Two minute pitch. Now you got someone you actually have to convince of something. Maybe even someone you have to ask for money. So I like to add four additional components. And these also go by very quick. The first is unique insight. Now if you talk to VC's they'll say stuff like, "What's your secret sauce? What's your competitive advantage? What's unique insight?" It's all the same thing. When I think about unique insight, what I think about is here's your opportunity to tell me something that I don't know. Here's your opportunity to tell me something that the biggest players in the market you're trying to enter don't understand. Or don't do well. This is the AHA moment and you better have it down in two sentences. The AHA moment. So you got to crystalize all the reasons why you guys are going kill the competitors or the really intelligent thought that got this business started in two sentences. And I need to AHA. You can see whether it's happening when you're saying it. That's why I like two sentences so you get in and out fast. So if I look at you and I'm like, "Uh." Then it's ok. You nailed it. If I look at you and I'm like, "I already knew that." Then you didn't nail it. If I looked at you and I just don't understand what you're talking about you definitely didn't nail it. So practice that unique insight. In your two minute pitch that's all you’re going to get - you're only going to get two sentences to get that out there. So it can't be complicated. And that's basically the theme of this whole thing right? It cannot be complicated.
+如果你沒有加入YC的話，就沒有現成的模板可用，就得自己動手弄了。
 
-Next - how do you make money? You know your business model. I see so many founders run away from this question because they think things like if I say advertising people are going to be like "Oh that's stupid." Just say it! Don't run away. If it's advertising - say advertising. Facebook's a massive advertising business. So is Google. If it's direct sales - it's direct sales. If it's you know a game and you're selling in app add ups - like that's fine. Just say it. Don't run away from the sentence. It only has to be one sentence long. Where founders get tricked on how you will make money is they say, "Well - we're going to run advertising. Maybe some virtual goods. We're going to figure out how to this. And maybe this. And maybe this." Well now you're saying nothing. Now you've told me you have no idea how you monetize this. This was a check mark that I just wanted to write. And then I am going to monetize it - instead I am writing a bug question mark. So do the thing that everyone else your industry does to monetize 95 percent of the time - say it and move on. Like it's totally ok. No one’s going to hold your feet to the fire and say three years later you didn't monetize this way. But it's much better to be clear and concise than it is to start spouting out every single way your company can make money.
+今天的講座，讓我非常興奮的一點是，YC同意開放交易文件，這些文件是YC的創始人用過的。現在大家都可以用，希望能給創業公司的銷售助一臂之力，這些文件真的很棒。
 
-Then next one is team. I think that this answer is actually really clear. I think you're trying to do two things. If your team has done something particularly impressive - you need to call that out. "We were the founders of PayPal." Probably want to say that. "We were the founders of Amazon." Probably want to say that. So if you guys have done something that is made investors money. You want to say that. If not, then please don't go on about the awards your team has one or the PhDs - I don't care. I don't care. What we want to hear is how many founders. Hopefully between two and four. We want to here is how many them are technical? How many engineers versus business people. Hopefully it's fifty/ fifty of more engineers. We want to hear is that how long have you guys known each other? We don't want to hear that you guys met a founders dating an even three days ago. Ideally you've known each other either personally or professional for at least six months. We want hear is that you're all working full time. It's really helpful. We're all committed to this business. And what we wanna hear is how you met. That's it. You can get in and out of that two sentences very easy. Your only way to build credentials is if you have accomplished something. And with an investor, typically if you accomplished something that's made someone some money. So don't try to over inflate yourself if you don't have that stat on your resume. Move on. The more you talk about a bad thing - the worse it looks.
+還有一點我要說一下，很多聰明人在這裡犯過錯，就是得記得自己的目標。你的目標是完成交易能讓對方推薦新用戶，驗證自己的產品得到收益。如果達不到這些目標創業就會一塌糊塗，在這一點上我覺得有件事讓人不可思議，很多聰明人會反复閱讀交易文件，對細節不依不饒，可能是出於自尊或是太聰明吧，是得確保協議符合自己的利益，簽了就繼續下一單生意。
 
-So the last one is the big ask. When it comes to this, you have to figure out whether this is a conversation involves fundraising or not. What I tell people is like this is the time where you kind have to know what you're talking about. This is a time where you have to know are you raising on convertible note. Are you raising on a safe. You have to know what the cap of that safe is. You have to know how much money you're raising. You have to know what the minimum check size is. These are things where if you don't know these things, investors going be like, "These guys aren't serious. Or they haven’t done their homework." So where's the rest of this whole thing you shouldn't use any jargon. This part you shouldn't just be like "Oh we're just raising some money." Now is time to actually use a little bit of that jargon. If you don't know that jargon - Google search it. Like it's real simple. You'll guys learn it fast. That's it. That's all your pitch. Done. Game over. Now you let them talk.
+我見過有的創始人會花數月的時間，反复斟酌賠償條款，如果他們能盡快簽訂協議並繼續下一單生意的話，他們公司經營得要比現在好。大家可能在最後一步落入這個陷阱。
 
-When to fundraise? This is important. You've got this little growth graph here. Investors like to invest based on traction. It is literally always better to raise money when you have more traction than less. Often times though, you will be in a situation where you're just starting or you just launched. What you need to do is you need to think about how you flip the equation. Your entire mindset should be: you are the ones asking investors for money and therefore they are strong and you are weak. How do you create a scenario where you are strong and they are weak? That's where you want to be fundraising. First, how do you know that you're strong? If investors are asking to give you money, you're strong. That might be a good time to start fundraising. If investors aren't asking about giving you money, are you talking to people about your start up? Or are you running super stealth? If you're talking to people about your start up and you're getting the word out, either through the press or just through talking to your friends or people you know doing startups, that's a good way to start feeding that.
+再給大家提兩個醒，第一對方可能會說：我會用你們的產品但是得再添加一項功能，或者對方說：
+我喜歡你的產品但是你的產品還缺少一項功能，我們目前還不能購買你們的產品。
 
-The second this is, have you created a plan so that you can launch and grow without needing to raise a bunch of money? 95 percent of the startups that I meet can get a product to market with a very little bit of money. Never put the investor in the ultimate position of power. "We can't do anything until you give us money." You always want to flip it around. You always want it to be, "This thing's moving. We all left our jobs. We're all working full time and it's moving. If you want to jump on, great. If not, there are a lot of angel investors." That's the attitude you want to have. That's the confidence you want to have. If you need money early, always plan on needing less money. Always be able to show that you've got a fully committed team that's working fast. That's going to be how you gain an advantage when you can't show traction. If you can show an investor that you haven’t launched yet but you've done eight months of work in one month or two months and you've got a great team that have all quit their jobs and they're totally committed, then you get some advantage back. You don't get all of the advantage unless you have launched and are growing.
+遇到這種情況，很多人特別是野心勃勃的人會說：我可以添加這項功能。他們會想：如果添加了對方說的功能對方就會用我的產品了。不過事實上這樣行不通，如果有人告訴你他們想用你的產品，但是你的產品缺少了一項功能，那麼我會認定對方根本不會使用你的產品。如果你添加了對方要求的功能，然後回去找對方對方十之八九會繼續要求添加別的功能，總會找出理由來不用你的產品。
 
-Finally how to set up investor meetings. This is really, really simple but I'm surprised at how many companies don't get this right. The first is you want a warm introduction from another entrepreneur preferably. Or a previous investor of yours. That's where you want to start. If someone who's past on your company as an investor offers you to make introductions that's kryptonite. Don't touch that. So first warm introduction. Very simple. You don't want to cold call these people. You don't want to bum rush these people. The person - the credibility of the person who is introducing you to an investor is big part on whether the investor will take that meeting.
+如果有人跟我說，因為我的產品缺少一項功能所以對方不會購買，我會有兩種做法。第一我會跟對方說：咱們先把合同簽了，在合同中我們會聲明添加您想要的特徵，希望您能理解，萬一我們把功能添加了您又不要了，我們就損失大了。
 
-Second, think in parallel. So many people that I meet will run the fundraising the super slow process. We met with one guy this we. We're going to schedule a meeting with another guy next week. Another guy three weeks from now. When you're fundraising you're on. It's a sprint. It's not a marathon. So you want to schedule all of your meetings during the same week. It's extremely hard to do but here's one trick that I love - tell when you're emailing investors you getting those warm intros the investors email you back you say, "Hey we would love to set up a meeting but we're building like crazy for the next two weeks. So can we set it in that third week?" Right? So then you've emailed everyone that. Right? So everyone schedules that meeting three weeks out. It's better for them because their calendars open. It's better for you because you've got all you meetings in one week. And also what did you do? You hinted, "Hey. I am not desperate for the money. We're building. Like I can meet you in three weeks but we're building. We're busy." Like it's signally all of the right things. So, that's the best way to kind of go about how you're gonna do that. The last thing is one team member should be investing in fundraising full time. It shouldn't be something that takes over the whole company. Because it's very, very distracting.
 
-So with that - let's kick it off to the next part of this. Who am I handing it to?
+我們更常用另一種做法，我們會對對方說：我們等等看是否其他客戶也有這樣的需求。如果很多客戶都有這樣的需求，那麼理所當然得添加這樣的功能。這樣的話，你就不用擔心某個功能只是個別用戶的需要了，只是個別用戶的需要的話就不要忙活了。不要掉入這樣的陷阱，很多人都會誤入，強烈建議大家避免。
 
-Dalton: Hi. My name is Dalton Caldwell. I'm one of the partners at YC and one of the things that we're going to do today real quick is a mock pitch. And first of all I know this is a bit contrived. This is - in this format of like a college class, we're going to do our best to have fun and kind of demonstrate what it's like. And I realize there's a million reasons why this - why you can say, "Of this isn't realistic of what pitches really like." But again there's a lot that we can show you.
 
-Just in terms of my background - over my career I've raised 85 million over several companies so I've sat in a lot of investors meetings. So I'm going to be pulling as many things as I can. So again, we're just going to try to show you something to talk to and use it as a learning session. You already did your intro earlier Qasar right?
+我要講的第二個陷阱：免費試用。這種陷阱太常見了，跟對方交流得挺順利的，貌似挺有希望的。然後對方說：我可以免費試用嗎？不能怪對方提這種要求，挺正常的。不過問題在於創業公司需要收入，需要驗證產品需要用戶需要贏得信賴，免費試用不會給你帶來以上任何好處，如果給對方免費試用的話你白忙活一通，沒有取得實質性進展。
 
-Qasar: I've done a couple of startups.
+這種做法很糟糕你自以為有了進展，不過試用結束後，還得把前面的推銷流程走一遍。對此我有一種很好的做法，當有人問能不能免費試用，你可以說：不好意思沒法免費試用。不過我們可以按年簽訂協議，如果30天或60天內對我們的產品不滿意，都可以退貨，這樣就兩全其美了。
 
-Dalton: Cool. We're going to do two pitches and go through them pretty fast. As Michael said, these tend to go fast. Let's go dive into the first one.
+你可以得到自己想要的東西，同時讓顧客無後顧之憂地使用創業公司的產品。這種小小的變通，可以使結果有很大不同。
 
-Qasar, I understand you're coming to pitch me today. What can you tell me about what you do?
+假設已經做好勘探工作了，已經和顧客交流過很多次了已經搞定顧客了，已經互換協議了。而且解決了免費試用的問題了，這樣早期銷售之路就步入正軌了。在創業早期，銷售和其他事物一樣，不必擴大規模，可以做一些不起眼的小事贏得早期客戶，這些東西挺有趣。
 
-Qasar: We're building a communication platform that will allow businesses and consumers to collaborate on one single platform rather than in the fractured state that they're in right now.
+還有一件事，我認為很重要，一旦這些鋪墊做得夠多了。就要開始想想，哪些地方是可以重複的？哪些地方是可以擴大規模的？
 
-Dalton: I don't follow.
+如圖所示，Cristoph Janz有一篇很棒的博客，他分享了“打造百萬公司的5個方法”。他提到，可以讓1000名顧客購買售價10萬的產品，也可以讓1萬名顧客購買售價1萬的產品，或者可以讓10萬名顧客購買售價1000的產品。
 
-Qasar: Think about WhatsApp or Snapchat. Those are for consumers. We want to do that for businesses. I have to do this with a straight face. What that means is we want to enable consumers to talk to businesses. That's the goal of our business or what our startup is.
+即使一開始你不必弄清楚，自己公司屬於哪一類。大部分公司都屬於其中一類，你得想想如果你想讓產品屬於售價10萬美元的大象級別，挺好。這樣的話銷售環節得費很多周折，這樣也行。就像Salesforce和Workday，如果你想讓產品屬於老鼠級別，產品售價1000美元/年，銷售環節包括，打飛的見三次客戶做八次演示，協議商定還得花三個月的時間，這樣的話得好好想想了。
 
-Dalton: Who uses this product? What does the product do?
+我見過很多創業公司，把商品定位成老鼠級別，產品定價較低，而且不考慮擴張。這樣公司生存會很艱難，或是不得不得漲價，以上就是我對於不同公司類型的思考。
 
-Qasar: It’s for consumers and businesses. A messaging product that allows consumers to send-
+希望對你們的創業之路有所幫助，一旦銷售做得挺多了，就要思考自己的處境。繼而思考，如何給產品標價才能使公司存活下去？
 
-Dalton: Why would a consumer want to use your product?
+以上就是我在不同公司做銷售過程中的，一些心得體會。其實從零到1百萬的距離並不遙遠，做到1百萬後，你會發現有無數博客，介紹如何從5百萬做到5千萬，或是從1千萬做到1億。
 
-Qasar: Because they want to message a business.
+今天的講座，我把目光聚焦到從0到1，因為沒有很多資料介紹這一塊，而且很多創始人對這一塊不是很清楚，我的方法是從實踐中總結出來的。我相信如果大家自己開公司也能摸索出來，大家無論出於什麼樣的考慮，想加入一家已經摸索出道路的創業公司來磨練技能，Clever歡迎你。
 
-Dalton: What can you tell me about the market and the opportunity? What's the size of this company?
+如果，大家想自己創業，對銷售還存在疑惑的話，ppt上有我的郵箱，歡迎大家跟我聯繫我很樂意幫助大家。
 
-Qasar: Messaging companies are really big obviously. WhatsApp sold for 19 billion dollars. Snapchat is really growing very quickly as well. We think the opportunity is very big.
+謝謝。
 
-Dalton: Can you tell me a little bit about your traction, your numbers. Have you given this to people yet?
+下面我們來講講，融資的一些細節。首先由Michael Seibe​​l給大家介紹如何做公司展示，然後Dalton和Qasar會給大家展示融資會談。
 
-Qasar: We don't want to open the kimono and go into all the details here. I had a high level hour live, we definitely have thousands of users in the Bay area. Hundreds of businesses.
+融資不是什麼新鮮事了是一項很基本的工作，首先我指出一點我們公司在YC的時候並沒有花很多時間研究融資，主要原因是最好的展示公司的方法就是提升公司實力。
 
-Dalton: Can you tell me who some of those businesses are?
+如果公司增長快產品也好的話，投資者當然看好你，切記公司變得更好會讓展示變得更容易。我們會從以下三個方面進行介紹。
 
-Qasar: There's ones that you've been to. We don't really want to get too much into the details because we're still early, we're trying to stay stealth.
+Michael給大家介紹會前事宜，我們會給大家展示一下融資會談是什麼樣的。然後簡單總結一下，最後的五分鐘我們來回答大家的提問。如果有我們沒有講到的內容，大家可以記下來我們會解答。
 
-Dalton: Ok well, can you tell me about what you've learned so far. What insights that you've had from the customers...
+我叫 Michael Seibe​​l 目前是YC的合夥人，我創辦了兩家公司一個是Justin TV，後來賣給了亞馬遜，另一個是SocialCam 後來賣給了Auto Desk。我想分層次地進行講解，揭開向投資者推銷自己公司的神秘面紗。
 
-Qasar: Yeah the consumers are sending messages to these businesses. And we think that's great. So and these businesses are responding to the messages and we think that's - I don't think that's obvious that would happen.
 
-Dalton: So can you tell me about what your business model is and how...
+很多公司的創始人，來向我請教如何簡潔地介紹自己的產品，以及如何向投資人要錢。融資是創始人的責任，我從四個方面來介紹。
 
-Qasar: Yeah so we, we charge businesses like a monthly rate. We haven't precisely figured out what that is. We - right now we're free for the few hundred companies we're in right now. But we’re looking to probably do a monthly...
+首先是如何做30秒的簡介，得時刻準備好，這是最常用的介紹自己公司的方法，這點很關鍵。無論對方是否願意給你投資，還是跟父母介紹，這都是最基本的。
 
-Dalton: How much do you think a business would be willing to pay?
+第二部分是兩分鐘的介紹，這是針對更加感興趣的人的。這些人包括潛在的投資者，潛在的僱員，這些人，對你們公司的了解要更深一些要把握好時間，很多人會準備10分鐘30分鐘的介紹，甚至1小時的介紹。
 
-Qasar: We thing certainly ten to fifteen thousand dollars a month...
+我覺得多說無用，我認為要壓縮到兩分鐘，我經常告誡創始人：你說的越多，就更可能說到讓對方反感的東西，少說點會更好。
 
-Dalton: Ok. So anyway can you tell me a little bit about your team and who you have working on this.
+然後我給大家說說什麼時候開始融資，我認為很多公司的融資時間不對，然後簡單地介紹如何籌備投資者會談，30秒簡介很簡單包括3句話，大家可以有條不紊地說，不需要說太多。
 
-Qasar: Yeah we have five founders. Technically I am the only one who's full time. Right now. We're raising money. So we can get you know the rest of the team on board. Yeah
+第一句話介紹你們公司是幹什麼的，我見到的每個人第一次都做不好，得做到既簡單又明確，使得對公司一無所知的人，都能聽明白，為了達到簡單可以這麼來做，我們通常讓對方講給自己的媽媽聽，如果不能通過一句話來給媽媽們講明白，那麼就得再改改。
 
-Dalton: Can any of the founders program or...
+總能找到一句話，使得爸爸媽媽們能理解，這是個很好的辦法。即使詞彙簡單也無所謂，可以這麼來跟他們說：我們公司叫Airbnb，我們幫助您出租家裡的空閑房間。很簡單對吧？
 
-Qasar: Yeah. I mean we have - one of them has a Bio PhD but he's really picked up coding. The - I am a python developer. I did - I learned python the hard way.
+不要這麼抽像地來介紹：我們Airbnb公司是個空間交易平台，根本聽不懂說的是什麼，得想想才能明白，所以要用簡單的話語來解釋這點很重要。
 
-Dalton: Look at the time. Well it's been really great meeting you. Please keep me in the loop. This sounds fantastic.
+第二句話是市場有多大？
 
-Qasar: I will send you an update.
+花幾個小時時間做點研究是有幫助的，搞清楚產品的市場，搞清楚市場有多大。市場有數十億的話投資者會很感興趣，這個事很好做。
 
-Dalton: Just keep me in the loop as this progresses.
+比如Airbnb會說旅館市場有多大，假期租房市場有多大。在線旅館預訂市場有多大。這些數字從Google上很容易查到，這些數字讓投資者明白，如果把這個公司扶持起來的話能創造數十億價值。
 
-Qasar: I'll send you an update. Great. That was awful.
+不要漏了這句話。第二句話一定要介紹市場有多大。
 
-Dalton: Ok. So let's go through.
+第三句話是公司的增長力有多大。比較好的表述方法是：我們產品是一月發布的每個月銷售增長30%，我們的銷售量是多少收入是多少，用戶是多少。
 
-Sam: That's disturbing.
+很簡單，如果產品尚未發布沒有增長數據的話，就得說服投資者公司發展很快。比如公司團隊是一月組建的，三月的時候發布了測試版產品，四月的時候正式發布產品，說服投資者你們公司動作迅速，創業公司不像大公司般行動遲緩。創業公司動作迅速，不怕犯錯。
 
-Dalton: That was obviously not strong. Let's talk about some of the mistakes. First of all, you need to make sure the person you're talking to knows what you do.
+30秒就說這三句話就行。30秒的介紹就能把公司介紹清楚，30秒的介紹就能讓對方聽明白，你根本想不到做30秒簡介的重要性，要牢記，別的記不住不要緊，把這一點記住也會有很大幫助。
 
-Qasar: This seems really simple but it's not.
+然後是兩分鐘的介紹，針對的是要說服的對象，比如投資者，該介紹要包括四部分。這個介紹也很簡單，第一部分是獨特的見地。與投資者交流的話他們就會問你：“你們有什麼獨家秘笈”“你們有什麼競爭優勢”“你們有什麼獨特見地”，諸如此類。
 
-Dalton: So many times people get flustered. They get nervous and they start talking really fast. There's no way you're ever going to convince anyone of anything if they don't know even what your app actually is. You have to know your numbers obviously. If you're very vague or evasive, don't even have a meeting. If you don't feel comfortable telling an investor what your numbers are, don't even meet with them. It means you’re not ready yet.
+我認為獨特的見地，就是告訴對方不知道的事情，也就是告訴對方，目標市場上目前最大的公司，沒有意識到的東西或是做的不夠好的東西。這是讓對方眼前一亮的機會，最好濃縮成兩句話。把為什麼你們公司會滅掉其他競爭者的理由，都說明白。
 
-For market size, try to give some plausible bottom up analysis and don't just name drop big companies that aren't even related to what you're doing. People tend to do that a lot. Try to have insights. Try to convince me that there is something that I don't already know about the market that I learned talking to you. Also, why are you working on this? Why are you suited for it? Is it a good thing to do? Finally, he didn't drive the conversation anywhere. Obviously that went poorly and he just let the conversation flail around until I cut the meeting because I ran out of time as fast as I could.
+或是跟對方說說促成公司成立的智力支持，壓縮成兩句話得讓對方眼前一亮。說完就能看得出對方是否眼前一亮，這就是我喜歡壓縮成兩句話的原因，速戰速決。
 
-That was not a good pitch. Let's try that again.
+如果對方看你的時候滿是敬意那麼你就把對方拿下了。如果對方看你的時候一副“我早就知道了”的表情，那麼你就失敗了。
 
-Qasar. Ok. Let's do this.
+如果對方看你的時候，一臉疑惑。顯然沒有把對方搞定，所以要多加練習。在兩分鐘的介紹裡，要用兩句話來說明獨到見地，不能太複雜。重點是不要太複雜。
 
-Dalton: Qasar, I understand you have a company. Can you tell me a little bit about what you guys do?
+再就是如何盈利？也就是商業模型。很多創始人會避開這個問題，因為他們覺得如果他們說通過廣告盈利，對方會認為想法太糟糕。說出來就行不要躲躲閃閃，是通過廣告就說通過廣告。Facebook和Google這樣的巨頭都是通過廣告盈利的，如果是通過直接銷售就說是直接銷售。
 
-Qasar: Yes, we're a messaging product. That's kind of vague. What we allow you to do is essentially message a location. When you walk into a Crate and Barrel, you can send the Crate and Barrel manager a message like, "Hey. There's puke in the hallway." Or if you're in the airport "I am trying to find this specific gate 'cause I am not at this airport, "Where is the terminal for Virgin?" Or if you're at Target, "What aisle is the shampoo in?"
+如果產品是遊戲，你想通過內購來賺錢也是可以的。說出來就行不要躲避，就一句話的事兒。如果創始人在如何盈利上說得含糊反而壞事，比如打算通過打廣告賺錢，也可能通過實物我們會想出辦法來的，可能這樣也可能那樣，說了這麼多相當於什麼也沒說，也就是還沒有想清楚怎麼賺錢。
 
-Dalton: So is this a mobile app?
+投資者本以為你們知道怎麼賺錢，打算要注資的。現在反而對你們公司有疑問了，行業內95%的公司怎麼賺錢，你們也這麼賺錢就行。大膽說出來，沒事的，沒有人三年後怪你，沒有遵循當時的賺錢方式，清楚簡潔地說出來就行，比把各種賺錢的可能性說一遍，要強得多。
 
-Qasar: On the consumer side we have an iOS and Android app but getting consumers to download apps is obviously very difficult.
+下一個問題是團隊，我覺得這個事挺清楚的，有兩種做法，如果你的團隊做過特別牛的產品，不要謙虛跟投資者說就行，比如我們是PayPal的創始人，我們是Amazon的創始人，如果你們團隊曾經給投資人賺錢了，一定得跟投資人說。
 
-Dalton: I don't usually download app just to send a message to Crate and Barrel.
+否則就不要費口舌說你們團隊獲得了多少獎，有多少個博士。投資者根本不在乎這些東西，投資人想要知道的是有多少創始人，2到4個最佳，想知道其中有多少技術人員，有多少工程師有多少銷售？
 
-Qasar: Most businesses have a call to action which says text the owner directly. We tested a bunch of copy that works the best in small print. In small print we have the messages are anonymous. They also lower the barrier to entry. I think that most counter intuitive then we've learned in the kind of launch that we've had - in three hundred fifty locations in Bay. We've been doing this for about three months. We're about 11 percent weekly growth rate in terms of requiring businesses but most counterintuitive thing that we learned - Because we weren't actually sure is - Will people send messages while they walk it work...
+二者最好人數差不多，想知道你們彼此認識多久了，最好不要說你們是在三天前的創始人集會上認識的，最好是認識至少半年了。無論是朋友還是同事，希望聽到你們都是全職的，如果你們都是全身心投入的，對贏得投資很重要。
 
-Dalton: Do people send messages
+想听到你們是如何認識的僅此而已，可以簡單地用兩句話就解釋清楚。如果想贏得投資者信任，就得做出過成績，對於投資者而言最有效的，就是曾經給投資者賺過錢。
 
-Qasar: and they do.
+如果沒有給投資者賺過錢，就不要吹噓自己。撒謊的話會越抹越黑，最後一點最重要，得弄清楚
+是否要融資。
 
-Dalton: Like what's the number one type of message that people send?
+我經常說此時要保持頭腦清醒，此時得弄清楚，發行的是否是可換股票據？是否是安全融資？得知道安全上限，得弄清楚要融資多少？得弄清楚最少的注資是多少？
 
-Qasar: So originally we started the product thinking this is going to be like in location feedback. That was the premise. In location feedback. What we found is more than half the messages are actually not about feedback at all. They ask things like, "We were in this location in San Jose - this khaabob stand - Father and Son and we say messages that went through the satellite like are you hiring? And that's like very strange because you would think like why wouldn't you just ask the owner? But we realized that we know this is the owner and the person who's walking in doesn't and so they do prefer to actually just text the owner because I think that's an easier reading.
+如果你弄不清楚這些事，投資者會以為你們不是認真的，或是覺得你們準備不足。我提到的其他地方，不需要什麼專業術語。不過這裡不能只說我們需要融資，得用點術語。如果不熟悉術語的話谷歌一下，很簡單、很快就能學會。
 
-Dalton: Ok so it's like a suggestion box. It's like a way to just like message a business
+介紹就這麼多，然後讓對方說話。
 
-Qasar: Initially that's what we thought what it was. But what we actually discovered was vast majority of - I shouldn't say vast majority. Over half the messages are just things like, "When do you open? When do you close? 'Cause that's not on Google. Do you - are you catering? Do you have any reservations available tonight?" etc.
+什麼時候融資呢？我覺得這個問題很重要，得有增長圖。投資者喜歡基於增長來投資，增長越好，越適合融資。
 
-Dalton: Ok look - in terms of your traction is sounds like you said some businesses. Like tell me about what you guys have right now.
+通常，大家的處境是剛開始創業，或剛剛發布產品。你要考慮的是，如何進行地位反轉，通常大家會這麼想，我是跟別人要錢的人，對方處於優勢我處於劣勢。
 
-Qasar: So we have three hundred and fifty businesses - all from San Jose to San Francisco. We sold them ourselves as three founders. We're all technical but we actually did all the sales because we learned a lot about how these businesses work. We actually come from a retail background. We originally built this product for large enterprise players like Starbucks and Walmart but we recognized at closing those contracts and our limited amount of runway wouldn't really be possible. So we wanted to get the product in the hands of users so we did S&B's. And that's when discovered, hey this like messaging product...
+怎麼辦才能使得你處於優勢對方處於劣勢呢？此時是融資的最佳時機，那麼如何知道自己處於優勢呢？如果投資者找上門來說想要投錢你就處於優勢，此時是最好的融資時機。如果投資者不主動給你送錢，就要想想自己跟別人談起過自己的創業公司嗎？
 
-Dalton: Ok that sounds interesting. It sounds like you have customers. How can this be big though? Like ok - maybe you can get whole thousands of words....
+或是自己太低調了？如果跟別人介紹自己的創業公司，或是通過朋友的宣傳，或是通過其他創業同行，這些都是不錯的方法。
 
-Qasar: So in terms of like numbers - we see one and half messages on average per location per day. That might not sound a lot but for a business that's getting thirty messages - you take like a Yelp review or a Google review in a life time of business they might get five or seven. So they're getting a huge volume of messages relative to what they tend to experience and they're private so they are not public. So in terms of how do we actually make money, it’s not - you know frankly speaking we don't have a very clear answer there. The two pats are the S&B side or the LC side the large customer side. Large customers we know from a retail experience just regular feedback tools are are three to four million per per year. So like a Sears - where we came from. S&B's we've tested are willing to pay 50 dollars a month. So I, you know certainly I think this is - can be a large business but there's clear ways to make money but...
+要考慮的第二件事是產品發布後在沒有融資的情況下，能不能想出辦法來使公司生存下去？我知道的95%的創業公司可以在很少錢的情況下，把產品發佈出來。不要把投資者放在至高無上的位置上，以為融不到資就什麼都幹不成，總有辦法反轉位置。比如我們的公司在發展，我們都是全職的，我們的公司在發展，如果你想給我們注資很好，不注資也沒事反正有很多天使投資。
 
-Dalton: I can see that. Just a couple things. Like, can you tell me about distribution strategy and also just a little bit about the team
+要有這樣的姿態，要有這樣的自信。如果在創業早期就需要錢，做好計劃少用點錢，時刻以團隊全身心投入，並且動作迅速的形象示人，這樣可以幫助你。在沒有什麼增長業績的情況下贏得一些優勢，如果你能向投資者證明雖然你們還沒有發布產品。
 
-Qasar: Yeah, so distribution - so the thing that we learned in selling through these S&B's is really freaking hard. The formula LTV minus CPA - Life time value minus Cost Proposition A in S&B is never going to work out. So we have two solutions - one is to go up market like we originally planned to Starbucks or Walmart’s. Or two is actually essentially pair with consumer facing companies Yelp, Google, Facebook...
+但是八個月的活，你們一兩個月就能完成，並且你們的團隊都是全職的，並且全身心投入。這樣也能贏得一些優勢，除非產品已經發布了並且已獲得增長了，否則不能佔據上風。
 
-Dalton: Have you been talking with them. Are they going to actually do it?
+要記住這點，最後一點是籌備投資者會談。這個事很簡單，很多公司卻做不好，我覺得很奇怪。首先是一位企業家或是以前的投資者，熱情地引薦。最好從引薦開始，如果隨便一位投資者提出想要引薦，不要答應。首先是熱情的引薦，很簡單，不要冷不丁地給對方打電話。
 
-Qasar: Yeah - so we've talked to Google and Facebook. We're meeting with the Apple. We're basically want to introduce every time you search for a business there should be a message button. We want to get consumers in the habit of knowing they can send essentially a text message to any business. That can help us get broad distribution. Our real vision is to become kind of that infrastructure - that messaging infrastructure between consumers and businesses. If that doesn't work - Let's say Google, Facebook and Yelp don't want to give up that valuable property - it's really an add unit. We do just want to sell this an s feedback tool to large players.
+不要不請自來地去拜訪，引薦者對你的信任，對於投資者同意會面，是很重要的。
 
-Dalton: Alright. Can you tell me a little about the team - we're running low on time.
+第二點平行進行，我見過很多人融資這個過程很緩慢，這週跟這個人見面，下周和另一個人見面，三週後和第三個人見面。一旦開始融資就要火力全開全力以赴，要把所有的會談安排在一周裡，做起來很難，我有個小技巧，在有人熱情引薦的前提下給投資人發郵件，投資人會回复你。你可以說我們希望與您會面，但是兩週內我們一直忙於打造產品，能約在第三週嗎？
 
-Qasar: There's three of us. All technical. Mike and I did a company before. Sonny was an ex school engineer. We come from retail. So our first start up was a failure. So I don't know if that's good or bad. We've worked together - we're all technical. We all built everything ourselves. And we sold everything ourselves.
+可以給每個投資人發這樣的郵件，都約在第三週。對他們來說有好處，因為三週後他們還沒什麼安排，對你也有好處因為這樣所有會都安排在一周裡了。這樣做有什麼好處呢？
 
-Dalton: Ok.
+這樣就暗示自己不急於融資而是在繼續打造產品，可以跟你在三週後會面現在要忙於打造產品。這樣就給出了正確的信號，這是最好的做法。
 
-Qasar: So we already had a couple of conversations with your firm. We're raising five hundred thousand on an 8.5 million convertible note. Of that five hundred two hundred -fifty is committed by Mike Maples, Eli Gill and Aden Sinket. And Mike with Floodgate is willing to fill the round. We think you're - you particularly - you and your firm can bring a lot to the team with your retail experience. Is this something that's interesting to you?
+最後要注意一位團隊成員要全職負責投資，不需要全公司的人都參與，因為這件事很讓人分心。
 
-Dalton: Yeah - you know I think this is really interesting. I mean I would need to talk to a couple of more folks on my side but I do think that this - this could be pretty big.
 
-Qasar: Yeah since we’ve had a couple of conversations before and we’re certainly willing to meet again. We are closing a round this Friday and so certainly take time and let you other partners know. I will be available between now and Friday. I'll give you another call before Friday before we close the round. But we’ve love to actually see you - see you in the run.
+我們進入下一部分。
 
-Dalton: Ok. Well it sounds good. I got to go but thanks for that
+下面由誰來講呢？Dalton
 
-Qasar: Great. Thanks.
+大家好我叫Dalton Caldwell，攝像機能拍下我們吧。我是YC的合夥人，下面我們簡單地模擬一下做公司介紹，我也知道有點做作，就像大學裡的即興表演，我們盡力而為。
 
-Dalton: So in terms of that one you know - some key points here is try to actually tell a narrative that makes sense to people. You noticed there was narratives there talking about people - how they really use it. We were able to like tie it down to the real world. Which is good. He was able to demonstrate insights and actually tell me something I didn't already know about the market. Like there were some tid bits. It was more of a collaborative meeting where it felt more like a conversation than just like I was interviewing about something in my opinion. He actually asked for money. You saw I could have easily been just like, "Ok. Got to go." But he did talk about fundraising as Michael mentioned. And he was able to provide all he context and all the the questions to actually have a serious conversation with him. If he was KG about it or shy about and clear on the numbers there's a very good chance I probably would have just ended the conversation due to time pressure.
+既娛樂大家，又能讓大家知道做公司介紹是什麼樣的。
 
-Qasar: Yeah. It's interesting we sit on this side a lot. You really - you can tell when people are very passionate and know their business very, very well. And that's what you have to become.
+我知道大家可能覺得這和實際差距較大，不過也能對大家有所幫助，給大家講講我的經歷吧。我已經為多個公司共融資8500萬美元，我參加過很多投資者會談，我盡量重現得真實些。
 
-Ok so closing thoughts here before we - what you want to do after the meeting. Before we get into Q&A. We're running a little short on time.
+我們給大家展示一下到時都會說什麼，大家權當學習一下了。
 
-After the meeting the first just like Tyler said in the sales things follow up. This is important. Anything other than a check or wired funds is a no. So they we got to keep talking to partners - I assume that's a no. And so you do want to put some pressure. The way you can do that is get deal heat. A deal heat is just a term that means there's a demand to be in your round. This is the easiest way and important way to drive a price, etc. Do diligence on investors, So let's say you have that five hundred thousand to raise for your seed round on the 8.5 million like we used as an example, Do diligence on the investors - If you do find - I do the diligence on Dalton and I found that hey he's actually not great investor, I can get Millan or Mike Maples or whoever to actually fill the rest of the round. It's uprising to us how money entrepreneurs don't do this. You would - it’s like you would actually spend a lot of time hiring somebody - you’re selling a part of your company to somebody you should know who you're selling it to to make sure they're the type of people you think they are. And then last - know when to stop. So some founders get so good a fundraising they just want to it all the time because it’s much easier to do than actually building the company.
+A: 你要不要做一下介紹？
 
-Dalton: Fundraising does not equal success. Nobody realizes that. We'll say this now but I am sure that everyone will still equate fundraising with success and read about someone’s fundraising and assume that means they're successful.
+B: 我創辦過兩個公司，很強。
 
-Qasar: My intuition about why this is true is because a lot of smart people applied to good schools and to good jobs and they think fundraising is just another application that they can check off. Building a company is much more ambiguous.
+我們來展示兩種公司介紹，我們快速進行一下。就像Michael說的那樣要盡量快，先來說第一個。
 
-Sam: Can you guys just stick around for a few minutes after to answer questions?
+A: 你今天來要做公司介紹，可以給我講講你們做的是什麼嗎？
 
-Thank you guys very much that was great!
+B: 我們正在打造一個交流平台，可以讓商家和消費者在一個平台上合作，而不是像現在這樣分散在多個平台上。
+
+A: 我不明白你說的是什麼。
+
+B: 就像是WhatsApp或Snapchat，這樣的消費者軟件。我們做的是面向生意的。得和你面對面說，也就是說我們要讓消費者能與商家對話，這就是我們的商業目標。
+
+A: 這個產品是做什麼的？
+
+B: 是給消費者和商家用的通訊產品。消費者可以…
+
+A: 為什麼消費者會用你們的產品？
+
+B: 因為他們希望和商家溝通。
+
+A: 能給我講一下市場有多大嗎？你們是怎麼想到這個創意的？
+
+B: 通訊市場很大。WhatsApp賣了190億美元，SnapChat發展也很迅速，我們認為商機無限。
+
+A: 好吧說一下你們的增長吧，這些數字透露給別人過嗎？
+
+B: 我們不希望把細節全盤托出，我們還處於保密階段。我們在海灣地區有上千名用戶，有上百家商戶。
+
+A: 能說一下是什麼樣的商家嗎？有一些是你從事過的。
+
+B: 我不想說太多細節，因為我們剛起步想保持低調。
+
+A: 可以說一下你們的見解嗎？
+
+B: 好的消費者會跟商家聯繫，我們決定這很必要。而且商家也會回复這些消費者，我覺得目前這個市場還沒有被發掘。
+
+A: 你們是採用什麼樣的商業模型呢？
+
+B: 按月向商家收取費用，這方面我們還沒有確定，目前產品是免費的，對目前的上百家商戶都是免費的，不過我們在尋求按月付費模式。
+
+A: 你覺得商家會願意付多少錢？
+
+B: 一個月10到1萬5千美元
+
+A: 可以介紹一下你們團隊嗎？團隊裡都有哪些人？
+
+B: 我們有5名合夥人，只有我一個人是全職的，我們目前在融資，希望讓其他人創始人也能全職。
+
+A: 有創始人會編程嗎？
+
+B: 其中一個創始人是生物學博士，不過他現在學編程。我是Python程序員我專門學過Python。
+
+A: 時間不早了很高興與您會面，我們保持聯繫，你說得很棒。
+
+B: 我會及時向您匯報的。
+
+很好，剛才的會話不是很好，我們來說一下其中的問題，首先，得讓對方明白你做的是什麼。這個事貌似簡單，其實不然很多時候人們會慌亂，會緊張就會導致說話速度快，如果對方不清楚你做的是什麼，是沒辦法說服他們的。
+
+有時甚至連應用是做什麼的都說不清楚，得清楚地說明，如果說得含糊不清或是躲躲閃閃跟沒會面一樣，如果不方便和投資者談具體數字，說明還沒準備好。就不要和他們會面，對於市場大小的回應要給出一些可信的分析，不要只是提一些大公司的名字，這些大公司甚至和自己做的東西不搭邊。
+
+大家傾向於這麼做，要有自己的見解要說服對方，在市場方面的確存在一些對方不知道的東西，而不要說一些人人都知道的東西，說陳詞濫調的話，對方得不到什麼新東西。
+
+在團隊方面要說明為什麼你們打造該產品，為什麼你們能做好。
+
+最後一點是，創始人沒能引導會談，顯然談得很囧，會話飄飄忽忽的，最後只能由於時間關係，被迫中止，顯然剛才的介紹並不好。
+
+我們再來試一次，
+
+A: 好的，你好Caspar，我知道你們創辦了一家公司，能給我介紹一下公司是做什麼的嗎？
+
+B: 我們做的是通信產品。這樣說有點含糊，我們的產品，可以發定位信息，比如你走進Crate and Barrel，你可以給Crate and Barrel的經理發信息：“走廊裡有人吐了”
+
+比如你在機場可以發消息說：“我沒來過這個機場我想找某個登機口”或者“Virgin的航站樓在哪”如果你在Target…
+
+A: 是個移動應用嗎？
+
+B: 在消費者這邊我們有iOS和安卓版應用。
+
+A: 不過讓消費者下載軟件，顯然很困難，我不經常下應用來發信息。
+
+B: 我們在很多商家那發起了一個活動“直接給店主發短信”。嗯我們測試過，把標語寫在這麼大的紙條上效果最好，信息是匿名的，降低了門檻。在海灣的350個商家，使用產品後我們最大的收穫是，在市場方面每周有11%的增長率。我們認識到了最反直覺的東西是我們本來不確定，大家現在是否還發消息，大家還在發，人們發的最多的是什麼類型的信息？
+
+原先，我們發布產品的初衷是區域內反饋。我們的預設是區域反饋，我們實際發現超過一半的信息，並不是反饋而是詢問。
+
+我們在San Jose有個試用點，有個父子檔外賣攤位，我們看到短信問：你們還招人嗎？
+
+很奇怪啊。為什麼不直接問店主呢？，後來我們想到我們自己知道誰是店主，但是路過的人不知道，他們更喜歡給店主發短信，因為這樣更方便，有點像意見箱吧。給商家發短信，我們原先是這麼想的，不過事實上我們發現絕大部分，不應該說絕大部分，超過一半的短信是詢問。
+
+比如什麼時候開始營業？什麼時候打烊？你們承辦酒席嗎？能預定嗎？等等這些在谷歌上查不到的東西。
+
+A: 打斷一下，在增長方面你說你們已經有一些商家了，講講你們做到什麼程度了？
+
+B: 我們從San Jose到San Francisco一帶有350個商家，我們有三個創始人，我們都是技術出身也做銷售，我們學習了很多經營之道，我們有零售背景，我們最初是為像Starbucks和Walmart這樣的，大企業打造產品的。
+
+不過我們意識到僅僅和這樣的商家合作走不遠，我們想讓普通消費者也能用我們的產品，我們做過SMB，也就是在那時有了這樣信息產品創意。
+
+
+A: 挺有意思，看來你們有了一些客戶了。
+
+B: 是的。
+
+A: 市場有多大呢？比如說有10萬顧客。
+
+B: 要說具體數字呢，每天每個試用點平均能發1.5條信息，看起來不多，不過對於商家而言，這個數不少，比如像Yelp評論或是谷歌評論。也就有5到7條評論，相對而言信息量挺大的，而且信息是私密的，非公開的。
+
+在賺錢方面，坦白講我們還沒有明確規劃好，有兩條路可選SMB（小型商家）或LCS（大型商家），即大型商家。
+
+根據零售經驗我們知道，大型商家每年在反饋工具上的花費是三四百萬，比如西爾斯超市，SMB這塊我們做過統計他們願意每個月支付50美元，我很確信。
+
+A: 好的，我覺得面向大商家更靠譜，有多種賺錢的方式，我明白了。講講你們的銷售策略吧，還有你們團隊。
+
+B: 銷售嘛，根據經驗我們知道賣給小商家是很難的，對小商家而言，通常的LTV-CPA行不通，我們有兩種方案，一種是面向高端市場比如Starbucks和Walmarts，就像我們原先做的那樣。
+
+另一種是面向消費者，和像Yelp Google和Facebook這樣的公司合作。
+
+A: 你們和他們交流過嗎？他們感興趣嗎？
+
+B: 我們跟Google和Facebook交流過。我們和Yelp正在商談，我們要做的是每次搜索商家，旁邊都有一個消息鍵，我們希望消費者養成給商家發信息這樣的習慣，這樣有助於我們推廣。
+
+我們希望成為消費者和商家之間聯繫的紐帶，如果行不通的話比如Google Facebook Yelp不想放掉這塊大肉，這塊可以打廣告嘛。我們就會把產品賣給大商家。
+
+A: 給我介紹一下你們團隊吧，時間有點緊。
+
+B: 有三個創始人都是技術出身，其中我和Mike曾經開過公司Sunny以前是谷歌的工程師，我們都有零售經驗我們初次創業失敗了，不知道這段經歷對我們是否有好處。
+
+我們一起工作過，我們都是技術人員自己開發產品，同時自己做銷售。我們已經和貴公司交流過多次了，我們打算融資50萬美金和850萬可換股票，50萬美金中25萬美金，由Mike Mapels Eli Gill和Aiden Sinkit投資，Mike願意領投，由於您和您的公司有零售經驗。
+
+我們認為你們可以為我們公司，注入很多活力，你對此感興趣嗎？
+
+A: 我覺得挺有興趣，我得和同事們商量一下，不過我覺得你們可以做大，鑑於我們以前也交流過，我們也很樂意與您再次會面，我們在本週五完成本輪融資。
+
+B: 您不用著急，好好和同事交流一下，週五之前我都有空。在周五完成本輪融資之前，我會再給您打個電話，很期待能在融資中見到您。
+
+A: 好的很高興與您交流，謝謝。
+
+這次和上次相比有很大不同。我們來總結一下本次談話，重點是讓對方能聽明白，大家注意到剛才的會話中有很多介紹，講了用戶和他們的使用能結合實際挺好的，能表明見解，能說一些我不知道的市場情況，還有一些趣聞，雙方有互動。
+
+更像會話，而不是像面試，他提出了錢的問題，這是會話結束時的重點內容。我本來可以說：“我得走了”，如Michael提到的那樣對方提到了融資的事，對方能提供我需要的背景信息，回答我所有的問題，能正經地會話。
+
+如果對方對於數字問題，羞於談及或含糊不清，很可能造成由於時間問題，我早早地結束會話。我們經常參加這樣的會談，可以分辨出哪些人很有激情，並且對自己的產業非常清楚，融資就得具備這樣的能力。
+
+我們再講講會後要做的事宜，然後再讓大家提問。
+
+時間不多了，會談後就像Tyler在銷售中提到的，首先要做到跟進。這點很重要，如果對方沒有說給錢那麼就是不想投資，如果投資人說想和同事商量一下我覺得就是不想投，得給投資者一些壓力，可以製造一些緊張氛圍。
+
+也就是說，投資者爭相注資，這是提高價碼的很簡單又很重要的方法，對投資者進行調查。假設如我們例子中提到的，種子輪融到了50萬美金和850萬可換股票。對投資者進行調查，如果發現對方
+不是個好的投資者，那麼就可以從Elaud或Mike Maples那融到錢。
+
+
+讓我們很吃驚的是很多創始人不做調查，就像花了很多時間來招募，你要把公司賣給別人，得知道對方的底細才行，得確保他們和你想要的是一樣的。最後一點得知道什麼時候停，一些創始人很擅長融資，恨不得不停地融資。
+
+因為融資和打造公司比起來簡單得多，融資多並不等於成功了，因為能融到資並不意味著能成功，很少人能意識到這一點，即便我們今天這樣說了，我覺得大家還是將融資和成功混為一談。
+
+看到別人融到資了，就覺得別人成功了，我覺得原因可能是很多聰明人從小就能申請到好學校找到好工作，他們把融資當成了一種測驗，打造公司要復雜得多。
+
+這部分內容就講完了，最後一條是好好經營公司，融資不是最終目標。
