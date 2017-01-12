@@ -1,4 +1,4 @@
-Lecture 12: Sales and Marketing 
+# Lecture 12: Sales and Marketing 
 
 Can we turn it up a little bit so it has more pump up? Okay, there we go. Okay. Guys, we have to find the beat then clap to the beat. Okay, please stop the music. Please put on the presentation. Thank you. That will be about the most pumped up thing that happens in enterprise software. The rest is downhill from here. Thank you for that well rehearsed intro.
 
