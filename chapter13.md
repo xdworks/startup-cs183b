@@ -1,91 +1,295 @@
-# Lecture 13: How To Be A Great Founder 
+# Lecture 13: How To Be A Great Founder
+
+Sam 謝謝你。
+
+當我瀏覽本課程的大綱時，我思考著如何錦上添花，補充一些實用的技巧。我想到的一個入手點是
+作為創始人如何定位自己？所需能力有哪些？自己是否準備好？如何進行準備？這適合我嗎？思考這些問題時要考慮哪些要素，諸如此類。
+
+我們先說說優秀的創始人是什麼樣的，（一提到創始人）通常我們會想到：Steve·Jobs Bill·Gates Elon·Musk Mark·Zuckerberg Jeff·Bezos，大家會把他們想成是超人，無所不能。我用panopticon這個詞，是因為我在Stanford嘛，他們知道怎麼使產品迎合市場，擅長打造產品營銷、管理以及融資，具備所有能力。
+
+大家對優秀創始人的想像是：他們是超人，在所有方面都很厲害，他們是全能的，集所有技巧於一身。我在創業初期察覺到這種傾向，部分原因是我記得讀過一篇文章，上面說Bill Gates比Einstein要聰明。
+
+大家可能會想 Bill Gates是挺聰明的，他成績斐然，但是他不一定比Einstein聰明啊。甚至Bill不一定希望和Einstein相提並論。我覺得文章之所以這麼說，部分原因是大家把創始人想像成超人，優秀的創始人無所不能、可以飛簷走壁，等等。。。。
+
+而現實卻是創始人得面對很多頭疼事，沒有人真的有超能力，一般來說創始人得有一些“超能力”，得有一些殺手鐧、有獨到的解決問題的方法，從而有一定的優勢。因為擁有強有力的個性，和強有力的優勢非常重要，這並非是天才的特質。
+
+事實上，瘋子和天才很難區分，通常還得根據他們的行為結果​​來判斷。在不確定情況下，你可能是天才，但是後來卻被認為是瘋子。或者你本身是個瘋狂的人，卻很走運，後來被認為是個天才。
+
+如何來看待創業所需的所有能力，的確是個挑戰。我們大眾需要具備什麼能力，才能加入創始人行列呢？該如何看待呢？你懂的，當我考慮優秀創始人是怎樣的這一問題時，你可能會想到…
+
+看視頻的同學，也能看到這張ppt，這些能力是極其重要的。對吧，這些東西真的非常非常重要，你必須得做好，乍一看只有超人才有這些能力。
+
+我就把目光縮小聚焦到其中一部分上，思考一些很有意思的問題，擁有哪些能力才能成為一個優秀的創始人呢？因為你不可能在所有能力方面都是十全十美的，這又不是企業家領域的奧林匹克競賽，得做到樣樣第一。
+
+我們先來看團隊，要揭開超級創始人面紗，我們可以從一個角入手那就是：事實證明創始團隊，有兩到三個人是最好的比孤軍奮戰要好，不是說只有一個人就不行，也可能會成功。通常情況下有兩到三個人最好，當我以投資人的視角觀察著：怎樣的項目人員配置夠好、怎樣的創始人團隊可能成功，答案通常是兩到三個人。
+
+至於其中原因呢？我們前面已經說過了，創業需要很多很多的能力，不斷調整公司策略從而成功的過程中，需要面對很多問題，如果有兩到三個人的話，每個人有不同的能力可以彼此互補。因為人人都有缺點嘛，大家可以彼此互補，面對各種各樣的問題時，可以齊心協力共同對抗。
+
+對於創始團隊，我給出一點建議：推薦找合夥人，並且合夥人間得彼此高度信任。因為在創業領域中，有一點值得注意，公司有很多種死法，其中一種死法是：才一年合夥關係就走到了盡頭，然後大家不愉快地分道揚鑣了。這通常對公司而言是致命一擊，不過也有例外。
+
+創業中要做各種各樣的工作，其實我剛想說呢，從有些位置看ppt可能看不清楚，我要講的下一點是「位置」。
 
 
-As I looked through the syllabus of this class and thought what would be useful skills, what I’ve been thinking about is how do you see yourself as a founder? How do you think about what the skill set is? And what are the things you should be thinking about in terms of: am I ready? How do I get ready? Is it the right thing for me? These sorts of things.
+經常有人跟我說，矽谷聚集了大量優秀人才。的確如此，為什麼矽谷的創業公司那麼成功呢？原因就是大量的優秀人才聚集於此，有優秀的技術人才優秀的創始人等等。這點很重要，這是矽谷強大的部分原因，其實你想想的話，用簡單的數學算算，儘管在過去二十年間矽谷在軟件方面非常強，並不是所有的優秀程序員都搬到這裡來了，很多優秀的程序員分散在世界各地。
 
-So let's start with the perception of what a great founder is. And classically this tends to be Steve Jobs, Bill Gates, Elon Musk, Mark Zuckerberg, Jeff Bezos. And it's an image of founder as Superwoman, or Superman, who has this panopticon of skills. I can use the word panopticon because I am here at Stanford. It's things like, I can do product market fit. I am great at product, I am great at strategy, I am great at management. I can fundraise. I can do all of these skills and the thing you are looking for in a great founder, in the idea of the founder as a super person, is I am looking for someone who is awesome at all these things. They are well rounded, they are diverse. They can bat on all skills.
+在衡量一個創始人是不是優秀時，為什麼我會把位置這一因素考慮進來呢？原因是：優秀的創始人要做的是，網羅對要解決的問題和目標重要的資料，他們深知自己不是超人，不能隨便在什麼地方都能成功，不可能公司在南極也能成功等等。
 
-And part of how I found this emphasized, in the beginning of my own entrepreneurial journey, I remember reading an article that said Bill Gates is smarter than Einstein. And you are like, Bill Gates is really smart and is very accomplished, but I am not sure smarter than Einstein is really a phrase that even Bill Gates wants to be next to. It's partially because of this image of a founder as super person. Which is, a great founder can do anything. Jump over tall buildings in a single bound, all of these sort of things. And the reality is that a founder is someone who deals with all these different headaches and no one is universally powered.
+為了創業成功針對我要解決的特定問題，針對我要做的東西我必須到有最強資源的地方去，矽谷有一定的優勢可以有助於解決。
 
-Generally speaking you hope to have a couple super powers. Some things that are a unique edge to you, some things that are unique to the problem you are trying to solve, some things that will help you get an edge. Because competitive differentiation and competitive edge is super important. But it's not actually a function of genius.
+某些問題，但是不能一概而論，我說兩個例子吧。
 
-And frequently it's very hard to tell the difference between madness and genius because usually it's the results that play out. Sometimes when dealing with uncertain environments you may even be genius and later may be thought to be a mad person. Or you may be a mad person and turn out lucky, you may turn out genius. It's actually a challenging set of how do you think about these sets of skills. And when us, mere mortals come into this sort of battle, what is the right way to think about it?
+一個是Groupon的例子，我覺得Groupon在矽谷創業是不合適的，儘管他們公司也是軟件產品，實際上會構成一個網絡，顯然在矽谷有很多優秀資源網絡，他們公司使用互聯網技術、有手機端等等。矽谷在這方面有很多優勢，有很多有利資源。
 
-So when I thought about this question, on how is one a great founder, these are all skills that are super important. These are all things that you say, okay, this is really really important to do and you must in fact do this well. And it begins to look like a superhuman task. And what I did was decide to take a superset of these and focus on the interesting things to think about. What is it that actually makes a great founder? Because it's not actually that you score ten out of ten of these, you become the entrepreneurial olympian. You are actually the best at all these things.
+Groupon創業早期重要的一點是：需要大量的銷售人員。擁有大量的銷售人員通常會帶來一些劣勢，在矽谷不太可能有這樣的情形：租25層的辦公樓，其中20層是給銷售人員的。只有這樣公司才能正常運營，這樣的公司不會得到太多支持，會有很多批評的聲音，不易吸引人才。
 
-So let's start with team. One way, I think, to explode the myth of super founder is usually it's best to have two or three people on a team rather than a solo founder. It's not to say that solo founders don't actually play out and they can, successfully. But most often two or three people is much better. When I look at these things as an investor, and I say what is a good composition of a project and founders that are likely to succeed, it's usually two or three of them. And the reasons are, we have already talked about that there's this very broad set of skills. There is this whole set of questions on how you adapt your company or be successful. If you have two or three founders, you have different skills you can compensate. Because, by the way, everyone has weaknesses. You can compensate for each others weaknesses. In the diversity of problems you encounter as a founder, you can actually attack them.
+會有金融家站出來，指出資本效率網絡效應等等重要問題。
 
-Other things I suggest when you look at, essentially, a founding team, is to have a real high preference for having co-founders, having a high degree of trust for those co-founders, because one other way on the whole entrepreneurial thing to die is you get a year down the road with your co-founders and then you are going through a messy divorce. That is not always but frequently fatal. And also the diversity of the tasks that you do. The next thing is location.
+所以Groupon實際坐落在芝加哥，就不足為奇了。芝加哥是個合適的地方，這就說明軟件創業公司是可以位於其他地方的。想一想，什麼樣的創業公司搬到矽谷來的話，會是非常愚蠢的呢？比如說時尚創業公司，我不是說Poshmark這樣的公司，Poshmark是家二手交易平台，適合在此創業。
 
-Frequently, I have had told to me, Oh Silicon Valley aggregates all this super talent, which it does. The reason why Silicon Valley startups are so successful is because all of these great people--immigration which is hugely important for talent and founders that immigrate here. Now if you think about it from basic math, even if you take something that Silicon Valley is super strong at, which is essentially software skills in the last two decades, not all the great software companies move here. Not all of them can move here. There are many of them in other various parts of the world. And so why do I put choice of location up there? It's one of the things it comes down to in thinking whether or not you are a great founder. Well the reason is, because of what great founders do is seek the networks that will be essential to their task. And they realize it's not just about, I am superman, I can do this anywhere. I can do this in Antarctica, etc, in order to be successful, I have to go to where the strongest networks are for the particular kind of thing that I am doing. And Silicon Valley, by the way, is super good at some kind of tasks, some places that you essentially try to solve certain types of problems. But it's not good at all of them. Let me take two examples.
+我是說，打造一家新的時尚公司，如果來矽谷的話就不明智。不是說時尚這樣的創意好不好，而是需要相應的資源網絡。如何為創業選址，是衡量創始人是否優秀的一個指標。因為，如果要創辦一家公司，就要去能夠成功的​​地方創辦。我通常這樣來形容創業：「創業就像跳下懸崖並得在墜落的過程中組裝一架飛機」
 
-One is Groupon, I don't think Groupon could have ever been founded here. Even though it's a software product, it even generates a network. Obviously a lot of the great networks are here and use internet technology as a mobile product and everything else. All of which we have a lot of great skill here in Silicon Valley and the networks are really good for this. One of the things that was central for Groupon for it's early days, was having massive sales forces. And a massive sales forces, strengthens and weakens a workforce, tends to go together. Silicon Valley, tends to be pretty adverse to plans that involve, Oh we are going to rent a twenty-five story building and in twenty of those stories we are going to have floors of sales people. And thats how we are going to get our thing going. That kind of plan here tends to not get a lot of interest, tends to get a lot of criticism, tends to not have talent aggregate to it, tends to have financiers talk about things like cap efficiency, and network effects, and other kinds of things that are key here. And so it's actually not a surprise that in fact, Groupon was required to be in Chicago, which is really good at this, as a way of getting going and showing that even software startups can be in other places. But even if you begin to think about it, you say what kind of other kinds of startups would someone be an idiot to move here to do.
+為什麼這麼形容呢？因為創業真的很難，通常會九死一生，所以你得抓住所有可能的機會才能成功，優秀的創始人就會到有強大資源的地方去創業。
 
-Think of someone doing a fashion start up, not fashion a la Poshmark which is a mobile marketplace that are a bunch of things good here. But I'm designing a new fashion company. And I'm going to come to Silicon Valley to do it. That's actually not a great idea. The fashion company might be a great idea but you want the networks that support what you are doing. So part of the reasons why, where should I locate my start up, is a test for thinking about am I great founder is because part of the thing that happens when you are founding a company is, I will go to where this is successful to do. The metaphor I often use for entrepreneurship is jumping off a cliff while assembling an airplane on the way down. And the reason I do is because it's hard, it has a quasi mortal exit, which are default dead so you start taking every possible chance to actually win. So great founders will move to where the network is. This network is graphically Silicon Valley for tech startups, for mobile, for marketplaces this is a really good place to do it. For a bunch of other things, you should think about a different location.
+從這個圖來看矽谷通常是創業的勝地，考慮到移動通信、網絡市場等因素。矽谷的確是個好地方，考慮到其他因素，你得想想是不是有其他更合適的地方。
 
-Now here is something that's very en vogue. Very conventional to say you're a contrarian these days. So let's talk a little about what what a contrarian actually is. So it's actually pretty easy to become contrarian. It's hard to be contrarian and right. Particularly when you are thinking about, is my idea contrarian or contrarian enough. How does a smart person actually disagree with me? Because if you can't think of a smart person who isn't just ignorant or just crazy or anything else, but is a smart person that is somewhat of an expert may think that your idea has some serious challenges than it actually isn't contrarian. Contrarian is relevant to an audience. So when you are thinking about contrarian in terms of a really good contrarian idea is like, say it's consumer internet, okay what would other consumer internet people think is actually in fact not a good idea. And part of when you think about contrarian is to say, okay what do I know that others don't know? Because it isn't just, oh I'm brilliant and other people aren't, it's the reason my contrarian thing is right. It's a very bad test, that happened to be true, of course lightening can strike you in the field. So think a lot about what is it that I know that other people don't know. For example, in the very early days of LinkedIn, part of what I advise all founders to do is talk to every smart person who will talk to you and give you feedback. So with LinkedIn I walked around and said here's my idea, what do you think?
+現在很推崇，反其道而行之。我們來說一下「特立獨行」究竟是什麼，特立獨行挺容易的，難的是“對的”特立獨行。在衡量自己的創意是否特立獨行，或是否足夠特立獨行時。一個指標是聰明人是否不認同我。
 
-Two thirds or more of my network, including some very smart people, all thought I was nuts. The reason why they thought I was nuts was because I said it's a network product, it's only valuable with a bunch of people in it. The first person has no value until they invite the second one. Second person, first person have no value in it they already know each other. When do you actually begin to deliver on your use case, which is 500K to a million people. And so you are never going to get to size. It's never going to grow. Now what I knew was that the critics didn't know was that I could think of a set of different way by which people would say hey look I believe in the vision of this. I think it's interesting, or I think a product like this should exist, or I'm willing to play around with it. And I can level those sets of interest to grow the network to get to enough size that you can begin to deliver on the value propositions which Linkedin had. And that was the specific thing that I knew that the critics weren't thinking about. So when you think about being contrarian, you have to think about how is it that smart people disagree with me, that disagree with me from a position of intelligence. And there is something that I know that they don't know that will actually play out to be true. Now in this case, in general, as a founder it's good to be contrarian in the real sense.
+如果沒有個聰明人…如果該方面的專家，這樣的聰明人，認為你的創意只是有些挑戰而已的話，那麼你的創意就不特立獨行。Sam和我在YC經常談到特立獨行，特立獨行是與對象相關的。因此，在考慮一個創意，是否為特立獨行的好創意的時候，可以這麼來想。
 
-Now the last part on the contrariness is to think about, there are lots of different ways to be contrarian. For example, a frequent one will be, others think you have a good small idea, but actually that's not small, it's large. Or actually in fact you can assemble the talent or while most consumer cellular startups tend to be, another LinkedIn example, only successful with the rocketships, actually a compounding curve can be very very valuable. LinkedIn never had it's rocketship moment, it was compounded year by year. But in consumer internet that becomes atypical in the pattern.
+拿消費者互聯網來說吧，消費者互聯網業內人士，認為創意還不夠好。可以這麼來想特立獨行，什麼是我知道而別人卻不知道的呢？並非因為自己很聰明而別人不夠聰明，從而自己的特立獨行是對的，不能這麼來衡量。當然可能會走運靈光一閃什麼的。好好想想，什麼是你知道而別人不知道的呢？
 
-So here you begin to get to a bunch of sorts of problems that essentially founders run into. Well should I be doing the work? Or should I be recruiting people and delegating the work? And classically the answer to this is, actually in fact you need to do both. In fact, not only do you need to do both, you need to sometimes do one at 100% and sometimes the other at 100% and even though this is not so good at math, both at 100%. And so what you will see, this is sometimes classic, when you start thinking about what makes you a great founder, is you navigate what are apparent paradoxes. Another one I frequently talk about is, you've got to be both flexible and persistent. And the reason for this is entrepreneurs are frequently given the advice to have a vision, stay firm against your adversity. Realize that you have this vision that is contrarian to what people think and just stay on track. Get through the difficult times and get there. The other piece of advice given with each equal vigor is listen to data, listen to customers. Pivot, be flexible. Part of the thing this comes out to be in terms of being a great founder is to say well, when should I be persistent and when should I be flexible. And the vehicle I most often use for this is you should have a project you are doing, like a company, an investment, a thesis that essentially says why you think, possibly contrarian, why you think it is potentially a good idea. It should include what you know you think other people don't know.
+例如在LinkedIn創業早期，我給所有創始人的一條建議是：跟每個願意與你交流的聰明人交談
+讓他們給你反饋。在LinkedIn創業時我到處跟人交流，問他們對於我的創意的意見。2/3甚至更多的人，認為我的想法愚蠢，其中包括一非常牛的人。他們之所以這麼想，是因為LinkedIn是個互聯網產品，只有很多人註冊使用時網站才有價值，只有一個人網站沒有價值。他再邀請第二個人也沒有價值，因為第一二個人是認識的。
 
-And then as you are going into the battlefield, you go am I in fact increasing confidence in my investment thesis? Or decreasing value in my investment thesis? Because if I am increasing confidence then I hope to stay on track. Be persistent and, by the way, sometimes even with adversity your confidence can increase. If it's decreasing that doesn't mean jump out. Paypal, LinkedIn, Airbnb, a whole bunch of startups I've been a part of have had months where you are like, Oh my god why did we ever think this was a good idea? It's kind of a valley in the shadows moment. For example, at PayPal, it was August 2000, we were bringing in twelve million and the expense curve was exponentiating, we had no revenue, and a decrease in confidence. However we said, what do we do in order to fix that and that gives you your immediate action plan.
+什麼時候網站才能體現價值呢？得有50萬到100萬註冊用戶才行，LinkedIn不會達到這樣的規模不會實現增長。然而我知道，但是反對者不知道的是：我可以想出一些辦法，使得用戶相信我們產品的價值，覺得我們網站很有意思，認為我們的產品有存在的必要，從而願意為我們的產品做宣傳，就利用人們的這種興趣發展壯大，用戶規模從而可以使LinkedIn實現自身價值。
 
-Another one is, should I have belief or should I have fear? Should you essentially go, well I have this vision of the way the world should be and I should ignore everything else and I should just go with that. Well again, part of what being a great founder is, is being both able to hold the belief, to think about where it is you want to be doing and want to be going, but also be smart enough that you are essentially listening to criticism, negative feedback, competitive entries. Where you are going, okay is this changing my investment thesis? Is this changing what I am planning on doing? It doesn't mean you lose confidence, you have the confidence but you also essentially have the patience. Again in this kind of thing is how do you put these two things together. Should I focus internally? Should I build a product, ignore the world, ignore competitors? Or should I focus externally, should I be recruiting? Should I be meeting people? Should I be gathering network intelligence? Again the answer is both. And the reason why I'm focusing on these type of habits, it's both rather than either or, is part of what makes a great founder is the ability to be flexible across these lines. To sometimes be 90% one way, sometimes be 80% the other way. Be executing the judgement on what does the current problem look like?
+這就是我想到，而反對者沒有想到的東西。當你考慮自己是否特立獨行時，你得想想聰明人是怎樣與你意見相左的，他們反對你是有理有據的，同時有一些東西你知道他們卻不知道，從而你的創意是可行的。
 
-How is it that when I am trying to solve this that I should say this is what we should be doing and how should I be dividing the work? Part of when you think about these things is you say, this is another one that is classic, is people say well I am completely motivated by data its what customers say to user groups. I have a lot of entrepreneurial mythological, other kinds of things to talk about is gathering data, be guided on the data. Well actually in fact, data only exists in the framework of a vision that you are building, a hypothesis of where you are moving to. And the data can even be negative and you can think, well actually in fact this negative data means that I need to change or alter the way that I'm thinking about something. But I actually keep on a specific vision about what I'm doing. And by the way, sometimes when you have the specific vision you don't necessarily actually ever end up at that big vision that you were thinking about.
+一般而言，正確的特立獨行對創業是有利的，關於特立獨行還有最後一點需要考慮，做到特立獨行有很多辦法。例如比較常見的是，有個小創意但實際上卻可以做大，或者可以逐漸積累。儘管大部分消費者互聯網創業公司，像LinkedIn這樣的公司傾向於快速增長，實際上逐步積累也是可行的。
 
-So for example, you know at PayPal we distributed these tshirts that said the new global world currency. Well actually in fact, I know Peter has been here, one of the jokes I told Peter was actually we do have this new world currency, what we are trading is in dollars you may have heard of it, it existed for a while. Where essentially a mass merchant for that-- now of course this is message is what's happening with Bitcoin though thats a whole nother topic there. However, the key thing is that vision saying we’re creating a universal network that allows anyone to pay anyone to be a merchant to bring the electronics into the speed of commerce at any business that is being transacted. That vision kept a true north, but first we say well first we are going to have a banking model, then we think we are going to have a debt model, we are actually going to have a mass merchant model. How does that actually play out? So you are always combining the vision and the data, and data is within the framework of the vision. And sometimes the course of what you learn changes your vision.
-Now this is actually one of the ones that I we save this special picture for one of the ones that I actually think is quite key.
+LinkedIn從來沒有快速增長的時期，而是一年一年地逐步增長，LinkedIn這種增長模式，在消費者互聯網行業是不常見的，創始人會遇到很多問題：比如說該親力親為，還是僱人來幹？
 
-Normally entrepreneur founders are thought about as being the risk takers. Where everyone else cowers in fear at this notion of risk, they boldly go out. Now that's true, you have to be a risk taker, you have to be thinking about how do I make a really coherent risk because in fact the only really big opportunities, the only contrarian opportunities smart people disagree with you on happen to be ones that have more risks associated with them. On the other hand, part of the skill set, that when you are beginning to apply how you think about risks as an entrepreneur is how do I take intelligent risks? How do I take a focused risk, but if I'm right about that one thing then a bunch of other things break my way. And once I start doing that I try to figure out how to make my own shot possibility as high as possible? How do I minimize other risks? How do I essentially take this risk in an intelligent way that doesn't just go, oh yeah risk to the wind who cares but lets go. So this kind of combines that, this image is the best of the images that we found, is kind of the sense of that. Now back to what I was saying in terms of having an investment thesis.
+通常的答案是得兩者兼顧，不僅得兩者兼顧，還得一方面100%用力，另一方面也得100%用力。雖然在數學上說得通都得100%用力，要成為優秀的創始人，遇到的很常見的一個問題是得處理好明顯的悖論，我經常談到的另一點是：「創業得既靈活又堅持」。
 
-Part of having a thesis is you chart it out as a list of bullets. For example with LinkedIn, everyone was going to be benefited by a public professional network, everyone will realize, including companies, that it's better to have it play out this way. The initial setup adoption will come from essentially people who visualize the world, play with it, and eventually the mass market will come on as they begin having a network, that is already having a network, with value proposition to them. That's what an investment thesis can look like and then you have economics, initially recruiting, and broadening those things.
+至於原因呢？通常給創業者的建議是，志存高遠，在逆境中保持堅定。創業者得有特立獨行的眼光堅定不移，渡過難關達到目的地。給創業者的另一條同樣重要的建議是：「研究數據傾聽消費者的聲音、審時度勢靈活處事」
 
-You have that investment thesis, and you say is my investment thesis increasing or decreasing confidence? Do I think that the data that I get from the market, when I talk to smart people, how does that change my confidence in it? This is how you minimize risks. For example, very early days in Paypal, part of what happened was they said they were going to do cash and mobile phones with cash on Palm Pilots because its really easy. We actually realized the cash from Palm Pilots wouldn't work even before we launched the product. Basically what happened I went in and said to Max and Peter, I said here's our challenge--this group probably doesn't remember what Palm Pilots where, they were early PDA’s. And so we lived in what was Palm Pilot central and the whole use case was splitting the dinner tab and everyone at table would have a Palm Pilots budget tab. Zero to one in every single restaurant. So you could, even by just thinking through the direction you are on you are going to hit a mine field and you need to pivot. And thats when Max Legend came up with the idea saying action packed sent by email. We can have email payments as the backbone of this and we were like yeah thats a good idea. Of course that what the whole thing pivoted into. And that is part of thinking though minimizing the risks as you are executing.
+要成為一名出色的創始人，得做到知道什麼時候該堅持、什麼時候該靈活。我常用的方法是：在做項目或成立公司時，得有投資報告明確說明為什麼你認為該創意特立獨行？為什麼你認為這是有潛力的好創意？裡面得包含「你知道而別人不知道的東西」。
 
-Here's another one that's kind of classic which is, should I have this long term vision or should I be solving a local near term problem? Again the answer is both these paradoxes. And the question is, you should jump between them. You should always have a long term vision in mind because if you actually completely lose your directions eventually you will find yourself somewhere in field thats not a good path out of. But if you are not focused on solving the problem thats immediately in front of you you're hosed. So part of the question about how to put these things together is you say, okay short term- what's the thing I need to be doing today? Have I made progress today? have I made progress this week? But is it largely on path? So I will give you an example of how this plays out in terms of financing or in terms of strategy. People frequently think product strategy is fundamental to how startups- I have a product idea, thats a thing, I'm a founder. Actually the next level down on strategy is usually product distribution and whether its consumer internet or enterprise, or anything because actually in fact no matter how good your product is if it doesn't get the customers you’re hosed.
+在進入創業這一戰場後，得衡量一下自己對該項目的信心增加了、還是減少了。因為如果信心增加了，那麼就繼續堅持，有時即使身處逆境，信心也會增加。如果下降了也並非意味著要偃旗息鼓。
 
-So usually you have to have product distribution. It is more fundamental than what the actual product is. And the one below it is financing. The reason it's financing is because if you run out of money and the whole effort goes away, even if you have a really good idea, it doesn't work. So frequently when you are executing on a good strategy you are actually in fact, when I am raising money, this fundraising, I'm thinking about the next fundraiser. I'm thinking about how I'm set up for it, I'm establishing relationships that would be key to that. And I'm not executing like, oh the only thing that matters is I get to the next fundraising. You have this business that you are building, but I'm thinking that as a core strategy in terms of how I'm executing frequently you are thinking how does my product distribution work such that the financing works well. And that's kind of how you architect these things together.
+PayPal LinkedIn Airbnb 等一系列我曾參與的創業公司，都有過灰色的幾個月，當時我們想
+天哪我們怎麼會覺得這是好創意！當時公司處於低谷期，就拿PayPal來說吧，2000年8月份就這一個月我們燒了1200萬美元，花費大增，但是卻沒有收入。信心受挫，我們鼓勵自己想辦法進行補救，這樣很快就有了解決方案。
 
-So how do you know you might be a great founder? Well you should have some super powers. It's generally speaking useful to be a good product person. It's useful to have good skills about leadership, bringing networks in, persuading people, and it's useful to be able to- and this is kind of fundamental, is recognized whether you are on track or not. To have that kind of belief but also paranoid about am I tracking against my investment thesis? And when you do that the right way and you are learning and you are assembling people and you are assembling that around you. That's generally speaking how you end up being a great founder. Now classically, and I deliberately put up five white male pictures, is classically you have, these are the iconic founders. But in fact, founders can be very diverse. They can be extraordinarily talented at different areas because there's different kinds of external companies. There's different kinds of problems that they are trying to solve. And I don't mean diversity in term of gender, race, etc. Diversity in age, diversity in experience. Jack Ma was a teacher before he got into this. That's the kind of thing that you should think about.
+另一個問題是創始人該有信念還是該有畏懼？創始人應該有明確的目標，然後忽略其他，從而為目標全力以赴嗎？作為創始人，既要堅持信仰，考慮清楚想要什麼，前進方向是什麼，同時要足夠聰明，能聽取批評，直面負面反饋和競爭。
 
-So the question is how you cross uneven ground? How you assemble networks around you? How you get people to assemble? It's a constantly changing problem to face when you are trying to found a company. So I think the thing I was trying to get people to think about was, this is to say, there is not one skill set, there is an ability to learn and adapt. And an ability to constantly have a vision that's driving you but to be taking input from all sources and then to be creating networks all around you. And that's essentially what makes a great founder. So your ability to do that while crossing uneven ground in the fog, which is kind of the way entrepreneurs, did you always know this was going to work? No, unless you are crazy. Although sometimes crazy works. So with that I will now go to a few questions. But it was kind of this mindset of founders which is kind of key. And if theres' no questions, oh here.
+積極的面對這些，並想想這些東西會改變你的創業初衷嗎？會改變你的計劃嗎？這並不意味著喪失信心，你有信心同時也有危機意識，還有內部和外部相關事宜，是應該關注公司內部一心打造產品。
 
-Q: I'm curious how you targeted, you selected a different strategy to strengthen your investment thesis and help it take off. It seems like every startup faces that same challenge.
+兩耳不聞窗外事不在意競爭者？還是關注外界進行招募約見他人，招賢納士？答案是兩者兼顧。
 
-A: So one really fundamental thing is to think about product distribution as key. And for LinkedIn we had a couple things going for us. One, the web was boring in 2003. Basically what happened was everyone thought that consumer net was over. So people were doing clean tack and enterprise software and everything else. It's a much harder problem now. Because everyone thinks the internet and mobile is interesting. So breaking through the noise is really the key. So the strategy we used wouldn't work. We just basically set up, sent out some invitations to a group of people, and then tuned the mechanism, did PR. One of the people, one of the decisions we made early that was right was to say should we only allow it as invite only or should we allow cold signups? The reason we should allow cold signups is because the people who are super enthusiastic about this weren't necessarily the people we know said they would sign up and spread it. That sort of thing were all the kind of decisions we made. Now that challenge is much harder. The challenge when you think about product distribution is how are you competing for potential customers or potential members time? And what are they-what do they have to believe in? Back in 2003 was like oppression may not work that's potentially a good idea. What the hell? I’ll play with it theres not a lot of other things for me to look at. Today theres tons of things. So your strategy today when you are looking at product distribution has to be what is my really decisive edge? What is the hack that I know that other people don't?
+為什麼我認為，是兩者兼顧而不是擇其一呢？因為優秀的創始人，能自由地在兩者間穿梭，有時90%傾向這邊有時80%傾向那邊，在進行判斷時要審時度勢，明確目前的問題是什麼、確定要做什麼、確定如何分配工作，在考慮這些問題時你可能會說：這是老生常談了，我完全依據數據。
 
-Q: How do you know if someone is a good founder or not?
+數據反映了消費者的真實情況，許多創業者都是這麼幹的。很多人這麼說：「收集數據、遵從數據」。實際上數據存在於你要打造的目標框架中，存在於你的前進目標中，數據有時是消極的，消極的數據意味著需要改變。
 
-A: I'm a huge believer in references. I only meet with someone when they come to me through a reference. So one of the things by the way is after this I have to run off because I have a meeting to get to. If you want to get time and attention with me, find a reference. That's not a pitch to using LinkedIn, it's a question of this is how you sort out time. Like Sam knows me, and so a reference to me is in fact the way I do this. So example, when I met with the AirBnB guys a part of the reason why I could interrupt them two minutes into their pitch and say, Im going to make you an offer to invest. I want to hear the rest of the pitch because I think what you are doing here is magical and awesome. Was because I had already had references on them. That was only two minutes, not thirty minutes. Because I had already knew about them before coming in. And by the way, by and large that is some version of what is true to most great investors. And its that network that's really key.
+意味著需要改變思路，但是我對於所從事的事情有明確的規劃，有時即使有明確的規劃。但是，公司最終的發展和規劃不一定一樣，比如PayPal發放的T恤上寫著：“這是新的世界貨幣”。實際上…
 
-Q: Do you believe destiny of insight to be a great signal for great founders?
+我知道Peter來這做過講座，我跟Peter講過一個笑話，我們掌握的的確是新的世界貨幣，我們是用美元進行交易的。你可能聽說過這個笑話，我們實際上是美元商人。大家知道目前有比特幣，提到比特幣有一籮筐的事可以嘮。PayPal的願景是打造人人可用的全球交易網絡，人人都可以進行交易，在線支付來加快所有商業交易。
 
-A: I would definitely say that the ability to say coherently what you are targeting, to articulate something that isn't trying to boil the ocean, or a swiss army knife approach. One focus, like you are right about this and it works. That is actually pretty important in being able to judge a founder. Because if you don't have that level of clarity, you are not going to be able to assemble the network behind you. You are not going to be able to get investors, you are not going to be able to get employees, you have to be able to articulate a very clear mission about what you are doing. Insight is helpful although a little bit of this depends on the stage. I find myself attracted to founders who have analyzed the problem in a good way. But often times I have seen great founders who have not present good analysis but have an instinct about what they are doing. So you more chart what is going on around them.
+這種願景指引著我們前進，首先我們想到做個銀行模型，然後我們想到做個貸款模型。後來我們想到實際上需要銷售商模型，那麼這個模型如何實施呢？一定要將願景和數據相結合，使數據存在於願景框架內，有時創業中所學的經驗教訓也會改變你的願景。
 
-Q: How do you keep persistence when starting?
+我把這張特別的圖片，留給了我認為很關鍵的一個問題。通常企業家創始人，得承擔風險，即使其他人都畏縮了，他們也得勇敢地面對。的確如此創始人得承擔風險，得想想，如何有把握地下賭注。因為當你的創意特立獨行，聰明人不認同你的時候，此時機會最好。同樣這樣伴隨著風險，另一方面，在像企業家一樣考慮風險時，需要有能力來考慮如何承擔創業風險。
 
-A: Well LinkedIn went through, for those of you who remember we were treated as the little alternative to Friendster, then Myspace, then Facebook. We had a lot of the, we are the little tiny one next to these respected giants each at the time. Ultimately, for me when I was thinking LinkedIn, this gets back to the investment thesis as a mechanism. I continued to believe the right economic system designed for every individual's life, and organizations life to have public professional profiles. But that world is the way the world should be. everyone is much better off with it. And we are getting closer to that than everyone else. It may be that it hasn't taken off as fast as I would have liked it. It may be that the general world has gone, oh the social stuff is really interesting. We could only get in the news the summer of 2003 by saying we were Friendster but for business. It's completely nonsensical once you begin to look at the thing. But it was like, okay we will cover you because you are Friendster but for business. But that was important to get people to begin to pay attention to us and so the confidence was, that world I still have confidence in, I still believe should exist and no one is getting closer to it than we. It's taking us maybe longer than I hoped to get there but thats okay.
+專注於承擔一項風險時，卻又有其他絆腳石該怎麼辦？一旦開始創業，就要盡力，使得成功的可能性最大，也就是使得風險最小。如何明智地承擔風險，而不是對風險視而不見。這就…
 
-Q: What is it that gets you wrong about someone who is going to do the distance?
+這張圖是我找到的最合適的圖，該圖生動地體現了我的觀點。回到前面所說的投資企劃書上，做投資企劃書時，要把風險像一顆顆子彈一樣列出來。
 
-A: To some degree you can only fully cross these minefields by going and doing it. So you can be wrong about your hypothesis. The kinds of things that frequently get you wrong or you think a person--- for example I frequently use in interaction is I push on the idea and what I'm looking for is both the flexibility and persistence. What I'm looking for is, I have conviction, and what I'm thinking I'm arguing it. But I am listening to what you are saying. And I am adapting to the concerns you have with that. Sometimes you will find someone that says, look I have learned to mimic that behavior so I have learned to say, for example I have learned to look like I am reasoning with you and I look like I am thinking about the challenges you bring up, but actually in fact I am ignoring you. Ignoring me might be fine. But ignoring the world in general is usually disaster.
+例如：LinkedIn創業早期，我們意識到人人都可以受益於招聘網站，人人都會意識到包括公司，我們公司的價值，最初接納我們產品的客戶是那些看到我們產品的價值並且願意使用的人，然後隨著我們的用戶群構成網絡，並且產品發揮出了價值，大眾逐步地接受了我們的產品。
 
-And so these are the kind of things that in the measurement essentially getting wrong. Most often the kind of reference questions asked about founders is adaptability, one of the phrases I look for is infinite learning curve. Because each entrepreneurial pattern is to some degree unique and new. And can you learn the new one? Does the learning break down or is there some skill set? is there an ego issue that gets in the way? Like everyone must adulate me and that will cause you to behave wrongly in adapting to the problem. I think I have one last question.
+投資企劃書應該是這樣的，然後再進行招募，開拓市場等等。
 
-Q: What makes a great co-founding team and what makes a good way to evaluate a co-founder?
+有了這樣的投資企劃書，使得信心增加還是減少了呢？從市場上收集的數據和從聰明人那得到的意見，如何改變我對此的信心呢？這樣做就可以降低風險，例如在PayPal創業最初期，我們打算開發手機端支付，用Palm Pilots進行現金交易。因為這樣交易簡單，甚至在產品發布之前，我們就意識到用Palm Pilots進行交易行不通，因為當時我與Max和Peter交流，我告訴他們我們的難點是什麼，大家可能不記得Palm Pilots是什麼了，Palm Pilots類似早期的掌上電腦，Palm Pilots隨處可見，而唯一的商業應用是點餐。
 
-A: The first thing is, it's super important to collaborate really well. That was the point I was making during the team. If in fact you don't have serious trust-- So the key thing is when you are thinking about founders is do you have a diversity of the necessary strengths across the board. Frequently you need one technical founder, at least. Frequently you need someone that is going to be dedicated to the business side for fundraising, these sort of things. A classically skill set and usually its some composition across them. Its kind of what you think of founders one, when you think about a founding team. When you get the next level deep, one of the things people classically tell you is don't invest in a husband and wife team. And that adds a little extra freight to it and everything else because the is extra dynamics and all that.
+餐桌上的每個人有台Palm Pilots，每個餐廳都是如此。只要想一想，就能意識到，目前的前進方向會觸礁，需要進行轉變。Max Legend想出一個辦法，使用郵箱。使用郵箱支付作為主力，我們認為這個主意不錯，這就是我們的重大轉變。在執行過程中，這就是減少風險的一種做法，還有一個典型的問題，那就是應該有長遠的規劃。
 
-I actually think what you are looking for is, do they collaborate well. Do they help each other get to truth? So for example, I am most part when I am talking to a team. I am looking for when they are reasoning to each other, not just all singing from the same thing. But did you think about this? Or what about this as a challenge? You are navigating the field of battle which is a bunch of risks. For example, one of the things that was pretty common in Paypal is, Max who invented the prod systems and everything else, would frequently come into Peter's office, Peter Thiel, and say here are some things that are going to kill us and let me focus you on them. So it's not like we are all saying oh yes we are all singing our Kumbayas but we are adjusting to what is truth and what is the problem we need to solve? And what's the problem in short term and what's the problem in long term? How are we tackling it? And that collective problem solving, that collective learning is the kind of thing that actually makes a great teams.
+還是應該專注於眼前的問題呢？同樣答案是兩者兼顧，這的確是挺矛盾的，不過還是要兩者兼顧，一定要有長遠的規劃，因為如果沒有大方向的話，最終會深陷泥潭。如果不能專注於解決眼前問題的話，也會遇到麻煩，對吧。
 
-Q: So different founders, different areas. How do you identify them?
+至於把兩者結合起來這一問題，可以這麼來想。短期方面我今天要做什麼呢？我今天有進展嗎？這周有進展嗎？是否沿著制定的大方向呢？
 
-A: The talk was aimed at what is unique about the mindset I think of founders. There is great founder across all. All founders-- there are differences. For example, in software speed to market, speed to learning is really key. In hardware if you screw it up you are dead. So accuracy really matters. If you build and ship the wrong thing you are hosed. So generally speaking as an investor, and this is part of the reason a lot of investors have a certain set of things they learn really well and reapply, is because they try to understand a domain really well to be able to identify which of the founders in this domain really matter and if we are investing in this domain how do we do that well? So there are attributes that are unique per domain. for example, one of the classic ones is, how good must you be at operational efficiencies in terms of margins, cost control, etc. You are dealing in the worlds of atoms including in commerce, you have to be really good at that. You are doing a digital game, like a Zing start up it doesn't matter at all, right? So you look for that sort of fit somewhere. Part of the beginning of this is that it's not in fact one person is good at at everything. One of the funniest conversations I had with a friend of mine who works for me at my first start up, Social Net. He looked at me and said, Reid I would never hire you to be a manager at McDonalds. I was, I wouldn't either. I would be terrible at that. So its the skill set that fits but also the whole point of this is actually being able to navigate a set of things that look like paradoxes. Sometimes being heavy on one, sometimes being heavy on the other. And having the right judgement at the moment at what you are doing and thats what tends to be more universal.
+我舉個例子告訴大家，在財務或策略方面，怎麼具體實施。大家通常認為產品戰略是最根本的，像產品創意一樣重要，實際上策略下一層面，就是產品銷售。
 
-Q: How do you know when to pivot?
+無論是面向消費者還是企業或其他，因為無論產品多好，如果得不到客戶還是白搭。通常產品銷售比產品本身更重要，其次是財務。因為如果錢沒了，一切努力就都付諸東流了，即使有什麼好想法也白搭。通常在實施良策時，例如說在融資時，不僅要考慮這次融資，還要考慮到下次。想好如何做好準備，建立重要關係。而不要考慮的僅僅是，下一次融資。
 
-A: Part of the reason why having an investment thesis and your confidence in the rest of the place and being pretty clear on that is generally speaking the answer I give to people is if your confidence is unmeasured for a fairly long time or is decreasing, because measured for a long period of time it should be decreasing, then its decreasing and you go into intense mode. We try to figure out what types of things you can do to increase your confidence and thats failing. Thats a seriously good time to think about pivoting. You might have a thesis on raising money, you may have a thesis on what's the pattern on what the product distribution on growth or viral, or anything else will work. Well I tried these three things and this fourth thing doesn't seem as good as the other three. The next two things seem even worse. That begins to decrease your confidence. And that is when you should think about pivoting. A frequent mistake when it comes to pivoting is waiting until you have been crashed into the wall and everything is dead. And you can't maneuver any more. And thats you waited way too long. Now in times of personal career goals and so forth. One of the things I meant to talk to you during the slide, one of the classic questions is balance. I actually think founders have no balance. One of the funniest conversations I ever had was with the governor of Colorado, was like we are going to attract really great entrepreneurs here because we have this balanced lifestyle. Literally if i ever hear a founder talk about how I have a balanced life they are not committed to winning. So the really one great founders are, I am going to literally put everything into doing this. Now it may only be for a couple of years. I may do this for a while but hile I am doing this i am unbalanced. You are super focused on this. You work really hard and there are lots of ways to die.
+要從打造事業角度考慮，在執行時要以此為核心策略，通常要考慮如何把產品銷售做好，從而使財務運作良好，這樣做才行。
+
+怎麼知道自己是否為優秀的創始人呢？創始人得有些超能力，一般而言得眼光獨到地做好產品，得有些領導方面的技巧，把資源引進來，能吸引到人才，有一點很有用。
+
+甚至說這點很基本，得意識到是否在正確的軌道上，既要有信仰，又得經常反思目前的發展是否和規劃相悖，如果做法對的話你會受益匪淺。你會吸引到人才，你會招攬到很多資源，這樣的話你就成了一名優秀的創始人。
+
+通常，我故意把這五位白人男性的照片拿出來，這幾位是標誌性的創始人。其實創始人有很多種，他們可能在不同的領域非常有天分，因為有各種各樣的創業公司，有各種各樣的問題需要解決。
+
+我所說的多樣，並非指的是性別種族等等，我指的是年齡不同經歷不同，馬雲在創業之前是名教師，你可以考慮一下這個問題。創業在於如何跨越難關，如何集合資源，如何吸引人才，這些是在創業過程中，一直要面臨的問題。
+
+我一直極力，讓大家意識到，創業並沒有一個技能全集，要不斷地學習和改變，要不斷地受願景的驅動，要不斷地獲取資源，從而形成自己的資源網，這樣才能成為一個優秀的創始人。要有摸著石頭過河的能力，就是說企業家並非明確知道某事行不行得通，除非他很瘋狂。
+
+現在大家可以進行提問，提問關於創始人的問題，這是本次講座的重點。
+
+Q: 我很好奇在創業早期，你是如何挖掘人才？來加強公司實力，從而使事業起飛。
+
+A: 貌似每個創業公司都面臨這個問題，一個基本點是把產品銷售作為關鍵。
+
+對於LinkedIn而言要做很多事，2003年時互聯網上很無聊，基本上是這樣的情況，大家都認為消費者互聯網完蛋了，大家都轉向企業軟件方向等等。目前的情況更難，因為大家都對互聯網和移動端感興趣，鬧中製勝是關鍵。
+
+我們常用的策略行不通了，我們重整旗鼓，向一群人發邀請，讓PR去招人。我們早期做的一個決定挺對的，當時我們想網站只能通過邀請才能註冊。還是人人都可以註冊？
+
+我們之所以允許人人註冊，因為對我們產品超級感興趣的人，並不一定是我們認識的人。這樣的人會註冊使用並且會宣傳我們的產品，這就是我們當時做的決定。
+
+現在的話挑戰更加艱鉅了，因為在產品銷售方面，要考慮如何爭奪潛在客戶。理解客戶是怎麼想的，要讓他們相信什麼。
+
+在2003年時我們想到招聘網站，覺得這個創意不錯不管三七二十一，幹就行，沒有很多煩心事需要考慮，今天的話有考慮很多事情，在產品銷售方面，要考慮產品的決定性優勢是什麼，什麼東西我知道而別人不知道呢？
+
+有個人找上門來，我怎麼知道這個人是不是個優秀創業者呢？我很相信推薦人做法，通常準確說是一直我只接見有推薦人的創始人，不得不說我的時間寶貴，跟他們交談後我還得去開會。如果你想得到機會得到關注的話，找個推薦人。我這麼說不是為LinkedIn做宣傳哈。
+
+這樣能節約你的時間，比如說你可以說Sam認識你，可以讓Sam做推薦人，我是通過推薦人接觸​​到創始人的，例如我約見Airbnb的創始人時，我之所以聽了他們兩分鐘的介紹後，就打斷他們告訴他們我願意注資。我願意讓他們講完，因為我覺得他們做的東西很棒。因為早就有人向我推薦他們了，所以只用了兩分鐘甚至不到三分鐘，因為在他們進門之前我就知道他們了。
+
+順便提一下，很多優秀的公司就是這樣被發掘的，資源網絡很關鍵。好像這邊還有個同學有問題？
+
+Q: 你認為強大的洞察力，是一個偉大創業者的標誌嗎？洞察力是偉大創業者的標誌。（你能換一種表述嗎？）提煉主要內容清晰表達見解，是一個偉大創業者的標誌嗎？
+
+A: 毫無疑問具有能連貫表述你的目標的能力，是非常重要的，但這並不意味著要不切實際信口開河，而是讓事情正確地發展。這對於評判一個創業者，是非常重要的。
+
+因為如果你不能很好的表達自己，你就不能集中所有的關係網，不能吸引投資者，不能招到員工。你必須能夠清楚地表述，你要做什麼，洞察力也是很有用的。儘管這與你所處的位置有關，我經常會被那些分析問題能力很強的創業者所吸引。但我也經常見到那些不那麼善於分析，但對自己所做的事情具有直覺的創業者。所以你要善於觀察他們周圍的情況。
+
+Q: Linkdin 開始時差不多有5年發展的不好，你是怎麼堅持下來的？
+
+A: 好，如何堅持下來。因為在一開始LinkedIn被認為是Friendster、MySpace以及Facebook的替換物，在不同時期，我們周圍充滿了不同的巨頭，我們只是他們旁邊小小的陪襯。
+
+從根本上來說當考慮LinkedIn的時候，這就又回到了投資想法這一機制上來，我始終堅信，為個人和公司建立公開的職業檔案，是一件非常正確的事情。
+
+世界就應該是這樣的，每個人可以過得更好，對於這點我們做的比其他人都要好。也許發展不如我預期的迅速，但世界的趨勢就是這樣的。社交網絡是很有趣的東西，我們沒有--直到2003年的夏天才有新聞報導我們，當時還是說我們是Friendster的商業版。
+
+當你第​​一眼看上去的時候，甚至都可能會感覺這沒什麼價值，媒體報導我們，因為我們像是商業版的Friendster，但重要的是人們開始注意到我們。值得慶幸的是，我們對於它存在的必要性十分有信心，沒有人比我們做的更好，雖然可能花費的時間要長一點，但總體還不錯。
+
+Q: 當你第​​一次遇到一個你覺得不錯的創始人時，他們看起來可以處理各種困難。（對，理論上他們也能做的不錯）當你的第一印像很好時，是什麼導致你犯錯？
+
+
+A: 某種程度上來說你只有經歷過，才會發現問題。因此你的假設可能是錯誤的，當你觀察一個人的時候通常會犯的錯誤是--
+
+比如說當我和創業者交談的時候，通常會對一個創意進行深究，看他們對此是否具備靈活性和堅持。我要找的人，具有足夠的信念不斷思考不斷據理力爭，但也能聽進去你說的話，會對你所考慮的問題進行適當的調整。
+
+有時你會發現一些人在模仿你的行為，比如說我學會了如何去模仿你，看起來我是在回答你的問題，我是在思考你提出來的問題，但實際上則忽視了你說的內容，忽視我倒沒關係，但要每次都這樣那就完了。
+
+這些就是在判斷一個人時可能出錯的地方，但通常來講我問創業者的問題，是有關適應性的。我會去考察他們是否具備不斷學習的能力，因為某種程度上每個企業的模式都是獨一無二且全新的。
+
+你能學習新東西嗎？嗯這是一種方法。學習會中斷嗎？你還有其他重要的技能嗎？你會出現自負的問題嗎？如果有人極力奉承你，那麼你很可能犯錯，差不多就這些，再回答最後一個問題，後面的那位女士。
+
+Q: 怎樣才算一個好的創業團隊？從你的角度來看當你評估一個聯合創始人的時候有什麼好的方法嗎？
+
+A: 聯合創始人團隊，如何評估聯合創始人。首先，愉快地合作是非常重要的。這是我在講團隊問題時就提到的一點，一開始的那部分。因為如果你沒有足夠的信任，那麼--
+
+在考慮創始人問題的時候，多樣性。創始人分別有不同的擅長的領域，是一個很有用的事情。通常需要一位有技術的創始人，通常來講至少也需要有一位懂得商業融資，諸如此類事情的人。
+
+這是基本需要具備的技能，至少要具備兩三種這樣的能力。如果能把這些能力組合到一起就更好了。這就是你在找合夥人你在組建創業團隊時，需要考慮的事情。到了下一個階段的時候，比如說
+人們通常會告訴你一件事情，不要投資夫妻店。
+
+實際上這會給整個公司帶來一些額外的麻煩，因為創業公司充滿了不確定因素，我覺得當你找合作夥伴時，要看你們是否能愉快地合作，是否能互相扶持達到目標。
+
+比如說：我和一個團隊交流的時候，我想要看到的是他們能相互辯論，而不是做著同樣的事情，比如說你怎麼看這個問題？這個問題怎麼辦？就像衝過充滿危險的戰場一樣，比如說在PayPal經常發生的事情就是，發明了很多東西的Max經常走進Peter的辦公室，對他說這裡有些非常嚴重的問題，我得讓你把精力放在這上面來。
+
+對吧我們不能隨大流坐在那裡附和別人，我們需要朝著目標不斷調整，去發現需要解決的問題，短期內的問題是什麼？長期的問題又是什麼如何解決？就是這種一起解決問題，一起學習的過程，最終成就了一個偉大的團隊。
+
+Q: 我記得Peter Thiel說過我們都夢想著創造會飛的汽車，但最後也就發條上限140字的微博就罷了。因此我想問的是如何區分--因為可能不同的人在不同的領域創業有人做社交網絡，有人去做計算相關的東西。那麼其中有共同點--好不同的領域創業者也不同如何區分？
+
+A: 那麼，我們今天講座的主題就是：「偉大的創業者」，在習慣上與其他的創業者有什麼不同？
+
+今天有一部分講了這一點，不同領域之間具有不同的地方，比如說軟件領域對市場的反應速度。學習的速度很關鍵，對於硬件來說如果搞砸了一點就完蛋了，因此準確很重要。如果你生產出售了錯誤的東西那就完了。
+
+對於投資人通常來講，這也是為什麼很多投資人，自己有一套體係並且之後也能很好地進行學習，以及在其他領域重新運用，因為他們總是努力去嘗試深入理解一個新的領域。在這個領域誰來做創辦者是很關鍵的，如果我們要投資這個領域，如何才能做好？
+
+每一個領域都有自身獨特的屬性，比如說其中一個典型的例子就是：如何根據利潤成本控制等一系列東西，來處理好經營效率的問題。如果你做的事情在傳統行業當中，那麼你必須要精於此道。如果你做的是像Zinga之類的數字遊戲創業公司就無所謂。
+
+因此你要找到合適的人，因為不可能有人能精通所有的領域，我之前經歷過的一個很有意思的談話，是和我第一次創業時一起創立Social Net的一個朋友的交談，他看著我說：「Reid 我永遠不會僱你做麥當勞的經理」
+
+要是我，我也不會啊我根本不懂那個，一個人必須有合適的技能才行。這裡的重點是，要在看似矛盾的地方找出合適的方向，有時需要側重這裡有時則是那裡，需要對你正在做的事情，有個正確的判斷，這才是比較普遍的做法。
+
+Q: 你之前提到過，你們的發展時間較長，然後你們希望等待看到實質性的增長。那麼根據你個人和職業的目標，你怎麼知道何時該繼續？何時該放棄？如何--這個問題是如何確定何時應該轉型？
+
+A: 之前我們討論過要有投資想法，對此有信心並時刻有清醒的認識。對於這個問題，通常我給聽眾的答案是，如果在很長一段時間裡你對你的信心不好估計，或者信心在減少，其實你要是很長時間沒把握那麼你的信心，肯定會減少。那麼這時你會非常渴望去尋找，做什麼事情可以讓你重拾信心。
+
+如果你失敗了的話，這就是一個比較恰當的去轉型的時刻了。你會考慮集資的問題，也會開始考慮
+商品的物流模式增長，病毒式營銷的局限性搜索引擎優化等一系列問題。
+
+如果你已經嘗試了幾個辦法，下一個辦法可能還不如之前那幾個後面的可能更糟糕，這種情況就會讓你喪失信心，然後就需要考慮轉型了。
+
+人們經常犯的一個錯誤就是，只有等到不行了。直到做任何事情都無法產生改變時，才考慮去轉型。
+
+根據我個人的經驗，我想要說的一點是，這一點我在之前的幻燈片上說過，但當時看錯了時間，就講的比較快。其中一個主要問題就是關於平衡的問題，我認為創業者們都做不到平衡。
+
+
+我之前和科羅拉多州的州長，有一次非常有趣的談話，他非常想吸引企業家來科羅拉多州，因為他說他們州的生活方式很平衡，如果一個創業者要是和我說：「他的生活方式很平衡，那他很可能不會對創業竭盡全力。」
+
+偉大的創業者通常能夠把所有精力都放在一件事情上，也許只有幾年。也許我只是這段時間做這件事情然後就去做別的，但我一旦打算做一件事情必定會竭盡全力。但這也不是說你不能休息，不能抽個時間去約個會之類的，但你必須對這件事情高度專注，因為創業很艱苦可能失敗的地方太多了。
+
+這也是我經常用“跳下懸崖”，這個隱喻的原因。
+
+Q: 你對-- 如何去發現那些潛在的別人看不到的機會？總之你認為在創業生態系統中，發現好的機會容易嗎？在創業環境中是否可以發現，一般人看不到的機會？
+
+A: 我想想這個問題很有挑戰性，因為一旦一個東西變得流行起來，那麼它就不再小眾了。我感覺一半一半吧，一個偉大的投資人通常具有發現一個瘋狂的創意的能力。
+
+他們會去投資這樣那樣瘋狂的點子。
+
+這世界上的投資人是很多的，因此你總能找到一些通過網絡找到一些願意給你投資的人，雖然有時這很難，干擾因素很多，很難找到有用的信息。
+
+但從另一方面來說，有些事情其實是非常瘋狂的。一件很有趣的事情是，Benchmark在當時是唯一一家願意給eBay投錢的風投，如果你在一年或者18個月前和矽谷的人們，討論比特幣你知道他們會怎麼說嗎？
+
+比特啥？從來沒聽過。比特幣的未來現在仍然不明確，儘管對於數字加密貨幣的分佈式信託制度，正在逐步建立起來。
+
+這裡面的實際問題是，比特幣是第一個還是最後一個加密貨幣。說它是第一個，是因為現在又湧現了很多具有新特性的數字貨幣，說它是最後一個。
+
+是因為比特幣的網絡效應已經開始顯現，我想它的前景還是不錯的。通常的情況是，人們認為他們做的事情是一種獨一無二​​的組合，所以他們覺得他們的想法與眾不同。
+
+我給大家兩個例子，這些創業者給我發來了很酷的圖片，我每天差不多能收到30個這樣的圖片，但我一般都不會看。除非標題特別好笑，差不多我看的都是有趣的事情。
+
+這裡我分享兩個，一個是可穿戴尿布，可以對其進行電腦監控，看你的小孩是不是大小便了。但這裡有個問題，如果你離你的孩子這麼遠還要監視這樣的事情，那確實挺悲哀的。
+
+另外一個例子是客制化的電子商務，他們會說看我有個與眾不同的想法，是你有但這不是正確的方式對吧？
+
+因此通常來說，整個行業還是可以發現與眾不同的想法的。
+
+Q: 你覺得Social Net是不是很超前--你認為是創造市場還是--創造市場還是發現市場比較好？
+
+A: 這個問題實際上也不好回答，通常的情況是--這個問題是對上一個問題的很好的延續。通常我們在創業時會考慮的一個經典問題是，這個市場還存在嗎？
+
+市場會繼續變大還是會不復存在？
+
+好的一方面是：答案只有以上兩種。那麼進入一個人們認為沒有希望的，但你卻有理由充滿信心的市場，對你來說通常是個不錯的選擇。
+
+但這樣經常也不一定是好事，所以當你測試你的投資想法時，要做的一件事情就是：什麼情況會讓你去考慮是否存在一個市場？
+
+因為一開始根本沒有市場，所以從概念上講肯定可以去創造市場，因為人們有對於新的事物的需求。另一方面，當人們不知道他們的需求時，你如何讓大家快速接受你的東西，對吧？
+
+他們會說--企業家一個經典的錯誤，就是會認為一旦他們創造出一個產品，人們就會喜歡上它，然後排隊購買。
+
+好吧，確實有些人能做到。比如史蒂夫·喬布斯，但大多數情況不是這樣的。那麼對於你的投資想法，為什麼你認為對於一個其他人通常認為不存在，其他人不知道的市場。基於你的與眾不同的判斷而應該存在，比如LinkedIn當時面對的情況是，在信息時代招聘的分類廣告都是登在報紙上的。
+
+但實際上在互聯網時代，利用網絡直接面向求職者進行招聘，才是現代招聘應有的模式。這個問題還是比較容易去驗證的。
+
+但這確實是一個你需要考慮，其中是否存在一個新興市場的地方。
+
+Q: 你怎麼知道你是否對一個人足夠了解，以至於可以一起開公司？Sam在第一個學期告訴我們的一件事是，只有足夠了解才能合作。但你們創立PayPal的時候，因為有一大群人，你了解了多久才能說，我足夠信任他們並且可以一起創業？
+
+A: 那麼問題是通常你需要了解一個人多長時間，才能信任他一起進行創業？這裡面涉及到很多因素。這是你所需要面對的一個風險，你必須要考慮是否對他人足夠的了解。
+
+我在這裡說一個，我認為是很有用的情況，在討論如何僱傭CEO這個問題的時候。
+
+我和我的投資組合公司的CEO或合夥人說的一個事情是，我認為這也是唯一一個解決的辦法。當你確定了你想要雇傭的成為你公司CEO的人時，至少要花費20小時與他接觸，進行一次足夠深入的交流。討論任何可能存在差異的事情，比如說觀點理念工作方式等等。
+
+你要把這些事情都搬到檯面上來，但這並不是說簽一個合同，把所有條條框框都寫在上面，但我們可以安排一次談話，把所有問題說明白交流一下。我們達成共識或不能達成共識的內容。
+
+我經常考慮的一件事情就是，把這件事情比作離婚，問自己為什麼想要離婚？
+
+是什麼驅使我去思考為什麼這樣行不通，在一開始把這些東西都說明白，因為之後的事情就會像打仗一樣，非常緊迫，要上刀山下火海。
+
+但至少你們之前已經，把一系列事情商量好了，也有了一定的預期。你們知道如何一起進行計劃，這時如果出現問題，解決起來就相對容易多了。因為你們已經達成了一些共識，所以通常你要做的就是具有足夠的信心並建立起足夠的信任。
+
+對於我來說就是用一系列深入的交流達到這一點，那麼之後出現問題的時候，我們就可以進行討論。可以很容易地解決問題。
+
+謝謝
