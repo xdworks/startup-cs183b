@@ -1,133 +1,261 @@
 # Lecture 7: How to Build Products Users Love
 
-http://genius.com/Kevin-hale-lecture-7-how-to-build-products-users-love-part-i-annotated
 
-Alright, so when I talk about making products that users love, what it means specifically is "How do we make things that have a passionate user base, that our users are unconditionally wanting it to be successful, both on the products that we built and the companies behind them?" We're going to go over tons of information; try not to take too many notes - mostly just try to listen. I'll post a link to the slides on my Twitter account, and on that link, there will be a way for you to annotate the slides. So you can ask me questions, and if we don't get to them, I'll answer them after the talk.
+好的開始，我說的“打造用戶所喜愛的產品”具體的意思是：我們如何使用戶無條件的喜愛我們的產品，希望我們的產品獲得成功。基於對產品的喜愛，還希望我們的公司能夠成功。
 
-So you guys have been listening to a lot about growth over the last several weeks, and to me, I feel like growth is fairly simple. It's the interaction between two concepts or variables: conversion rate and churn. The gap between those two things pretty much indicates how fast you're going to grow. Most people, especially business-type people, tend to look at this interaction in a very mathematical, calculated sort of way. Today I want to talk about these things at a more human scale because in a startup when you're interacting with your users, you have a fairly intimate interaction in the early stages, and so I think there's a different way of looking at this stuff in terms of how we build our products. We'll look at a lot of different examples of that and how it's executed well.
+這節課的信息量非常大，希望大家盡量少記筆記專心聽講就可以。我會在我的Twitter上放一個本節課PPT的鏈接，大家可以通過點擊鏈接下載PPT，這樣可以節省時間以便大家提問。如果在講課過程中沒有涉及到，我會在課後進行解答。
 
-My philosophy behind a lot of things that I teach in startups is, the best way to get to $1 billion is to focus on the values that help you get that first dollar to acquire that first user. If you get that right, everything else will take care of itself. It's a sort of faith thing.
+在前幾個星期的課上，了解到很多關於公司增長的知識，在我看來公司增長這個問題是非常簡單的。其實就是兩個概念或者說是變量之間的關係：轉化率和流失率之間的關係。
 
-I came to be a partner at YC by a way of being an alumni. I went to the program of Winter 2006 (it was the second-ever program), and I built a product called Wufoo. Wufoo is an online form builder that helps you create contact forms, online surveys, and simple payment forms. it's basically a database app that looks like it's designed by Fisher-Price. What's interesting though is that because it was fairly easy to use, we had customers from every industry market and vertical you can think of including a majority of the Fortune 500 companies.
+這兩者之間的距離越大，預示著你的公司增長的越快。大多數人尤其是商科出身的人，傾向於用數學計算的方式，看待兩者之間的關係。
 
-I ran the company for five years, and then we were acquired by Survey Monkey in 2011. At the time, we were a very interesting acquisition. We were only a team of 10 people at the time, and while we acquired funding here in Silicon Valley through Y Combinator, we actually ran the company from Florida. We had no office, everyone worked from home, and we were an interesting outlier. So each dot here represents a startup (PowerPoint slide) that exited through IPO or acquisition, we are the outlier to the left. The bottom represents the funding amount that they took, and vertical axis is the valuation of the company at the time. To sum it up the average start up raises about $25 million, and the return for their investors is about 676%. Wufoo, raised about $118,000 total, and our return to our investors was about 29,561%.
+現在，我想告訴大家一種更加人性的方法看待二者的關係。在創業的初期階段，你和使用者之間的互動，是非常緊密的。因此我會從打造產品角度進行剖析。我會為大家列舉很多的例子，講一下他們是如何操作的。
 
-So a lot of people are interested in what makes Wufoo a little bit different, or how do we run the company differently. And a lot of it was focused on product. We weren't interested in building software that people just wanted to use, that reminded you that you worked in a cubicle because it was a database app at its core. We wanted a product that people wanted to love, that people wanted to have a relationship with, and we were actually very fanatical about how we approached this idea, to the point where it was almost sort of in a science-y way. So what we said was like, "What's interesting about startups in terms of us wanting to create things that people love, is that love and unconditional feelings, are difficult things for us to do in real life. In startups, we have to do it at scale." So we decided to start off by asking, “How do relationships work in the real world and how can we apply them to the way we run our business and build our product that way?”
+在創業方面我的哲學觀是，要想賺10億美元，你要先專注於幫助你獲取第一筆錢的價值，怎樣擁有第一批客戶。如果你理解了這個問題，那麼所有的事情都就好辦了。
 
-We'll go over these two metaphors: acquiring new users as if we are trying to date them, and existing users as if they are a successful marriage.
+這有點像是信念，我以大學校友的身份成為了YC的聯合創始人，我參加了2006年冬季的項目，這是YC的第二批孵化項目。我建立了Wufoo公司，Wufoo是一個在線網頁製作平台，它可以幫助建立聯繫人列表、在線調查問卷以及製作一些簡單的付款單，看起來就像是Fisher Price設計的數據庫一樣。有趣的是因為Wufoo使用起來非常簡單，得到了各行各業用戶的青睞，用戶數量非常多，甚至還有世界500強的企業使用Wufoo。
 
-When it comes to dating, a lot of the things that we uncovered, had to do with first impressions. All of you often talk about your relationships in the origin story. You guys will tell me about your first kiss, how you met, how you proposed. These are the things that we say over and over again, basically the word-of-mouth stories for relationships. There are similar things that we do with companies. Human beings are relationship-manufacturing creatures. We cannot help but create, and anthropomorphize, the things we interact with over and over again. Whether it's the cars we drive, or the clothes we wear, or the tools and softwares we use, we eventually prescribe characteristics to it, a personality, and we expected it to behave a certain way - that's how we sort of interact with it.
+經營了五年之後，2013年SurveyMonkey收購了Wufoo，在當時我們是一個非常有趣的收購對象，當時Wufoo僅是一個十幾個人的團隊，我們通過YC在矽谷進行融資，我們的公司卻建在佛羅里達。Wufoo沒有辦公室，大家都在家里辦公，我們非常的個性另類。
 
-First impressions are important for the start of any relationship because it's the one we tell over and over again, right? There’s something special about how we regard that origin story. Let me give you an example. If you're on the first date with somebody, and you’re having a nice dinner, but you catch them picking their nose, you are probably not going to have another date with them. But if you're married to someone for about 20 to 30 years, and you catch them on the BarcaLounger digging for gold, you don't immediately call your lawyer, you know what I mean, and say, "We have a problem here, you have to start drawing up papers for divorce." You shrug your shoulders, and say, "At least he has a heart of gold."
+這張圖裡的藍色點表示的是，上市或者是被收購的創業公司，我們就是左邊的這個藍點，底部橫軸表示的是投資金額，縱軸表示的是投資回報率
+創業平均回報大約是2500萬美元，回報率大概是676%。
 
-So something about first-time interactions means that the threshold was so much lower in terms of pass fail. So in software and for most products in Internet software that we use, first impressions are pretty obvious and there are things you see a lot of companies pay attention to in terms of what they send their marketing people to work on. My argument for people who are very good at product is that they discover so many other moments and make them memorable: the first email you ever get, what happens when you got your first login, the links, the advertisements, the very first time you interacted with customer support. All of those are opportunities to seduce.
+Wufoo當時的融資金額總共是11萬8千美元，但我們給投資者的回報率高達29000%，因此很多投資者對我們很感興趣，當時在別人眼裡Wufoo很特別，或者說我們運營公司的模式與眾不同，我們把更多的注意力放在了產品身上，我們的重心不在於開發客戶僅僅想用用的軟件。這就不斷提醒我們要精益求精，我們的產品本質上是數據庫，我們想推出一款人們非常喜愛的產品，會迷戀的產品。
 
-So how do we think about making first moments? We actually took this concept from the Japanese. They actually have two words for how to describe things when you're finished with them, in terms of saying, "is this a quality item?" The two words for quality are atarimae hinshitsu and miryokuteki hinshitsu. The first one means taken for granted quality, which basically means functionality. The last one means enchanting quality. Take for example a pen. Something has miryokuteki if the weight of the pen, the way the ink flows out of it, the way it's viewed by the people reading the hand writing from the pen, is pleasurable both to the user of the pen and the people who experience the byproducts, taking it to the next level. Let's start with some examples.
+我們痴迷於將這個創意實現，已經到了狂熱的地步，有點像科學狂人了。
 
-This is Wufoo's login link, and it has a dinosaur on it, which I think is awesome! But if you hover it, the spec has the added benefit of having a tool tip that doesn't tell you how to log in or what it does, but basically "RARRR!" What we noticed about this in early usability stages, is that this put a smile on people’s faces, like hands down, universally. I think a lot of times when we are assessing products we never think about, "Hey, what is the emotion on the person's face when they interact with this?"
+好的，從推出讓用戶喜愛的產品這個角度，來看待公司的話是非常有趣的，在現實生活中和一個人相愛對於我們來說不是什麼容易的事，對於創業公司來講也是這樣的，我們當時這樣想，在現實生活中我們是如何處理感情的呢？這種方法同樣可以應用到創業上，可以應用到產品上，打兩個比方，尋找新用戶的過程就好像約會一樣，留存客戶就好比是成功的婚姻。
 
-This is Vimeo's launching page; this is actually a couple iterations ago, it's the one that I find to be the most beautiful. It lets you know that when you're starting out on this journey with them, it is going to be something different - they do this all over. If you search for the word "fart," as you scroll up and down, it makes fart noises. There's something different, like this site interacts with you, it's a little bit magical, and it’s a little bit different. It's something that you want to talk about.
+因此約會的時候，第一印像很重要，你們在談論自己的感情經歷時，都會講到開始時候的那些事，會談到初吻、是怎麼認識的、怎樣求婚的。這些事兒講過很多遍，這些事兒其實就是感情的口碑營銷。創業其實是有相似之處的，人會製造情感，我們會賦予產品很多人性化的東西，我們和這些產品之間是有相互作用的。不論是汽車、衣服、工具、軟件，都被賦予了人性，我們希望它們能和我們一樣，這就是我們和物品之間相互作用的機制。
 
-You don't always have to do it with design. This is a sign-up form for Cork'd, which used to be a social network for people that love to drink wine. On it, it says, "Email address- it's also your sign in name, and has to be legit. First name – what mom calls you. Last name - what your army buddies call you. Password – something you'll remember but hard to guess. Password confirmation – type it again, think of it as a test." It's literally a poem as you fill it out the form. And this is the kind of thing when you're like, "Oh, I like the people behind this, I’m going to enjoy this experience." Now what does it say, when you fill out a form like this, about what their personality looks like it's going to be? And what's disappointing to me is Yahoo forces every product and service under them to use this exact same login form.
+在開始任何一段感情之前，第一印像都是非常重要的。這是我們會經常談論到的對吧？我們對待第一印像有特殊的態度，舉個例子，你和約會對象第一次見面，你們共進晚餐。但是你卻發現對方挖鼻孔，你可能不會再和對方約會了，但是如果你已經和你的愛人結婚二三十年了，你發現對象摳鼻子，你肯定不會立馬打電話給律師說，你們之間有問題了，你需要律師立即起草協議離婚，你可能會聳聳肩說他人還是不錯的。
 
-Flickr I thought had one of the best call-to-actions. It was, "Get in there!"
+能夠給客戶留下好的第一印象，關係到成敗。軟件、很多我們使用的互聯網軟件，第一印象的重要性是顯而易見的。你會發現很多公司，會把注意力放在這方面，讓市場營銷人員花大力氣做好，很多擅長營銷的公司，會把他們的產品做到給客戶留下難忘的印象。比如說你使用的軟件發給你的第一封郵件，第一次註冊時看到的廣告鏈接、第一次的客戶服務、這些都是給客戶留下第一好印象的機會。
 
-This is for Heroku's signup page. I think this is an older version. What's remarkable about it is that what you start getting a feel for, is like scaling up the backend services, it's as easy as dragging up-and-down different knobs and levers. It looks fairly easy to scale.
+那麼我們如何從這幾個方面給客戶留下好印象呢？我們從日本人那裡學到了答案，他們用兩個詞來描繪產品體驗。這兩個詞是atarimae hinshitsu和miryokuteki hinshitsu。
 
-This is for a room full of computer science people; I think you'll appreciate that. This is Chocolat, a code editor. And they only have one call to action: when the time limit is up, everything in terms of all the features is all the same, except we changed the fonts to Comic Sans, and what they're basically saying is "Hey, we know who our users are, who our real customers are. They're going to be the people who care about this."
+第一個的詞的意思是：質量合格，主要是指產品的功能性質量。第二個是指品質非凡，比如說一支鋼筆可以是它的重量、或者是鋼筆下水的方式
+或者是看到用這支鋼筆寫出來的字的效果，令使用者或是間接使用者心生愉悅，這樣的產品上升到了更高的一個層面。
 
-This is Hurl, a website for checking HTTP requests, and sometimes the places where you get errors are opportunities for first moments. If you hit a 404, this is what you get: (Unicorn throwing up a rainbow.)
+再比如說，這是Wufoo的登陸鏈接，登陸的位置有一隻恐龍。我覺得這個設計非常好，如果你把鼠標停在這個位置，並非和其他產品一樣跳出如何登陸的提示，只是會發出恐龍的吼叫啊~~~我們注意到用戶初次聽到這聲恐龍叫的時候都會情不自禁的笑了。人們普遍地都對這些東西沒有抵抗力，在我看來大多數的時候人們不會去考慮用戶使用產品的時候，臉上的表情是怎樣的。
 
-Often times what we do is we create really beautiful marketing materials, but when you actually need documentation, we sort of skimp out on design features. This is something that happens over and over again. A company that gets this right is MailChimp. What they did was they redesigned all of their help guides so that they looked like magazines covers, and overnight basically readership goes up on all these features, and customer support for these things that help people optimize emails, goes down.
+這是Vimeo的登陸界面，這是升級以前的版本，這是我覺得最漂亮的登陸界面。這個界面給用戶的感覺是，當你登陸使用Vimeo你會感受到不一樣的地方，整個程序都是這樣的，如果你在搜索欄裡搜索“放屁”，你用鼠標上下滾動的時候會發出“放屁”的聲音，這種體驗確實與眾不同，好像這個網站能夠和用戶互動一樣，用戶會覺得這個網站很神奇很不一樣。
 
-Speaking of documentation, Stripe - what's interesting about an API company, is that there is no UX. The UX is actually just documentation, and there are opportunities even in documentation to sort of enchant and amaze. One of the things that I love about them is that their examples are wonderful, but if you log into the app, one of the things that is a super pain for most people is when you’re doing most people's APIs, is grabbing your API credentials and keys. And what shocked us is that it says, "If you are logged into the app, we automatically put your API credentials into the examples, so you only have to copy and paste once, when trying to learn their API.”
+對此你會有很多感觸想與別人交流，也不是非要從設計的美觀上吸引人。下面大家看到的這個註冊信息表：是一個愛酒人士的社交網站註冊表
+上面寫著“郵箱地址”，“同樣也是你在本網站的登錄名要合法哦”，“名字也就是你媽媽在家叫你的那個名字”，“你的姓你的隊友叫你的那個名字”，“密碼這你可要記好了不要讓別人猜到哦”，“再確認一次密碼再輸入一次，把它看做是一個小測試哦”。
 
-When Wufoo wanted to launch the third version of our API, we realized, "Okay finally this is good enough that we want people to build on top of it." We were trying to figure out how we launch this out to the world that sort of has our personality behind it, because a lot of people usually do things like a programming API contest that give out iPads and iPhones; it makes you look like everyone else. So at our company, one weird value we have is that our cofounders are big medieval nuts, and we would take everyone out to Medieval Times every single year on the anniversary and founding of the company. So we said we have to do something in that flavor. We contacted the guys at armor.com, and said, "Can you forge us a custom battle axe?" We said, if you win our programming contest, you would win one. The result is, people wanted to talk about this. People wanted to say they were working on this because they wanted to say, "I am programming for a weapon." What's cool is we had over 25 different applications created for us, of quality and quantity that we could not have paid for on the budget and time that we had. We got things like an iPhone app, an Android app, a Wordpress Plugin, and all we did was change the way people talked about our origin story of how they interacted with one of our services.
+這些話看起來就像打油詩一樣是不是？用戶會有這樣的感覺，我很喜歡設計這個表格的人，我要註冊進入這個網站看看。
 
-I'm going to shorthand this by saying you should just subscribe to Little Big Details. It's basically tons of screenshots of software that just shows that they are doing it right and being conscientious of the user and the customers.
+再來看這樣的註冊表格給大家何種感覺呢？
 
-When it comes to long-term relationships, or marriages, the only research that we ended up having to read is the stuff done by John Gottman. He's been featured in "This American Life," Malcolm Gladwell's books, etc. He's a marriage researcher up in Seattle, and he has an interesting parlor trick that he can do. He can watch a video tape of a couple fight over some issue for 15 minutes, and predict within 85% accuracy rate, whether that couple will be together or not, or divorced, in four years. If he increases that video up to an hour and asks them to also talk about their hopes and dreams, that prediction rating goes up to 94%. They showed these same video tapes to marriage counselors, successfully married couples, sociologist, psychiatrist, priests, etc. They can't predict with random chance, whether people are going to be together or not.
+雅虎的註冊表讓你覺得它會是一個怎樣的網站嗯？，最令我失望的是雅虎旗下所有的註冊表，都是一樣的很強迫人的感覺。Fliker的主頁是最有號召力的一個，寫著“趕緊進來”。這是Heroku的登陸界面，這應該是未升級之前的老版本，但是這個界面與眾不同的是，你會有種感覺增加了啊，選擇你所需類型的服務，非常的簡單。
 
-So John Gottman understands something fundamental about how relationships work in the long term, and that basically how we fight even in the short term period can indicate the whole system and what it's going to look like. One of the surprising things he discovered is not that successfully married people don't fight at all; turns out, everybody fights and we all fight about the exact same things: money, kids, sex, time, and others ("Others" are things like jealousy and the in-laws.) To bring this around, you can actually attribute every single one of these to problems to things you see in customer support when you're building out your products, so Money - this costs too much, or I'm having trouble with credit cards. Kids - users' client. Sex - performance, how long you're up and how fast. Others - I said was jealousy or in-laws, so that's competition and partnerships, anything weird happening there, people are going to write to you about. And the reason I like to think about this in terms of customer support is that, in everyone's processing of a conversion funnel, customer support is a thing that happens in between every one of the steps; it's the reason why people don't make it further down there; it's the thing that prevents conversion from happening.
+你只需要拖動這些按鈕，界面非常漂亮縮放簡單，大家都是學習計算機的人，大家都會懂的，這是Chocolat的界面。一個代碼編輯器它家有個殺手鐧，當試用期過了以後，界面裡其他的東西都沒有變化，但是字體變成了comic sans。他們想要表達的意思是，我們知道我們的用戶是什麼樣的人，他們肯定不願意看到漫畫字體肯定會購買的。
 
-Now as we were thinking through all of these ideas, and as we were building up the company, we realized that there's a big problem with how everyone starts up their company or builds up their engineering teams. There's a broken feedback loop there. People are divorced from the consequences of their actions. This is a result from the natural evolution of how most companies get founded, especially by technical cofounders. Before launch, it is a time of bliss, Nirvana, and opportunity. Nothing that you do is wrong. By your hand, which you feel is like God, every line you write and every code you write feels perfect; it's genius to you. The thing that happens is after launch, reality sets in, and all these other tasks come in to play; things that we have to deal with. Now what technical cofounders want to do is get back to that initial state, so what we often see is the company starts siloing off these other things that makes a startup company real, and have other people do them. In our minds these other tasks are inferior, and we have other people in the company do them.
+這是Hurl的界面，這是檢測http請求的網站，如果網頁出錯了可能因禍得福，404錯誤時會出現這樣可愛的畫面。
 
-So for us, what we're trying to figure out is how we change software development so that we inject some values that we don't talk about enough, like responsibility, accountability, humility, and modesty. We call this SDD (Support Driven Development). It's a way of creating high-quality software, but it's super simple; you don't need a bunch of Post-it notes. All you have to do is make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
+當我們需要提升產品的時候，通常我們會把宣傳資料做得很漂亮，但是如果我們的產品屬於文檔類型的，我們通常會忽略了個性的產品設計，這種現像很常見。
 
-One of them is support responsible developers and designers. When people built the stuff, they give the very best support. Now we are not the first people to think of this. Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls. People would often ask him "Why would you pay engineers $120,000 or more to do something that you can pay other people a fraction of." He said, "Well, after the second or third time that the phone rings, and the engineer get the same problem, they stop what they're doing, they fix the bug, and they stop getting phone calls about it." It's a way of having QA in a sort of nice, elegant solution.
+在這方面做得比較好的企業是Mailchimp，他們把所有的產品索引重新進行了設計，看起來就像是雜誌封面一樣，一夜之間用戶量激增並且用戶自助使用率提高了，客服的使用量大大減少。
 
-Now, John Gottman talks about the reason that we often break up with one another is due to four major causes. They are warning signs. He calls them the Four Horsemen: criticism, contempt, defensiveness, stonewalling. Criticism is basically people starting to focus, not just on the specific issue at hand, but on the over arching issues like "You never listen to users" or "You never think about us" all the time. Contempt is when somebody is purposely trying to insult another person. Defensiveness is not trying to take accountability, or trying to make excuses for their actions. Stonewalling is basically shutting down. Stonewalling according to John Gottman, is one of the worst things we can do in a relationship. Often times we don't worry about these things in customer support, criticism or contempt. Defensiveness, you see this all the time especially in companies as they get older. But stonewalling, this is something I see happening with startups all the time. You get a bunch of customer support calls coming in, and you just think, "I don't need to answer, I don't need to respond." That act of not even getting back to them is one of the worst things you can do, and it's probably some of the biggest causes of churn in the early stages of startups.
+說到文字設計的成功例子不得不說Stripe網站，對於一個API公司來講沒有什麼用戶體驗，用戶體驗就是文檔對吧？即使是文檔，也有門道讓用戶驚嘆，我喜歡它的一個原因就是他們的示例非常棒。你登陸進去以後，對大多數人而言，比較頭疼的一件事情就是API認證。
 
-This is how support worked out with Wufoo. When we were acquired we had about 500,000 users on the system, 5 million people used Wufoo forms and reports whether they knew it or not, and all those people got support from the same 10 people, and usually there was one person dedicated to support a day, for any shift. Resulting in about 400 issues a week, that's about 800 emails. But our response time from 9 AM to 9 PM was between 7 to 12 minutes, from 9 PM to midnight was an hour, and then on the weekend it would be no longer than 24 hours. We carried this up all the way up to the scale.
+Stripe的做法是登陸應用的時候，API認證自動的關聯到例子中，在使用其API的時候只需要復制粘貼一次就可以。當Wufoo更新到第三代的時候，我們覺得Wufoo已經比較完善了，用戶可以利用Wufoo製作產品了。我們思考，如何進一步擴大Wufoo知名度讓更多人使用，讓Wufoo變得與眾不同。
 
-What a lot of people talk about and often forget about Airbnb, is how they did this interesting thing where they went up to New York, and offered professional photography, and the founders would go up there and actually take pictures of the people's apartments to help them sell more, focusing on the stories about conversion. What most people don't realize is, a lot of times when I saw Joe in the early times of Airbnb, he had a phone headset stuck to his head all the time because he was doing phone support nonstop.
+以前會有很多類似於編程比賽這樣的活動，用iPad或iPhone做獎品吸引參賽者。我們想弄得特別一點，恰好呢，我們這幫人都是中世紀迷，每年公司創建紀念日的時候，都會舉辦和中世紀有關的活動，因此我們覺得可以搞一個相關的活動。我們聯繫了armor.com，希望他們能幫我們打造一把中世紀戰斧，然後發佈公告如果參賽者贏了我們的編程比賽，那麼就可以贏得中世紀的戰斧。
 
-Churn is the story we don't like to talk about. Airbnb's growth really started picking up when they figured out how to match capacity to the demand or the phone calls they were getting into their support system.
+這個消息一發佈人們就紛紛議論，很多人都想參加比賽，因為他們很想為了戰斧“而戰”。很棒的是最終我們收到了25個優秀的應用，其數量和質量都遠遠超出了我們的預期，有iPhone的應用程序、安卓的應用以及WordPress的插件。這些成功都歸功於我們在人們談論Wufoo以及互動方式上做了些改變而已，這種事例有很多，長話短說，關注little bit details就對了。
 
-At Wufoo we actually constantly did experiments around support because we were so obsessed with it. One experiment we did was, we heard someone here do a talk about how there's a disconnect between the emotions that we have when we need help, and the content and the reaction we get from people when we get help to people, especially online, because they just don't see those nonverbal cues. So she said, unless there's face recognition on the web, we are just always going to be disconnected from our users. Our feeling was like, "We're not face recognition experts, but we think there's another way of getting empathy." So, as form builders we added a drop-down, and what we said was, "what's your emotional state." Our hypothesis was nobody's going to fill this out; we thought this was going to be a lame experiment, but we'll see how it goes. It turned out that this field was filled out 75.8% of the time. The Browser Type drop-down field in comparison was filled out 78.1% of the time. So people were basically telling us, "For my technical support issue, how I feel about this problem is just as important as all the technical details you need to figure out in order to debug it."
+上面有很多優秀軟件的截圖，體現出了他們非常重視用戶的需求，提到長期關係也就是婚姻。
 
-We didn't prioritize things or triage things by emotion, so for the most part people didn't game the system. One of the interesting byproducts of it was that we noticed that people started being nicer to us. We went back and looked at the data, did some text analysis and realized when it comes to communicating with people over written words like email, there's only three ways in which you show strong emotions: exclamation marks, curse words, AND ALL CAPS. Sure enough, on all three of those metrics, they've gone down in the way people were talking to us in customer support. Once people had a simple outlet for their emotions, it made them a lot more rational, and a made our jobs much more pleasant as a result.
+我非常推薦大家去讀一下John Gottman的研究，This American Life曾介紹過他，Malcolm Gladwell的書中也曾提到過他，他是西雅圖的婚姻研究專家，他有一項非常有趣的絕活，只要給他看一段夫妻吵架的視頻，15分鐘就行。他就能預測出4年後這對夫妻是否會離異，準確率高達85%，如果讓他看1個小時，再問問這對夫妻的希望和理想，那麼準確率會高達94%。把同樣的視頻放給婚姻諮詢師、婚姻美滿的夫妻、社會學家、精神醫師、牧師等人看，他們對於這對夫妻以後是否會在一起的預測都沒有達到這麼高的精准率。
 
-The other byproduct that is awesome is that you actually build better software when you do this – far better software. This is actually backed up by a whole bunch of research. Jared Spool, at User Interface Engineer (one of the biggest players in the space) says that there's a direct correlation to how much time we spend directly exposed to users and how good our designs get. He said it has to come in this specific way. It has to be a direct exposure. It can't be something where someone generates a report or through a graph. You have to be interacting with them in somewhat real time. It has to be a minimum of every six weeks, and it has to be for at least two hours; otherwise your software will get worse over time. Our developers, the people who are with Wufoo, are getting exposed to our users 4 to 8 hours every single week. What it does is that it changes the way you sort of build software.
+因此John Gauntman精通維繫夫妻關係的基本原則，我們吵架的方式，即使只是短短的十來分鐘也會反映出婚姻狀況，會預示出今後的發展方向，他發現婚姻美滿的夫妻並非不吵架，這一點著實令人感到驚奇。其實每對夫妻都會吵架，而且吵架的原因基本上都是相同的。有錢小孩夫妻生活時間等問題，還有吃醋啦兩家人的關係問題啦都是吵架的原因。
 
-Jared Spool has another way of talking about how we build products. Imagine that this represents all the knowledge needed to use your app on a spectrum (PowerPoint slide). This is like no knowledge (far-left) and this is all the knowledge needed (far-right). These two lines are pretty much your interaction with users. This is currently where their knowledge point is (PowerPoint slide), and this is the target point where you're trying to get them to. The gap between the two is called the knowledge gap as Spool calls it. And what's interesting about this is there's only two ways to fix this. That gap represents how intuitive your app is. You either get the user to increase their knowledge or decrease the amount of knowledge that's needed to use the application. And often times as engineers or people who build and work on these products we think let's add new features. New features only means let's increase the knowledge gap.
+之所以談到這個問題，婚姻中每個問題在產品中都有對應項，可以把客服中收集的問題應用到產品建設上，錢VS產品太貴啦、信用卡出問題啦，孩子VS客戶，如果你的平台是用戶用來服務自身客戶的，那麼用戶就會非常關注這一，性VS表現堅持多長時間有多快，其他問題（吃醋或兩家人關係問題），對應的就是競爭和同事關係。
 
-So for us we actually focused on the other direction. What that meant is that we spent 30% of our engineering time on internal tools to help with our customer support. But often times it was spent on helping people help themselves, like frequently asked questions, or tooltips; things like if you just click the help link, instead of taking you to the generic help documentation page, you go to the specific page that's going to be the most appropriate for what you're working on. We redesigned our documentation over and over again, A/B tested it constantly. One iteration of our documentation page reduced customer support by 30% overnight. It's one of those things where overnight, all the people that work on the product immediately had 30% less work to do.
+凡是這方面有問題都會反映給你的，我之所以這樣考慮的原因是在顧客留存的每一個階段，客服都在其中扮演著很重要的角色，如果客服不好在中間的某個環節就卡死了，顧客留存率就不會高。
 
-What happens if you have everyone working on customer support constantly? I talked about in the very beginning that growth is a function of conversion and churn. This is Wufoo's growth curve for the first five years (PowerPoint slide). What's interesting is that we paid no money on advertising or marketing; all of it was done by word-of-mouth growth. The interaction between new users and downgrades are this (PowerPoint slide). It's so slight what it takes, that gap, making that work. What a lot of people keep forgetting is that there's almost no difference between an increase in conversion rate, 1% increase, and 1% decrease in churn; they do the exact same thing to your growth.; however, the latter is actually much easier to do, and much cheaper to do. And a lot of times we neglect this until way far along, and we usually have our B team work on these projects and services.
+我們在建立公司的時候要考慮其中各個環節，我們發現幾乎所有公司開始創業或者是進行團隊建設的時候，都存在一個非常嚴重的問題，那就是反饋機制不完善。夫妻之所以會離婚是因為一些不當的行為導致的，創業公司的失敗，尤其是技術公司都是在創業初期就留下了隱患。
 
-This is actually not one of the graphs we tracked most of the time at Wufoo, it's not even the one I'm proud of. This is the one I'm proud of because even though we had this nice, awesome curve of growth, this is what allowed us to scale, keep the company small, and have an awesome culture. And that required doing a lot of these things to help people do what they need.
+在產品正式發布之前大家的心情是狂喜的感覺有無限的機會，你的所作所為都是完美的。你覺得自己無所不能了，你寫的每一行程序都是無懈可擊的，但是在產品發布之後，結果就變得現實起來，我們有好多問題要處理。
 
-So John Gottman noticed that there was a different type of behavior for relationships, and why people divorced. Basically there were these subsets of people who stayed together 10 to 15 years and all of a sudden divorced. None of the other indicators would show that this was going to happen. He was looking through the data and realized, "Oh there's no passion, there's no fire between these people." When it comes to relationships, they kind of follow the second law of thermodynamics: In an enclosed energy system, things tend to run down, so you constantly have to be putting energy and effort back into it. The way a lot of people think showing people that "I care about you" in products and companies is by doing things like creating a blog or making a newsletter. The thing is we look at these rates and basically it was such a small percentage of our active users, most of them had no idea about the awesome things that we were doing for them. So we built a new tool and called it the Wufoo Alert System. It allowed us to timestamp every new feature that we are building for users, and that every time they would login we would look at the difference between their log in time, or last login in time, and the new features that were implemented, and they would have this message show up, "Hey since you've been gone, here's all the awesome stuff that Wufoo did for you." Hands-down, this was the most talked about feature that I heard every time I went out to talk to users. They would say things like, "Dude I love that 'Since you've been gone' thing. Even though I pay the same amount every single month, you guys are doing something for me almost every week. It's totally awesome; it makes me feel like I'm getting maximum value."
+技術出身的創業者此時想做的是回到一開始那種愉悅的狀態，常見的做法是避開所有這些麻煩的東西，但其實這些是成功的必經之路。讓其他人去處理這些“不重要的”麻煩事，對吧讓公司裡其他的人去處理，我們今天主要講的是軟件，如何促進軟件的開發，我們要加入一些以前沒有受重視的東西，責任感義務性謙遜性以及質樸性等價值理念，我們稱之為“客服促進開發”。
 
-The other thing that we did in addition to having everyone support the people that paid their paycheck, is have them say "thank you." And this was in large part due to us injecting humility and modesty into the equation. Every single Friday we would get together, we would write simple handwritten thank you cards to our users. And I know there are tons of people who would not be sort of excited about doing this; it was a ritual that made all the difference in terms of like having a team that was very tightly knit, and working on stuff that they really cared about. They constantly knew what the mission was for, and why we sort of did what we did. These aren't fancy thank you cards; they're just simple handwritten stuff on index cards, we threw in a sticker, and slapped on a dinosaur on the front of it.
+這和“測試驅動開發”很相似，用這種方式可以製造出高質量的軟件，但是非常簡單。你不需要復雜的編程程序，也不需要那麼多的記事便利貼，你所要做的就是讓所有人做客服，而你就負責完善反饋機制就可以。軟件的開發者是最勝任的客服，讓他們做客服無疑好處多多，有責任心的開發者和設計者，是最好的客服。
 
-What's interesting is we started this practice as a result of the early days of starting Wufoo. Chris, Ryan, and I were talking to try to figure out what we were going to do to show users that we appreciated them around Christmas, and Chris came up with this idea where he said, "Hey guys, a couple years ago my mom made me write thank you letters to all my relatives for my Christmas presents, and I really didn't like to do it, but the following year all my presents were super good... so I think we should try this for our business and see how it goes."
+這個方法不是我們最先想到的，Kayak公司的Paul English就是一個忠實的支持者。他在工程師的辦公室裡，裝了一個客服電話。打這個電話的都是些普通的尋求幫助的用戶，很多人曾經問過他為什麼他要花12萬美元的年薪甚至更多，去僱傭工程師當客服，而不是花很小部分錢建立客服中心呢？
 
-So that first year we wrote handwritten Christmas cards to all of our users that first year. Second year rolls around, and we have too many customers with just the three founders. We were thinking, "We're kind of screwed; we don't know what we're going to do." Well, we read a book called The Ultimate Question and in it, he talks about focusing on your most profitable users; if you just take care of them, things will work out. So we thought, "That will work out, that's scalable." Basically we only wrote to our highest-paying customers. So January rolls around that second year and one of our longtime loyal users writes to us. He basically says, "Hey guys I really loved the Christmas card you guys sent me the first year, and I just wanted you to know, I haven't received my second card yet and I'm just looking forward to it; I know you didn't forget about me. Thanks a lot." So we were like, fuck. The best way to exceed expectations is not to set any in the beginning; we were sort of in this conundrum. What we decided after thinking about it for a while was that we had to stop doing it just one time a year; it needs to be something that happens every sort of week. And even though we'll never catch up to all of our customers, just a practice of doing it will make all the difference.
+他回答說關於同一個問題接到兩三個電話後，工程師就會先停下手頭的工作，去修復漏洞然後就不會有類似的電話打進來了，這是解決問題的一種非常好的方法。John Gotman認為導致創業散伙，有四大原因，這四大原因都會提前給我們警示，他稱之為“四騎士”（出自《聖經》，意為不好的事情）。
 
-I talked a lot about lovey-dovey, touchy-feely stuff that I think a lot of engineers don't like to think about too often, so I'll end on hard business data or research. There's an article that was put out by the Harvard Business Review several years ago by Michael Treacy and Fred Wiersema and in it they talk about the discipline of market leaders. They say there's only three ways that you achieve market dominance, and depending on how you want to achieve that market dominance, you have to organize your company in a very specific way: best price, best product, and best overall solution. For best price, you focus on logistics, so Wal-Mart and Amazon. If you want to be the best product out there, you focus on R&D, Apple is usually a quintessential example of that. Best overall solution is about being customer intimate. This is the path that you see all luxury brands follow, as well as the hospitality industry. What I love about this path towards market dominance is that the third one is the only one that everyone can do at any stage of their company. It requires almost no money to get started with it. It usually just requires a little bit of humility and some manners. And as a result, you can achieve the success of any other people in of your market. That's all I got, thank you very much.
+* 批評
+* 輕視
+* 防禦
+* 閉關鎖國
 
-Q: So what do you do when you have a product with many different types of users? How do you build one product that all these users love?
 
-A: There is an interesting fine line for that. What I usually tell people is focus on those who are the most passionate, especially in the early stages. Whatever niche it's going to be in, that's where I'm going to focus on completely. I think Ben Silverman from Pinterest started off with design bloggers. Tailor your thing for them, and eventually you'll figure out universal values that will appeal to a lot of other people. So just start one at a time. And a lot of examples that you see up there, a lot of companies make the mistake of just thinking "Oh I'll just make my app funny." Humor is like really difficult to do. When you want to shoot for something witty, you have to get functionality right. So like the Japanese quality. If you don't have atarimae, don't try to do anything witty, because it'll backfire. So hands down our number one focus in Wufoo was to make everything as easy to use as possible; everything else was just polish.
+* 批評指的是，不僅僅批評某一件事而是整個的否定。例如，你從來不聽客戶的心聲，你從來不考慮我們的感受。
+* 輕視是指故意地侮辱他人
+* 防禦是指拒絕承擔責任，總是為行為找藉口
+* 閉關鎖國指的是與外界隔離
 
-Q: How do we balance being obsessed with working on product with all the other skills that are needed by a company, such as marketing, branding, etc?
+在John Gotman看來，冷戰是導致創業散伙的最重要的原因。稍等一下，通常我們不會太擔心批評和輕視，對吧防禦這種事也時常發生。在所有的公司裡都這樣尤其是較成熟的公司，但是閉關鎖國。我發現創業公司都有這個問題，有很多客戶打來電話反映問題，你覺得沒有必要去接聽，我不想去回應。
 
-A: If you're working on product, you should also always have this flip-side where you're talking to users. For us inside of Wufoo, the way we got people to talk to users was through customer support. They got to see firsthand whether the features worked or not, and it also impacted everyone else in the company because everyone had a customer support shift, so they had a social incentive to make everything work. There should be no point where you are only focused on product. You should always have time where you work on product, and then you see what users say to you - like ongoing virtual feedback. So be careful when you don't have that.
+對吧這種無反應的行動，無疑對公司是致命的一擊，在早期的創業公司中，這種行為會給公司帶來很大的損失。這是Wufoo的客服機制，Wufoo被收購的時候已經有50萬用戶了，有500萬人使用過Wufoo的表格和報表，不管他們知不知道，他們的客服就是我們這十個人，我們通常每個人當一天的客服，進行輪班。
 
-My feeling on marketing and sales, my feeling is marketing and sales is a tax you pay because you haven't made your product remarkable. Word-of-mouth is the easiest kind of growth, and it’s how a lot of the great companies grow. Figure out how to have a story that people want to tell about your product where they are the most interesting one at the dinner table. And then that person is your sales person. That person is your sales force for you.
+每個週會收到400條反饋800封電子郵件，我們從上午9點一直回復到晚上9點，每封郵件的回复時間大概是7-12分鐘，晚上9點到半夜這段回复時間是1個小時，週末回复時間​​也不會超過24個小時，現在我們也一直堅持這種做法。
 
-Q: How do you make a decision on product and communicate that with your engineering team when there are lots of different directions to go?
+大家都知道Airbnb，都知道Airbnb去開拓紐約市場的趣事，提供專業的攝影師，讓他們給要賣的房子拍照片，照片拍得好看了房子銷量就會高
+專注於轉化率的增長。但是大家忽略了一點，我發現Joe在創立Airbnb的早期，耳朵上總是戴著耳機方便他接電話，因為他在不斷地接聽客服電話，流失率是一個我們不願意去面對的問題。
 
-A: We just looked at customer support, which is really easy because you see what people are having the most amount of trouble with. You cannot help but get feature requests from people. No matter whatever openings you have in your product or app, people will jam feature requests in there, so you're going to know what they want. Your job as a product person and an engineer is to not just do what they say, because that way you'll just be a slave. You have to figure out and solve what they really want, that deep underlying reason. The thing is if everyone wants to have a different way to go, then ultimately someone's going to figure something out. But also, make the smallest version of each little idea, no longer than 1 to 2 weeks to build it, so you can try it out to see what works and what doesn't. It's dangerous to have multiple product directions that require a lot of time to figure out.
+Airbnb意識到如何將公司能力與客戶需求相匹配，或者是與客服電話的支持系統相匹配後，網站的流量瞬間增長了。Wufoo經常會做一些和客服相關的實驗項目，我們對此很上心，我們曾經做過一個實驗，原因是我們聽說Kathy Sierra做過一個調查，發現人們在尋求幫助時的心情，
+和得到的答復是有斷層的。
 
-Q: Can you relay the story about how the King for a Day thing was good at Wufoo?
+尤其是在線上這種形式，因為彼此看不到臉上的表情，她認為除非網站上有人臉識別功能，否則的話我們和用戶之間是有隔閡的。我們覺得雖然我們不是人臉識別的專家，但是肯定有其他辦法解決這個問題的。Wufoo作為一個表單製作網站，我們加載了一個下拉框，可以選擇此刻的心情。起初我們預測沒有人會去選擇，因為我們認為大家可能都不會去關注，但是我們還是得看一下效果如何，加過“心​​情狀態”這一欄，75.8%的用戶都填寫了，使用電腦客戶端的用戶，填寫這一欄的人數更是占到了78.1%。
 
-A: Yeah, okay so I don't like hackathons. I think they sort of suck in terms of those done inside of companies because you spend like 48 hours working really hard on something that you're really passionate about, and 99% of them never make it out to production. It's super sad. So we came up with an idea called "King for a Day." It worked over the weekend. How it worked is someone randomly in the company got drawn and they got to be the king. The king got to tell everyone else what to do on product. So everything that was bothering them about Wufoo or any other feature that they wanted to have built, they got engineering, marketing, and advertising resources of everyone in the company to make it happen. And of course we worked with them to figure out what we could do in 48 hours. We would do this one to two times a year. It was a huge hit and a boost to morale because what people most loved, was working on things that they felt made a difference, like, I made a difference to the app. So for us, that's one way that we would divide time for product direction. Sometimes, the people that work for you are the people who have the strongest opinions about where the product should go. And that's a good way to democratize it a little bit, by rotating it around.
 
-Q: You said you guys all work from home, which usually seems like a nightmare. How did you make that work?
+這些數據顯示用戶對於產品技術支持的這個問題，他們的心情狀態和我們要解決的技術問題是同等重要的。我們通常不會去根據我們的心情，
+去把事情分個主次，但是這個實驗產生了一個有趣的副產品，我們注意到用戶對我們的客服態度更加友善了。可能只是潛意識，我們會覺得現在的用戶這麼好了，怎麼了？
 
-A: We all work from home, and we all work around the Tampa Bay area. We would allow anyone to work from anywhere but usually as we tried to recruit them and meet our team, they usually decided to come and move here anyway. Remote working is especially tricky. A lot of people like to romanticize it, especially people who are employees, but the thing is an office gives you a lot of benefits and efficiencies that you now have to compensate for when you have remote working. But remote working also has these sort of efficiencies. For example, I don't have to worry about my employees losing two hours of their day to commuting. So the biggest thing we had to do for remote working is to respect people's time. The way we had it set up is we actually had a 4 1/2 day workweek at Wufoo; half-day on Friday was for all the meetings and stuff. We said, no biz dev meetings, no talking with other outside parties. They'd have to be done on Friday, on that half-day; they couldn't be done in the middle of the week. And then also one day of everyone was already dedicated to customer support. So everyone in our company effectively only had three days each week to actually build and work on whatever they were doing. But I actually firmly believe that if you have three solid days, 8 to 10 hours, when you're only working on what you need to build, you can get a ton of shit done. So, what we said was, you have to respect everyone's time during that three day period.
+我們回顧了一下這些數據，我們做了一些分析，發現當我們只是用書面的形式和客戶交流比如說電子郵件，用戶只有三種方式來表達他們強烈的心情，感嘆號不好聽的話或者把所有的字母都大寫。用戶和我們的客服交流時，情緒緩和了，一旦用戶有了一種發洩情緒的出口，他們就會變得更加理智一些，那麼問題就會變得好處理一些。
 
-What we came up with was a 15 minute rule. You could have a chat or a phone call with someone, but it could last no longer than 15 minutes. So if you had some complicated issue that you couldn't figure out, at 15 minutes you are to immediately table that item, and have us discuss it on Friday. You'd move on to the next item on your list. I would say 90% of the time, the item never got brought up on Friday, because usually what would happen is people would sleep on it, and then you would magically say "Hey I found a solution!" Or "Hey that's not a big problem whatsoever." Most problems inside a company don't need to be solved in real time or right away. The only things are like when the site is down or when payments aren't working. Everything outside of that is kind of luxury. So focus on your priorities as much as possible, and as a result our 10 person team did far more than many many other companies.
+另外一個很不錯的副產品是，開發的軟件會比以前更好了，比以前好多了，這​​是基於大量研究得出的結論。Jared Spool 是一個用戶界面工程師，他在這方面非常有權威，他認為設計的好壞和和能直接面對客戶提出的質疑的次數是正相關的，就是這麼具體。你必須要直接面對客戶的質疑，只看反饋報告或者是圖表，是不夠的。
 
-But it takes extra work to make remote working happen. We are an extremely disciplined team, and I would have to say, there are not many YC companies that have been able to replicate what we do. I think there are only two companies in YC that have been able to replicate our discipline style. It takes more work in a very different fashion. And often allows you to be a little bit lazier, in terms of all these things around productivity.
+你必須花時間與客戶面對面，至少每六週就得做一次，每次至少兩個小時。要不然的話一段時間，以後你們的軟件肯定會走下坡路。Wufoo的軟件開發者，每周至少要拿出4-8個小時的時間和用戶面對面交流，這樣對他們做好軟件的影響很大。Jared Spool還提到了另外一種提升產品的方法，我們假設這段表示使用你的軟件，所需要掌握的知識的情況，最左邊代表啥都不知道，最右邊表示啥都知道。中間這兩條線表示你和客戶之間的交互，左邊這條線表示用戶實際的了解程度，右邊這條線表示你期望用戶對軟件的了解程度，中間這一段Jared Spool稱之為“知識代溝”。
 
-Q: How do we set up accountability for our employees as a manager?
+有趣的是只有兩種方法能夠消除“知識代溝”。這段代溝也表明了你的軟件有多直觀，一種方法是提高用戶對軟件的了解程度，另外一種方法是
+降低軟件使用的難度。通常，軟件的開發者，會想給軟件添加一些新功能，添加新功能就意味著“知識代溝”又變寬了。而Wufoo卻把注意力放在另外一種方法上，我們花費了大量的時間，工程師30%的時間用來研發網絡工具幫助用戶使用我們的產品，通常把時間花在讓用戶自助解決問題上。
 
-A: We were profitable nine months after launch, so we had profit-sharing, which makes incentives pretty simple and clear. It would be a multiple of whatever sort of bonus pool that we had, and performance measures would be based on how they did in customer support, on their duties there, and what they said they wanted to accomplish. I don't like process and I don't like a lot of tools to help people to be productive, so the only thing that we had to help people manage their projects is a To-do list. It was a simple text file that we shared in a Dropbox account. Each person had their name on it, and you got to see every time someone updated things on the To-do list. What we said was every single night, you wrote everything you did that day, and on Friday we would just go over "This is what you said last week you were going to do; this is what you actually got done. What are the problems at hand?" And it's super simple. It creates this nice written trail for how to handle stuff, and I don't have to worry about managing them. They set the tone for how they want to be assessed. And for people who are excellent at what they do, it works very very well. And when you actually have problems, it's very easy to fire people. I was fortunate enough not to have to fire anyone at Wufoo, but we were able to correct everyone's behavior very very quickly because we just looked at this and evaluated the problem: "Look this is a pattern of behavior. You've been doing your work at last minute, etc. This is evidence that you've provided to us; all we have to do is describe it back to you." And because everyone in the company sees it, there's social pressure that's put into place to help make it all happen.
+比如說我們建立了“常見問題" "小提示”，點一下“幫助”可以自行解決問題。而不是跳到傳統的那種全文字的“幫助”界面，在尋求幫助的地方點開“幫助”，就能找到相應的說明是極好的。Wufoo把文檔修改了一遍又一遍，不斷地測試，我們的文檔更新換代後在一夜之間，客服使用率減少了30%，一夜之間大家的工作量瞬間減少了30%。大家想一下，如果大家都經常去做客服，這樣會帶來怎樣大的影響呢？
 
-Q: How do you hire people that can work remotely and work in this fashion?
+在剛開始上課的時候，我就講過公司的增長是由轉化率和流失率決定的。這是Wufoo剛開始五年的業績增長表，有趣的是當初我們並沒有廣告投入，我們的增長都是源於用戶的口耳相傳，下方的兩條線表示的是用戶的增長和客戶的流失。它們之間的差很小，但是這是這個利差使我們的業績做得這麼好，很多人會忽略一點，認為轉化率增長1%和流失率降低1%之間可能沒有什麼不同。它們對增長的貢獻都是相同的，然而將流失率降低更容易一些，而且花的錢還少。
 
-A: Pretty easily, you have them work on a side project for you. So you contract them out, and have them work remotely as such. Usually the projects I like to have them work on are about one month long so you can get a good sense of how people manage themselves and work on things. That was always the first assessment; we never did things just by interviews.
+但是我們通常忽略了這一點，我們通常不放很多心思在這上面。其實剛才那個增長線，並不是我最引以為榮的，這個才是。雖然剛才那條線看上去增長的很好，但這幅圖的範圍也挺大，我們的公司雖小但是卻有了不起的企業文化。要做到這一點需要付出很多努力，John Gotman注意到人們的感情行為方式有很多種，以及為什麼會離婚。有些人結婚都已經10年15年齡，突然毫無徵兆地就離婚了，提前一點徵兆都沒有。
 
-The other thing we had to screen them for was their ability to do customer support because not every engineer has those empathy skills to handle that stress. So sometimes I would have people write "break-up" letters to me in an interview, giving them 15 minutes to write it. That way you get a good sense of their writing skills because 90% of what you're doing in customer support is telling customers bad news like "we don't support that feature, sorry," or "no that's not going to work," or "that's not going to be available."
+他仔細研究了這些數據，發現夫妻間已經沒有了激情。在感情方面，有點類似於熱力學第二定律。在一個封閉的能量系統裡能量是在不斷減少的，為了保持能量充足必須不斷往裡添加能量，很多人認為要讓用戶知道我們很關心他們，需要建立博客，或者是給他們發個公告。但是我們做了研究，只有一小部分的活躍用戶會注意到這些，大多數的用戶，都不會意識到我們的良苦用心。
 
-Q: Are there any tricks or experiments that didn't work out in your company?
+因此我們研究了一個新方法，我們建立了一個新工具稱之為“Wufoo提醒系統”。它會記錄每一個新功能，推出的時間。每當用戶登錄Wufoo的時候，我們會看一下用戶登錄和退出的時間以及新應用的推出時間，然後用戶就會收到這樣的信息。“在您沒有登錄Wufoo的這段時間裡，我們推出了以下新功能啦”。
 
-A: Okay I'll talk about one. So one of the things that we did early on to try to motivate ourselves was - like, we understood the idea of crunch mode, and that it's really bad for people. Like if you're doing the subscription business, you need people to last for the long-term, and in video games, a lot of the time they crunch people for a specific time and they have multiple sprints. Most of the time the deadlines can get super exhausting. You might get an increase in productivity, but the recovery that you need for people is always greater than the productivity you gain. And in a company where you need everyone doing customer support, being on their game, and constantly pushing out features, you don't have time for recovery.
+每次我和用戶交流的時候，他們都會提到“Wufoo提醒系統”，他們會說：親我非常喜歡這個提醒系統，那句“你不在的時候推出新功能”太好了。雖然每個月付的錢都是一樣的，但是它每個週都會提醒我有更新，這讓我覺得我的錢花的很值。
 
-So we were thinking that we wanted to build a company vacation into how Wufoo works to reward our users every single year. So we thought, if the vacation is built in for the recovery, we can have one crunch period before the vacation set up and only do customer support that will sort of scale with people. So the way we did the very first crunch mode was that, it was just between the three founders, and we had each of us draw a 10 item To-do list that would be fairly aggressive. The first person to get through seven of their items would win, and the last person to get through seven of their items, would become what we called "Trip Bitch." Trip Bitch meant that you carried the other person's luggage and got people drinks when you're on the company vacation. So we did that, and during that period, everyone was pretty excited about it. The winner also got to choose the next company vacation. But all of a sudden, Ryan had basically poorly estimated the items on his list and realized very quickly, "I'm going to fucking lose," and he just sort of gave up. So crunch mode, turned out to be blah mode for him because he knew he was going to lose and became pretty demoralized. So as a result of that we decided not to do it in that similar fashion anymore. Good idea that we like to talk about, but it was one that we never did again.
+我們的另外一個舉措是，除了讓大家支持付費之外還要心存感激，在我們看來謙虛非常重要，每週五我們都會聚在一起，手寫感謝卡送給客戶，我知道很多人對此無感，但是我覺得這種方式可以保持整個團隊的凝聚力，大家一起做事，做大家都非常關心的事，大家都知道努力的目標是什麼，我們這樣做的原因是什麼。這些感謝卡並沒有多炫，它們非常簡單就像是手寫的賀卡一樣，我們曾經把紙折的恐龍黏在裡面呢！
 
-Alright guys, thanks a lot! You can email me at kevin@ycombinator.com.
+有趣的是Wufoo剛建立的時候，我們就已經開始做這件事了，Chris Ron 我們三個討論，在聖誕節的時候如何讓客戶感受到我們的謝意，Chris提出了這個點子。他說你們知道嗎很多年以前，我母親讓我給所有送給我聖誕禮物的親戚都寫了感謝信，我當時非常不願意寫，但我給他們寫信之後第二年我收到了非常豐厚的禮物，所以我認為我們也應該試試看看會有什麼樣的效果。
+
+因此第一年聖誕節的時候，我們給所有的用戶手寫了感謝信，第二年我們的客戶數量有了大幅度的增長。當時Wufoo裡還是只有我們三個人，我們覺得有點招架不住了，不知道該怎麼辦了。這時我們讀了一本名為《最終的問題》的書，在書中作者提到只需要關注那些帶來高額利潤的客戶即可，去關心他們關注他們的需求這樣問題就解決了。
+
+我們看了之後覺得這個方法不錯，所以那一年我們只給付費最高的用戶寫了感謝信，第二年的一月份一位非常支持Wufoo的忠實客戶給我們寫信
+信中寫道：你們好，我非常喜歡你們去年寄給我的聖誕卡片，我就是想告訴你們今年我還沒有收到，我非常期待收到你們寄來的卡片，我知道你們沒有忘記我，非常感謝。我們當時覺得這可咋辦！因為一開始我們就給予了用戶高期待值，早知道就不應該在一開始給所有人都寫，我們把自己拖進了困境中，後來我們經過深思熟慮後決定，我們不能再這樣做了一年寫一次信這種做法行不通，應當把這個形式變成一種文化，每個週都應該寫一些，雖然這種方式也可能覆蓋不了全部的用戶，但是總會帶來一些改變。
+
+我喜歡講一些情感故事，很多技術人員可能不會經常這樣想，所以我還是以商業數據或研究做結尾吧。幾年前《哈佛商業評論》曾經刊登過一篇文章是Michael Treacy和Fred Wiersema寫的，他們二位提到了一個市場領導者應當具備的素質，他們認為只有三種方法可以讓你在市場中占主導地位，根據你想要的佔領方式，來選擇一種方法。
+
+好價位，好產品，好解決方案。
+
+如果你想通過好價位這個方法你必須關注物流，比如說沃爾瑪和亞馬遜。如果你想通過好產品的方法必須專注於產品研發，比如說蘋果公司。好的解決方案這個方法要和客戶建立親密的關係，很多奢侈品品牌以及服務業採用了這樣的方法。我之所以喜歡第三種方法，是因為第三種方法
+是任何一家企業在任何一個階段都可以使用的，而且沒有什麼資本投入，你通常需要做的就是保持謙遜要有禮貌，這樣的話你就可以獲得成功。
+
+這就是這節課的內容，非常感謝大家。
+
+下面是提問時間
+
+Q: 如何推出用戶喜歡的產品？
+
+A: 你的用戶群體可能是多種多樣的，如何能推出一款人人都喜歡的產品呢？可能產品的某個特性非常招客戶喜歡，但也可能其他用戶不喜歡。我明白了你的問題是，如果你的客戶群體多重多樣這時該怎麼做？有的用戶喜歡這個特性，有的用戶喜歡另外一種特性，這是很正常的但是還是可以調和的。
+
+我通常會告訴人們，專注於那些非常喜歡你的產品的用戶的需求，尤其是在產品推出的早期階段，專注於一個方向。很多人都是這樣做的，Pinterest的創始人Ben Silverman，一開始的產品是設計師博客，為他們量身定做產品，後來當你的產品成熟以後才會去吸引更多的用戶，所以每次只關註一個產品特性。
+
+這裡面有很多事例，很多人會犯錯誤，比如說有的人就是想開發一款有趣的應用程序。但是幽默是非常難搞的，你要把產品做得很有趣，其實還是要把產品的基本功能做好。
+
+比如說日本的產品質量，如果你只是一味的追求讓產品有趣，而不是把最基本的功能做好，結果會事與願違的。所以我們當初做Wufoo的時候就著重把基本功能做好，剩下的就只需要把它完善就可以了。
+
+大家都說要專注於產品，我也是這樣做的。我喜歡把一項方案做到最好，但是有的時候我們一直關注著產品，但是最終可能還是沒能成功。
+
+Q: 我們應當花費多長時間在關注產品這個問題上？因為我們還要去做市場，我們還需要開發客戶，和客戶進行溝通。但是當我們把大量的時間都放在關注產品上就沒空做這些了，比如說用戶在線使用，因此您剛才講的專注於產品並做出好的產品，到底應該如何理解呢？
+
+A: 好的，所以你的問題是，如何平衡專注於產品和其他問題之間的關係。如何去平衡運營一個公司所需要的其他的因素，比如說市場品牌等等，如何去平衡這些因素，如果這些因素不能平衡的話，你會覺得雜亂無章事情會變得更多。在你專注於產品研發的同時也要關注於和客戶的溝通，對於Wufoo來講，我們處理和用戶溝通的作法就是讓每個人都去做客戶支持，這會讓研發的人掌握第一手信息，了應用的解特性是好是壞。
+
+它影響了公司所有的人，因為每個人都要輪班做客戶支持，所以這樣就有社會誘因讓事情變得井然有序，正如我所說的只關注於產品研發是不行的，還要拿出時間來關注用戶的反應，還需要有反饋機制。如果你沒有這樣做的話就要小心了，通常如果你夠幸運的話，在市場和銷售這個問題上我覺得「大家會覺得要在市場和廣告宣傳上有大筆開支，這是發展所必須經歷的代價」，因為此時你的產品還沒有什麼知名度，薪口相傳無疑是最簡單的營銷方式了，很多公司都用這種方法。
+
+所以，你要學會如何宣傳你的產品，就好比是在酒桌上的談資一樣，那個時候談論的人就變成你的“​​銷售員”了對吧，他們為你們免費進行了宣傳。
+
+Q: 有的時候你找到了用戶群體，問題是正確的決策。也就是說你如何和你的工程師、設計團隊溝通，因為有的時候意見會有分歧，但是最終
+你如何決定發展方向呢？
+
+A: 哦產品的定位問題，當有不同意見的時候如何做出決定？
+
+在我看來我覺得我會去關注客服的反饋，這很簡單因為關注客服的反饋，你就會發現用戶最迫切的需求是什麼，用戶一直問的問題是什麼？你需要在你的產品或應用上，能讓客戶找到反饋的方式，那麼他們就會把需求告訴你。
+
+會有很多留言，你會知道他們的需求是什麼，作為產品推廣人或者是工程師，你的工作不是用戶讓你做什麼你就做什麼，那樣就淪為產品的奴隸了，你要能挖掘出客戶真正的需求是什麼，以及為什麼會有這樣的需求。
+
+每個人的作法都是不一樣的，但是最終還是得有一個人做出決定，同時要做的簡單點。花費的時間不要超過2個星期，你可以試一下哪些有用哪些沒用，我覺得產品的發展方向太多是很危險的，這需要大量的時間去驗證每個方向的正確性。
+
+Q:  你能不能講一下Wufoo“國王一天”的故事？
+
+A: 好的事實上我不喜歡黑客馬拉松，我覺得整天呆在公司挺沒勁的，因為你花了48個小時用在你所熱愛的產品上，但是最終99%都沒有成功。這樣是非常令人傷心的，所以我們想到了一個點子，我們稱之為“國王一天”。
+
+在周末，我們會在公司裡抽籤，抽中的人就是王。他會告訴我們他對產品的想法，他認為Wufoo存在的問題，客戶的問題，或者是其他方面需要改進的地方。他可以使用工程師市場部廣告部等所有公司的人，讓他的想法付諸實現。
+
+當然在接下來的48個小時內，我們會一起考慮如何將他的想法付諸實現。我們一年舉行一到兩次，它可以增加凝聚力，它可以提高員工士氣。這樣做會讓他覺得是我用應用程序變得不一樣了。
+
+對吧對於我們來說，這是一種平衡的方式。有的時候員工會有自己的想法，他們對於產品定位都有不同的建議，有的時候民主一點也是很不錯的，讓員工都參與到決策中來。
+
+Q: 您提到過公司的員工都是在家里辦公的，這聽起來像個噩夢，你們是怎樣做到的呢？
+
+A: 是的，我們在家里辦公我跟大家具體說一下。我們都在坦帕灣工作，我們允許員工不在公司上班，在我們招聘的時候會讓他們到公司來和團隊會面，之後他們一般都會決定搬到這裡來。
+
+遠程辦公其實不是件簡單的事，很多人都覺得這很浪漫，尤其是員工。但是現實是在辦公室里辦公，有很多好處比如說效率很高，這是在家里工作所沒有的，但是遠程辦公也有好處會節省時間。比如說我無需擔心，他們會把時間耽擱在上下班堵車的路上，所以我們為遠程辦公的人提供最大的便利就是，尊重他們的時間。
+
+我們約定，每周有4天半的時間在Wufoo工作，週五用半天的時間開會以及其他任何事情，我們約定平常的時候不會有商務會議不會有派對，這些都會被安排在周五那半天的時間裡，其他時間不會做這些安排，當然每人還留出一天的時間做客服。
+
+所以Wufoo的員工每週實際上只有三天時間，用作自己工作，但是我非常確信如果每個周有3天實打實的時間，每天8-10個小時的時間來做自己的工作，再多的事情也可以完成。
+
+所以，你必須要尊重員工的時間，讓他們在三天的時間裡去工作。
+
+此外我們還有一個15分鐘的規定，15分鐘的意思是你可以聊天、打電話或者是做其他的事情。但是這些事情都不能超過15分鐘，因此如果你遇到了什麼棘手複雜的事情，你不能在15分鐘的時間裡解決它們，那麼就要把它放到週五了。你要把它擱置一下，做另外一間事情，但是通常90%的事情都沒有放到週五，因為通常他們回去睡一覺，第二天就有解決的思路了。
+
+因為大多數的公司內部的問題，沒有必要立刻去解決，除非是網站崩潰了或者是支付系統癱瘓了，否則的話佔用這麼長的時間去處理就太浪費時間了。因此還是盡可能去關注重要的問題，因此我們這個僅有10個人的團隊，要比其他大公司做的事情多多了，但是要想讓遠程辦公真正起作用要做很多，我們的團隊非常的有紀律性。
+
+我敢說YC的其他公司都不可能做到我們這樣，我覺得YC裡只有兩家公司的紀律性，能夠和我們相媲美，其他的風格需要更多的工作。在辦公室里辦公可能會偷點懶。
+
+Q: 你是如何打造企業文化的還有如何分配員工責任以及工作空間? 作為一個領導者是如何給員工分配責任的？
+
+A: Wufoo上市後九個月我們就開始盈利了，因此我們有分紅機制，非常簡單清楚，我們有多重獎勵機制，根據大家的表現做客服的表現
+進行衡量，通過任務的完成情況以及目標來衡量。我不喜歡用很多工具讓迫使員工工作，所以我們的方法就是列出他們的工作計劃，
+也就是說是一個很簡單的文本文檔在我們的Dropbox共享文檔中，上面有每個人的名字。
+
+每個人可以在上面查到自己的工作計劃，每天記錄一下，看看是否和計劃一致，星期五的時候我們再查看一下，是否和計劃裡的一致。
+
+這就是我們處理事情的方式，非常簡單是吧？
+
+它以書面的方式記錄你要處理的事情，這樣我就無需擔心去管理員工了，員工也按照自己希望的方式去工作了。這樣就會變得好管理了，對於那些比較擅長於這種工作方式的員工來說效果非常好，一旦出現問題的話，很容易分清責任辭退員工。
+
+不過我在Wufoo還沒有辭退過員工，但是這種方法可以幫助我們快速的糾正員工的問題，因為我們可以通過這個表格看出你的工作模式，比如說你前幾天只完成了工作的一小部分，大部分的工作都是在周五之前完成的，這樣就有問題了，你必須要學會合理安排時間，這個表格就成了你工作拖拉的證據，我們只是根據你的表格數據分析了出來，公司裡其他人也都看在眼裡，社交壓力也會逼得你去改正的。
+
+Q: 你們是怎樣選擇僱員的呢？
+
+A: 大概是這樣嗯我們怎樣選擇可以遠程工作的員工？根據我們的公司規定，其實這很簡單讓他們幫你做一個副項目，你們可以簽訂合同他們通過遠程工作，通常我會給他們一個月左右的項目，但我自己可能一周就能做完。
+
+Q: 通常呢通過這種方法，我們就能感受到他們是如何管理自己的，如何遠程完成一個項目，這是第一個評估。
+
+A: 我們從不會只通過簡單的面試僱人，另外一個方法呢，看他們能不能做好客服？因為呢，並不是每一個工程師都能頂得住客服的壓力，所以有的時候在面試的中間，我會讓他們拿出15分鐘的時間，假裝給我寫一封分手信，只能手寫看看他們到底能寫些什麼，通過這種方式可以看出他們的寫作能力怎麼樣。
+
+因為做客服90%的時間，都不是很愉悅的，比如說會告訴用戶：沒有這個功能啊抱歉這個功能有問題，這樣是不可能的啊。所以他們要學會去應對。
+
+Q: 維基百科上有很多幫助公司運營的技巧和經驗，你知道有哪些是沒有成功的嗎？那些幫助公司運營的經驗和技巧，有沒有沒能成功的呢？
+
+A: 好的我來說一個在Wufoo成立早期，我們試著用“混亂模式”來激勵團隊，我們了解“混亂模式”，其實這種模式對大家不好，如果你是做訂閱雜誌生意的，那麼必須有長期合作的客戶，如果是做電子遊戲的就得有各種各樣的客戶，需要很多用戶的支持，為了完成任務會制定很多截止日期，為了趕在截止日期之前完成這太累人了！
+
+因為當你的生產率增加了，但是卻要花更長的時間去恢復，然後再是恢復期。你需要員工都來做客服，不斷推出新功能，這樣就沒有足夠的時間去恢復，所以我們就考慮建立年假制度。
+
+每年來獎勵用戶，我們認為如果用年假回饋客戶作為恢復期，那麼在假期之前我們可以有混亂模式，我們只需要做和客戶數量相等的客服
+第一次的混亂模式，是在我們三個創始人之間建立的，我們每個人都寫了10件要做的事，這些事必須得有激情。第一個完成七件事的人獲勝
+，最後一個完成七件事的人會淪為旅行苦工。
+
+旅行苦工的意思是，別人旅行你拿行李，當時我們就這樣做了，大家都好興奮很有衝勁，只有贏者才能選擇第二年旅行的地點，然後呢Ryan意識到他的清單要完不成了，所以他就放棄了，他沒有玩這個遊戲。
+
+所以呢混亂模式對他就是不起作用的，因為他意識到自己會輸變得沒有動力了，所以結果呢我們以後不這樣做了，雖然我們還會討論新的好點子
+但這件事我們就再沒做過了。
+
+好吧就到這謝謝大家
+
+可以給我寫郵件地址是kevin@ycombinator.com
