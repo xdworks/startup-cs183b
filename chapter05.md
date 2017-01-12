@@ -1,131 +1,248 @@
-# Lecture 5: Business Strategy and Monopoly Theory
+下午好，今天的演講者是皮特·泰爾。皮特是Paypal Palantir和風投公司Founders Fund的創始人，並且也投資了很多矽谷的科技公司，他今天要給大家講策略與競爭。謝謝你能來，皮特。
 
-Sam: Alright, good afternoon, today’s speaker is Peter Thiel, Peter was the founder of PayPal, Palantir, and Founders Fund and has invested in most of the tech companies in Silicon Valley. He's going to talk about strategy and competition. Thank you for coming, Peter.
+太棒了，謝謝你，山姆。謝謝邀請我來演講，我一直堅信在商業領域如果你要創建一家公司，如果你是一名創業者企業家，你肯定希望壟斷市場避免競爭。因此只有失敗者才相互競爭，我們今天就來談談這個問題。
 
-Peter: Awesome, thanks Sam for inviting me, thanks for having me.
 
-I sort of have a single idée fixe that I'm completely obsessed with on the business side which is that if you're starting a company, if you’re the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition. And so hence competition is for losers, something we’ll be talking about today.
+首先我想要講一個基本問題：如何給公司創造價值？什麼使得生意有價值？我認為可以用一個簡單的公式來說明，對於一個有價值的公司無外乎以下兩點：
 
-I'd like to start by saying something about the basic idea of when you start one of these companies, how do you go about creating value? What makes a business valuable? And I want to suggest there's basically a very simple formula, that if you have a valuable company two things are true. Number one, that it creates "X" dollars of value for the world. Number two, that you capture "Y" percent of "X.” And the critical thing that I think people always miss in this sort of analysis is that "X" and "Y" are completely independent variables, and so "X" can be very big and "Y" can be very small. "X" can be an intermediate size and if "Y” is reasonably big, you can still have a very big business.
+1. 公司為世界創造了X美元的價值
+2. 你佔有X美元中的Y%
 
-So to create a valuable company you have to basically both create something of value and capture some fraction of the value of what you've created. And sort of just to illustrate this as a contrast, if you compare the US airline industry with a company like Google on search, if you measure by the size of these industries you could say that airlines are still more important than search, just measured by revenue. [For airline carriers] there’s $195 billion in domestic revenues in 2012; Google had just north of $50 billion. And certainly on some intuitive level if you were given a choice and said, well would you want to get rid of all air travel, or do you want to give up search engines, the intuition would be that air travel is something that's more important than search. And this is of course just the domestic numbers.
+問題是，人們在分析時經常會忽略一點：那就是X和Y是完全獨立的變量。所以X可能很大，而Y很小亦或X可能是一個適中的值，但只要Y很大你仍然能賺很多。因此要創立一個有價值的公司，你必須創造出價值，並且獲取該價值的一部分。
 
-If you'd look at this globally, airlines are much much bigger than search, than Google is, but the profit margins are quite a bit less. They were marginally profitable in 2012, I think in the entire hundred year history of the airline industry, the cumulative profits in the US have been approximately zero. The companies make money, they episodically go bankrupt, they get recapitalized, and you sort of cycle and repeat. And this is reflected in the combined market capitalization of the airline industry, which may be something like a quarter of Google's. So you have search much smaller than air travel but much more valuable. I think this reflects these very different valuations on "X" and "Y."
+為了說明這裡有個對比的例子：如果你比較美國航空業和像谷歌這樣的公司，如果只是比較兩者的規模，你會說航空業仍然比搜索引擎更加重要。如果只是比較收入的話前者有1950億，這是12年在美國本土的收入，而谷歌才500億多一點。誠然從直覺上來說，如果要你做一個選擇是不再乘飛機旅行還是不再使用搜索引擎，直覺上來說飛機旅行確實比搜索更重要，這還只是對於美國本土的數據。
 
-If we look at perfect competition, there's some pros and cons to the world of perfect competition. On a high level, this is something you always study in Econ I, it's always easy to model, which is why I think econ professors like talking about perfect competition. It somehow is efficient, especially in a world where things are static, because you have all the consumer surplus that’s captured by everybody, and politically it’s what we’re told is good in our society: you want to have competition and it’s somehow a good thing. Of course there are a lot of negatives, it's generally not that good if you're involved in anything that’s hyper competitive, because you often don't make money. I’ll come back to this a little bit later. So I think on one end of the spectrum you have industries that are perfectly competitive and at the other end of the spectrum you have things that I would say are monopolies, and they’re much more stable longer term businesses, you have more capital, and if you get a creative monopoly for inventing something new, I think it's symptomatic of having created something really valuable.
+如果放眼全球來看航空業比搜索引擎，或者說比谷歌的收入就更多了，但利潤率就少多了。這裡有12年的利潤率的數據，縱觀美國航空業的百年曆史，累積起來的利潤幾乎為0，公司會賺錢但也會階段性破產，然後再重新融資，不斷循環這一過程。這反映在航空業的總市值上，美國航空業的總市值大約只有谷歌的1/4。
 
-I do think the extreme binary view of the world I always articulate is that there are exactly two kinds of businesses in this world, there are businesses that are perfectly competitive and there are businesses that are monopolies. There is shockingly little that is in between. And this dichotomy is not understood very well because people are constantly lying about the nature of the businesses they are in. And in my mind this is not necessarily the most important thing in business, but I think it's the most important business idea that people don't understand, that there are just these two kinds of businesses.
+因此搜索引擎的業務規模，雖然比航空業小很多但卻更有價值，我認為這很好地反映了X和Y值的差異。
 
-So let me tell you a little bit about the lies people tell. If you imagine that there was a spectrum of companies from perfect competition to monopoly, the apparent differences are quite small because the people who have monopolies pretend not to. They will basically say, and it’s because you don’t want to get regulated by the government, you don’t want the government to come after you, so you will never say that you have a monopoly. So anyone who has a monopoly will pretend that they are in incredible competition; and on the other end of the spectrum if you are incredibly competitive, and if you’re in some sort of business where you will never make any money, you'll be tempted to tell a lie that goes in the other direction, where you will say that you're doing something unique that is somehow less competitive than it looks because you'll want to differentiate, you will want to try and attract capital, or something like that. So if the monopolists pretend not to have monopolies, the non-monopolies pretend to have monopolies, the apparent difference is very small whereas the real difference I would submit is actually quite big. So there’s this business distortion that happens because of the lies people tell about their businesses and the lies are sort of in these opposite directions.
+如果我們考慮一個完全競爭的市場，完全競爭的市場既有優勢也有劣勢。你們在“經濟學I”中學過這部分內容，這很容易進行建模。這也解釋了為什麼經濟學教授喜歡談論完全競爭。第二個優點是它很有效，尤其是在靜態下消費者剩餘簡單明了。此外政治上這也是有好處的，社會中需要有競爭，當然也有很多負面的東西。如果你進入競爭很激烈的領域，那就不太好了，因為賺不到錢，我們稍後再繼續講。
 
-Let me drill a little bit down further on the way these lies work. And so the basic lie you tell as a non-monopoly is that we're in a very small market. The basic lie you tell as a monopoly is the market you’re in is much bigger than it looks. So typically if you want to think of this in set theoretic terms, you could say that a monopoly tells a lie where you describe your business as the union of these vastly different markets and the non-monopolist describes it as the intersection. So in effect, if you're a non-monopolist you will rhetorically describe your market as super small, you're the only person in that market. If you have a monopoly you'll describe it as super big and there's lots of competition in it.
+我認為公司有兩個極端，一個極端是完全競爭，另一個極端是壟斷。壟斷公司的市場份額長期穩定擁有更多資本，如果你們公司​​能不斷發明新產品並壟斷市場，那麼我想你們就創造了很有價值的公司。因此，這個世界存在兩種截然不同的景象，即存在兩種截然不同類型的公司，一種是完全競爭的公司，另外一種則是壟斷的公司，鮮有公司介於兩者之間。
 
-Some examples of how this works in practice. I always use restaurants as the example of a terrible business, this is always sort of the idea that capital [accumulation] and competition are antonyms. If someone accumulates capital, a world of perfect competition is a world where all the capital gets competed away. So you're opening a restaurant business, no one wants to invest because you just lose money, so you have to tell some idiosyncratic narrative and you'll say something like. "Well we're the only British food restaurant in Palo Alto.” So its British, Palo Alto and of course that's too small a market because people may be able to drive all the way to Mountain View or even Menlo Park and there probably are no people who eat nothing but British food, at least no people who are still alive.
+這種兩極分化人們還不太理解，因為企業家通常會掩飾他們公司的真實情況，也許這不是商業世界中最重要的東西，但一定是人們不理解的最重要的商業內幕，只有兩種類型的公司。
 
-So that's sort of a fictitiously narrow market. There is sort of a Hollywood version of all of this, the way movies always get pitched, where it’s like a college football star, you know, joins an elite group of hackers to catch the shark that killed his friend. Now that's a movie that has not yet been made, but the question is, "Is that the right category or is the correct category, it's just another movie?" In which case there are lots of those, it’s super competitive, it’s incredibly hard to make money, no one ever makes money in Hollywood making movies, it’s really really hard.
+我來講一下他們撒的謊，大家看一下這個圖，這個圖表示了公司從完全競爭到壟斷的整個範圍，表面區別並不大。因為壟斷的公司通常假裝自己並不壟斷，他們會說：因為我不想被政府監管，不想被政府找上門來，因此永遠也不能說我是壟斷的。
 
-So you always have this question about is the intersection real? Does it make sense? Does it have value? And of course there are startup versions of this, and in the really bad versions you just take a whole series of the buzzwords: sharing, mobile, social apps, you combine them and give some kind of narrative and whether or not that's a real business or not, it is generally a bad sign. It's almost this pattern recognition when you have this rhetoric of these sort of intersections, it generally does not work. The something of somewhere is really mostly just the nothing of nowhere, it's like the Stanford of North Dakota, one of a kind, but it's not Stanford.
+因此壟斷的公司都會假裝他們處於激烈的競爭中，在另外一邊如果公司處於激烈競爭中，並且你的公司不怎麼賺錢，你通常會撒謊說你做的東西非常獨特，並沒有看起來那麼競爭激烈，因為你想要和其他公司有所區分，這樣才能吸引投資之類的東西。
 
-Let's look at the opposite, the opposite lie, is if you are let's say the search company that’s down the street from here and has about a happy sixty-six percent market share and is completely dominant in the search market. Google almost never describes itself as a search engine these days and instead it describes itself in all these different ways. So it sometimes says it’s an advertising company. So if it was search you would say, well it's like it has this huge market share that's really crazy, so it's like an incredible monopoly, it's a much bigger and much more robust monopoly than Microsoft ever had in the nineties, maybe that's why it’s making so much money. But if you say it's an advertising market, you could say well, search advertising is seventeen billion and that's part of online advertising, which is much bigger and then, you know, all US advertising is bigger, and then by the time you get to global advertising, that's close to five hundred billion and so you're talking about three and a half percent, so a tiny part of this much larger market.
+因此壟斷的公司掩飾自己的壟斷，無法壟斷的公司則拼命假裝壟斷，中間的差異就變小了。但他們之間的實際差異是挺大的，因此由於企業家的撒謊，把公司說的和實際情況不一樣，公司的實質就被扭曲了。
 
-Or if you don't want to be an advertising company, you could always say you’re a technology company. The technology market is something like a one trillion dollar market and the narrative that you tell about Google and the technology market is, well we're competing with all the car companies with our self-driving cars, we’re competing with Apple on TVs and iPhones, we’re competing with Facebook, we’re competing with Microsoft on office products, we’re competing with Amazon on cloud services and so we're in this giant technology market, where there's competition in every direction you look and no we’re not the monopoly the government's looking for and we should not get regulated in any way whatsoever. So I think one has to always be super aware that there are these very powerful incentives to distort the nature of these markets, one way or the other.
+我們深入講解一下他們的謊言是如何奏效的，作為一個非壟斷公司，通常的謊話就是我們的市場很小。而壟斷企業的謊話，
+通常是說我們處於的市場比看起來大得多。通常，如果要用集合來說明，壟斷的企業通過說謊把自己的市場描述成多個巨大市場的並集，而非壟斷企業則謊稱自己的市場是多個市場的交集。
 
-The evidence of narrow markets in the tech industry is if you basically just, if you look at sort of the big tech companies, Apple, Google, Microsoft, Amazon, they have just been building up cash for year after year and you have these incredibly high profit margins, and I would say that the that one of the reasons the tech industry in the US has been so successful financially is because it's prone to creating all these monopoly-like businesses and it's reflected by the fact that these companies just accumulate so much cash they don't even know what to do with it beyond a certain point.
+實際上就是非壟斷企業，把自己的市場描繪的極其狹小，並說自己是市場中唯一的公司，壟斷者則把市場描述的極其巨大
+並說自己只是眾多競爭者之一。
 
-Let me say a few things about how to build a monopoly, and I think one of the sort of very counterintuitive ideas that comes out of this monopoly thread is that you want to go after small markets. If you’re a startup, you want to get to monopoly. You’re starting a new company, you want to get to monopoly. Monopolies have a large share of the market, how do you get to a large share of the market? You start with a really small market and you take over the whole market and then over time you find ways to expand that market in concentric circles.
+這裡有些實際的例子，我總是把餐廳作為糟糕生意的例子。一直有一種觀念認為資本與競爭水火不容，對於擁有資本並積累資本的人來說，完全競爭的世界會因激烈競爭使得資本耗光。那麼假如你開了家餐館，沒人願意給你投資因為不掙錢，所以你不得不編一些特別的故事。比如你可能會說：「我們是帕羅奧圖唯一的英國菜館(注：位於加州聖克拉拉)」。英國菜帕羅奧圖當然這是個很小的市場，因為人們可以開車去山景城甚至門洛帕克，並且幾乎沒人只吃英國菜，至少沒有這樣的活人吧。以上就是一個編造出來的狹小市場。
 
-The thing that's always a big mistake is going after a giant market on day one because that's typically evidence that you somehow haven't defined categories correctly, that normally means there is going to be too much competition in one way or another, so I think almost all the successful companies in Silicon Valley had some model of starting with small markets and expanding. If you take Amazon, you start with just a bookstore, we have all the books in the world, it's a better bookstore than anybody else has in the world when it starts in the 1990s. It's online, there's things you can do that you could not do before, and then you gradually expand into all sorts of different forms of e-commerce and other things beyond that.
 
-eBay, you start with Pez dispensers, you move on to Beanie Babies, and eventually it’s all these different online auctions for all these sorts of different goods. What’s very counterintuitive about many of these companies is they often start with markets that are so small, that people don't think they are valuable at all when you get started. The PayPal version of this was we started with power sellers on Ebay, which was about twenty thousand people. When we first saw this happening in December of 1999, January 2000 right after we launched, there was a sense that these were all, it was such a small market, it was terrible, we thought these were terrible customers to have, it's just people selling junk on the internet, why in the world we want to be going after this market?
+還有一個關於好萊塢的例子，可能會編這麼個電影劇情來拉投資，比如一個大學橄欖球明星加入了一個黑客精英組織，捕捉殺死自己朋友的鯊魚，這是我瞎編的，沒有這種電影。但問題是，這種算成功的劇本嗎？這只是一個老掉牙的劇情。
 
-But there was a way to get a product that was much better for everybody in that market, and we got to something like twenty five, thirty percent market penetration in two or three months, and you've got some walk in to brand recognition, and are able to build the business from there. So I always think these very small markets are quite underrated. The Facebook version of this I always give is that if the initial market at Facebook was ten thousand people at Harvard, it went from zero to sixty percent market share in ten days, that was a very auspicious start. The way this gets analyzed in business schools is always, that's so ridiculous, it's such a small market, it can't have any value at all. So I think the business school analysis of Facebook early on, or of Paypal early on, or of Ebay early on, is that the markets were perhaps so small as to have almost no value and that they would've had little value had they they stayed small, but it turned out there were ways to grow them concentrically and that's what made them so valuable.
+類似的電影很多競爭激烈，很難掙錢。好萊塢做電影的都不怎麼掙錢太難了。大家也總是會問，這個雜糅而成的交集是真​​的嗎？靠譜嗎？有價值嗎?當然創業公司也有類似情況。
 
-Now I think the opposite version of this is always where you have super big markets and there is so many different things that went wrong with all the clean tech companies in the last decade. But the one theme than ran through almost all of them is that they all started with massive markets. Every clean tech powerpoint presentation that one saw in the years 2005 to 2008, which is the clean tech bubble in Silicon Valley, started with where the energy market, where the market was measured in hundreds and billions of trillions of dollars. And then once you're sort of like a minnow in a vast ocean, that is not a good place to be. That means you have tons of competitors and you don’t even know who all the competitors are.
+糟糕的情況是，把一些時髦的詞分享移動社交應用啊之類的糅合在一起，編成“故事”，而不管這種胡亂拼湊有沒有市場。這種創業公司必敗無疑，用時髦詞詞堆砌起來的公司，這樣的模式通常不會成功，就如狗熊掰棒子結果一無所成。好比北達科他斯坦福大學想把斯坦福大學和北達科他大學結合起來，其實既不是斯坦福大學也不是北達科他大學。
 
-You want to be a one of a kind company. You want to be the only player in a small ecosystem. You don’t want to be the fourth online pet food company. You don’t want to be the tenth solar panel company. You don’t want to be the hundredth restaurant in Palo Alto. Your restaurant industry is a trillion dollar industry. So if you do a market size analysis, you conclude restaurants are fantastic business to go into. And often large existing markets typically means that you have tons of competitions so it's very very hard to differentiate. The first very counterintuitive idea is to go after small markets, markets that are so small people often don't even think that they make sense. That's where you get a foothold and then if those markets are able expand, you can scale into a big monopoly business.
+我們看一下相反的情況比如說，這個做搜索的公司谷歌大約有66%的市場佔有率，它完全統治了市場。近些年來谷歌不把自己說成是一個搜索引擎公司，相反的是它使用了許多不同的說法，比如穀歌有時會說自己是一個廣告公司，因此如果從搜索的角度來說，它的市場佔有率是相當大的，完全就是壟斷。它甚至比90年代的微軟的壟斷程度還要高，也許這就是為什麼谷歌賺了那麼多錢，但如果谷歌把自己說成是廣告公司，好吧搜索廣告的價值是170億，搜索廣告的上一級是線上廣告線上廣告的價值就多多了。再向上一級美國廣告市場的價值更大，如果放眼於全球的廣告市場，價值差不多有5000億，谷歌只佔了3.5%，只是這個巨大的市場的很小一部分，或者谷歌不想把自己稱為廣告公司，可以說自己是一家科技公司。
 
-There are several different characteristics of these monopoly businesses that I'd like to focus on. There is no single formula. In technology there is always a sense that in the history of technology, every moment happens only once. The next Mark Zuckerberg won’t build a social network and the next Larry Page won’t be building a search engine, and the next Bill Gates won’t be building an operating system. If you are copying these people, you are not learning from them.
+抱歉，我想一想科技市場的價值差不多有1萬億，此時你可以說在科技市場中谷歌與生產自動駕駛汽車的公司競爭，與蘋果在電視和手機領域競爭，和Facebook競爭，與微軟在辦公軟件上競爭，與亞馬遜在雲服務領域競爭，我們處於一個巨大的市場，競爭到處都是。我們不是政府盯著的那種壟斷企業，不管怎樣我們都不該被監管。
 
-There are always very unique businesses that are doing something that has not been done before and end up having the potential to be a monopoly. The opening line in Anna Karenina, that all happy families are alike and all unhappy families are unhappy in their own special way, is not true in business, where I think all happy companies are different because they're doing something very unique. All unhappy companies are alike because they failed to escape the essential sameness in competition.
+因此大家一定要注意，公司通常都具有強烈的動機，扭曲市場的本質把自己公司的本質掩飾，因此在科技領域你需要關注的是：細分的市場。大家可以想一想那些大的科技公司：蘋果、谷歌、微軟、亞馬遜，這些公司年復一年積累了很多錢，利潤非常高，可以說美國的這些科技公司如此成功的原因之一就是他們建立了這種壟斷的企業。
 
-One characteristic of a monopoly technology company is some sort of proprietary technology. My sort of crazy, somewhat arbitrary rule of thumb is you want to have a technology that's an order of magnitude better than the next best thing. So Amazon had over ten times as many books, it may not have been that high tech, but you figure oh well it can sell ten times as many books and be more efficient along the way. In the case of PayPal, Bill Turner was using checks to send money on Ebay, it took seven to ten days to clear, and PayPal could do it more than ten times as fast. You want to have some sort of very powerful improvement, some order of magnitude improvement, on some key dimension. Of course, if you just come with something totally new, it's just like an infinite improvement. I would say the iPhone was the first smart phone that worked, it may not be in fact, but it's so definitely an order of magnitude of an improvement. So I think the technology needs to be designed to give you a massive delta over the next the next best thing.
+從這些公司可以看出，他們積累了非常多的錢，甚至有時都不知道拿這些錢來幹啥。
 
-I think there often are network effects that can kick in and that really help the thing and these are linked to monopolies over time, the thing that is very tricky about network effects is they're often very hard to get started and so you know everyone understands how valuable they are. There's always this incredibly tricky question: why is it valuable to the first person who's doing something. Economies of scale, if you have something with very high fixed costs and very low marginal costs, that's typically a monopoly-like business.
+現在我講一下，怎麼建立起壟斷。我認為要想建立一個壟斷企業，其中一個與直覺相反的想法就是：你需要進入小的市場。如果你在進行創業，你想要壟斷，你想讓你的新公司成為一個壟斷企業，佔有很大的市場份額，如何獲得巨大的市場佔有率？
 
-And then there is this thing of branding which is sort of this idea that gets lodged into people's brains. I never quite understand how branding works, so I never invest in companies where it’s just about branding but it is, I think, a real phenomenon that creates real value. I think one of the things, I'm going to come back to this in a little bit, towards the end, but one of the things that’s very striking is that software businesses are often, are for some reason, very good at some of these things. They are especially good at the economies of scale part because the marginal cost of software is zero. So if you get something that works in software it's often significantly better than the existing solution and then you have these tremendous economies of scale and you can scale fairly quickly.
+答案是從一個小的市場開始，佔領這個小市場。然後隨著時間推移再以這個市場為中心，進行擴展。從一開始就進入一個巨大的市場，是一個嚴重的錯誤。
 
-So even if the market starts small, you can grow your business quickly enough to stay at the same size as the growing market and maintain the monopoly of power. Now the critical thing about these monopolies is it's not enough to have a monopoly for just a moment. The critical thing is have one that lasts over time and so in Silicon Valley there is always this sort of idea that you want to be the first mover and I always think in some ways the better framing is you want to be the last mover. You want to be one of the last companies in that category, those are the ones that are really valid. Microsoft was the last operating system, at least for many decades. Google was the last search engine. Facebook will be valuable if it turns out to be the last of social networking site.
+因為這種做法表明，你還沒有明確的市場定位。這通常意味著激烈的競爭，各方面競爭都很激烈。矽谷幾乎所有成功的企業
+都是先進入一個小市場然後再進行擴展的。
 
-And one way to think of this last mover value is this idea that most of the value in these companies exists far in the future. If you do a discounted cash flow analysis of the business, you'll look at all these profit streams, you have a growth rate, the growth rate’s much higher that the discount rate and so most of the value exists far in the future. I did this exercise at Pay Pal in March of 2001 we'd been in business for about twenty seven months and the growth rate was a hundred percent a year, we were discounting future cash flows by thirty percent, and it turned out that about three quarters of the value of the business as of 2001 came from cash flows in years 2011 and beyond.
+比如：亞馬遜從一個書店開始，我們有世界上所有的書，因此我們的書店肯定是全世界最好的，這是90年代起家的網上書店，這是之前從來沒有的，之後亞馬遜擴展成了一個什麼都賣的電子商務公司。
 
-And whenever you do the math on any of these tech companies, you get to an answer that is something like that. So if you are trying to analyze any of the tech companies in Silicon Valley, AirBnB, Twitter, Facebook, any emerging Internet companies, all the ones in Y Combinator, the math tells you that three quarters, eighty-five percent of the value is coming from cash flows in years 2024 and beyond. It's very far in the future and so one of the things that we always over value in Silicon Valley is growth rates and we undervalue durability.
+eBay從賣糖果盒起家，然後也賣過毛絨玩具，最終發展成了一個賣各種東西的平台。非常反直覺的是這些公司通常都是從一個非常小的市場開始，人們通常並不認為他們的創業點有價值。對於PayPal來說，瞄準的是eBay上的超級賣家只有大約2萬家。
 
-Growth is something you can measure in the here and now, you can always track that very precisely. The question of whether a company will be around a decade from now, that’s actually what dominates the value equation and that’s a much more qualitative sort of a thing. And so if we went back to this idea of these characteristics of monopoly, the proprietary technology, network effects, economies of scale, you can think of these characteristics as ones that exist at a moment in time where you capture a market and take it over but you also want to think about, are these things going to last over time. So there’s a time dimension to all these characteristics. So networks in fact often have a great time element where as the network scales, network effects actually get more robust, and so if you have a network business it's often one that can become a bigger and stronger monopoly over time.
+1999年12月到2000年1月我們發布了產品，我們有種感覺市場也就這麼點，這是個很小的市場，上面都是屌絲，賣的東西都是垃圾。我們為什麼要進入這個市場？我們可以為這個市場裡的顧客提供更好的產品。兩三個月後，我們差不多就有了25%到30%的市場份額，我們邁出了第一步，有了一定的品牌知名度，生意就從這裡開始了。
 
-Proprietary technology is always a little bit of a tricky one, so you want something that is an order of magnitude better than the state of the art in the world today. That's how you get people's attention, that's how you initially break through. But then you don't want to be superseded by somebody else. So there are all these areas of innovation where there was tremendous innovation, but no one made any money. So disk drive manufacturing in the 1980's, you could build a better disk drive than anybody else, you could take over the whole world and two years later someone else would come along and replace yours. In the course of fifteen years, you got vastly improved disk drives, so had a great benefit to consumers, but it didn't actually help the people who started these companies.
+我始終認為，這些小的市場被低估了。
 
-There's always this question about having a huge breakthrough in technology, but then also being able to explain why yours will be the last breakthrough or at least the last breakthrough for a long time or if you make a breakthrough, then you can keep improving on it at quick enough pace that no one can ever catch up. So if you have a structure of the future where there's a lot of innovation and other people will come up with new things and the thing you're working on, that's great for society. It's actually not that good for your business typically. And then economies of scale we’ve already about. I think this last mover thing is very critical. I’m always tempted, I don't want to overdo chess analogies, but the first mover in chess is someone who plays white, white is about a one-third of a pawn advantage, so there is a small advantage to going first. You want to be the last mover who wins the game, so there’s always world chess champion Capablanca line, “You must begin by studying the end game.” I wouldn't say that’s the only thing you should study, I think perspective of asking these questions, why will this still be the leading company in ten, fifteen, twenty years from now, is a really critical one to try to think through.
+Facebook最開始也一樣，我也經常舉這個例子，Facebook最初的市場只是哈佛大學的1萬人，它從建立到佔據60%的市場只用了10天，這是一個非常好的開始。但這個例子總被商學院認為是非常荒謬的，因為市場太小了根本沒有價值。我認為商學院對於早期的Facebook、PayPal或者eBay的分析是：市場太小，幾乎沒有價值。
 
-I want to go in two slightly other directions with this the monopoly versus competition idea. I think this is the central idea on my mind for business, for starting a business, for thinking about them. There are some very interesting perspectives, I think it gives, on the whole history of innovation in technology and science. We've lived through 300 years of incredible technological progress in many many different domains. Steam engines to railways, the telephone, refrigeration, household appliances, the computer revolution, aviation, all different areas of technological innovation. Then there's sort of an analogous thing to say about science where we've lived through centuries of enormous amounts of innovation in science as well.
+當然如果市場一直那麼小的話就真沒什麼價值了，但事實是他們後來都做大了，成為了非常有價值的公司。
 
-The thing that I think people always miss when they think about these things, is that because "X" and "Y" are independent variables, some of these things can be extremely valuable innovations, but the people who invent them, who come up with them, do not get rewarded for this. Certainly if you go back to you need to create X dollars in value and you capture Y percent of X, I would suggest that the history of science has generally been one where Y is zero percent across the board, the scientists never make any money. They’re always deluded into thinking that they live in a just universe that will reward them for their work and for their inventions. This is probably the fundamental delusion that scientists tend to suffer from in our society. Even in technology there are sort of many different areas of technology where there were great innovations that created tremendous value for society, but people did not actually capture much of the value. So I think there is a whole history of science and technology that can be told from the perspective of how much value was actually captured. Certainly there are entire sectors where people didn't capture anything.
+與此相反的一個例子是，進入了巨大市場的公司，在我看來過去十年中很多清潔能源的公司就犯了各種各樣的錯誤，但其中一個共同點就是他們都進入了巨大的市場。從05至08年的宣講材料可以看出矽谷中的一些做清潔能源的公司處在美麗泡沫中，開始他們認為自己身處的能源市場，市場的價值高達萬億美元，但你只是滄海一粟。
 
-You're the smartest physicist of the twentieth century, you come up with special relativity, you come up with general relativity, you don't get to be a billionaire, you don't even get to be a millionaire. It just somehow doesn't work that way. The railroads were incredibly valuable, they mostly just went bankrupt because there was too much competition. Wright brothers, you fly the first plane, you don't make any money. So I think there is a structure to these industries that’s very important.
+這樣的處境並不好，這意味著你的競爭者非常多。你甚至都不能把它們一一了解清楚，因此你需要創立一個在小的市場中獨一無二的公司，你肯定不想成為第四個線上寵物食品的公司，也不想成為第十個薄膜太陽能電池板的公司，亦或是帕羅奧圖的第一百家餐廳。
 
-I think the thing that's actually rare are the success cases. So if you really think about the history in this and this two hundred fifty years sweep, why is almost always zero percent, it's always zero in science, it's almost always in technology. It's very rare where people made money. You know in the late eighteenth, early nineteenth century, the first industrial revolution was the textile mills, you got the steam engine, you sort of automated things. You had these relentless improvements that people improved efficiency of textile factories, of manufacturing generally, at a clip of five to seven percent every year, year after year, decade after decade. You had sixty, seventy years of tremendous improvement from 1780 to 1850. Even in 1850, most of the wealth in Britain was still held by the landed aristocracy and the workers didn't make that much. The capitalists didn't make that much either, it was all competed away. There were hundreds of people running textile factories, it was an industry where the structure of the competition prevented people from making any money.
+餐飲業的價值非常巨大，如果你做一個市場規模的分析，可能會認為餐飲業是一個非常適合進入的領域，但大的市場通常意味著市場中有無數的競爭者，很難脫穎而出。因此給大家的第一個反直覺的思想，就是進入小市場，進入那些人們注意不到的小市場，那些人們認為沒意義的市場，一旦有了一些根基，就可以不斷進行擴張進而形成壟斷的企業。
 
-There are, in my mind, probably only two broad categories in the entire history of the last two hundred and fifty years where people actually came up with new things and made money doing so. One is these sort of vertically integrated complex monopolies which people did build in the second industrial revolution at the end of the nineteenth and start of the twentieth century. This is like Ford, it was the vertically integrated oil companies like Standard Oil, and what these vertically integrated monopolies typically required was a very complex coordination, you've got a lot of pieces to fit together in just the right way, and when you assemble that you had a tremendous advantage. This is actually done surprisingly little today and so I think this is sort of a business form that when people can pull it off, is very valuable.
+第二個--我喜歡研究壟斷企業的特點，很難用一個公式來描述它們。我一直認為在科技領域，縱觀整個科技史，每個時刻都是無法複製的，因此下一個“馬克·扎克伯格”肯定不是做社交網絡的、下一個“拉里·佩奇”肯定不是做搜索引擎的、下一個“比爾·蓋茨”肯定也不是做操作系統的。如果你只是模仿這些人是無法企及他們成就的。
 
-It's typically fairly capital intensive, we live in a culture where it's very hard to get people to buy into anything that's super complicated and takes very long to build. When I think of my colleague and friend Elon from PayPal success with Tesla and SpaceX, I think the key to these companies was the complex vertically integrated monopoly structure they had. If you look at Tesla or SpaceX and you ask, was there sort of a single breakthrough, I mean they certainly innovated on a law of dimensions, but I don't think there was a single 10X breakthrough on battery storage, they may be working on some things in rocketry, but there was no sort of single massive breakthrough. But what was really impressive was integrating all these pieces together and doing it in a way that was more vertically integrated than most other competitors.
+因此，只有那些做著前無古人的事情的公司才有成為壟斷企業的潛力。打開《安娜·卡列寧娜》看到的第一句話就是：「幸福的公司啊，不對，幸福的家庭總是相似的。而不幸的家庭則各有各的不幸。」
 
-So Tesla also integrated the car distributors so they wouldn't steal all the money as has happened with the rest of the car industry in the US. Or SpaceX, basically, you pulled in all subcontractors where most of the large aerospace companies have single sourced subcontractors that are able to charge monopoly profits and make it very hard for the integrated aerospace companies to make money. And so vertical integration I think is sort of a very under explored modality of technological progress that people would do well to look at more.
+在商業領域則剛好相反，成功的公司各有其獨特之處，而失敗的公司都極其相似，因為它們都沒有躲過同樣的問題，那就是「競爭」。
 
-And then I think there is something about software itself that's very powerful. Software has these incredible economies of scale, these low marginal costs, and there is something about the world of bits, as opposed to the world of atoms, where you can often get very fast adoption and fast adoption is critical to capturing and taking over markets because even if you have a small market, if adoption rate is too slow, there will be enough time for other people to enter that market and compete with you. Whereas if you have a small to midsize market, have the fast adoption rate, you can now take over this market. So I think this is one of the reasons Silicon Valley has done so well and why software has been this phenomenal industry.
 
-What I would suggest that we will leave you with is there are these different rationalizations people give for why certain things work and why certain things don't work, and I think these rationalizations always obscure this question on creating "X" dollars in value and capturing "Y" percent of "X." So, the science rationalization we’re always told is that the scientists aren’t interested in making money. They’re doing it for charitable reasons and that you're not a good scientist if you’re motivated by money. I'm not even saying people should always be motivated by money or something like this, but I think we should wish to be a little bit more critical of this as a rationalization. We should ask is this a rationalization to obscure the fact that "Y" equals zero percent and the scientists are operating in this sort of world where all the innovation is effectively competed away and they can’t capture any of it directly.
+壟斷公司的其中一個重要特徵就是，它們某種程度上壟斷了專利技術，我有一個瘋狂的原則，那就是你擁有的技術要比排名第二的公司好一個量級才行。亞馬遜的書比其他書商的十倍還多，也許不是什麼高科技。但是他們找到了一種有效的賣出十倍多的書的線上銷售方式。
 
-The software distortion that often happens is because people are making such vast fortunes in software, we infer that this is the most valuable thing in the world being done full stop. And so people at Twitter make billions of dollars, it must be that Twitter is worth far more than anything Einstein did. What that realization tends to obscure, is again that "X" and "Y" are independent variables and that there are these businesses where you capture a lot of X and others where you don't. So I do think the history of innovation has been this history where the microeconomics, the structure of these industries has mattered a tremendous amount and there is sort of this story where some people made vast fortunes because they worked in industries with the right structure and other people made nothing at all because they were in these very competitive things.
+PayPal出現之前，eBay上用支票進行結算，需要7到10天，PayPal比其快了不只十倍。所以你的公司，必須要有很大的改進才行，在某些關鍵的地方至少要有一個量級的革新。
 
-We shouldn't just rationalize that way. I think it's worth understanding this better. Then finally, let me come back to this sort of overarching theme for this talk, this competition is for losers idea, which is always a provocative way to title things because we always think of the losers as the people who are not good at competing. We think of losers as the people who are slow on the track team in high school or do a little less well on standardized tests, and don't get into the right schools. So we always think of losers as people who can't compete and I want us to really rethink and re-value this and consider whether it's possible the competition itself is off.
+當然，如果你能創造出全新的東西，那就相當於一個“無限”的革新。比如說iPhone是第一部智能手機，我的意思是也許不能說“無限”，但它進行了非常巨大的革新。我認為科技可以被用來進行巨大的改變。我認為網絡效應可能會帶來一些幫助，隨著時間推移可以形成壟斷的企業。
 
-It's not just the case we don't understand this monopoly-competition dichotomy intellectually. So we’ve been talking about why you wouldn’t understand it intellectually, because people lie about it, it’s distorted, the history of innovation rationalizes it in all these very strange ways. I think it's more than just an intellectual blind spot, but also a psychological blind spot, where we find ourselves very attracted to competition and in one form or another we find it reassuring if other people do things. The word ape, already in the time of Shakespeare, meant both primate and imitate and that is something about human nature, it's deeply imitative, ape like, sheep like and this is very problematic thing that we need to always think through and try to overcome.
+對於網絡效應來說很棘手的事情是，開頭特別難，即使每個人都知道這裡面的價值。
 
-There is always this question about competition as a form of validation, where we go for things that lots of other people are going for. It's not that there is wisdom of crowds, it's not that lots of people trying to do something is the best proof of that being valuable. I think it's when lots of people are trying to do something, that is often proof of insanity. There are twenty thousand people a year who move to Los Angeles to become movie stars, about twenty of them make it. I think the Olympics are a little bit better because you have, you can sort of figure out pretty quickly whether you’re good or not, so there's little less of a deadweight loss to society. You know the sort of educational experience that at a place, the pre-Stanford educational experience, there is always sort of a non-competitive characterization. I think most of the people in this room had machine guns and they were competing with people with bows and arrows, so it wasn’t exactly a parallel competition when you were in junior high school, in high school. There is always the question: does the tournament make sense as you keep going?
 
-There is always this question if people going on to grad school or post doctoral educations, does the intensity of the competition really make sense. There is the classic Henry Kissinger line describing his fellow faculty at Harvard, “The battles were so ferocious because the stakes were so small,” describing academia and you sort of think on one level this is a description of insanity. Why would people fight like crazy when the stakes are so small, but it's also, I think, simply a function of the logic of a situation. When it's been really hard to differentiate yourself from other people, when the differences are, when the objectives differences really are small, you have to compete ferociously to maintain a difference of one sort or another. That's often more imaginary than real. There is always sort of a personal version of this I tell, where I was sort of hypertracked. In my eighth grade junior high school yearbook one my friends wrote, I know you’re going to get into Stanford. Four years later, I went to Stanford Law School, ended up at a big law firm in New York where from the outside everybody wanted to get in and on the inside everybody wanted to leave and it was this very strange dynamic where I realized, this was maybe not the best idea, and I left after seven months and three days.
+但這裡有個很難回答的問題，為什麼市場對第一個進入的人非常有價值？這可以用規模經濟來解釋如果你的公司生產成本很高，邊際成本很低，那這就是一個典型的壟斷企業。
 
-Other people down the hall told me, it's really reassuring to see you leave, Peter, I had no idea that it was possible to escape from Alcatraz, which of course all you had do was go out the front door and not come back. But so much of people's identities got wrapped up in winning these competitions that they somehow lost sight of what was important, what was valuable. Competition does make you better at whatever it is that you're competing at because when you're competing you're comparing yourself with the people around you. I’m figuring out how to beat the people next to me, how do I do somewhat better than whatever it is they're doing and you will get better at that. I'm not questioning that, I'm not denying that, but there often comes this tremendous price that you stop asking some bigger questions about what's truly important and truly valuable. Don't always go through the tiny little door that everyone's trying to rush through, maybe go around the corner and go through the vast gate that nobody is taking.
+接下來還有品牌的問題，品牌的觀念深入人心，但我卻不太了解這是為什麼，我從來不投資只注重品牌的公司，但我想品牌的確是可以產生真正價值的東西，我想其中有一個--差不多結束的時候我還會再講一點這方面的內容，顯而易見的是
+出於某種原因軟件公司，在這方面做得非常好，他們在規模經濟這方面做得很好。
 
-Q: Do you have any ways to determine the difference [between a monopoly and a non monopoly] when looking at an idea or thinking about your own idea?
+因為軟件的邊際成本為0，如果你能做出一個好軟件比現有的解決方案好很多的話，隨著相當大的規模經濟，你的公司可以迅速擴張，因此即使開始時的市場很小，你可以讓公司快速發展，並跟上市場增長的腳步，維持壟斷的優勢。
 
-A: I would say the question I always focus on is what is the actual market? So not what's the narrative of the market, because you can always tell a fictional story about a market: it's much bigger much or smaller, but what is the real objective market. So you always try to figure it out, and you realize people have incentives to powerfully distort these things.
+關於壟斷比較重要的一點是，壟斷一時是不夠的，重要的是能進行持續性的壟斷。
 
-Q: So which of the aspects, of all these you mentioned, you would you say is applicable to Google?
+矽谷中總有這樣一種理念，要做第一個吃螃蟹的人。但我覺得笑到最後才會笑得最好，你要成為在你的領域裡笑到最後的公司，這樣的公司才是最好的。微軟的操作系統笑到最後已經幾十年了，谷歌的搜索引擎笑到最後，如果Facebook在社交網站這塊也能笑到最後，也是很有價值的。可以這樣想這些笑到最後的公司在未來相當長的一段時間內還會繼續發展。
 
-A: Well, they have they have network effects with the ad network, they had proprietary technology that gave them the initial lead because they had the page rank algorithm, which was an order of magnitude better than any other search engine. They had economies of scale up because of the need to store all these different sites, and at this point you have brand, so Google has all four. Maybe the proprietary technology is somewhat weaker at this point but definitely it had all four, and maybe three and a half out of four now.
 
-Q: How does this apply to Palantir and Square?
+如果你分析一下這些公司按現值計算的現金流量，看一下他們的利潤流和增長率，你會發現增長率比貼現率高得多。公司的價值在未來相當長一段時間內還會繼續保持，01年3月我在Paypal也做過這個分析，那時我們的公司已經運轉了27個月了，我們當時每年的增長率是100%，我們用大約30%的貼現率進行貼現。
 
-A: That's sort of a set of companies that are doing different copycat payment systems, on mobile phones, there's Square, there's PayPal, they have different shapes that's how they differentiate themselves, one is a triangle, one is a square. Maybe at one point the apes run out of shapes or something like that, but at Palantir we started with a focus on the intelligence community, which is a small submarket. We had a proprietary technology that used a very different approach where it was focused on the human computer synthesis, rather than the substitution, which I think is the dominant paradigm. So, there is a whole set of things, I would say, on the market approach and on the proprietary technology.
+然後我們發現，01年公司3/4的價值，來自於11年及以後的現金流。不論你對哪家公司做此類分析，結果都是相似的。如果你試圖用這種方法去分析矽谷中其他的科技公司，例如Airbnb Twitter或者Facebook，任何新興的互聯網公司或者YC資助的公司，通過計算你會發現3/4 80%，甚至85%的公司價值都來源於2024年及以後的現金流，這是很遠的未來了。
 
-Q: What do you think about lean startups?
 
-A: So the question is what do I think about lean startups and iterative thinking where you get feedback from people versus complexity that may not work.
+在矽谷中我們通常高估了增長率而低估了持續性，因為增長率可以在當下進行衡量，可以得到準確的數據。但一個公司十幾年後是否還會存在，決定了公司真正的價值，這是一個很定性的東西。
 
-I'm personally quite skeptical of all the lean startup methodology. I think the really great companies did something that was somewhat more of a quantum improvement that really differentiated them from everybody else. They typically did not do massive customer surveys, the people who ran these companies sometimes, not always, suffered from mild forms of Aspergers, so they were not actually that influenced, not that easily deterred, by what other people told them to do. I do think we're way too focused on iteration as a modality and not enough on trying to have a virtual ESP link with the public and figuring it out ourselves.
+如果，我們回來看看壟斷所具備的的特徵，專利技術網絡效應規模經濟，當你獲得市場份額形成壟斷的時候，這些特徵都同時存在於一個特定的時間內。但你也會想，這些東西會一直存在嗎？
 
-I would say the risk question is always a very tricky one, because it's often the case that you don't have enough time to really mitigate risk. If you're going to take enough time to figure out what people want, you often will have missed the boat by then. And then of course there is always the risk of doing something that's not that significant or meaningful. You could say that a track in law school is a low risk track from one perspective, but it may still be a very high risk track in the sense that maybe you have a high risk of not doing something meaningful with your life. We have to think about risk in these very complicated ways. I think risk is this complicated concept.
+因此這些特徵都有一個時間維度，網絡效應也具有時間屬性，隨著網絡的擴展網絡效應變得更加穩固。因此如果你的公司具有網絡效應，隨著時間的推移，你的公司一定會做大並形成壟斷。專利技術一直比較棘手，你想要做出比世上現存的好得多的東西這樣才能吸引人們的注意，這樣你才能有所突破，但在這之後你不想讓別人超越。
 
-Q: Doesn't the last mover advantage already imply that there's competition to begin with?
+因此你需要進行創新，但大量的創新並不意味著賺錢，大家想一想80年代的製造業，你可以做出比別人好得多的光盤和光驅，你可以席捲全球，但兩年後可能有人就會超過你取代你。經過15年的不懈努力光驅的性能得到了很大改善，對消費者很有好處，但對於這些生產光驅的公司來說卻沒什麼好處。對於科技上的巨大突破來說總會有這樣的問題，對於你來說當你有所突破的時候，你的創新必須是最後一個創新點，或者是一個可以保持很長時間的創新之處，然後你繼續不懈努力。動作迅速以至於沒人能趕上你。
 
-A: Yes, there's always a terminology thing. I would say that there are categories in which people sort of are bundled together. The monopoly business, I think they really were a big first mover. In some sense you can say Google was not the first search engine, there were search engines before. But on one dimension they were dramatically better than everybody else. They were the first one with page rank, with an automated approach. Facebook was not the first of social networking site. My friend, Reid Hoffman, started one in 1997, they called it Social Net, so they already had the name social networking in the name of their company seven years before Facebook. Their idea was that it going to be this virtual cyberspace were I'd be a dog and you'd be a cat and we'd have all these different rules about how we interact with each other in this virtual alternate reality. Facebook was the first one to get real identity, so I hope Facebook will be the last social networking site. It was the first one in a very important dimension, people often would not think of it as the first because they sort of lump all these things together.
 
-Q: If someone worked at Goldman Sachs out of college and left after six months and is now studying CS at Stanford, how would you recommend rethinking their competitive advantage?
+如果你身處於一個不斷創新的領域，其他人也在這個領域致力於發明新的東西，這對社會是有好處的，但通常對你的公司來說則不是好事。
 
-A: I am not great at the psychotherapy stuff, so I don't quite know how to solve this. There are these very odd studies they have done on people who go to business school, this one was done at the Harvard Business School where it's sort of the anti-Asbergers personality, where people are super extroverted, generally have low convictions, few ideas and you have sort of a hothouse environment you put all these people and for two years and at the end of it, they systematically end up, the largest cohort systematically ends up doing the wrong thing, they try to catch the last wave. in 1999 everyone tried to work with Mike Milken, this was a few years before he went to jail for all the junk bond stuff.
+接著我們再說說規模經濟之前說講過了，我認為“笑到最後”這事挺關鍵的。我經常用下國際象棋來舉例，國際象棋中白棋先走，白棋約有1/3個兵的優勢，因此先走是有小小優勢的。你想要成為笑到最後的贏家，世界冠軍Capablanca說過
+學習國際象棋必須從殘局開始，我對此非常贊同。
 
-They were never interested in Silicon Valley or tech except for 1999, 2000 when they timed the dotcom bubble peaking perfectly. 2005 to 2007 was housing, private equity, stuff like this. This tendency for us to see competition as validation is very deep, I don't think there's some easy psychological formula to avoid this. I don't quite know how what sort of therapy to recommend.
+儘管這並不是你需要學的唯一的東西，但我們可以通過這個視角來問些問題，比如說為什麼這些公司在10年15年
+甚至20年以後仍然可以保持領先？
 
-My first starting point, which is only going to be maybe ten percent of the way, is to never underestimate how big a problem it is. We always think that this is something that afflicts other people. We always point to people in business school, people at Harvard or people on Wall Street, but it actually does afflict all of us to a very profound degree. We always think of advertising as this thing that works on other people, for all the stupid people who follow ads on TV, but they obviously work to some extent and they work to the disturbing extent on all of us and it's something we must work to overcome.
+接下來，我想從另外兩個稍微不同的方面，解釋一下壟斷與競爭的思想。我想這是創業的中心思想。
 
-Thank you very much.
+壟斷與競爭在整個創新的歷史中在科技中提供了一個非常有趣的視角，近250至300年裡在很多不同的領域科技產生了巨大進步，我們發明了蒸汽機鐵路電話冰箱家用電器電腦飛機等等，在不同的領域都出現了巨大的技術創新，在科學領域也是類似的，近幾個世紀里科學界同樣產生了巨大的進步。
+
+在思考這些問題時，人們通常忽略的一點是：X和Y是相互獨立的變量。這些東西之中有的具有非常高的價值，但發明它們的人卻沒有得到相應的回報。之前我們講過：你創造出X美元的價值並要抓住這X刀的百分之Y，通常在科學的歷史上，Y的值為0，科學家從未掙到錢，他們總是幻想著自己生活在一個可以從自己的工作和創新得到回報的世界裡。但事實上這是一個徹徹底底的幻覺，在技​​術領域，各種不同的技術領域，同樣由於偉大的創新產生了巨大的價值，但創新者卻沒有從中獲利。
+
+因此我想，如果在科學和技術領域想要獲利，必須要抓住Y這一部分。但很明顯有些人一點也沒有抓住，假設你是20世紀最偉大的物理學家，你發現了狹義相對論和廣義相對論，但你卻沒有成為億萬富翁，甚至連百萬富翁都不是，你並沒有從中獲利鐵路的價值非常之大。
+
+
+但絕大多數公司都破產了，因為競爭太激烈，懷特兄弟發明了飛機但也沒掙到錢，因此在這些產業中結構的問題是非常重要的，成功的例子實際上非常少。縱觀近250年的歷史，很多實際上--Y值幾乎都是0，科學上Y是0，技術上也好不到哪去，因此很少有人能賺錢。
+
+在18世紀末19世紀初，第一次工業革命期間出現了諸如紡織廠蒸汽機一類的自動化進步，通過這些持續的進步人們提高了紡織廠和製造業的工作效率。每年差不多有5%到7%的增長持續了好幾十年，從1780年到1850年發生了巨大的改變，但即使在1850年英國絕大多數的財富還是被土地貴族把持著，工人沒有掙到多少錢，資本家也是一樣，錢都在競爭中流失了。
+
+當時有幾百人開紡織廠，這個產業--由於競爭激烈所以賺不到錢。我想，在過去整個250年的歷史中，大概只有兩大類公司
+發明了新事物並賺了錢。
+
+其中一類是在19世紀末20世紀初。第二次工業革命中形成的垂直綜合性壟斷企業：比如福特汽車或者標準石油公司，這些垂直綜合性壟斷企業，通常需要復雜的協調機制，需要把公司的各個部分以正確的方式結合在一起，這樣才能獲得巨大的優勢，這在今天已經不常見了。
+
+這種形式的公司，只要能做好價值很大，這是典型的資本密集型企業。但我們現在的思維已經不一樣了，我們很難去參與高度複雜的事情，耗費的時間太久。我常常想起我在Paypal的同事埃隆·馬斯克，後來也在特斯拉和SpaceX取得成功。
+
+
+我認為這些公司成功的關鍵在於，它們具有復雜的垂直綜合性壟斷結構，看看特斯拉和SpaceX這樣的公司，思考一下它們的技術突破很單一嗎？它們在很多個方面都進行創新。我不認為，它們在改進電池容量方面有巨大突破，或是在火箭技術的某方面有巨大突破，它們在單一領域沒有巨大的突破，不過他們很善於把各方面的創新整合起來，並且垂直整合的能力比其他競爭者都高。
+
+特斯拉整合了汽車分銷商節省了不必要的浪費，之前這種浪費在美國的汽車領域經常發生，SpaceX拉攏了所有的轉包商，
+與此不同的是其他航空公司，通常只選擇一家轉包商，轉包商就會形成壟斷控制利潤。這樣就使得這些航空公司很難賺到錢，因此我想垂直整合對於技術進步的意義還沒有被充分重視，如果人們意識到這一點會做的更好。
+
+
+對於軟件來說，我想有一點是特別具有優勢的。軟件具有極大的規模經濟，很低的邊際成本，這是數字世界與傳統世界的對決，軟件可以很快地進行普及，這對於佔領市場是很重要的。
+
+因為即使你進入的是一個小市場，如果普及太慢的話，其他競爭對手就會有時間進入市場和你競爭。如果在中小市場中，你的普及率很快的話，你就能佔領這個市場，這也是矽谷的公司以及軟件工業都很成功的原因之一。我想讓大家思考的是，人們對於一些創新能掙錢，另一些則不能，給出了很多不同的解釋。
+
+我認為這些解釋，都掩蓋了“創造X美元的價值並獲得Y%”這一實質問題，因此人們對於科學家賺不到錢的解釋總是：科學界對賺錢沒興趣，他們做這個是出於慷慨之心，如果你總想著賺錢，你就不是一個合格的科學家。我並不是說人們不一定要每次都以賺錢為驅動力，但我想我們應該對這種解釋抱有懷疑的態度。
+
+我們應該想想，這個解釋是否觸及到Y值為0的本質？
+
+科學家所處的環境是不是導致，所有的創新產生的價值都在競爭中消耗掉了，因此他們才沒有賺到錢？
+
+關於軟件業的一個錯誤解釋是，因為我們看到軟件公司賺了很多錢，因此我們就認為它們創造的東西是世界上最有價值的，如果Twitter的人賺了幾十億美元，那Twitter的價值肯定比愛因斯坦做的東西高得多。
+
+同樣地這種解釋也忽視了，X和Y是互相獨立的變量的事實，軟件公司只是抓住了X的相當大的一部分，而愛因斯坦沒有。因此縱觀創新的歷史、微觀經濟學，也就是行業的結構非常重要。有些人獲得了巨大的財富，是因為他們在行業中的結構正確。沒賺錢的人，通常是進入了競爭激烈的領域。
+
+我們對此不應草率地進行解釋，我們可以對此有更深入的理解。
+
+最後，我們回到本次講座的主題：“失敗者才相互競爭”的概念。這是一種有點挑釁的說法，因為我們通常認為失敗者是那些不擅於競爭的人，我們通常認為失敗者是田徑隊跑的慢的、考試中分數不高的、或者沒考上好學校的、因此我們通常認為的失敗者是那些不擅於競爭的人。
+
+但我希望大家重新想一想，考慮一下有沒有可能是競爭本身的問題，可能不是失敗者的問題。
+
+而是我們沒有辯證地看待壟斷競爭的問題，為什麼會產生這樣的結果？
+
+因為人們經常對公司的性質撒謊，我們一直以一種奇怪的方式，來解釋發生了什麼。我想這不僅僅是理智上的盲點更是心理上的盲點，我們在其中被各種各樣形式的競爭所吸引。如果其他人也在做同樣的事我們感到安心，“猿”這個詞在莎士比亞時期就有了，既指靈長類動物也是模仿的意思。模仿是人類的本性像猿一樣像羊一樣、像旅鼠一樣像獸群一樣從這些詞就能看出來，這是很有問題的，我們需要思考並克服它。
+
+用競爭來檢驗有效性，是長久以來的一個問題，我們去做很多人正在做的事情，並不是因為群體智慧，也不是因為這些人證明了這類事情是有價值的，我認為這種跟風的行為是不正常的。每年差不多有2000人跑到洛杉磯想成為電影明星，只有差不多20個能成功，當運動員能好一點。因此你很快就能發現自己到底行不行，因此對社會來說損失能少點。
+
+
+你知道嗎？你們在來斯坦福之前接受的教育，基本都沒有什麼競爭，坐在這件屋子裡的人都是天之驕子，與平凡的人進行競爭，你在初高中時期與他人進行的不是平等的競爭。那麼問題來了，這樣不斷競爭有意義嗎？當人們進入研究生院，或者去讀博後時，這樣的競爭有意義嗎？
+
+亨利·基辛格有句名言，描述了哈佛大學的教授職位很稀少競爭很殘酷，這描述了學術界的景象，你可以想像那種瘋狂的樣子。為什麼職位很少時人們還如此的瘋狂？但我想其實這裡面的邏輯很簡單，當你和其他人差不多時，當你和其他人的客觀差異非常小的時候，就必須通過殘酷的競爭，來維持你的優勢，通常虛構要比實際的成分多。
+
+對於這個問題，我有一個自身的例子，在8年級的時候一個小伙伴在我的紀念冊上寫道，我知道四年之後你一定會進入斯坦福
+四年之後在高中畢業後，我真的去了斯坦福大學的法學院，最後供職於紐約的一家法律事務所。一個外面的人拼命想進去，裡面的人拼命想出去的圍城。正是由於這種奇怪的原因，我意識到這樣下去並不是一個好主意，因此7個月零3天后我辭職了。當時一個同事跟我說，皮特，真為你的離開感到高興，我就沒有勇氣逃離此地。
+
+其實離開很簡單，打開門走人就是了。但很多人卻一直為輸贏所困，從而錯過了重要的有價值的東西，不論在何領域，競爭確實能讓你變得更強。因為你在競爭的同時，會與你周圍的人進行比較。你會想如何打敗身邊的人，如何做的比別人更好，這樣你就會變得更好，我從不否認這一點。
+
+但是這樣代價太大了，因為你忽視了更重要的問題，忽視了什麼才是真正具有價值的東西。因此我想對大家說的是不要拘泥於，大家都盯著的彈丸之地。也許下一個轉角就會遇到沒人發現的巨大機遇。
+
+謝謝大家。
+
+
+有人想問問題嗎？什麼？嗯，對。我用幾分鐘來回答幾個問題。請講：
+
+Q: 正如你所講的更深層次的競爭看起來都是很相似的，因為人們會撒謊進行掩飾，那麼當一個主意比你的方法要好時有簡單的方法來確定之間的差異嗎？
+
+A: 我考慮這個問題的思路是：實際的市場是怎樣的？要看市場是怎樣的而不是創業者編的誇大或縮小的故事，但真實的市場是這樣嗎？
+
+因此當你認識到人們有充足的動機去撒謊時，你就會想去弄明白真實的市場是怎樣的了。
+
+Q: 您提到的哪些方面的壟斷在谷歌身上有所體現呢？
+
+A: 他們在廣告網絡上具有網絡效應。他們的專利技術讓他們得以騰飛，因為他們的網頁排名算法比當時的搜索引擎好的太多了，此外還有規模經濟，因為谷歌需要存儲所有這些不同的網站。因此谷歌也就有了品牌效應。
+
+谷歌具備所有以上四點，也許專利技術不是那麼突出，但不管怎麼說4個要素它都具備了至少3個方面非常好。
+
+
+Q：如何把您講的東西用於分析Palantir(和Square)？
+
+A: 噢這些公司只是把這些支付系統簡單拷貝到移動設備上了。Square和Paypal它們的區別只是讀卡器的形狀不同，一個是三角學一個是方形僅此而已，也許有的時候模仿者沒有把形狀考慮在內。
+
+Palantir是一家情報公司，市場很小，使用的專利技術非常不一樣。我們專注於人工與電腦的結合，而不是市面上主流的用電腦替代人工的方法，因此Palantir做到的是進入小的市場，以及擁有專利技術。
+
+Q: 當成立一個公司並設計公司路線的時候，我們通常避免創造人們不想要的東西來降低風險，但我認為年輕的發明者有靈感去建立，複雜的系統。好的問題是對精益創業有什麼看法？
+
+A: 就是先建立簡單系統從用戶那得到反饋不斷改進，而不是建立一個複雜的系統。
+
+我個人對此，是相當懷疑的。我認為那些偉大的公司都做到了巨大的改變，以此和其他人區別開來，他們通常不會做大量的用戶調查。經營這些公司的人有時會有輕微的亞斯伯格症，不容易受別人影響，不會被別人的想法或說法所阻止。
+
+因此精益創業過多的關注於形式上的重複，而沒有通過和公眾建立溝通，來驗證實際效果風險問題。也是精益創業需要面對的一個棘手問題，因為通常來說你並沒有足夠的時間來減輕風險。
+
+如果你用足夠的時間來了解客戶需要什麼，那你已經錯失機會了。當然如果為不重要的事情投入太多精力，這也算是一種風險，可能從某種角度來說，去法學院唸書沒什麼風險。但從另外一個角度來看，風險又很高，因為這樣可能你一輩子都沒什麼突破了。
+
+因此我們要從各方面綜合考慮風險，因為風險是一個很複雜​​的概念。
+
+
+Q: 後發優勢是否暗示著競爭在一開始就已經存在了？在你開始下棋的時候棋盤上已經有棋子了
+
+A: 大家總是糾結於術語，有些領域受到了人們大量的關注。我要說的是壟斷企業，通常是第一個取得突破的企業，你可以說谷歌不是第一個做出搜索引擎的，之前出現過其他搜索引擎，但谷歌的比其他人做的好太多了，他們第一次使用了網頁排名這樣的自動化方法，Facebook也不是第一個社交網站，我的朋友瑞·哈夫曼在97年就建立了一個叫做Social Net的社交網站，他們已經起好了名字，建立了社交網絡，這是Facebook出現之前7年的事情。
+
+他們的想法是在一個虛擬的網絡空間，充滿了阿貓阿狗，使用特定的規則來進行交流，讓虛擬與現實的世界交織在一起。Facebook是第一個實名的社交網絡，我希望Facebook是最後一個社交網站，它是第一個產生重大意義的社交網站，人們不認同它是第一家是因為它只是把不同的東西聚集在一起。
+
+Q: 如果有這樣一個人，在高盛幹了六個月後辭職了，現在斯坦福念計算機科學專業，您能不能給點建議讓他找到競爭優勢？
+
+A: 我沒有很好的--我不善於做心理治療，所以我也沒什麼好辦法，在哈佛商學院有人做過一個非常奇怪的研究，找一些反亞斯伯格症的人，這些人極端外向，通常沒有什麼信念與想法，他們成長於溫室環境中。研究者觀察這些人長達兩年，在最後這群人成為了一群容易犯錯的人，他們想要抓住最後的機會。
+
+在1989年哈佛的每個人都想為邁克·米爾肯工作，但過了一兩年他就因為垃圾證券的事進監獄了，他們對矽谷或技術一點不感興趣，直到99 00年左右互聯網泡沫達到頂峰之時，05 07年房地產泡沫時他們又去搞房產，還有私人股本之類的東西。
+
+我認為用競爭驗證有效性這種傾向太深遠了。我不認為有什麼簡單的心理學公式能夠避免此類傾向，也沒什麼能夠推薦的，但我首要的出發點是，也許只佔考慮整個問題的一小部分。
+
+永遠不要低估問題的嚴重性，我們總是認為別人會受到影響，我們很容易就想到哈佛商學院或者華爾街那幫人，但實際上我們也不能免於此類問題的困擾，我們總是認為廣告對其他人是有用的。只有那些笨蛋才會相信電視上的廣告，但這些廣告確實對我們所有人都有影響，因此我們應該學著去克服這種影響。
+
+
+謝謝大家。
