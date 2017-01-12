@@ -1,4 +1,4 @@
-# Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started 
+# Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started
 
 http://genius.com/Walker-williams-lecture-8-doing-things-that-dont-scale-pr-and-how-to-get-started-annotated
 
