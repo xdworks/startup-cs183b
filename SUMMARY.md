@@ -15,7 +15,7 @@
 * [Lecture 13: How To Be A Great Founder](chapter13.md)
 * [Lecture 14: How to Operate ](chapter14.md)
 * [Lecture 15: How to Manage](chapter15.md)
-* # Lecture 16: How to Run a User Interview
+* Lecture 16: How to Run a User Interview
 * Lecture 17: How to Build Products Users Love, Part II
 * Lecture 18: Mechanics--Legal, Finance, HR, etc.
 * [Lecture 19: Sales and Marketing, How to Pitch, and Investor Meeting Roleplaying](chapter19.md)
