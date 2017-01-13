@@ -1,173 +1,314 @@
-# Lecture 18: Mechanics--Legal, Finance, HR, etc. 
+# Lecture 18: Mechanics--Legal, Finance, HR, etc.
 
-Sam Altman: Kirsty and Carolynn are going to talk about Finance and Legal Mechanics for Startups. This is certainly not the most exciting of the classes, but if you get this right, this is probably the class that helps you avoid the most pain.
+Christine和Caroline會說說，創業企業的金融和法律。這最然不是最令人激動的一堂課，但是如果你能把這個做對，這可能是最能幫助你避免日後痛苦的一堂課。
 
-Thank you very much for coming.
+這節課我們會說說創業的機制，Christine和我今天會說說財務和法律的基本知識，或許能幫你解決一開始會面臨的問題。我在看Paul Graham視頻的時候，發現他說過，創業者不需要知道創立公司的機制。
 
-Carolynn: Like Sam said, this lecture is about the Mechanics of the Startup. Kirsty and I are going to be talking about the basic legal and accounting issues that your startup may face in the very beginning.
+然後我想我去Sam是在逗我們嗎？但是Paul Graham其實是在說，創始人不需要知道非常具體的細節，如果拘泥於這些細節創始人便會置身自己於危險之中，這很正確。
 
-I was watching Paul Graham's video and at one point he says, "Founders don't need to know the mechanics of starting a startup." And I thought, "Oh no! That's exactly what Sam titled this lecture."
+Christine和我不能在45分鐘之內就教會你所有的事情，我們今天的目標就是確保你比那些去佛羅里達組建公司的人知道的多點。
 
-What PG actually says is that founders don't need to know the mechanics in detail. It's very dangerous for founders to get bogged down in the details. That's exactly right. Kirsty and I can't give you the details in forty-five minutes anyway.
+Christine：像Sam提到的我們很擔心聽會計和律師的話，對你們來說會聽起來很無聊，你們已經聽過不少牛牛的創始人，說一些很有意思的事情。但是像Sam說的一樣，如果你能知道個大概，你能以正確的方式成長，避免後期的痛苦不用再擔心這方面的問題，然後專心的做你想做的事情，使你的公司很成功。
 
-Our goal here today is to make sure that you do know better than to form your startup as a Florida, LLC.
+我們經常提到這個“初創公司”，在你的心中你可能認為初創公司是一個單獨的合法企業，我們會再談論一些關於你如何創立和初創公司到底是什麼的問題。你也會了解到初創公司將會有資產，IP成本發明創造與其他東西。公司需要保護這些的發展，所以我們還要談論一下如何募集資金，僱傭僱員簽訂合約，當創建你的獨一無二的公司的時候，你需要考慮另外的一些事情：誰要來管理？每個人將會擁有多少的股份？
 
-Kirsty: As Sam mentioned, we were also worrying that this was going to be pretty boring for you to listen to an Accountant and a Lawyer talking. You've had some really amazing founders talking about really interesting things. But like Sam said, if you know the basics, you can get yourself set up in the right way, avoid pain, stop worrying about it, and then concentrate on what you actually want to do, which is make your company a success.
+所以這些的確是一些值得討論的問題，好的這就是我們的分工，Christine有計算器。我來進行老年性的工作，這很公平。
 
-We refer to this term "startup" all the time. In the back of your head, you probably know a "startup" has to be a separate legal entity. We're going to talk a bit more about how you actually set that up and what that means.
+我們將要談論的第一件事情是「成立」。Christine剛剛提到過這個，你的初創公司將會使是一個有限責任公司，你可能已經知道這些，但是構建單獨的企業，最原始的目標是保護你的個人財產，這意味著如果你的公司被起訴，債權人是無法從你自己的銀行賬戶中得到錢的，而要從公司賬戶中提取相應的財產，這是你成立的原因。
 
-You also probably know that a startup will have assets, IP, inventions, other things, and that the company needs to protect those. So we'll talk a bit more about that and about raising money, hiring employees, and entering into contracts.
+問題是：你要在哪裡成立呢？
 
-There are a few other things that you need to talk about when setting up your company which ferret out a few issues amongst founders. Who's going to be in charge? How much equity is everybody going to own?
+理論上講你有很多的選擇，但是最直接的地方是在特拉華州，我確信你們也對那個非常熟悉，特拉華州是適合成立企業，那裡的法律非常清晰與穩定，已經成為了一種標準。另一個在特拉華州構建企業的好處是，投資人投的基本上都是特拉華州成立的企業，他們曾經投資過而且大部分的投資都投向了特拉華州的企業，所以如果你是一家特拉華州的企業，得到投資就很容易了。
 
-Carolynn: The first thing we're going to talk about is formation. Your startup is going to be a separate legal entity. You probably already know this but the primary purpose for forming a separate legal entity is to protect yourselves from personal liability. If your company ever gets sued, it's not your money in your bank account that the person can take. It's the corporation's.
+投資人要做的審查工作會變少，你也不需要思考你應不應該將你在華盛頓的公司簽到特拉華去，這麼多公司這樣做是有原因的，它的標准我們非常熟悉。
 
-Then the question is: where do you form one? Theoretically you have fifty choices, but the easiest place is Delaware. I'm sure you're all familiar with that as well. Delaware is in the business of forming corporations. The law there is very clear and very settled. It's the standard. The other thing is that investors are very comfortable with Delaware. They already invest in companies that are Delaware corporations. Most of their investments are probably Delaware corporations. So if you are also a Delaware corporation then everything becomes much simpler. There's less diligence for the investor to do. You don't have to have a conversation about whether or not to reincorporate your Washington into Delaware.
+我來講一個案例，大約兩年前我們在矽谷頂尖孵化器有一家公司，最先開始是在康涅狄格州成立的，創始人們的律師朋友都說在康涅狄格是個很好的選擇，當他們到了孵化器我們說你們需要轉而投奔特拉華州，康涅狄格州的律師們做了相應的文件，但是很不幸他們沒能正確地做好。
 
-We had a company at YC about two years ago that was originally formed as an LLC in, I'll say Connecticut. The founders had lawyer friends there who said that this was right way to do it. When they came to YC we said, you need to convert to Delaware. The Lawyers in Connecticut did the conversion paperwork and unfortunately they didn't do it right. They made a very simple mistake, but it was a very crucial mistake. The company was recently raising money, a lot of money, and this mistake was uncovered. The company thought it was a Delaware corporation for a couple of years but in fact it was still a Connecticut LLC. I'll just say this: four different law firms were needed to figure that one out. Two in Delaware and one in Connecticut. One here in Silicon Valley. The bill right now is at five hundred thousand dollars for a conversion mistake.
+他們犯了一個很關鍵但是簡單的錯誤，這家公司最近在融資很多的錢，然後這個錯誤被發現了，基本上來說這家公司認為自己長久以來都是特拉華州的企業，但是實際上它還是一家康涅狄格州的合夥企業，最後搞的需要四個不同的法律公司，來辨別這家企業的歸屬。兩家特拉華州的一家康涅狄格州的還有一家在矽谷的，為了這個錯誤都已經花了50萬美元了。
 
-What's the take away here? Pretty simple. Keep it really simple and familiar for yourself. The reason we incorporate all companies the same way at Y Combinator is because it's easy. Don`t get fancy. Save yourself time and money.
+怎樣避免這樣的情況？其實很簡單，把事情弄簡單點，熟悉一下這些知識。我們讓所有在YC裡的公司都在一個地方註冊是因為想把後續的事情變得簡單，不要搞花里胡哨的東西，為你自己省點錢和時間，當你一旦決定了你將要成為一家特拉華州的公司，你實際上如何構建初創公司呢？
 
-Kirsty: Once you decide that you're going to be a Delaware corporation, how do you actually set that up? It requires a few different steps. The first one is really easy. You literally just fax two pieces of paper into Delaware saying we're going to set up a corporation. All that does though is create a shell of a company. It doesn't actually do anything within the company. After that, you then need to complete a set of documents that approve the by-laws of the company. It creates a board of directors. It creates officers of the company. Delaware requires that someone has the title of CEO, President, and Secretary.
+這需要一些不同的步驟。第一步非常簡單，你只需要將兩張文件傳真去特拉華，說明我們將要組建公司，但是那隻是構建一個公司的框架，在公司內部什麼也沒有做，在那以後你需要完成一系列與法律相符的文件：創造一個董事會、公司的上層人員。特拉華州要求公司內部必須有CEO 總監和秘書，這個時候你也需要完成有關個人財產獨立於公司財產的相關文件。
 
-At this point, you also need to complete documents that assign any inventions or any code that you as an individual create so that the company actually owns that. Remember, at this point it's a really good thing to think about, "Am I doing this as an individual, or am I doing this on behalf of the company, which is a separate entity." You have to maintain that split in your mind.
+記住這個時候應該這麼想：你作為發起人需要從不同的角度思考，你會這樣考慮我這麼做是作為個人的還是代表整個有限責任公司的？你必須在腦海中將這些分開，將他們都過一遍。
 
-There are services that can help you get incorporated. You can use a law firm, but there are also other online services that help. The one that we often use with YC companies is called Clerky. They are set up so that all that standard basic documents are used and they get you set up in a very vanilla way so that you can move on and keep focusing on what you need to do.
+很多地方都提供幫助你註冊公司的服務，你可以求助法律公司但是還是有很多在線服務可以幫你，我們在孵化器中經常使用的是Clerky，他們會使用標準基礎文件，幫助你用最普通的方式建立公司。所以你可以專注於你需要做的事情。
 
-A note on paperwork. You're creating documents. These are really important documents that are going to be setting what the company does and what the company is. It's really important that you actually keep these signed documents in a safe place. It sounds so basic but we get so many founders saying, "Oh, these are just some documents." They have no idea what they are or where there are. So really, really make sure that you keep them in a safe place. Let's be honest, filing documents is not the glamorous part of running a startup. The times where this is crucial are going to be high stress times in the startup's life. It's likely when the company is raising a big Series A or if the company is being acquired. The company will have to go through due diligence and there will be lawyers asking for all this stuff. If you don't have it and you don't know where it is, you're making a stressful situation even more stressful.
+再說一點，你在做文件，這些文件都非常重要，它們決定了你的公司的未來。所以你要保證這些簽署的文件，都被好好的保管，這聽起來很基礎平常。但是我們聽到很多創始人說“這些就只是很普通的文件啊”，它們都不知道這些文件是用來幹嘛的，有什麼重要性？
 
-The key thing here is keep those documents in a safe place. Keep them organized. It will make your life so much easier.
+所以真的確保把這些文件保管好。
 
-Carolynn: Now we're going to talk about equity. We're going to touch on a couple different things in this section. The first thing that we're going to talk about is equity allocation. If your company stock is high, how to divide the pie. You have to talk about this with your co-founders. Why is this important? If you're a solo-founder this isn't important. If you are a team of two or more, then this issue is absolutely critical.
+我們就坦率來講吧，文件不是運營初創公司最好的部分，最困難的時候在初創公司成長歷史上，也會是壓力最大的時候。當公司正在被收購或者融A輪的時候，很可能需要經歷一段全面的調查，可能會有律師來需要所有的這些相關文件。
 
-The first thing that you need to know is that execution has greater value than the idea. What do I mean by that? A lot of Founder Teams give way too much credit and therefore a lot of the company's equity to the person who came up with the idea for the company. Ideas are obviously very important but they have zero value. Who's ever heard of a billion dollar payment for just an idea? Value is created when the whole Founder team works together to execute on an idea. You need to resist the urge to give a disproportionate amount of stock to the Founder who is credited with coming up with the idea for the company.
+如果你沒有或者是你不知道它們在哪兒，你會將一個本來壓力就很大的情況變得更加有壓力，最關鍵的就是將這些文件放到安全的地方，將他們變得有條理。這會使你的生活變得簡單很多，現在我們將要談論資產，我們將要涉及到一些這些方面不同的事情。
 
-The next thing you want to think about is if the stock should be allocated equally among the founders. From our perspective the simple answer is probably yes. Stock allocation doesn't have to be exactly equal, but if it's very disproportionate, that's a huge read flag for us. We wonder what conversation is not happening among the Founder team when the ownership isn't equal. For example, is one Founder secretly thinking that this whole startup thing is temporary? Has one Founder overinflated the work that he or she has already done on the company? Or overinflated his or her education or prior experience? Do the founders really trust each other? Have they been honest with each other about their exceptions for the startup and for the future? When ownership is disproportionate, we worry that the founders are not in sync with one another.
+第一件我們要談論的事情就是資產的分配，我在談論的是如果你公司股價很高，如何分公司這塊蛋糕呢？你需要與你的聯合創始人一起討論這個問題。為什麼這個非常重要呢？如果你是一人創立的，就不重要。
 
-Thirdly, it's really important to look forward in the startup. Said another way, all the founders have to be in it one hundred percent. Are they all in it for the long haul? If the expectation at your startup is that each Founder is in it one hundred percent, for the long haul, then everything that happened before the formation of the company shouldn't matter. It doesn't matter who thought of the idea, who did the coding, who built the prototype, or which one has an MBA. It will feel better to the whole team if the allocation is equal because the whole team is necessary for execution. The take away on this point: in the top YC companies, which we call those with the highest valuations, there are zero instances where the founders have a significantly disproportionate equity split.
+如果你是兩人或兩人以上的團隊，這件事情絕對是很重要的。你需要知道的第一件事情是執行永遠比主意更加重要，這是什麼意思呢？許多團隊將太多的功勞，太多的資產分配都給了那個為公司想出好主意的人，點子顯然是很重要的，但是它們並沒有價值。
 
-Kirsty: You've had the conversation about to split the equity but then what? We talk to many founders who are actually surprised that they have do something in order to own this stock. They think that talking about it is actually enough. This is another situation where you have to think about you as an individual versus you as a representative of the company. And if you equate this to a large company, if you worked at Google and were told that, as part of your compensation package, you would be receiving shares, you would expect to sign something to get those shares. If you didn't, you would be thinking, "What's going on here?" It's the same thing with a small company.
+誰聽說過誰會為一個點子付10億美元呢？當整個團隊共同合作去實施一個主意，這個時候價值才被創造，你需要抵制這種慾望去給予為公司產生點子的創始人太多的不合比例的股份。
 
-In this case the document that you're signing is a stock purchase engagement. You as an individual buy the shares from the company. In any situation, if you're buying something there's a two way transaction. In this case you're getting shares in return for either a cash payment or for contributing IP or inventions or code to the company so that the company actually owns everything that you've done in the past. We also refer to that stock as being restricted because it vests over time. We're going to cover that next, in more detail. As a result of the stock being restricted and vesting, there's one very crucial piece of paper that we talk about until we're blue in the face to everybody because there's actually no way to go back and fix this. This is one of the things that has blown up deals in the past. We've seen companies who haven't filed what's called an 83(b) Election, and deals have blown up. I'm not going to go into detail about the 83(b) election, but it affects your individual taxes and it affects the company’s taxes. It can have a big impact. The main things here are sign the paper work, sign the Stock Purchase Agreements, sign the 83(b) Election, and make sure that you actually have proof that you sent that in. If you don't have the proof it just goes into a black hole at the IRS. Investors and acquirers will walk away from a deal if you can't prove that.
+第二個你需要考慮公司內部股份是否應該在創始人之間均勻平等分配，從我們的角度來說最簡單的答案是“應該”，股份的分配不需要完全相等。但是如果很不均勻，這尤其地值得我們注意。如果分配不均勻，我覺得在創始人內部根本就無法進行有效的對話。
 
-Carolynn: The next thing we are going talk about is vesting. I imagine that many of you are familiar with vesting, but just in case, vesting means that you get full ownership of your stock over a specific period of time. We're talking about the stock that Kirsty just said. You bought your stock of your company and you own it and you get to vote, but if you leave before this vesting period is over, then the company can get those unvested shares back. When your hear restricted stock, it means that the stock is subject to vesting. The IRS speak for this is, "Shares that are subject to forfeiture."
+舉例來說是否有一個創始人悄悄認為，初創公司是暫時的狀態呢？是否有其中的一個創始人誇大了
+他在公司中的工作量，或者是誇大了他或她的教育背景或者是早期經驗，創始人是不是真正的相互信任，他們是不是誠實地說出了他們對初創公司與未來的看法。
 
-What should a typical vesting period be? In Silicon Valley the so called standard vesting period is four years with a one year cliff. This means that after one year, the Founder vests in or fully owns twenty-five percent of the shares. Then the remaining shares vest monthly over the next three years. Here's an example. Founder buys stock on Christmas day, let's say, and then quits the company on the following Thanksgiving. So before the year has passed. In that case the Founder leaves with zero shares, because the cliff period hasn't been met. If the Founder quits the day after the next Christmas, so a year and day later, he or she is vesting in twenty-five percent of the shares. In that case the one year cliff has been met.
+當股權沒有均勻分配，會有創始人是否彼此協調的擔心。
 
-What happens to the shares when a Founder stops working at the company? The company can repurchase those shares. In the example I just gave where the Founder quit a year and a day after purchasing the shares, seventy-five percent of the shares are still invested and the company will repurchase that full seventy-five percent of the shares from the Founder. How? They just write the Founder a check. That's how the Founder brought it. It's the same price per share that the Founder paid, so it's simply giving the Founder his or her money back.
+第三在初創公司中向前看是很重要的，另一種方式來說所有的創始人都必須百分之百的投入，他們是否準備好一場漫長的征程，如果你的初創公司所有的創始人，百分之百的投入了，在公司組建之前的一切其實都不是很重要了。
 
-So why have vesting? Why would founders do this to themselves?They're doing this to their own shares. The number one reason why vesting is important has to do with founders leaving the company. If you didn't have vesting and a founder leaves, a huge chunk of the equity ownership leaves with or her. Obviously that is not fair to the founders left behind. We're actually going to talk about this a little bit more when we get to the the "Founder Employment" slide. I will go into that in more detail.
+誰想出了關鍵的主意，誰編撰了程序，誰有MBA學位，這都不重要。如果分配是公平的，對整個團隊都是有好處的，因為整個團隊團結一心對於實際的執行過程中是很有好處的。
 
-The other reason to have vesting is the concept of skin in the game, the idea that founders need to be incentivized to keep working on their startup. If the Founder can walk away with his or her full ownership at any point and time, then why would you stay and grind away? Startups are hard.
+在頂級的孵化器，主要創始人嫉妒不公平的分配是絕對不可能的。
 
-Do solo founders need vesting? They do and the reason is because the skin of the game concept applies to solo founders as well. Investors want to see all founders, even solo founders, incentivized to stay with at the company for a long time. The other reason that solo founders should put vesting on their shares is to set an example for employees. You can imagine it would be inappropriate for a Founder to tell an employee that he or she has to have four year vesting on his or her shares but the founder doesn't think he or she needs any on their own shares. It's a culture point. A founder who has vesting on his or her shares then sets the tone for the company by saying, "We're all in it for the long hall. We are all vesting on our shares. We're doing this together."
+剛剛的對話，都是關於如何分割資產。但是然後呢？我們曾經與許多創始人談話，他們做了很多令人吃驚的為了獲得股份的努力，他們認為談論這個事實上足夠了。你必須去重新思考另一種情況，作為你個人或者是作為公司代表，如果你將這個等同於一個更大的公司例如穀歌，你在谷歌工作，你會被告知作為報酬中的一個方面，你會收到股份。但是你必須要簽訂一些合同去得到這些股份，如果你不這樣的話，你會很奇怪事情的發展。
 
-Vesting aligns incentives among the founders if they all have to stick it out and grow the company before they get any of that company. Investors don't want put money in a company where the founders can quit whenever they feel like it and still have a big equity ownership stake in that company.
+在這個方面大公司與小公司是一樣的，你要簽訂的那份文件是股票購買的合約，作為個人你從公司中買下了這些股份，不管是什麼情況如果你是在購買東西的時候，你付出一些得到一些，這是一個雙向的交易。
 
-Kirsty: Moving on. We've now got a beautifully formed corporation in Delaware. Everyone has their stock. It's all in the plain vanilla standard paperwork. Then what? The next stage of a company's life is to raise money. We know that you already heard a lot from a lot investors and from founders in this set of classes. They've been talking about the tactics of how to raise money but what about the paperwork? What about when somebody actually agrees to invest?
+這種情況下，你得到相應的股份，但是是以現金支付與為公司付出的勞務為代價，那種股票其實也是有限制性的，因為它是逐步地授予的。
 
-In terms of logistics, in very simple terms there are two ways to raise money. Either the price is set for the money that comes in or the price isn't set. By price we mean the valuation of the company. Rounds can actually be called anything. People can name them whatever they want, but generally when you hear the term seed round, it mean that the price has not been set. Anything that's a Series A or Series B is something where the price has been set.
+我們將要在下一刻中更加詳細地講解那個問題，股票在逐漸被分發的過程的結果是有一個非常重要的文件，如果出了問題，我們將無法面對所有人。因為沒有辦法回去修復過去曾經因為這個事情，交易取消。
 
-Not setting the price is the most straight forward, fast route to getting money. The way that this is done is through convertible notes or safes. Again, this is a two way transaction. It's a piece of paper that says, for example, that an investor is paying one hundred thousand dollars now and in return has the right to receive stock at a future date when the price is set by investors in a priced round. It’s important to note that at the time that paperwork is set, that investor is not a shareholder and therefore doesn't have any voting rights in the company. They will have other rights which Carolynn is going to talk about separately.
+我們曾經見過一些沒有進行83(b) Election的公司，交易就因此黃了。關於83(b) Election我不打算詳細地說明，但是這個會影響你的個人稅，也會影響企業整體的稅務，這可能影響非常的大。
 
-Of course investors want something in return for putting in money at the earliest, riskiest stage of the company's life. This is where the concept of a valuation cap comes in, which I'm sure many of you heard mentioned before. The documents for an unpriced round set a cap for the conversion into shares that's not the current valuation of the company. It's an upper bound on the valuation used in future to calculate how many shares that investor is going to get. For example, take an investor that invests one hundred thousand dollars on a safe with a five million dollar cap. If a year later the company raises a priced round with a valuation of twenty million dollars, then the early investor would have a much lower price per share. About a quarter. Therefore their hundred thousand dollars would buy them approximately four times more shares than an investor that was coming and putting in a hundred thousand in that Series A priced round. That's where they get their reward for being in early.
+這裡的主要的事情是簽署文件簽署股票購買協議，簽署83(b) Election，確認你真的有證據證明你郵寄出去了。如果你沒有證據它可能在IRS進入了一個再也回不來的黑洞，如果你不能證明，投資者與收購者會放棄一宗交易。
 
-Again, this is a situation where you need to make sure you have the signed documents. Services like Clerky can help with that. They have very standard documents that most of our YC companies use to raise money.
+我們將要談論的下一件事情是股權授予的問題，我猜你們當中的許多人都很熟悉股權授予的問題，但是以防萬一有人不知道，股權授予是你在特定的一段時間，逐漸得到你的股票的完整的所有權。
 
-A couple of other things to think about when you are raising money, um. Hopefully you got a really hot company that, that's doing great and it's really easy to raise money. But you should be aware that all these people throwing money at you does have some down sides. Um, so the first thing is to understand your future dilution. So, if you raise, let's say two million dollars on safes with a valuation cap of six million dollars, then when those safes convert into equity, those early investors are going own about twenty-five percent of the company. And that's going to be an addition to the investors that are coming in at that priced round who may want to own twenty percent of the company. So you're already at that point given away forty-five percent of the company. So is this really what you want? And you know the answer might be yes. Um, remember that some money on a low valuation cap is infinitely better than no money at all. And if those term that you can get then, then take that money. Um, but it's just something to be aware of and to follow through the whole process so that you can see where this is going to lead you down the road.
+這裡的股票就是Christine剛剛說的股票，你向公司買了股票你擁有了它你有了能夠投票的機會，但是如果你在股票授予的期間內離開，公司就可以將那些沒有授予的股票收回。提到股權授予的另一種方式，當你聽說限制股的時候，這意味著這個股票是授予的對象。
 
-The other thing to keep in mind is that investors should be sophisticated. They have enough money to be able to invest. They understand that investing in startups is a risky business. We see so many companies say, "Oh yeah. My uncle put money in or my neighbor put money in." They've put in five or ten thousand dollars each. Often those are the investors that cause the most problems going forward because they don't understand how this is a long term gain. They get to the point where they're sitting thinking, "Hmm. I could actually do with that money back because I need a new kitchen." Or, "This startup investing is not actually as exciting as all the TV shows and movies made it out to be." That causes problems for the company. They're asking for their money back. Be aware that you should be raising money from people who are sophisticated and know what they're doing. The term that you'll hear that refers to these people are that they are accredited investors.
+IRS的解釋是：一些作為沒收對象的股票份額，一個典型的授予週期是什麼呢？在矽谷所謂的標準授予週期是4年帶有一年的懸崖期，這意味著一年後創始人將擁有完整的百分之二十五的股份，剩餘的股份將在接下來的三年內分期授予。這是一個例子，假設創始人在聖誕節那天買下股票，在接下來的感恩節離開了公司，在這種一年還沒有到的情況下，創始人離開的時候也沒有一分錢的股票，因為懸崖期還沒有到，如果創始人在下一個聖誕節後才離開公司，一年零一天之後，他或她將被授予百分之二十五的股份。
 
-The main point here is keep it simple. Raise your money using standard documents. Make sure that you have people who understand what they are getting into and understand what you're getting into in terms of future dilution.
+那種情況下，一年的懸崖期滿足了，那麼如果創始人不在公司工作時，他的股份怎麼辦？公司可以重新收購那些股份，我就舉一個創始人在購買股票，一年零一天之後離開的例子吧。百分之七十五的股份還在創始人手中，公司要從創始人手中購買百分之七十五的股份。怎麼購買？他們就給創始人寫一張支票，這就是創始人一開始購買的一模一樣的價格，所以這其實就是把錢重新給了創始人。
 
-Carolynn: Ok. You're raising money. You understand what you're selling. You figured out the price. You got down the logistics that Kirsty just described. What you may find is that you don't understand some of the terms and terminology that your investors are using. This is ok, but you do have a burden to go and figure it out. Don't assume that just because you have agreed on the valuation of the price, that all the other stuff doesn't matter. It does matter. You need to know how these terms are going to impact your company in the long run. At Y Combinator, Kirsty and I hear founders say all the time "I didn't know what that was. I didn't know what I was signing. I didn't know I agreed to that!" The burden is on you to figure this stuff out.
+所以股票授予的意義何在？創始人為什麼要對自己這樣做呢？他們是創始人，正在對自己的股票做這種事情。股票授予很重要的原因第一個是創始人很有可能會離開公司，如果你不分階段授予，創始人離開了公司，很大一部分的資產會隨著它離開公司，顯然這對於留下來的創始人來說是不公平的。
 
-We're going to go over four common investor requests. The first one is a board seat. Some investors will ask for seat on your company’s board of directors. The investor usually wants to be a director either because he or she wants to keep tabs on their money or because he or she really thinks they can help you run your business. You have to be careful about adding an investor to your board. In most cases you want to say no. Otherwise make sure it's a person who is really going to add value. Having money is very valuable but someone who helps with strategy and direction is priceless. So choose wisely.
+當我們進入創始人僱傭板塊的時候，我們會更多地談論這個問題，期權的另一個原因是在博弈中skin的概念：一個“創始人必須得到相應的物質激勵去鼓勵他們持續地在初創公司中工作”的觀念。
 
-The other things is advisers. They are so many people who want to give advice to startups. Few people actually give good advice. Once an investor has given your company money, that person should be a de facto adviser but without any official title and more importantly without the company having to give anything extra in return for the advice.
+如果創始人可以在任何時間帶著他所有的股票份額離開的話，那你為什麼留下來很刻苦地奮鬥呢？
 
-At Y Combinator, we've noticed that whenever a startup manages to garner a celebrity investor, the celebrity almost always asks to be an adviser. We have a company that provides on-demand bodyguard services. An NBA basketball player invested and asked to be an adviser and then asked to be given shares of common stock in exchange for adviser services. The service that this person had in mind was to introduce this company to other professional basketball players who might want to use an on-demand bodyguard. This celebrity just made a big investment, shouldn't he want to help the company succeed? Why does he need something extra? All investors who can help should do so. Asking for additional shares is just an investor looking for a freebie.
+初創公司的發展並不容易，那麼在只有一個創始人的情況下需要實行期權嗎？需要的因為上述的原則對於，一人創始人也是適用的。
 
-Next we're going to talk about pro-rata rights. Very simply, pro-rata rights are the right to maintain your percentage ownership in a company by buying more shares in the company in the future. Pro-rata rights are a way to avoid dilution. Dilution in this context means owning less and less of the company each time the company sells more stock to other investors.
+投資者希望看到所有的創始人即使只有一個人，被激勵著長期留在公司，一人創始人應當實行期權制度是要為僱員們作表率。你可以想像，如果老闆告訴員工，你必須等待幾年的時間才能擁有全部的股份，而老闆自己卻不用是多麼的不合適。
 
-This is a really basic example, but say an early investor buys shares of preferred stock and ends up owning three percent of the company once the financing has closed. The company raises another round of financing. The company will go to this investor who negotiated pro-rata rights and say, “Hey. We're raising more money. You're welcome to buy this many shares in the new round to keep your ownership at approximately three percent."
+這是一個文化的問題，一個對自己也實施期權的老闆，就等於告訴了全公司:「我將長期與你們同在，我們對我們的股票的都是分期授予的」我們是一起建設這個公司的，我們從這裡能得到什麼呢？
 
-Pro-rata rights are a very common request from investors. They are not necessarily a bad thing, but as a founder you absolutely need to know how pro-rata rights work. Especially because the corollary to an investor having pro-rata rights to avoid dilution is that founders typically suffer greater dilution.
+期權在創始人中間提供了一種激勵:他們必須堅持，為公司發展奮鬥，否則他們將不會得到任何的利益，投資者也不會想創始人可以想走就走，走的時候還可以帶著一大堆公司的股份。
 
-The final thing is information rights. Investors almost always want contractual information rights to get certain information about your company. Giving periodic information and status updates is not a bad thing. At YC we encourage companies to give monthly updates to their investors because it's a great opportunity to ask for help with introductions or help with hiring. That kind of thing. You have to be really careful about overreach. Any investor saying they want a monthly budget or weekly update, that's not ok.
+我們繼續講下去。我們現在有了一個在特拉華州的很好的企業，每個人都有了股份都是在最普通的平原地區工廠，所以說怎麼樣呢？
 
-The takeaway here is that just because the type of financing and the valuation has been negotiated doesn't mean that everything else is unimportant. You need to know everything about your financing.
+公司的下一個階段是去募集資金。
 
-Kirsty: Moving on to after you've raised money. The company bank account probably has more zeros in it then you've ever seen in your life. Then what? This is where you actually start incurring business expenses. Business expenses are the cost of carrying out your business. Paying employees, paying rent for an office, hosting costs, the cost of acquiring customers, that kind of thing. Business expenses are important because they get deducted on the company's tax return to offset any revenues that are made to lower the taxes that the company pays. On the flip side, if the company incurs a a non-business expense that is not deductible on the tax return, that can increase the profits of the company that have to pay tax on them.
+我們將談論一下這個，我們知道你從很多投資者和這個系列課上已經知道了很多，他們一直在說有關如何募集資金的策略，但是有關文件怎麼辦？如果有人真的同意去投資了怎麼辦？然後呢？
 
-Again, this is a separation issue. The company will have its own bank account, out of which the company's expenses should be paid. Um, again think about this from a, from a large company, if you were working at Google, you would not use a Google credit card to buy a tooth brush and tooth paste.
+簡單來說，有兩種方式去募集資金區別在於價格是否固定。這裡的價格，說的是公司的估值，融資輪可以隨便怎麼叫，大家想怎麼叫就怎麼叫。
 
-Remember that the investors gave you this money. They trusted you with a huge amount of money. They want you to use that money to make the company a success. It's not your money for you to spend how you please. Believe me, we've had some horror stories of founders who've take that approach. We had one founder who took investor money and went to Vegas. By his Facebook photos, boy did he have a good time. Needless to say he's no longer with the company. This is stealing from investors.
+但是大體上說當你聽到種子階段這個詞，它的意思是價格還沒有固定下來，所有介於A輪和B輪之間的融資價格都已經確定好了。
 
-The concept of business expenses can get a little bit blurry, especially in the early days when you're working in your apartment twenty four hours a day. The way to think about it is, "If an investor asked me what I'd spent their money on and I had to give them a line by line break down, would I be embarrassed about any of those lines?" If you would, it's probably not a business expense.
+價格不固定是募集資金最簡單直接快捷的方式，可以通過可轉化證券等方式集資，這也是一次雙向的交易，合同上會這麼說舉例來說，是有一張文書: 投資者付10萬美元。
 
-The other thing to bear in mind is that you're busy running your company at ninety miles an hour, so you don't have to necessarily think about the book keeping and accounting at that point. However, it's crucial to keep the receipts so when you do engage a book keeper or a CPA to prepare your tax returns, they can figure out what are business expenses and what aren't business expenses. They're going need your help as a founder to do this. The way make your involvement as small as possible is to keep those documents in a safe place, so you can easily refer to them.
+作為回報有了。在未來接受股票的權利有一件事情很重要:文件到期的那個時候，投資者不是一個股東，因此也就沒有了在公司中投票決議的權利，他們會有其他的權利，這些Carolyn將要在接下來的時間中單獨談論。
 
-If you remember nothing else, do not go to Vegas on investors’ money. Spend that money wisely.
+當然投資者儘早想要一些東西作為回報，於是我們引入了估值上限這個概念。我確信你們肯定以前聽過這個，事先簽訂的一個協議將股票的未來價值設定了一個上限，不是現在的價值而是對未來價值的一種估計與預期，他是估值的上限，被用在未來來計算到底投資者將得到多少股份，它是未來估值的一個上限，用來計算投資者可以獲得多少股份。
 
-Carolynn: In this section we're going to hit a couple topics in this section. The first one is "Founder Employment." Why are we talking about founder employment? As we said already, the company is separate legal entity. It exists completely separately from you as founders. As prestigious as we think the title founder is, you're really just a company employee and founders have to be paid. Working for free is against the law and founders should not let their company take on this liability. You wouldn't work for free anywhere else, so why is your startup an exception? Companies have to pay payroll taxes. We had a YC company that completely blocked their payroll taxes for three years. It was huge expensive disaster and in extreme cases, people can actually go to jail for that. Fortunately not in this case, but it's bad. The moral of this story is set up a payroll service. This is something that is worth spending your money on. Don't go overboard on lavish salaries. Minimum wage. This is still a startup and you have to run lean.
+舉例來說：
 
-Now I am going to mention founder break ups. First, what is a founder break up? In this context, I'm talking about one founder on the team being asked to leave the company. founders are employees, so that means your co-founders are firing you. Why are we talking about break ups in founder compensation? At YC we have seen a ton of founder break ups and we know that the break ups get extra ugly when the founders haven't paid themselves. Why? Unpaid wages become leverage for the fired founder to get something that he or she wants from the company. Typically that is vesting acceleration. The fired founder says, "Hey. My lawyer says you broke the law by not paying me. If you pay me and you give me some shares that I am actually not really entitled to, I'll sign a release and make all this ugliness go away." If you're the remaining co-founders, you're probably like, "Sounds like a good deal." Now you have a disgruntled person who owns a piece of your company and, even worse, the remaining workers are working for that ex-founder. They are building all the value in the company and the ex-founder who got fired is sitting there with all their shares going, “That’s right. Make it valuable."
+一個投資人投資了10萬美元，有著500萬美元的估值上限。如果一年以後公司發行了一個有價證券，
+估值是2000萬美元。於是早期的投資人將會得到更低的每股價格，因此他們投資的美元將會帶給他們大約4倍更多的股票份額，與投資者一開始的投入相比，這就是他們在早期得到利益的方式。
 
-The take away here is avoid problems by paying yourself. Paying your payroll taxes and thinking of your co-founders wages like a marital pre-nup.
+這也是一種你需要確保你擁有已簽署的文件的情況。
 
-Kirsty: As the founders, you are going to need to hire employees. Much has been said in previous classes about how to find those people, about what makes a good fit, and about how to make them really productive employees. When you actually find somebody, how do you hire them? What's involved? Employment is governed by a huge raft of laws. Therefore, it's important to get this right. It's again the nitty gritty stuff that, as long as you know the basics, you can probably keep yourself out of most situations. As soon as things get complicated, you need to get yourself involved with a specialist.
+你知道他們的情況因為不同的投資者有不同的權利，所以你需要了解情況，像Clerky公司提供的服務可以幫你很大的忙，他們有著很標準的、大多數孵化器的公司都會使用來募集資金的文件。
 
-the first thing you need to do is figure out if the person is an employee or a contractor. There are subtle differences to this classification. this is important to get right because the IRS takes a big interest in this. If they think you got it wrong they will come after you with fines.
+還有另外的幾件事情當你集資的時候需要考慮的，當你集資的時候需要考慮的希望你有一個發展勢頭很好的集資很容易的大公司，但是你應該了解到向你投資的這些人有一些缺陷。
 
-Both an employee and a contractor will require documents that assign any IP that they create to the company. That's obviously really important. The form of the document is very different for each type of person and the method of payments are very different. Generally a contractor will be able to set their own work hours and location and they will be given a project where there is an end result. How they actually get to that will not be set. They'll be using their own equipment and they won't really have any say in the day to day running of the company or the strategy going forward. A contractor will sign a consulting agreement. When the company pays them, the company doesn't hold any taxes on their behalf. That responsibility is on the individual. At the end of the year, the company will provide what's called a form 1099 to the individual and to the IRS, which they use to prepare their personal tax returns.
+所以要去理解的第一件事情是未來的股權稀釋的問題，所以如果你集資的話，舉例來說200萬美元有著600萬美元的估值上限，當債券轉化成為了資本，早期的投資者將會擁有百分之二十五的股份，對於那些在早期標價股份的時候就投資的，想要擁有百分之二十的公司股份的投資人來說是一個例外。
 
-The opposite side of this is an employee. An employee will also sign some form of IP assignment agreement, but when the company pays them, the company will withhold taxes from their salary. The company is responsible for paying those taxes to the relevant state or federal authorities. At the end of the year the employee receives a W2 form, which will then be used to prepare their personal tax returns.
+所以你到時候已經分發出去了百分之四十五的公司股份，這是你想要的結果嗎？答案可能是“是”
 
-The founders need to be paid. So do employees. It isn't enough to just say, "Well, I am paying them in stock. That can be their compensation." They need to be paid at least minimum wage. In San Francisco, which has a slightly higher minimum wage than California as a whole, that works out to about two thousand dollars a month. It's not a huge amount but it can add up.
+記住一些估值上限很低的資金，也比沒有任何資金要好得多。如果你能得到那些錢那就去拿吧，這就是一些你必須知道的事情，在整個公司運營過程中都必須明白的事情，這樣你可以明白究竟是什麼帶領你前進。
 
-There's are other things that you need to make sure you have if you have employees. The first thing is that you're required to have workers compensation insurance, especially if you're in New York. The New York authorities that look after this will send really threatening letters saying, "You owe fifty thousand dollars in fines because your one employee that's being paid minimum wage has not paid the twenty dollars a month of workers compensation fees." It is really important that you set that up. The other thing that is important is that you need to see proof that the employee is authorized to work in the US.
+另一件必須要記住的事情是：投資者可能會很複雜與精明。他們有足夠的資金去投資他們清楚地知道，投資初創公司是一件風險很大的事情。我們經常會聽到企業說“太好了。我舅舅鄰居往我的公司裡面投資了！”他們可能會每個投入5000 10000美元的樣子，通常這些人是會引起最多麻煩的投資人。
 
-Founders are not payroll experts and nobody expects you to be one. This is all about the basics. You absolutely must use a payroll service provider who will look after this for you. Services like Zen Payroll are focused on startups. They help you get this set up in the easiest way possible so you can go back and concentrate on what you do best. In the example that Carolyn gave just a few minutes ago, if that company had actually set themselves up with a payroll service provider, all of that heartache would have gone away because it would have been looked after for them. They were trying to save money by not doing it and look where it got them.
+因為他們不知道要從長遠角度考慮盈利，他們有時候會坐著突然想到：恩也許我應該把那個錢要回來因為我需要一個新的廚房。
 
-That's the key thing. Use a payroll service provider and make sure that you understand the basics of employment.
+或者是：這個初創公司並不像電視節目和電影上說的那麼有意思，那樣就為公司帶來了很多問題。他們想要要回他們的錢，你應該知道你要從那些深思熟慮的成熟的知道他們現在正在做什麼的投資者中募集資金。有一個術語被用來專指這些人的是“accredited investors” 可信的投資者。
 
-Carolynn: Somebody at YC once said, "You're not a real founder until you've had to fire somebody." Why is that? Because firing people is really hard. It's hard for a lot of reasons, including that founders tend to hire their friends. They tend to hire former co-workers or they get close to their employees because working at a startup is really intense. But in every company there's going to be an employee that doesn't work out and firing this employee makes a founder a real professional because he or she has to do what is right for the company instead of what is easy. Best practices for how to fire someone: number one, fire quickly. Don't let a bad employee linger. It's so easy to put off a difficult conversation but there is only downside to procrastination. If a toxic employee stays around too long, good employees may quit. If the employee is actually screwing up the job, you may lose business or users.
+要點是越簡單越好，用標準的文件去募集資金。確保你有著一群知道他們正在做什麼的員工，確保他們都知道他們的行為會如何影響股權稀釋。你在募集資金你明白你賣的是什麼？
 
-Number two , communicate effectively. Don't rationalize. Don't make excuses. Don't equivocate about why you are firing the employee. Make clear direct statements. Don't apologize. "We're letting you go," not, "I'm so sorry your sales didn't take off this quarter, blah, blah, blah." Fire the employee face to face and ideally with a third party present.
+你了解到了價格，你明白了剛才Christine描述過的邏輯。但是你可能會發現你並不理解一些投資者
+可能會使用的術語，這沒關係，但是你還是需要搞清楚這次詞的意思。
 
-Number three, pay all wages and accrued vacation immediately. This is a legal requirement that we don't debate or negotiate.
+不要以為就因為你同意了，價格的估價其他的事情都沒關係了，這些都是很重要的。你要知道這些從長遠來講將會如何影響你的公司，在孵化器的時候Christine和我總聽到各種創始人說：我都不知道那是什麼，我都不知道我簽的文件是什麼，我都不知道我曾經同意過那個事情。你有責任把這些都弄清楚。
 
-Number four, cut off access to digital systems. Once an employee is out the door, cut off physical and digital access. Control information in the cloud. Change passwords. We had a situation at YC where one founder had access to the company's GitHub account and held the password hostage when his co-founders try to fire him.
+讓我們來看一下四個很可能的投資者的需求：第一個是位置的問題。
 
-Number five, if the terminated employee has any invested shares, the company should repurchase them right away. The takeaway here is that, surprising as this may sound, one of the hallmarks of a really effective founder is how well he or she handles employee terminations.
+一些投資者會要求一個你的公司的董事會的位置，投資者通常希望當上指導者，可能是因為他想要監督錢是怎麼用的，或者是因為他或者她真的很希望幫你運營你的公司，你要對這種事情特別小心。
 
-Kirsty: The basic tenant to all of this is keep it simple. Do all the standard stuff and keep it organized. Make sure you know what you're doing. Equity ownership is really important, so make sure you are thinking about the future rather than the three months of the history of the company. Stock doesn't buy itself, so make sure you do the paperwork.
+在大多數情況下你都會想要拒絕，除非你要保證這是一個真的可能為你的公司帶來額外財富的人，有錢是很重要，但是一些可以幫助戰略定位和導航的人是無價的。
 
-Make sure you actually know about the financing documents that you're signing. It's not enough to just say, "I'll take your hundred K." You and the employees need to be paid. Everybody needs to assign IP to the company. If the company does not own that IP, there is no value in the company. If an employee must be fired, do it quickly and professionally.
+所以你要明智地做出選擇。
 
-We didn't mention knowing your key metrics. At any time you should know the cash position, you should know your burn rate, you should know when that cash is going to run out so you can talk to your investors. A lot of running a startup is following the rules and taking it seriously. It's not all the glamorous bits that we see in movies and TV shows. You do have to take that seriously.
+另一個問題是顧問的問題，有太多的人都希望向初創公司提供意見，但是很少的人真正的給予了好的意見，一旦投資人朝公司投資了，那個人是事實上的顧問，但是沒有正式的名號。
 
-Audience Member #1: How would you advise searching for an accountant and when in the process do you need one?
+更重要的是公司不用額外再為顧問的建議付出什麼。
 
-Kirsty: There are two different things. There is a book keeper and there is a CPA, an accountant. Generally book keepers will categorize all your expenses and CPAs will prepare your tax returns. In the very early days it's probably fine for the founders to just be able to see the bank statements and see those expenses coming out. Tax returns have to be prepared annually, so at some point in that first year of the company's life, some service is going to need to be engaged to do that. It's not worth the founders time to do it. There are services available like inDinero which try to make things as effortless as possible from the founders's point of view. You do need to get a CPA at some point because you need to file your annual tax returns for the company.
+這是一個例子在孵化器的時候，我們注意到無論何時，一個初創公司想要獲得一個有名的投資者那個名人幾乎都會提出想成為顧問的想法。我們裡面有一家提供即時保鏢服務的公司，一個NBA籃球運動員投資的，然後他提出成為一名顧問然後提出想得到相應的股份，作為顧問建議的報答。
 
-Audience Member #1: How do you find one?
+這個人說的顧問建議服務是說將這家公司介紹給其他可能需要安保服務的專業籃球運動員，名人剛剛做了一個大投資，他不想幫助這家公司成功嗎？他為什麼提出需要額外的報酬？所有的可以幫助的投資者都應該這麼做，要求額外的股份的投資人，就是一個要求免費贈品的投資者。
 
-Kirsty: Finding one is tough. The best is through recommendations. With any kind of specialist, a CPA or an accountant or a lawyer, it's always best to use people who are used to dealing with startups. Not your aunt who lives in Minnesota and doesn't actually know how startups work.
+下一個我們將要談論的是按比例投票權，什麼是按比例投票權？
 
-Audience Member #2: All things considered, what should be my budget for incorporating, for the lawyer, for getting the deal to buy for my effort seed rounds? And then for hiring the first employees. How much money should I set aside for that?
+有一些人聽說過，簡單來說就是你在公司中的投票權隨著你購買更多股票而上升，按比例投票權是一種避免股權稀釋的方法。這裡的股權稀釋的意思是隨著公司將股票賣給越來越多的投資人，你在公司中擁有股票的百分比越來越小。
 
-Carolynn: In terms of incorporation, don't spend a dime on that. You can do that online. Well, actually it does cost a little bit.
+這是一個很基本的例子，但是例如一個早期投資者購買了偏好股，一旦交易完成就擁有百分之三的公司股份，這家公司準備第二輪融資，公司會與投資人協商按比例投票權的問題。
 
-Carolynn: Incorporating online using a service like Clerky is inexpensive. In the hundreds, not in the thousands. You don't need a lawyer for that part. When you actually need to hire a lawyer depends on what business you are starting and how complicated it is. Do you have a lot of privacy policies, is HIPPA involved? You mentioned raising your seed round, how much money are you raising? Who are the investors? What kind of terms are in the term sheet? Sometimes that dictates whether or not you need to get legal counsel.
+“我們正在融資，如果你想要在我們公司保持在百分之三的股權的話，非常歡迎您在這一輪融資中買這麼多的股票”
 
-Kirsty: Services like Clerky can help if you are using very standard documents for the fundraising. There are very basic fundraising documents you can use that cost less than a hundred dollars, which can save you some legal fees.
+按比例投票權是一個很普遍的要求，他們不一定是一件不好的事情，但是作為一個創始人你一定需要知道按比例投票權是如何運行的，尤其是投資人擁有按比例投票權的必然結果是，創始人幾乎都需要遭受更大的股權稀釋。
 
-Audience Member #3: Do you have any advice or comments on the complexity that comes with working with cryptocurrencies or cryptoequities?
+最後一件事情是知情權，投資者幾乎都希望白紙黑字的知情權，來了解你的公司的各種信息。給予期限的信息和定期報告也不是一件壞事，在孵化器我們鼓勵公司向他們的投資者做每月的基本情況報告。
 
-Kirsty: Oh wow. That's a tough question to end with. Yes, there are some issues. Often banks struggle to deal with companies that are working with cryptocurrencies because they haven't quite figured out how to deal with that sort of thing yet. Generally a lot of it is very product specific.
+因為這是一個求幫助與招聘等的好機會，但是你要特別的小心過分的信息要求。任何投資人說他們想要一個每月支出報告和每周信息更新這就不行。就因為這種財務和估值被談判商討過，但是這並不代表其他的事情並不重要，你需要知道你財務狀況的所有。
 
-Sam: Thank you very much!
+讓我們再來討論一下你已經融資以後會發生的情況吧，你募集了資金，公司的銀行賬戶可能會有你可能在你的人生中從來沒有見過的更多的零。
 
-Carolynn: You're welcome.
+然後呢？
+
+這是你碰到公司運營支出的開始，運營支出是你運營生意的時候帶來的所有支出，向僱員付錢為辦公室支付租金辦活動的支出，獲得顧客的支出這些東西。運營支出非常重要，因為它在公司申報的稅務可以得到削減來抵消公司要付稅的收益。
+
+從反面來看如果一個公司發生了一個非運營過程中的支出，在稅務上面無法得到減免，它將會增加公司的利益。
+
+但是必須要為它繳納一定的稅，同樣的這是一個分離的問題，公司將會有它自己的銀行賬戶。這個公司的支出也將會從這個銀行賬戶中出錢。
+
+
+如果是個大公司，假設你在谷歌工作，你也不會使用谷歌的信用卡去買一個牙刷牙膏。記住是投資人給了你錢，他們帶著這麼大一筆錢無比的信任你，他們希望你用這些錢把公司變得成功，這不是你的錢你不能想用就用。
+
+相信我，我們聽到過不少這樣的創業者最後都沒有好下場。我們有一個創業者拿著投資者的錢去了拉斯維加斯，從他的Facebook看來他確實在拉斯維加斯玩的可歡了，不用說他現在已經不在公司了。
+
+這是在從投資者那偷竊。
+
+但是運營成本的界限並不一定會非常明晰，特別是當你在你的公寓裡，每天工作24小時的時候看待這個問題的辦法是：「如果投資人問我錢都花哪了，我會給他們一個流水，我會為了把一些開銷算上去而覺得臉紅嗎？」
+
+如果是那麼這可能就不是運營支出。
+
+另外一個要注意的事情是，當你在以90英里每小時的速度往前衝的時候，你沒有必要每時每刻想著賬務，財務上的事情。但是很重要的是如果你要把收據都留住，這樣當你要找一個財務，或者會計來準備你的退稅的時候。
+
+他們能搞清楚什麼是運營費用什麼不是運營費用。他們會需要你的幫助來做這件事，因為他們需要知道事情是如何運作的，所以你有一些參與，最讓你省事的辦法就是保管好那些資料，這樣你就可以很容易回去找。
+
+如果你什麼都不記得了，至少不要拿著投資人的錢去拉斯維加斯，好好使用這些錢。
+
+Caroline：這個部分我們會分為幾個話題來講。
+
+第一件事是創始人僱傭問題，為什麼我們會說創始人僱傭問題呢？像我們已經說的那樣公司是一個獨立的個體，它和你作為創始人是完全分離的，不論我們如何覺得創始人這個頭銜有多響亮，你也只是一個公司僱員而已，創始人也需要工資。
+
+打工不掙錢是違反法律的，創始人不應該讓他的公司承受這樣的負擔。你不會想要在別的地方白打工，所以為什麼你的創業公司是一個例外，公司需要付付工資的稅。
+
+我們有一家YC的公司三年內完全不付工資稅。
+
+這是一個巨大的災難，如果再極端一點甚至可能坐監獄，不過還好他們沒有坐牢。說這個故事的就是想說還是要設立一個工資發放服務的，這是一個值得讓你花錢的地方。
+
+我想有很多相關文獻接觸過這個領域，事實上Christine剛剛就提到了不要走揮霍的極端，最低工資。這還是一個創業公司，然後你必須要勤儉節約。
+
+現在我想說下創始團隊分離。
+
+首先什麼是創始團隊分離，在這個話題裡我想說如何應對讓解僱創始團隊的一員，創始人是僱員，所以這代表你的合夥人在炒你魷魚。為什麼我們會在這裡說創始人的工資問題？
+
+在YC我們看到過很多創業團隊散架的情況，然後我們也知道如果創始人們不給自己發工資的花，事情會變得異常的糟糕。為什麼？如何變差的？不發工資成了被趕出去的創始人用來協商的武器。
+
+通常這會導致股權授予的加速，被開掉的創始人會說「嘿我的律師說你不付給我工資是違反法律的，如果你給我一些原本我拿不到的股份的話，我就免除你們的責任」
+
+如果你是留下來的創始人你可能會覺得「聽起來不錯」但是現在你不但有一個和你不相往來的人擁有你公司的股份，而且留下來的員工還要繼續為走掉的那個創始人打工，他們在為公司增加價值，然後前創始人卻坐享收益然後想，“沒錯讓它更有價值”
+
+所以我們應該給自己發工資，付工資稅。把你合夥人的工資想成是婚前協議。
+
+Christine：作為創始人你需要雇傭職員？前面的課在這一點上都說了不少，像是什麼樣的人合適。然後如何讓他們變得很有效率等，當你找到合適的人的時候你怎麼僱傭他們？要考慮什麼問題？
+
+管僱傭的法律很多，所以把這件事做對非常重要，這和前面的說的那些基本的東西一樣。只要你知道最基本的東西，基本上所有的問題都能避免。
+
+當然只要事情變得複雜起來，你需要給你自己找一個專業人員。第一件你要搞清楚的事情是，你要招聘的人是僱員還是合同工，這兩種類別還是有一些區別的。
+
+搞清楚這個區別很重要，因為美國稅務局對這個很感興趣。如果他們覺得你什麼地方做錯了他會來罰你們的款，不論是僱員還是合同工，都需要合適的做好記錄。
+
+這明顯非常重要，文件的形式非常重要，因為不同的員工需要付的錢是不一樣的。通常合同工能夠選擇他們自己的時間和地點，然後分給他們的項目都要有明確的結果。你不能要求他們最後怎麼達到結果的過程，他們會要使用他們自己的資源，然後他們對於公司的運營沒有發言權。
+
+合同工需要簽署的是諮詢協議，當公司付錢的時候，公司不為他們的收入留稅。這是他們自己的責任，在年終的時候，公司需要給他和稅務局提供表格1099，他們需要用這個表格來準備稅務報告。
+
+相反的是公司僱員，僱員也需要合適的表格，但是當公司付錢給他們的時候公司會截留他們需要付的稅，公司需要繳僱員的州稅和聯邦稅，在每年年終的時候僱員會收到W2表格，這是用來給他們做個人報稅用的。
+
+創始人也需要發工資，就像普通員工一樣。光說“我就用股票來當公司”是不行的。他們至少要能收到最低工資，在舊金山最低工資比加州平均水平要高一點，這個數目大概是每個月2000美元的樣子，雖然數目不大但是也積少成多。
+
+如果你有員工那還有其他的東西，你需要注意第一件事就是你需要給員工買就業保險，特別是如果你在紐約，紐約相關部門曾經發出過極具威脅性的信件“你欠我們5萬美元的罰款，因為你沒有為你領取最低工資的員工買一個月20美元的就業保險”。
+
+做這件事情很重要。
+
+另外一件事情就是你需要看是否所有的人都有在美國工作的准許，創始人不是薪酬專家也沒人期望他們成為這樣的專家，你只要知道最基本的就行了。
+
+你肯定需要薪酬服務公司，來幫你處理好這些事情。像Zen Payroll這樣的公司就是專門為創業公司服務的，他們會幫助你建立起讓你最省心的系統。
+
+在Carolyn剛剛給出的例子裡，如果那個公司使用了薪酬服務，那樣煩心的經歷就不會發生了。因為那會一直照顧他們，他們想要省錢，但是看看這樣的行為帶來了什麼結果。這很重要，使用薪酬服務，然後確保你知道這裡面的基本知識。
+
+我們用了一些時間了。
+
+好的，我可以快速瀏覽炒人部分的課件，或者我們把時間留給提問環節？
+
+Caroline：有人原來在YC說過“在你沒有炒人之前你都不是一個真正的創業者”，為什麼這樣？
+
+A: 因為炒人真的很難，這件事情很難有很多的原因，包括創始人傾向於僱傭他們的朋友，他們傾向於僱傭前同事或者他們的前僱員。因為創業的工作非常繁重，但是在每個公司都會有不好好工作的人，然後炒人能讓人成為專業的管理者。
+
+因為他們更多的為公司著想，而不是做那些更容易的事情。最好的炒人的辦法：
+
+第一要快。不要讓一個壞的員工一直在公司裡晃蕩，把艱難的談話推遲很容易，但是壞處卻不少。如果壞的員工一直在，那麼好的員工也會走掉。如果員工老是把工作搞砸，你可能會因此丟掉生意。
+
+第二溝通有效。不要想當然，不要找藉口，不要在炒人上模棱兩可，把話說清楚，不要道歉。例如“你得走人”而不是“我很抱歉你這個季度的銷售沒有達標...”
+
+面對面的炒人，最好有第三者在場。
+
+第三把所有欠的工資和假期都還清，這是一個容不得討論的法律要求。
+
+第四切除員工進入電子系統的權限。當員工走出公司大門的時候立即結束他的權限，在雲端的信息也要保密好，更改密碼。
+
+我們原來在YC碰到過有創始人被趕出來的時候，拿著公司Github的密碼做威脅。
+
+第五如果離開的員工有任何投資的股份，公司需要立即贖回它們。需要學習到的是，一個能幹的創業者的標識之一，就是能很好的處理員工辭退。
+
+這一部分我們談論合法性，我們談論如何成為真正的公司，如何成為好的公司。
+
+Christine你願意講接下來的部分麼？
+
+我們涵蓋了大部分，最基本的就是要讓所有的事情都保持簡單，把所有該做的事情都做了。確保你知道你在做什麼，股權是很重要的，所以確保你想到的是公司的未來而不是三個月>
+
+股票不會自己買自己，所以做好文件記錄工作。確保你知道你要簽署的文件是什麼，光說“我會接受你10萬美元的投資”是不夠的，確定你知道那是對的。你和你的員工都需要工資，所有人做出的IP都要被劃分好，如果公司不擁有IP 那麼IP對於公司就沒有價值。
+
+如果一個員工必須被炒掉，那麼快速專業的做好這件事。我們沒有提高清楚你的關鍵指標，不管是什麼時候你都需要知道你的現金狀況，你需要知道你燒錢的情況，你應該知道什麼時候你的錢會燒完，你需要和投資人談，很多關於創業的方面其實就是遵守規則，並不是所有的行動都像電影裡一樣光鮮，你需要認真對待這些瑣碎的事情。
+
+觀眾1:你對於找會計，有怎樣的建議？所以問題是如何找到會計，你應該做到幾點...
+
+Christine：有兩點。有一個記賬的還有一個CPA。通常記賬需要把你所有的花銷分類，然後CPA會準備的稅務報表，在早期的時候創始人看著銀行流水就行，稅務報表每年都需要報。
+
+所以在公司早期，需要專門的服務來做這件事情，創始人的時間用在這上面很不划算。像inDinero之類的都會提供這樣的服務，來從成立者的視角使事情簡化，這種事情的確很有用。
+
+在這之後你可能需要一個專門的CPA來幫住你做這件事情，因為你需要記錄公司年度稅務情況。
+
+觀眾1:那你怎麼找到這樣的人？
+
+Christine：找到一個其實並不容易，最好是通過推薦。通過各種不同的專業人員一個CPA 一個會計或者律師。最好是通過那些經常和創業公司打交道的公司，而不是你生活在明尼蘇達的阿姨，並不知道如何開始工作。
+
+所以推薦應該是最好的方式。
+
+觀眾2:我要創辦一個公司，大概需要多少花費？像是律師在幫助我完成種子融資的時候，然後僱傭第一個員工，我要為這些活動留多少錢出來？
+
+Caroline：公司成立的話不要為此花一分錢。你上網就能完成這件事情。哦好吧，其實還是要花一點錢的，通過網上註冊用像Clerky一樣的服務非常便宜，花幾百美元就行了不用上千。
+
+你不需要請律師來做這件事情，當然根據你的行業不同和事情的複雜程度。你可能需要請律師，你們有很高的保密要求嗎？要做HIPPA嗎？你提到了融種子資金，你準備融多少錢？誰是投資者？termsheet 上有什麼？
+
+這些會導致你是要請律師還是不用。
+
+Christine：像Clerky一樣的服務，能幫你準備非常標準化的融資文件。有不少非常基本的標準化文件，花不到100美元就能弄到。
+
+觀眾3:你對於加密貨幣或者，加密股權有什麼看法或意見？
+
+Christine：wow 這是個很難的問題，沒錯這裡是有一些問題，通常銀行對於那些加密貨幣都感到棘手，因為它們還沒有搞清楚要怎麼處理它們，但是很多問題都是非常有針對性的，它不是什麼真正意義的建議。
+
+Sam：很謝謝你！
+Carolnny：不用謝

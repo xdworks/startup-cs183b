@@ -1,109 +1,358 @@
-# Lecture 17: How to Build Products Users Love, Part II 
+# Lecture 17: How to Build Products Users Love, Part II
+很高興來到這里，謝謝Sam的邀請。我和Sam認識很久了，因為我們都隸屬紅杉資本。
 
-Thank you Sam for having me. Sam and I have known each other for a long time. We met in the early days when he was on his company journey. He asked me to talk today about the hardware journey of building products. I want to give you guys a little bit of an overview of Jawbone: what we do, how we think about the world, and how that informs how we build products. I'll then go into the process of how we design, how we develop, and how that all comes together through what we do to change categories.
+我們老早就認識了，當時他在創業。他希望我今天能講一下，硬件公司創業的那些事。
 
-I always like to start with the broadest thinking. The way we look at the world is we think of ourselves at this intersection of really crafted innovation in engineering that's almost invisible to the user in terms of its functionality, even beyond design. We have been designing products for well over a decade now. We think that the conversation has shifted even beyond design into beauty. It's the intersection of engineering meets beauty. The whole point is to help people have a better life with technology.
+我今天要做的是，給大家講一下我們Jawbone公司，是怎麼做的，是怎麼思考世界的。
 
-Largely speaking we play in this world of "The Internet of Things." We were there before there was such a moniker. We have smart devices that have computing power and connectivity with sensors that are measuring all kinds of things. They're wirelessly connected and they're all talking to you. We started on this journey really, really early. Right out of engineering school here, we were developing core technology. We decided to build consumer products around that.
+這樣大家就清楚了，我們是如何打造產品。並且會詳細地介紹我們是如何設計如何發展以及如何整合，從而開發新產品。
 
-Our first consumer product was the headset. We created a headset that became a wearable computer. It was the first traveling headset. That was when we started thinking about wearable computing. We then invented the wireless speaker space around Bluetooth and audio. I will talk a little about that journey. Most recently, we focused our attention on the wearable health revolution and using a lot of the sensors that we did in the first generation of headsets and applying them to other parts of the body to understand more about users.
+我通常喜歡由寬泛的思考入手。說說我們是如何看世界的，從產品功能角度來看，我們將工藝創新（和美）進行融合，這種融合甚至超越了設計本身，用戶是看不到這些的。
 
-Our view of this world, having been here for a long time, is that it is a little bit of a mess. In the internet of things everything is smart, connected, and has an app built for it, but that doesn't mean that it is easy for users. Your microwave, your refrigerator, your car, your Xbox, your Xfinity Comcast, everything has an app. They don't talk to each other. It's really confusing for the user. We think that there is a desperate need for an organizing principal around all of this. This is the core of when we start to think about how we build and opportunities to create products. We think about where the world is going. If there is going to be such a world that everyone's talking about on the internet of things which is happening, you desperately need these organizing principals so that it's easier for users to understand how to come in and interact with these services. So we think that is the shift from less about the actual things to being about the individual user.
+大家知道我們從事產品設計已有十餘年了，我們認為潮流已經從設計本身向美偏移，工業與美的結合，其目的是用技術的力量為人類創造更好的生活。
 
-When everyone is talking about wearables and you have things like Google Glass and Apple Watch, ultimately what we believe is that when you have things that are on your body 24/7, they become a perfect context engine for everything in the world around you. My phone is not on me. It’s in my jacket or sometimes on the charger. But my Up is on me. And it understands everything that is happening when it's tracking my heart rate. It's tracking my respiration. It's tracking all these different things. When I say context engine, I can tell the smart thermostat, my Nest, that I am hot or cold. That device doesn't have that understanding. I can tell it I am hot but that device doesn't know if I'm hot because I'm sick, I went for a run, or if it's hot outside. I can tell your car that you're falling asleep, agitated, or irritated. This is ultimately where we think the world is moving. Wearables are going to be the center of this revelation around everything being connected and smart. We are going to drive what a lot of those interactions are going to be and how they’re going to work. That's the first principal that we think about. Where are things going? What should we build and how should we think about new categories.
+籠統來講的話我們從事的是，目前非常火的物聯網領域，在物聯網這個詞出現之前很久我們就開始相關工作了。
 
-In order for this vision to happen, you actually need to be great at almost everything. We need to be great at what we call the full stack. We have to be amazing at building hardware. These are hardware experiences that people have to keep on all the time. You have to wear them 24/7 because if you don't, then everything that I am talking about is a castle in the air. You can't actually create a service that people engage with or that gets lots of data that can then go power all these other things if it doesn't start with great hardware. So that's where we start, we try to build these magical experiences in hardware that are powered by software. We have developed world class software application expertise. We have to be good there, from an engagement perspective, like an Instagram or WhatsApp.
+我們認為物聯網就是：裝有可測量各種量的傳感器的，並且具有計算和連接功能的智能設備，由無線連接在一起並且能與人進行交互。
 
-On the data side we have to know what to do with this massive amount of information. We have to know how to process it, push it, and have it work for the user. We really see ourselves at the intersection of hardware, software, and data. These are three equal stools that have to work together in order to unlock that experience around something that is on you, that knows what's happening and then talks to the rest of world. That's a key piece of what we do. It's different than what a lot of other companies doing. It allows and requires to play at all levels of stack.
+我們老早之前就開始相關工作了，更確切地說是從工程學院畢業後就開始了。我們開發核心技術，並研發相關的消費者產品。首發產品是頭戴式耳麥，我們開發了相當於可穿戴計算機的頭戴式耳麥。這是Jawbone的首款頭戴式耳麥，從那時我們開始研究可穿戴電子設備，隨後我們圍繞藍牙音頻開發了無線擴音器，稍候我會詳細介紹這一塊。
 
-This was a complicated thing for us to put together because typically people who are great at hardware understand mechanical engineering, electrical engineering, and how those things interact. They understand how you build tools at scale. They're not typically great at building software and services. It's a very different discipline and requires a very different skill set. When we first put those pieces together, it created a lot of interesting friction in the company. Our software and application team was so used to moving really, really fast and iterating, whereas in the hardware world you've got to take your time because your iteration cycles are much more deliberate. You have tooling that takes sixteen weeks. You can't just tweak stuff and you can't hack it in the same way. It was interesting to see that when we put all these pieces together, the hardware learned to move faster. The software guys thought more about how they could resolve experiences before they actually shipped it, versus just throwing something out and A/B testing it. Then the data science informs all of that with more information to make decisions.
+最近我們專注於，可穿戴健康革命。我們使用了大量的在研發第一代耳麥時用到的傳感器，並將傳感器放置於身體的其他部位從而了解用戶的身體狀況。長久以來，我們認為物聯網世界有點亂，物聯網中一切都是智能和關聯的，每個環節都有相應的app，這樣並不意味著用戶就方便了。
 
-So how do we think about and how do we build products? How do we change categories? First of all, everything for us is a system. We don't think about it discretely as a piece of hardware or discretely as an application or discretely as a platform. We think across the whole thing. This is an example with Up. We have these tracking sensors on the body out rhythms there it connects to the phone where you have this engaging application service experiences. We use the sensors in the phone. That talks to a lot of stuff we are doing in cloud where we are taking all that information, driving insight on it and then we have a huge platform of thousands of developers - where they're thousands of apps that then plugin and also create more experiences. And so we think about it across the whole spectrum. And I, I'll come back to this system think in, in a second.
+微波爐、冰箱、XBox遊戲機、Xfinity（有線電視和互聯網服務商）等等各有一個app，而且各app之間老死不相往來給用戶造成很大困擾，所以我們認為急需一種規範來進行統籌，這就是我們設計和開發產品的核心思想。我們思考世界未來的方向在哪裡，如果真的能實現，目前熱議的物聯網世界，那麼就迫切需要統籌規範，從而可以使用戶更方便地入門物聯網以及與設備進行交互。
 
-What does the actual process of creation look like? This is fun for me because we don't actually talk about this very often. We keep it confidential and private and I know that we're on a live cast. It's fun for me to talk about this for the first time. It's a quite deliberate process. This is a little bit of what it looks like. This is a map where we are much unbridled in our imagination in the exploration phase. We start to validate some of our concepts, bring those ideas tighter, and tighten them. And then we actually start to build a product. Launch it and then iterate. That's the simplest way to look at it. I'll take you through each of these steps.
+我們認為思考的著手點，要從“物”轉向“人”，最終可穿戴設備。人人都有谷歌眼鏡，有我們開發的產品，有蘋果手錶等等。我們認為，如果大家時刻把這些設備戴在身上那麼這些設備就成了大家身邊完美的內容引擎了，手機不會隨時戴在身上，可能放在夾克里或是在充電。但是Up腕帶卻可以隨時戴在身上，可以洞悉身體的一切，可以監測到心率呼吸，等等身體各項指標。
 
-The exploration phase is very wild. It's imaginative. We think about the vision of where the world is going and what our strategy is. What does the brand stand for? You're dreaming. You're imagining it. How do I disrupt? What's the future going to look like? It is a little bit of a science project and we talk about it in that way. We build from inspiration, insight, and raw creativity. We want to create and we try to create a form where that's ok because a lot of times in companies that gets lost. Then we we start to bring in early validation, where I say, " Look everyone, when you're doing this stuff, you have to now take those concepts and prove them like you do in a PhD Thesis." You have your conclusions, you've done your empirical data collection, and you start to say here's where we see it going. Here's what's its going to do. You outline the story.
 
-Once we sign off on that phase, we start to go into a concerting phase. Where we start to really think about the experience and what's possible. This is another interesting opportunity for innovation at a more specific level. How will this come to life and how will we sell that experience? How will we tell that story? Then we decide its program. It goes into a heavy planning phase where we say, "Ok. We're doing this. We've got to ship it. There is no turning back." What are the tradeoffs between all the creativity and all the ideas we want versus what the physics dictates? What are all the different constraints that we have? We start making tradeoffs and we look at how to pull that together.
+我所說的內容引擎指的是，內容引擎可以告知頸部的智能恆溫箱用戶熱或冷，而恆溫箱卻無法知曉用戶的身體狀況，內容引擎可以告知恆溫箱用戶體溫高是因為生病了，或是因為剛跑步了或是戶外天氣熱，可以告知汽車用戶在睡覺，或是用戶焦慮或是惱怒。
 
-Then we move into a development phase. It's a hand off between various stages and very functional teams in the company. You pull together and you're solving problems as you implement and launch it. You learn. You see what users think. You start to think about where does this stand in that experience continuum that you've been imaging where the world is going to go. What have we achieved? What haven't we achieved? What have we learned from our users? How does that change what we're thinking? And then we start right over again.
 
-That's the broadest way to think about it. The exploration phase is very much like a building and tinkering process. A lot of it is driven by demo Fridays where people have an opportunity to showcase their work. We find that's a great way to pull it together, pull it into a form where others can consume it and give feedback. It's a really it is a show and tell. Obviously hack-a-thons are a big part of it. There's lots of data that gets driven. It's lead by our Strategic Development Team, which is traditionally called an R&D Team. There is participation from product and engineering, both hardware and software. But they're sort of taking a back seat and they're looking at what these explorations are. The Executives at the company at this phase are more of a signing board. They’re there to poke and prod and tell people, “Hey think about this." Or "Did you try that? How does that work?"
+我們認為這是未來的方向：可穿戴設備為中心，萬物與其相連從而驅動大量的交互，系統就這樣運作起來。
 
-In this phase, in order to move to the next threshold, we think, "Would I give this guy 50 grand?" It's like an angel investment. Would I give this guy 50 grand to go explore this and see if there's is there something to do? And our CTO is the final decision maker. He gets to pick internally and say, "You know what? I like all the feedback. This is the one I want to go chase down and see what happens."
+這是在考慮未來方向，考慮我們該開發什麼以及考慮如何開發新類別方面，我們的第一個原則。
 
-Then we get into the validation phase. This where gets really interesting. It's still led by R&D but they're really poking at the idea and saying, “How does this work? We have leadership meetings with the broader cross functional team. I have to show results. I have to go through a scientific process to outline why this works. Why is it going to happen?" This is when we start formulating an important tool in the company, which is what we call WHYS. Defining the WHY of what we are doing. WHY does this exist? What problem does it solve? I'm going to come back to that in a minute.
+為了使我們剛才說到的願景成為現實，我們得事事精通，我們得精通“全棧”，我們得精通開發硬件產品，並且用戶時刻穿戴這些產品，得全天穿戴。
 
-At this point it's still an R&D lead, but this is when our industrial design team and a few project guys come in and think, "Ok how can I pull this concept into something physical, if it's hardware? How is that going to interact with the rest of the pieces of the system?" Our product experience team is still driving a lot of the core values and the story boarding, but it starts to become a lot more real, when we start thinking, "Ok, how we will build this? How expensive is this going to be? What's the budget going to be?" At that point, we start to really validate if we can actually build it. Do we have wait three years for batteries to be there? Do we have to wait for this other innovation to happen? Do we have to wait from a budget perspective? Is there a business viability? Then we start to really sketch briefs. This where I come in and make the final decision. "There’s really a there there. And we can now take this to the next level and get into play."
+如果不時刻穿戴的話，我剛才所說的就成了空中樓閣了。如果硬件不“過硬”，那麼消費者就無法信賴產品，也就沒法獲得用戶的大數據，所以硬件得打響第一炮。
 
-Then we go into the concept phase. This is when the responsibilities shift from the R&D folks to what we call the product experience team. The way we think about product experience at Jawbone is what everyone thinks of as conventional design. So from industrial design to software design to audio design to anything that touches that experience. We have writers on that team. Story tellers. We have ID people like Eve who are Genius creators. We have amazing app level designers, graphic designers, everything. It's all one team and we call that product experience. Their job is to unify us as one organization. That's when they take hold and start to really drive the WHYS. They think about what's possible. There's a lot of innovation and creativity in the actual implementation of how we're going to build and create a product. We start to say what the most important things in that product are. What are the most important problems we're going to solve? We call them "Hero Experiences." What are we going to do? What is the bar that would be acceptable?
+我們致力於開發由軟件做輔助，擁有完美體驗的硬件設備，我們已經開發了世界一流的軟件應用，我們得像Instagram或WhatsApp一樣，積聚大量人氣。在數據方面，我們得知曉如何進行處理大數據，從而造福用戶。我們首次將自身定位為，硬件軟件數據三位一體。它們協同工作，從而解鎖完美用戶體驗，使得用戶可以知曉自身狀況並與外界進行交互，這是我們的一個重點項目，也是和其他很多公司的區別之處。
 
-At this point we start to really resolve the WHYS, which I will show you again in a minute. Why is this different from the competition? From the category? Where does it go? We don't like to do one off things. We have to see a broader vision. This is part of the creation experience. We look at where do we think the world is moving and think about how this is going to be a stepping stone to that ultimate end vision. That’s where the road map starts to get flushed out. Again, I have the ability here to be the final decision maker with my team and say, "Yup. We're going to move this to this next phase."
+這種理念需要我們玩轉各個層面，同時整合起來又任重道遠。為什麼這麼說呢？因為要想精通硬件，得熟悉機械工程電氣工程二者的交互，大規模開發以及開發工具等等。而這些人卻通常不善於開發軟件，因為硬件軟件是兩碼事，當我們首次將軟硬件結合時，在公司內引起了不小的衝突，軟件應用團隊習慣於快速行動和推陳出新。然而在硬件領域，心急吃不了熱豆腐。
 
-Here is also where we look at some of these things. I want to get into some specific examples. We have fast track programs. We took, for example, the Jambox when we were in this phase and we said, “We’re not going to go through another phase. We're going straight into the development process because we want to get this thing out. We want to test it, market it, and move really quickly." So we have the ability to prevent our own process and say let's fast track it. We can recalibrate the go to market possibility.
+因為各個步驟都得更加深思熟慮，加工可能得花16週時間，不能急也不能躁。有意思的是，我們把軟硬件相結合後，硬件團隊學著快馬加鞭，軟件團隊在產品發布之前，在提升用戶體驗方面花了更多心思，而不是先隨便弄出來再進行A/B測試。
 
-After this stage it shifts from that Product Experience Team to our Product Managers, who are really defining the business plan. When is it going to launch, when is it going to get into the retail calendar, what is the software release cycle. They are prototyping. They're starting to make a lot of those tradeoffs. "Ok we wanted to build this. We can't do that but here's what we can do. We want to be this way. We want these functional experiences. We are going to sacrifice battery life, whatever it is." That's when we start to really pull those decisions and start to look at it. It's a big juggling act at that point.
+根據測試數據，進行各種判決，我們是如何考慮如何做，如何開發產品如何開發新類別產品的呢？首先我們認為萬物屬於同一個系統，我們不一塊塊地來看：區分這是硬件這是應用這是平台什麼的。我們認為它們彼此交叉，以Up為例，用戶身上裝有傳感器並配有算法，然後和裝有相應app的手機相連，手機裡的傳感器從雲端獲取大量數據，通過分析數據可以獲取用戶信息，最後有一個匯聚千萬開發者的平台，有千萬個app接入為用戶提供更多優質的體驗，我們是“一條龍”考慮的。
 
-The product guys are driving that. That's when again, we look at and synthesize all of what we put together and we say, "Ok. Does it actually cross enough things off our list? Does it meet that minimum viability?" Because we always start with, as you can tell, this very big wish list of what's possible and what we can do. Then we start to wheel it down and ask, "Does this cross enough of the value threshold that we think it's worth pursuing?"
+稍候我們再回過頭來講，實際創新的過程是怎樣的呢？我覺得這個問題挺有意思，因為我們不常討論這個問題，我們一般把這個問題保密。
 
-Now can we actually move it into the development phase where again Product Management Team continues to lead it. But now you're starting to really get deep. This is where engineering comes in and is really starting to sign off on building it. Here's the time schedule and how we ship. The Product Team is looking at how we should go deeper. How can we increase engagement? What are the little innovations? What are the tuning? What are the things that we need to do to make all that happen?
+現在是錄製，大家都能看到，第一次這樣公開談挺有意思。因為創新是個複雜的過程，就如圖中所示可以看出來，在探索階段，我們的想像力放蕩不羈。隨後就要進行驗證，使得創意越來越凝聚，然後就要著手開發產品，發布並不斷更新換代。
 
-We've been fortunate to have a lot of wonderful response to products that we've built. We take a lot of care and time in the details of this development and concerting phase, around little details that create these magical experiences. For example, when you turn on Jambox, you have this pretty cool sound that goes "WOOO." It took months to come up with the right audio tuning. We worked with a lot of different audiographers to create that sound, but every time someone turns it on I see them smile and laugh.
+這個圖簡單明了，我們一步步來看，在探索階段思維是很發散的並富有想像力的，我們思考未來的方向，思考策略思考品牌的意義。
 
-The feel of the rubber retyping: there's one manufacturer in the world that was able to make the rubber at the quality that we wanted and the colors that we wanted for the first Jambox. All of those little magical details. How do you resolve them, even in software? When we had the first UP, when you plugged it in your sleep graph showed up. Even just the animations of how the bars would show up and the way cards would flow, that was a detail that we thought about. How is this going interact, how is the user going to experience it? How are they going to feel it? A lot of that stuff happens even at the stage where you sign off on a program. You're making those kind of decisions all the way through and you're trading off and you're doing it in the context of this bigger picture. Innovation is an opportunity to keep refining and to keep doing all that stuff.
+我們和在座的各位一樣，天天思考想像如何顛覆現狀未來的出路在哪？有點像科學家們做的事。我們也像科學家一樣進行討論，我們根據靈感和洞察力來開發產品，有點像原始的創造力。
 
-How do we think about it at a broader level? What is the framework for how we think about these user signature experiences? Well we start to think of these WHYS. Which is an articulation of the problem that we are solving. And then the themes around how these become actionable concepts. Then we build these cross functional pods that take a person from the Product Experience Team, a person from Hardware Engineering, a person from Software Engineering, a person from the Data Team, and we put them together. This is the pod that owns that theme or that track and they continue to build that out against the hero features and the inside features.
+我們試圖創造可行的東西，很多公司卻迷失在這一階段，然後就要將創意進行初步的驗證。
 
-I am now going to go into more specifics around the WHYS because this is where I spend a lot of my time. Where we are asking a question. It serves as a really interesting framework for us to be able to come back and say "Hey. Did we meet those questions that we asked? Does this thing actually do it?" It also serves as a really good guide post for a lot our creativity and a lot of our innovation so it’s not unbridled. It comes down to a very simple question for us: "What is the user problem that we solve through this experiment?" Whether it's in hardware, software, data, platform, whatever it is, once we solve it, people can't live without it. They may have an absolutely burring need to solve this problem and they can't. Either they are looking for a solution or you never thought you needed it but now you can't live without it. Again, Jambox is great example of that. We talked to some people when were were thinking about making that product.
+我建議大家在這步中，要像做博士論文一樣，驗證這些想法，要有結論，要有實驗數據。從而可以知道發展方向，從而知道自己要做什麼，一旦經過了這一步，並且驗證理論是可行的。
 
-A little story for you guys, when we launched the Jambox in the fall of 2010, the market for wireless speakers as an overall speaker market was zero percent. Zero percent. Last Christmas, which was Christmas of 2013, it was 78% of the market. In a few years we transformed an industry that has been around since the 50's and 60's, we turned it on its head. If I had gone out and asked a bunch of people, "Who wants a $199.00 speaker for your mobile phone?" I guarantee you 0% of those people would have said, "I want that thing. I need it and I would be willing to pay for it." But when we did it, it transformed an industry. So this is where these WHYS become super important. Focus in on what you're doing. I'll go through one example in the audio space, which is the Jambox example, and then I'll take you through a little bit of how we did it in UP. Particularly UP24. It starts with what we call category strategy. This is the experience framework.
+然後就要進入概念階段了，此時要仔細考慮產品體驗以及各種可能。此時是在更細分的層面上進行創新的契機，要考慮產品如何貼近生活。如何把體驗推銷出去，如何讓消費者買賬，然後就進入了
+繁重的規劃階段，此時就得商量好，確定要幹就沒有回頭路了。
 
-Our view was that all your content and media experiences are now in your phone. They are no longer in iPads, iPods, or your computer. So we need a different way to interact with it that needs to be as portable on mobile, as high quality. That was our fundamental thinking. Then we said that that experience needs to be seamless across time and space. So you could go anywhere through it, in a different car, traveling, or around the house. That was fundamentally what we were doing. We said that’s why this category should exist. That was the human problem.
+權衡好創意的利弊得失，想想電池容量是否夠以及其他各種限制條件，權衡一下想想如何揚長避短。然後就到了下一階段研發，該階段承上啟下，把公司裡的各團隊集合一起，共同解題問題。然後發布產品，看用戶反饋進行總結，然後思考：現實的產品體驗和理想中的差距，思考一下哪些東西實現了哪些還沒有？從用戶那得到了什麼反饋？反饋會如何改變我們思路？
 
-Then we said, what's in it for Jawbone? Why should we do this? When you think about the broader macro context, the internet of things, this was our entry into your home. This is why everybody talks about all these things in your house from lights to thermostats to fridges to anything that is connected media is still the killer app that's in your house. It's where we sell millions and millions of units. So we said speakers can be our entry into that world that's around you and it can be thumb of the things that we want to do from a software and service perspective in your home. There's an interesting strategy for solving user problems but then why does it matter to Jawbone. Those two have to go together because A) we're not a philanthropic not-for profit-industry and B) if you do this well, it allows you to keep making great products, to keep moving forward, and to keep doing interesting things. That's how we put that together.
+然後把這個過程再從頭來一遍，這就是大概的思路。
 
-Then we built what we call the experience conium. Is where it is today? And when we started it was a Blue Tooth speaker. Right? That was the core enabling technology that it allows us to connect to stuff. Where do we think it's going to go tomorrow? What happens when we can dream in future? We start to really try to live into tomorrow and the future and sort of the thing that we built today as a gradual - stepping stone to graduate users starting one place continue to move - continue to move through that. That gives us a view of how we also make these tradeoffs. Because we said we're not going to put this into this product but we have a space for it in the next one. We know that we can move users to that and they will be ready for it. That’s a lot of where we build stuff is we sort of define that experience contain.
+下面詳細說一下探索階段，這個過程有點像蓋房和修修補補，而且很大程度上得益於週五演示日。大家在這天有機會將工作展示給他人，因為我們發現這樣可以很好地把大家凝聚在一起，大家可以相互交流互給反饋，顯然編程馬拉松佔其中很大一部分，有大量的數據需要處理。
 
-We talk about this a lot. We don't think of ourselves as a hardware team or a software team or a data company. We think of ourselves as an experiences company. It's not just about this physical device or that feature. It's about the system. It's about how the pieces come together. So when we start to define these WHYS, they become the problem statement. We say, "Ok how do we use a piece of hardware? How do we use a service in the cloud? How do we use an application? A sound? A button? How do we solve this user experience problem that we have and what’s the right distribution across that system? Where should you attack the problem? Where do we need to innovate and where do we need to pull it together" That's a big, big, big part of the thinking that helps us in doing.
+該活動是由我們的戰略發展部門主導的，俗稱R&D團隊。該團隊的成員來自產品部門，硬件部門軟件部門，他們退後一步遠觀有哪些探索可能性，管理層人員在此階段的任務是“煽風點火”。
 
-When we think about these experiences, it's really about the context of why it's magical to the user. Like I said, the system is a flagship and then it has to go to a level of emotional connection where you feel that without it you're lost. I am going to go home and get it if I don't have it. Those are the principals that govern all these things. We have to keep asking ourselves those questions. Is it doing that? We pull this all together to create an experience framework. This is essentially a brief for your engineering team. for your design team, and they can go back and say, "What are we doing and why are we doing it? How does that work? How do we create it?"
+他們推動大家進行思考不斷地問“想想這個怎麼樣” “想過那個了沒”，“嘗試那個了沒” “那個怎麼樣”，在這個階段，為了能成功過渡到下一階段，我們會這樣思考：我會給這個創意5萬美金的天使投資嗎？我會給這個開發者5萬美金來繼續研究這個項目嗎？
 
-And then we have a whole process, Blueberry is one of the internal code names. But the user experience process starts with a better resource, so we do actually listen to users and talk to them. But we talk to them in a very specific way, we start looking for those key insights. We concept them and then we start to build. This is why we go to find those lists of consumer problems. The principles, how do we think about approaching that? What are the solutions?And then what's required in the product to make that happen. Sam?
+從而看看是不是有戲，我們的首席技術官是最終的決策者，他會進行最終的篩選，他會發話說：“這些創意都挺好的，我選擇繼續從事這個項目看看結果怎麼樣”。
 
-Sam Altman: Could, could you talk about how you balance the fact that a user would never, told you they wanted to pay $200 for a wireless speaker.
+然後就到了驗證階段，從這個階段開始就有意思多了，仍然是由R&D團隊主導他們會反复揣度該怎麼辦，更多相關團隊的高層會參與會晤，得展示結果，得進行科學驗證，向他們說明為什麼可行？為什麼會實現預期結果？我們在該階段開發了一個重要的內部工具——“為什麼”
 
-Hosain Rahman: Yeah. With user research in front of this process. There's a lot of layers to user research. That's a great question. You guys probably aren't familiar enough with this yet, but there are standard tools for what people do in focus grouping, where they say, "Would you try this, would you pay this, do you want this feature, what do you care about." That's one way to do it. We don't usually get really great answers. We ask different kinds of questions. We say, "How much music do you listen to when you are with other people? How do you play that music? Do you listen to a headphones, or do you listen over the speakers on your phone? How often are you with other people? How often do you want a personalized experience? How often do you want to share? How often do you?"
+思考“為什麼”要這麼做？“為什麼”可行“可以解決什麼問題”？
 
-We ask a lot of questions. We just ask different ones. We don't ask them specific things about, do you want this or do you want that. We ask them: how do they behave? How do they live? A great example is the iPod. If you said to somebody, "If you could put a thousand songs in your pocket and take them anywhere," that's cool. Not, "Do you want a digital portable music player?"
+稍候我再詳細說，此時還是由R&D團隊主導，不過有很多工業設計人員參與，他們思考如何將概念轉化為實實在在的硬件？如何與系統的其他部分進行交互？
 
-Again it's at a price that was more than your phone. So you have to separate what are questions that you can ask that are going to help make you smarter about your thesis versus trying to get somebody to validate it for you. That's the real separation. No one's going to tell you what to build, if they do then they should do it and not you. You're the one who's making that decision, you've got the thesis, you've got the creative idea, you've got the innovation. You gotta use these people to help you make it better and to refine your thinking. That's the difference. Make sense?
 
-I'm going to switch over to Up24, which is the product that we've had on the market, our wireless products for health tracking. The WHYS of Up24 are really simple. First of all, let me start with the WHYS for Up. The idea there was there's so much that we know about the world today, through Twitter, Facebook, social media, access to the internet, Google, etc, but we know nothing about ourselves. We have no idea why some days I sleep eight hours and feel terrible, but some days I sleep three and feel awesome.
+產品體驗團隊仍要挖掘產品的核心價值，以及思考如何讓消費者買賬。不過這個階段要考慮的問題更加實際了，得考慮如何做？需要花多少錢？預算多少？等等
 
-Our thought was: could we take a lot of this sensor technology, help people understand more about themselves, and start to then make better decisions about how they live better? That was the first product. This was the second product we said: okay, great, now that we have wireless connectivity, it's not just about Bluetooth or wireless, it's about the fact that I can use that real time flow of information to understand what's happening with me and take action on it. I can get the data in a more meaningful, relevant, contextually important way at the moment that it matters. I can also get back guidance in a structured way that can help me go do things. I want that ongoing encouragement, because everybody knows that they want to be better, but they fall down. They want a fluid way to interact with this.
+此時得詳細評估：我們能不能做出來？還是等三年再說？到時電池會有革新或會有其他創新，還是從預算角度考慮要等等再說，從商業角度考慮可行嗎？可行的話就要開始畫草圖了。此時我就要登場了，我來做最終判決。我會說：我覺得有戲，我們可以繼續往下做看看結果怎麼樣。
 
-This is what we're building in Up24. We had this very crisp set of five things that were the WHYS of why we're building this product and why we're doing it. Our point of view was that it was going to, we had this sort of fundamental narrative going back to the experience framework where we said everything we do in UP is about helping people track and understand them, track themselves, was understand, which is taking all that data and converting it into knowledge.
+然後就到概念階段了，此時大任就由R&D團隊轉給，產品體驗團隊了。我們Jawbone所說的產品體驗，類似傳統所說的設計包含工業設計，軟件設計音頻設計，等等所有與體驗相關的設計。該團隊有文案人員故事創作人員，像Eve這樣的設計天才，我們有優秀的應用程序設計師圖形設計師。
 
-The third part was act, so track, understand, and act. That is our narrative for everything we do in the wearable health space and it will be for the entirety of what we do. It's help people get more information on results. Data is great, understanding is better. Convert that into things that they can create real knowledge that they can then take action on. Anything that we can do to keep the device on, get more information, help them be engaged and then find ways of guiding that behavior was really, really interesting and is the framework for the system.
+我們把他們融合為一個團隊——產品體驗團隊，他們的工作有點像“穿針引線”將各種資源融為一體。他們在該階段佔據主導地位，他們來處理…
 
-Then you can start to think about designs how you build your data infrastructure, your insight system, how you process it, how you build the application experience that surfaces it. This is a little bit more of a blowout around track, understand and act. This is the tracking part, which is really fundamentally about the hardware too. It's how do you design the batteries? How do you design the embedded systems and materials? The way it latches on you, how easy is it? So that you create the habit of keeping it on your body. Then you have to take all that data, it's not just visualization of information. If I told you guys' your heart rate was 75, is that good or bad? Who knows the answer to that question? I don't. It depends on what you're doing and who you are and what's happening. Just the data surfacing is not enough. You have to contextualize why that matters, turn it into action. That's the third part. Action is the key. Let me understand the data. Let me understand that when I work out at four o'clock, I get four more hours of deep sleep at night. That's awesome. Let me get a reminder at four o'clock to go work out. That's what we've built. That's a lot of infrastructure to create that experience. That's how we build software. That's how we build hardware. That's how we build sort of the whole system.
+這麼來說吧
 
-Often, we will talk about different kinds of users and what they care about and what we think our userbase is made of. Who's more into weight loss, who wants the social acceptance, who are people who are vain, that just want to look better. There's lots of different things. There are people who have medical reasons for the use of our product. We design different kinds of experiences. We think about using platforms like phones and ways to push notifications as part of the system. We think of notifications as a tool for behavior change. We actually start to go map out these things. What is a smart action? Is it real time, does it feel customizable, does it feel progressive, does it help me, is it really tailored to me? For this particular type of user, we'd go out and storyboard. These storyboards go to our design engineering teams. We work together and they actually start to build off of this. What this does for us is it creates a nice set of constraints. My experience has been constraints are really great because they serve as opportunities to resolve, to refine, to simplify, and push you to find the right answer that will solve the user problem in the simplest way.
+他們來解決前面所說的“為什麼”，思考各種可能性，在實際的打造產品過程中，會有很多創新，要思考，該產品最重要的地方是什麼？要解決的最重要的問題是什麼？我們把這些地方稱為“旗幟體驗”，要思考要做什麼可接受的底線是什麼。在該階段要實際解決那些“為什麼”。
 
-We create a lot of those constraints around what we're doing. This is the storyboarding for getting someone to the goal and how they do it and what we use, in real time. Then we put in the secondary experiences, which is if we can do this and we can fit it in, if it's not too cluttered or confusing we'll put it in. That's a little bit of a snapshot into how we build and we've few minutes left so I'd love to answer any questions.
+這點我稍後會講，為什麼我們所做的與眾不同？可以從競爭和類別角度來考慮。目的地在哪？我們不想目光狹隘，我們得有更開闊的視野，這也算是創新的一部分。
 
-Audience Member 1: So let's say you have a product. You have all these features that you want to create. You're about to enter to the design process. How do you approach the whole problem? How do you break down how it is going to solve the problem? But then, each design feature is not mutually exclusive. How do you approach it holistically? When you have a number of different features and functions that you are trying to build, how do you look at them on a system level rather than in a silo to understand what the tradeoffs are across the entire system?
+我們要思考世界的發展動向，我們要做的如何成為跨向終極目標的墊腳石，這是指導方針開始具體化的階段，此時我就要出面，做最終的判決，告訴團隊要進入下一階段了。
 
-Hosain Rahman: That's the answer to your question. You do exactly that. You don't think about it in a silo. When it’s a small team, it's really easy because you all are sitting around the table. You're looking at each other. You are making those decisions in real time. As you get bigger, in larger companies, you have to force communication where everyone is in a room and a person says, "If you build it, if you were to constrain me in this way, I can't get the quality spec that you need me to make." And another guy is going to say, "Well if you do that then I can't fit all of the rhythms in at the battery performance that you want."
+這裡我們要注意一些東西，我會講一下具體的例子，我們有快速的追踪程序，比如開發藍牙音箱Jambox，在這個階段時我們認為可以跨過這個階段，直接到發展階段。
 
-When you look across the system, everyone has to share what their pains are so you actually understand, "If I make this trade off, it's going to affect me over here." You have to put everyone in a room and start hashing that out. That's what’s on the board and on the walls on everywhere, that's what are we trying to do. Does that trade off still meet it across right across all those, all those different cylos. Because everyone is thinking about the trade off in their bend. They know what they need to accomplish. But again how does that affect the whole, whole thing. We just went through this with UP3 - which is a product we are shipping in a couple of weeks that sort of define the next wave of what happening in the wearable space on the health tracking side. We invented a totally new sensing system. Right? There was RAW science that had been developed that `we productive really fast and even just trade off on what the electro materials were. How it affect so n reliability. Source sing. You know, signal performance. And just - these guys weren't talking their way to get in a room. Do daily calls for three hours where they are going through each of their thing. It's tedious. But we're figuring out and we're knock it down. So it, its - when you're small it's real easy you just draw and look at it. But you have to always have that definition of what you trying to do across the system. That's why a lot of what I was talking about was a much higher level. What problem we're solving. Where does it go? And how all of these pieces are formed.
+我們想避開這一環節，直接做出來進行測試看看市場銷售情況抓緊行動，我們有能力跨過這個階段，我們決定要快速行動，把產品投入市場後進行追踪和調整，然後就到了下一階段規劃。
 
-Audience Member 2: Should we start focusing on one small thing or should it focus on the system itself?
+此時重任就由產品體驗團隊轉向產品經理肩上了，產品經理得制定詳細的商業企劃，他來決定什麼時候發布產品，什麼時候零售商上架，以及軟件版本更新，做出樣機等等事宜。得權衡利弊並作出取捨，我們本想做出這個地方的但是失敗了，不過我們能做這個，我們想這麼幹，我們想要這些功能體驗，不過得犧牲電池壽命等等。
 
-Hosain Rahman: A system is a mindset. It's not actually a system. There are simple systems. There are complex ones. A plane is a very complex system. A car is a very complex system. There are other products we make that are much simpler. A phone is a complex system. An application you should think of as a system. Storage. The front end experience. What you're doing is connecting. That’s all a system. So that’s more what of what I mean about systems. For us, a system is hardware, software, and data but I think within anything there's always a system. It’s more just thinking about how the tradeoffs work across all the different pieces that work together.
+此時，我們要把各種決定綜合在一起，此時得左右兼顧，這個事由產品團隊主導，此時得綜合分析一下，和計劃比有沒有達標？是否達到可行性的最低要求？
 
-Audience Member #3: What’s the decision making process between making unrelated products and saving space for fitness tracking, for different versions of or Jambox. What goes into that?
 
-Hosain Rahman: We have a grand unified theory about how these experiences come together. What happens, it touches a little bit on the context engine, when you have things on your body that can make everything in the world around you smarter. If I know the emotional state of a user, I can tell Spotify what song it should play on the Jambox. I can tell the TV that you didn't like that commercial and they should fast forward to the next one. Or I can tell you to not watch Game of Thrones on a Sunday night because you don't sleep well.
+因為開始的時候，我們列出了很多可能性和目標，而理想是豐滿的現實是骨感的。此時得掂量一下是否達到了期望的最低值？是否能轉入下一步——發展階段？發展階段也是由產品管理部分主導的。
 
-I'm serious. These pieces go together. We do think at that level. We start to say, "What are the building blocks to get there? And how do we establish credibility? How do we establish a distributing system? How do we establish manufacturing scale? How do these pieces come together?"
+不過這次得實打實幹了，此時工程師要介入了，他們得確保能做出來並製定時間表和啟動計劃，同時產品團隊要看看如何深入挖掘一下，看看如何通過創新增加用戶興趣以及進行調整，想想如何才能實現目標。
+
+我們很幸運的一點是，我們收到了大量有效的產品反饋，我們在發展階段和概念階段付出了大量的心血，在打造神奇的用戶體驗的方方面面下足了功夫。
+
+拿Jambox來說吧，我們有一個很酷的聲音設計，發出“嗚嗚”的聲音，花了數月時間才調試好該聲音，我們和很多調音師合作才創作出那個聲音，每當有人聽到那個聲音都會微笑或大笑。
+
+還有橡膠的質感，全世界只有一家橡膠廠生產的橡膠質量達到我們的要求，硬度和顏色都符合第一代Jambox的要求，還有種種細節，還有軟件方面細節。
+
+戴上我們的第一代Up腕帶，睡眠圖就會出現，即使是圖像顯示，比如條狀圖的顯示以及卡片飛入和飛出方式，我們在這些細節上都下了功夫，還有交互方式，用戶體驗方式和感受。
+
+
+即使項目方案已經啟動了，在該階段也有很多問題需要考慮，自始至終都要做決定，要權衡利弊，要在大框架下進行考慮。持續的創新讓我們精益求精，如何在更廣的層面上進行思考呢？要在什麼框架下思考獨特體驗呢？。
+
+我們從“為什麼”入手，“為什麼”最能清楚說明我們要解決的問題，然後圍繞“如何變得可行”這一主題，接著是組合跨功能團隊。集產品工程師、硬件工程師、軟件工程師、數據人員為一體，這個團隊，最終要實現前面所說的主題。
+
+他們要開發出核心特徵和邊緣特徵，並且把這些特徵融合為一體。
+
+我下面詳細介紹一下，我前面提到的“為什麼”。因為我在這方面花了很多心思，這對我們來說是個很有意思的框架，可以用於回過頭來思考，我們解決了我們提出的問題了嗎？該產品能行嗎？
+
+這些“為什麼”可以，作為指導我們創新的方針，從而不至於漫無邊際地思考，簡而言之可以整合為一個問題：「我們的產品解決了用戶的什麼問題？」
+
+無論是硬件軟件平台等等方面，「完美地解決了問題從而使用戶離不開我們產品了」，「用戶急需解決該問題卻求而不得」或者是「用戶本來以為不需要我們的產品，但是一旦用上了就離不開了」。
+
+Jambox就是很好的例子，我們考慮開發該產品時和一些人進行了交流，給大家講個有意思的事兒，我們在2010年秋發布Jambox時，當時無線擴音器在擴音器市場上的佔有率是0%。
+
+去年聖誕節也就是2013年聖誕節，該市場佔有率達到78%。上世紀五六十年代形成的產業格局，就這樣被我們用了三年時間打破了，如果當時出去拉人問“誰想花199美元買手機擴音器”，我打包票，沒人會說想，沒人會說需要或是願意買，我們改變了一個行業。
+
+“為什麼”那些問題，在這裡是非常重要的，能很好地反映要做的產品的特徵。我再舉個例子來說明，還是Jambox的例子，然後再講講做Up時的經歷，特別是Up24。
+
+先從類別戰略說起，也算是體驗框架吧。我們認為目前大家都用手機看視頻聽音樂，不怎麼用iPad iPod 電腦了，因為我們需要一種與眾不同的方式來與之交互，還得是可移動的便攜的高質量的。
+
+這就是我們最根本的考慮，我們認為在時間和空間上該體驗還得做到無縫連接，無論是坐上不同的車旅行中，還是在家不在家在家附近都能使用，這就是我們的基本需求，也是為什麼要有這類產品的主要原因。
+
+在這方面大家的確存在需求，為什麼Jawbone要做？為什麼我們要開發這樣的產品呢？如果大家放在更大的背景下想想，想想我所說的物聯網就明白了，這是我們產品進入用戶家庭的敲門磚。現在人人都在聊智能家居產品，燈恆溫器有線機頂盒冰箱煙霧報警器什麼的。影音在家裡算是重頭戲，恰好我們賣了數以百萬的影音產品了，我們認為擴音器是邁入智能家居市場的敲門磚。
+
+從軟件和服務角度考慮，我們希望該產品成為家居的核心，該戰略既解決了用戶的煩憂，又對我們至關重要，這兩個目的都得達到。首先我們不是慈善機構，我們也需要盈利，此外如果做好了會為今後的發展提供源動力，讓我們公司更上一層樓，從而開發更多好產品，我們就這樣結合起來了。
+
+然後我們構建了這樣的“體驗延續”。
+
+今天，我們從藍牙擴音器起步，藍牙擴音器是我們的核心產品，其他東西可以與其連接。我們認為明天就有怎樣的發展呢？今後會有怎樣的發展呢？如果我們站在未來和明天的角度回顧，我們今天的所作所為，都是一塊塊的墊腳石，使得我們一步步走向明天和未來，這就讓我們做取捨時有了指導。
+
+因為，我們目前的產品還達不到我們最終願景，但是我們目前的產品會虛位以待今後的產品，我們會引導用戶購買今後的產品用戶也會拭目以待我們打造產品的方法。
+
+就是，定義「體驗連續」，我們時刻不忘該信條，我們不把自己定位成硬件公司軟件公司或數據公司，我們把自己定位成體驗公司，重要的不是硬件設備功能什麼的。重要的是系統整體，重要的是把各部分融合起來，那些“為什麼”可以轉化為這樣的問題：
+
+* 我們如何利用硬件，利用雲端的服務，利用應用聲音按鈕，來解決我們發現的用戶體驗問題？
+* 採用什麼樣的優先級來逐步構建系統，從而解決問題？
+* 哪裡需要創新？
+* 哪裡需要加強？
+
+要實現願景，得好好思考這些問題。考慮用戶體驗時要緊緊圍繞，讓用戶激動萬分，系統才是我們最重要產品，而且得引起用戶的情感共鳴才行。如果哪天不用就會悵然若失，非得放在身邊才安心，這就是我們的指導原則。
+
+我們得不斷問自己：我們達到這樣的目標了嗎？
+
+把這些用戶體驗原則歸結在一起，就成了工程團隊和設計團隊，以及公司內所有相關人員的信條了，以便他們可以隨時反思：我們在做什麼？為什麼這麼做？這樣有用嗎？我們如何創新從而解決問題？
+
+我們有完整的流程，在我們公司內部稱為“藍莓”。為了使我們的用戶體驗贏在起跑線上，我們會與用戶交流聆聽他們的意見，而且我們在交流方面有自己的一套，我們尋求關鍵的入手點，然後概念化並據此打造產品，這就是我們尋找消費者“痛點”的原因。
+
+指導方針是：我們如何解決問題，解決方案是什麼，產品具備什麼樣功能才能解決消費者的煩憂。
+
+Ｑ：你可以談一下如何解決這樣的問題嗎？就是：用戶絕不會告訴你他想花200美元買個無線擴音器。
+
+Ａ：好的在用戶調研中，如何解決這樣的問題。
+
+用戶調研，分很多層面。這個問題很好，我們有解決辦法。大家可能對用戶調研還不是很熟悉，在分組調研用戶時，有一些標準的問題供參考。
+
+比如問你會嘗試這樣的產品嗎？你會花錢買嗎？你需要這樣的功能嗎？你關心哪些方面？
+
+這是一種調研方法
+
+不過通常問這些問題得不到很好的效果，我們會問不同的問題，比如與他人共處時你會聽多長時間的音樂？你用什麼工具來播放音樂？你戴耳機聽還是用手機的外放？你與他人共處的頻率有多高？你想要個性化體驗的頻率有多高？你想與他們分享音樂的頻率有多高？
+
+我們會問很多問題，我們會問一些與眾不同的問題，我們不會問很具體的東西，比如你想要某個功能嗎？我們會問他們的生活習慣
+
+你可以對他們說：
+
+如果有某樣東西可以…用iPod來舉例說明吧。你想要可以裝下上千首音樂的便攜式設備，隨處可聽嗎？這樣的問法比較好。不要問他們想不想要個數字便攜式音樂播放器，畢竟iPod的價格比手機還貴。
+
+你得區分一下，哪些問題可以問，從而可以使你更加清楚地得到結論，而不是讓別人來給出結論。
+
+我覺得得好好區分一下，沒人會告訴你要開發什麼東西，如何他們知道的話他們自己就做了還輪得到你嗎？你得自己做判決，自己得到結論自己來想創意，自己來創新。
+
+調研是為了讓自己做得更好，不斷完善自己的思路，這就是不同問法之間的差別，明白了嗎？
+
+
+再回到Up24上，Up24是我們目前正在銷售的產品，是一款無線的健康追踪設備。打造Up24這樣的產品的原因是顯而易見的。
+
+
+首先說一下打造Up的原因，通過Twitter Facebook Google以及其他社交媒體，我們對外面的世界了解得很多，但是我們對自身卻一無所知，我們不知道為什麼有時一天睡八個小時還覺得睡不夠，有時睡三個小時竟然會精力充沛。
+
+我們不知道為什麼，我們的想法是：能不能利用傳感器技術幫助人們更多了解自己，從而可以採取措施使自己活得更好？
+
+這是我們開發第一代產品時的思路。
+
+
+到了第二代產品我們想：現在有了無線連接，不過重點不是藍牙和無線網，重點在於可以根據實時的數據流，來了解自身的情況，從而可以採取相應的措施。用戶可以實時獲得有用的相關數據，用戶可以得到有建設意義的指導，幫助用戶進行合理應對，我們希望不斷得到提醒，因為我們想變得更好但是經常半途而廢。
+
+我們希望可以與設備進行實時互動，這就是我們打造Up24時的想法。
+
+以上就是我們打造Up24的五個“為什麼”。
+
+我們有一些想法，我們將一些基本理念融入到體驗框架中，UP的作用就是幫助人們追踪和了解自己，不斷獲取用戶數據並且轉化為對身體的認知。
+
+第三點是行動總結起來就是：追踪理解行動。
+
+以上就是我們在可穿戴健康設備領域裡的基本理念，我們是據此來打造產品的。
+
+
+Up讓人們更好地了解自己，獲取更準確的數據更好地理解自身情況，從而轉化成人們可以理解的知識，幫助人們採取相應的措施。我們要做的就是：鼓勵人們更多地參與獲得更準確的數據，對人們的生活習慣進行引導，這就是該系統的大體框架。
+
+然後再思考：如何開發數據庫，如何開發解析系統如何處理數據，如何打造應用的體驗，以上就是圍繞追踪理解和行動進行的思考，追踪功能和硬件息息相關，涉及電池的設計，嵌入式系統的設計，設備的佩戴方式是否簡便，使用戶養成佩戴習慣，然後獲取用戶身體數據。
+
+不僅僅是數據的呈現，比如說心率是75，這樣的心率是否正常？
+
+如何來回答這個問題呢？
+
+反正我不知道，跟目前的運動狀態個人體質外界環境有關，僅僅呈現數據的話意義不大，要給出數據說明的問題並給出用戶指導。
+
+這是第三步的內容，給出行動指導才是關鍵，得讓用戶理解數據，讓用戶知道如果在下午四點運動的話，晚上會多睡四個小時的深睡眠，太棒了。
+
+所以在下午四點的時候，給出運動提醒。
+
+我們要打造這樣的產品，要打造出這樣的體驗要做的工作非常多。不過這就是我們做軟硬件的目標，做系統的目標。我們會討論不同的用戶和他們的需求，我們會將用戶進行劃分：
+
+* 有人熱衷於減肥
+* 有人喜歡社交活動
+* 有人虛榮往臉上貼金
+
+真的有這樣的人，人們的需求各不相同，有人使用我們的產品是因為身體有疾。我們設計了不同的體驗，我們使用手機這樣的平台向用戶推送消息。
+
+推送是系統一部分，我們認為推送有助於改變用戶習慣。然後我們得具體化，什麼是智能的行動指導呢？是實時的嗎？需要個性化定制嗎？需要循序漸進嗎？有幫助嗎？是否要“量體裁衣”呢？
+
+
+對於特定的用戶群體，我們得走出去向他們進行宣傳，這些畫板是我們設計團隊和工程團隊共同完成的，他們的工作以畫板中的內容為指導，這些畫板的作用是設計一套合理的行為約束，我個人認為約束是很有幫助的，它可以督促人們去解決問題去完善去簡化，督促人們尋找最簡單的解決問題的方法，對吧？
+
+圍繞目標我們開發了很多約束，圖中畫板顯示了如何督促某人實現目標，告訴用戶該怎麼做，我們還加入了一些輔助功能體驗。
+
+我們能做好並且和總體不違和的功能，並且不會造成混亂和困惑的話，我們就會加進去。
+
+以上給大家簡要地介紹了，我們是如何打造產品的。
+
+還剩下一些時間歡迎大家提問，本次講座還剩下15分鐘。
+
+Q: 假設你有了個產品創意，你想好了要添加哪些功能特點。然後到了設計環節了，你是如何解決問題的？如何將問題細分並逐個攻破的？知道某問題用什麼方法解決，因為各個特徵之間不是孤立的，你是如何合理規劃的呢？
+
+如果你想添加，很多不同的特徵和功能，如何從系統層面上進行思考呢？不是從單個功能特徵來看利弊，而是從系統總體的角度來看？
+
+A: 這應該就是對你的回答，不要片面來看，要綜合起來看。如果團隊很小的話還好辦，因為大家天天呆在一起，大家面對面交流，可以隨時討論，如果隊伍大了得創造溝通的機會。
+
+大家一起討論。
+
+有人會說：如果你這樣弄的話，這樣約束的話，我就達不到要求的質量。
+
+另一個人會說：如果你這樣做，如果你給我預留出的空間不足，我就沒法實現。
+
+你要求的電池性能，如果要想從系統的層面上進行考慮的話，大家都得說出自己的難點，他們通常不知曉（其他人的情況），一個地方的取捨會影響其他地方。
+
+所以得把大家召集在一起反复討論，把東西明擺出來，明確要做什麼，某種取捨後是否還能達到預期目標？
+
+綜合起來考慮，大家都會從自己的角度考慮問題，他們知道自己的任務。
+
+重要的是對整體的影響，我們研發Up3時就經歷過這樣的過程，Up3過幾週就會發售，Up3差不多算是定義了下一代可穿戴的健康追踪設備的潮流。
+
+我們發明了全新的傳感系統，涉及的科學技術還沒怎麼被利用過。我們迅速做了規劃，涉及電極材料的選擇，其對可靠性信號採集和信號處理的影響。我們把這些平時不怎麼交流的相關人員聚集在一起，有人處理相關事務，甚至得一天打3個小時的電話，是很累。不過我們找出了解決方法，把問題解決了，隊伍小的時候把大家集合起來比較容易，不過得時刻有從系統角度考慮的意識，這就是為什麼我談論的大多是更高層面上的東西。像要解決什麼問題，隨時間的推移如何變化？各部分如何匯總起來？
+
+Q: 如果創業公司的最終目的是開發一個系統，該公司應該先專注於一個點，還是應該專注於系統？如何二者兼顧呢？
+
+A: 我認為從系統角度來考慮是一種思路，對吧？而不是說某個實際系統有的系統簡單，有的系統複雜，飛機是個很複雜的系統，汽車是個很複雜的系統，還有其他的。智能手機也是複雜系統，應用軟件也可以看做系統，要把存儲體驗連接等組合在一起，這也是系統。
+
+而且這才是我們所說的系統，對我們而言系統是硬件軟件數據的融合，我認為任何東西都可以構成系統，要更多地從整體角度，考慮取捨的影響，能理解嗎？
+
+Q: 我有個問題要請教，在開發同一領域的相關產品方面，你們是如何做抉擇的呢？比如健康追踪方面，比如Jambox，有不同版本的Jambox 能講講嗎？
+
+A: 某種程度上講我們的確有一套統一的理論，該理論圍繞如何將各種體驗統一起來，以及涉及打造內容引擎，當用戶佩戴相應產品時，使得用戶周圍的一切更加智能。比如如果能知道用戶的心情，就可以讓Spotify播放合適的歌曲，可以告知電視用戶不喜歡某個廣告，從而可以快速切換到另一個廣告，可以提醒用戶週天晚上不要看權力的遊戲，因為會影響睡眠質量。
+
+不是跟大家開玩笑哈，要把這些東西綜合起來，我們從更高的層面上進行考慮，我們思考如何一步步到達目標，思考如何打造可靠性，如何打造分配系統，如何控制製造規模，如何把這些東西匯總起來。
+
+我們有這樣宏大的統一願景，我們會分門別類，不同的類別有不同的發展形式，不同的類別有不同的更新周期，一個很好的例子是iPad vs iPhone。
+
+大家習慣於一年換一代iPhone，iPad換得卻沒這麼勤，更新周期是不同的。用例是不同的各自解決的問題也是不同的，得順應這樣的差別。
+
+大家不會每年換一次Nest溫控器，安裝一次能用15年，那麼他們公司是如何打造產品的呢？如何考慮的呢？得考慮到自己所從事的類別，相應的更新周期使用，以及如何綜合起來，不同東西的進度是不同的
+
+Q: 你說的是哪一方面？結構嗎？
+
+A: 是結構，絕大部分是Eve和我們的設計團隊開發的，他們設計了商標式的外觀，大家一看就能明白產品是幹什麼的，無論放在哪里大家都懂的，這算是我們使命的一部分吧。
+
+我們想要傳遞一種情懷，有些人喜歡有些人不喜歡，這就是設計嘛。是整體的一部分。
+
+Q: 我問的這個問題和前面的問題相關，有了一定的產品之後，創新過程會有怎樣的變化呢？如何利用獲得的經驗呢？創新的框架或過程要如何調整呢？
+
+A: 問得很好我來複述一下問題，第一代產品不存在這樣的問題，發布第一代產品後思路會發生怎樣的變化？對創新過程有怎樣的影響呢？
+
+我們往回一點，看關於創新流程的那張ppt，不好意思得一個個地點開，剛才問的問題很好，比如說
+你要開發一個全新的產品，你從這裡出發一步步地走到這裡，學到了很多東西。
+
+在2011年我們開發第一代Up時，不成功所以我們得返回頭去修改設計，所以最後這步的結果，會給第一步很多啟示，讓相關人員知道有很多問題需要解決，要相應地解決存在的問題，有時這一步出成果得花數年時間，實際的速度要比我們想像地慢得多。
+
+涉及到核心技術，傳感器電池芯片數據處理存儲，等等方面。
+
+我們會說：我們面臨多個問題，我們可以並行地解決這些問題，這裡還需要繼續完善，這裡的各部分都需要重新審視，這裡每一步都有完善的空間，如果這裡能看出什麼苗頭的話，可以直接跳到規劃和發展階段，而不需要把整個過程重新過一遍。
+
+可以靈活地處理，如果能胸有成竹的話，可以省略一些步驟。
+
+就我們而言我們從有線轉變為無線的過程中，沒怎麼猶豫過，我不怎麼擔心評估階段因為我知道我們的創意一定可行，如果已經決定了某一步驟的結果了，就可以跳過這個步驟。
+
+這個步驟對我們而言，算是一種凝聚創造力，督促自己做出成績的方法，我們是這樣想的。各步驟間可以靈活跨越，必要的時候可以跳過一些步驟。
+
+Ｑ：貴公司有多少人呢？公司的人數增多後，如何使更多的人員共同做一個項目中並且人人都能有效參與，你們有什麼人員組織秘訣嗎？
+
+A: 問得很好，問題是我們公司有多少人？在我們公司由小到大的過程中，我們是如何適應並能有效協作的呢？在思路或工具方面有沒有什麼好方法。
+
+我們公司約有500人公司坐落在多個地方，總部在舊金山，並在森尼維耳西雅圖上海匹茲堡和倫敦設有分部，我們的團隊分佈在很多地方，從而使我們可以利用不同地域和人才優勢。
+
+我認為最重要的是交流，我們也一直力爭使大家更好地溝通，採用不同的形式使大家坐在一起，各抒己見說說自己做的是什麼做了哪些權衡，自己做的東西會影響到什麼其他地方，使大家能傾聽他人理解他人的工作，時刻牢記大家做的是一個系統。
+
+看看各部分綜合是什麼樣的效果，從系統角度考慮如何解決問題，因為存在很多問題所以需要大家進行交流，在做UP3時，我們得每天開兩個半小時的全體會議，材料資源工藝固件機械工程等人員都要參與，他們都得跟進，得知道哪些需要權衡，我不斷鼓勵這樣的溝通。
+
+
+Q: 你是什麼時候決定公司擴張的？如何決定哪方面先擴張？
+
+A: 如何決定擴張以及什麼時候擴張？你指的是地域方面還是市場方面？你是如何尋找契機的？
+
+這個事得深思熟慮，我們在中國下了不少工夫，我們想在中國立足，發展到一定的階段，我們想在當地組建團隊，我們擴張了銷售，我們在全球56個國家組建了10萬個銷售點。
+
+從北美開始，然後發展到歐洲亞洲，在發布產品方面不同的地域間會有稍許差別，擴張這種事需要深思熟慮好好規劃，有些地方得花不少時間，得想好。
+
+在哪裡擴張如何實現增長，按照什麼樣的路線進行擴張，還得“投機取巧”。
+
+我們選擇的市場，有優秀的合作夥伴。我們有充分的信心，有適宜產品的文化。對於UP而言中國是個非常大的市場，我們的產品搭配蘋果手機進入中國市場，與蘋果商店的合作提高了我們的產品公信力，我們順勢而入。
+
+我們知道，我們想進入中國市場，而當時正是絕佳的機會，擴張的時機與具體的商品，以及當時的市場環境有關。
+
+Q: 你們為什麼不開發頭戴式耳機呢？
+
+A: 至於產品類別嘛，我們想到了很多東西，我們考慮過頭戴式耳機。首先在選擇產品類別時，我們希望自己的產品能獨領風騷，我們做的比目前市面上的產品都好，比它們好一個量級或好兩個量級。
+
+（沒有選某個類別的原因是）有時是市場不夠適宜，有時技術不成熟有時我們自己沒有準備好，還沒有能力綜合起來。無論要開發什麼產品什麼類別，都受很多因素的影響。
+
+Q: 對於硬件公司或系統公司而言硬件的開發通常很令人頭疼，記得一位嘉賓曾提到過，他既嘗試過硬件公司又嘗試過軟件公司，您可以跟我們分享一下經驗嗎？你會把公司運營得像個軟件公司嗎？會經常獲取用戶反饋嗎？
+
+A: 我對於問題的理解是，硬件公司運營起來很困難，硬件公司運營起來和軟件公司有差別，我們是如何運營的呢？
+
+我們沒有什麼固定的運營模式，從沒有。我們走在科技前端，我們前無來者地綜合不同的學科，打造神奇的用戶體驗，有時會很難但是痛并快樂著。
+
+我們盡量各方面都做到最好，盡全力做好軟件更新，測試發展部署等等方面並應用到硬件中，我們盡力將硬件中的決策融到軟件設計中，因為網絡軟件和移動軟件差別很大，而且開發移動軟件和開發硬件很像，只有一次機會，得好好把握。
+
+我們不斷汲取經驗教訓，從而做得更好。
+
+我和一些高管的工作就是，尋找機會，把最好的東西集合起來。
+
+我認為一個公司的硬件和軟件，不可能做到一樣地好，這就是我們的努力方向。
