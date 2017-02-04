@@ -1,6 +1,4 @@
-# Lecture 12: Sales and Marketing 
-
-Can we turn it up a little bit so it has more pump up? Okay, there we go. Okay. Guys, we have to find the beat then clap to the beat. Okay, please stop the music. Please put on the presentation. Thank you. That will be about the most pumped up thing that happens in enterprise software. The rest is downhill from here. Thank you for that well rehearsed intro.
+# Lecture 12: Sales and Marketing
 
 我們能放段音樂嗎？好的
 能大點聲嗎？更帶感點
@@ -16,16 +14,12 @@ Can we turn it up a little bit so it has more pump up? Okay, there we go. Okay. 
 後面的就“走下坡路”了
 謝謝大家剛才的配合
 的確很好
-
-I’m Aaron Levie, CEO and co-founder of Box. Welcome to this edition on how to build an enterprise software company. This is my understanding, this is the course you are taking? Is that correct? No.
 我叫Aaron Levie 是Box公司的CEO和聯合創始人
 歡迎大家參加
 如何打造企業軟件公司係列講座
 我是這麼理解的
 這才是你們所參加的講座的主題對吧？
 不是？
-So this is my job today. I am going to try and convince you that everyone else that speaks during this whole class is wrong and that you actually want to build an enterprise software company. Hopefully we will be able to work through this and you'll have a good sense of why it's super cool to be in enterprise. And why the perceptions of going into the consumer space, why it's so much fun are wrong, and why you want to go into enterprise software. Who wants to build an enterprise software company? Good, alright. Thank you very much. Hopefully we will do a vote at the end and hopefully that will not have shrunk. That's really the only goal I have today.
-
 我今天的任務是
 說服你們
 剛才說“不是”的那些人都是錯的
@@ -42,7 +36,6 @@ So this is my job today. I am going to try and convince you that everyone else t
 希望本講座結束時再做個調查
 舉手的人數不會減少
 我今天的目的就是鼓勵大家投身企業軟件行列
-So we are going to talk about three things today. The first is the quick background of Box. Because when we first started out, we did not know we wanted to do enterprise software. So I want to go a little bit into why we went after enterprise and what we do today. Then we are going to talk the major factors that changed in enterprise software that make it possible to do a startup today. And finally we are going to look at patterns that are ways to recognize and go build a startup by yourself. Hopefully, that will be some practical, useful advice. Just as a forewarning, my voice, I've been speaking a lot the past few days. So hopefully I will be able to get to that third part of advice and make it.
 今天我主要講三個方面
 首先快速回顧一下B​​ox的創業史
 因為我們創業時
@@ -62,8 +55,7 @@ So we are going to talk about three things today. The first is the quick backgro
 但願講到第三點時
 還能說出聲來
 試試看吧
-Building for the enterprise, these are high level stats of Box. We have about two hundred forty thousand businesses that use Box, there are over twenty-seven million users that have brought Box into their organization, and ninety-nine percent of Fortune 500s. Actually that one percent is really Microsoft and they don't seem to want to buy from us. We have to work on that a little bit. A lot of users to bring Box into workplace environments, these are some of the organizations that are using the product. We have a very wide range of industries from manufacturing consumer products to companies like General Electric. Stanford Health Care actually uses the product for collaboration inside the medical department search. Between health care, media, manufacturing, these are some of the range of industries we serve.
-
+不好意思期間我可能得喝很多次水
 我們今天要講的是創建面向企業的公司
 先說一下我們Box的情況
 目前約有24萬家公司使用我們的產品
@@ -83,9 +75,6 @@ Building for the enterprise, these are high level stats of Box. We have about tw
 用於加強醫院內以及科研間的合作
 我們提供服務的公司
 涉及醫療媒體製造業
-
-
-So the question is, how did we get here? Because we didn't start the company to be an enterprise software company even though that is how things ended up happening. We launched the company in 2005, we got the idea back in college which was 2004. Was anybody using the internet back in 2004? Okay great. I didn't know if millennials used the internet or not, so great. Sorry, okay no more age jokes. Okay here is the point. So back in 2004, you might remember there wasn't a lot to do back then. It was boring right? This was before Facebook, this is certainly before Snapchat, so before much to do. You couldn't send people fifteen second messages or photos that disappeared because you didn't even have phones. So on the internet, in 2004, there wasn't a lot going on. This is sort of what the internet looked like, a barren deserted landscape. Just to clarify, the happy camel is Google, the sad camel is Yahoo! This is the internet in 2004. Yahoo! has done a lot better since then, but back in the mid 2004, they were trying to find their way. And Google was taking over the world. But this was the extent of the entire world.
 那麼我們是怎麼做到目前的規模的呢？
 我們當初開始創業時
 並非想創建企業軟件公司
@@ -116,7 +105,6 @@ So the question is, how did we get here? Because we didn't start the company to 
 他們公司在夾縫中尋生存
 Google獨領風騷
 這就是當時的情況
-So what we noticed in 2004, in college, was for some reason it was really hard to share files. And as simple of an idea as that is now, and you go back ten years. It was either really expensive or really hard to move data around through corporate companies. I had an internship at the time, most of my job using data was to copy printed out papers and put them in cabinets. That's what you do as an intern if you are not a computer science guy. So I was really really good at copying paper, unfortunately not a skill really used today. But it was really hard to share files. In classroom environments, you were working in large groups, it was also hard to share files. I went to USC, and USC gave you fifty megabytes of storage space. Fifty megabytes, you can basically store one file. Then it would auto delete every six months. So whoever was running IT at the time, they certainly weren't running hard drives. And so it was really, really hard to store and share files. Well, why don't we make it easy to store and share files from anywhere?
 2004年我們還在讀大學的時候
 我們注意到
 當時分享文件不怎麼容易
@@ -146,7 +134,6 @@ So what we noticed in 2004, in college, was for some reason it was really hard t
 所以我們就想
 為什麼我們不
 讓存儲和分享文件變得簡單呢？
-So we got the idea for, at the time, Box.net. And what we noticed was, there were a lot of factors that changed in the software world. The first was the cost of storage was dropping dramatically. So in our business, basically every year or two you could double the amount of storage and data goes into a hard drive. So what was uneconomical now because feasible. The cost of computing, the cost of storage has dropped. We had more powerful browsers, and networks. Firefox was just emerging. People were using the much faster internet for homes and the classroom. Then people had more locations that they wanted to store and share information with. So we had these three factors that were sort of emerging. So pull these factors back when I give some tactical advice. The first point to remember, always look for the changing technology factors. Every market that has a significant change in underlying were enabling factors was in an environment that was about to change in a very significant way. We were very fortunate in the need for data in the Cloud, was growing in importance. The cost and feasibility. was also not improving rapidly. We decided to put together this really quick version of Box and launched it as Box.net. The idea was, let's make it really easy to share files. It turned out the idea clicked. We got angel funding from this guy named Mark Cuban. This was before Shark Tank but it was very similar. So we got this funding and thought this was going to be super exciting.
 我們就有了這個創意並創立了box公司
 我們當時注意到在軟件行業
 有很多因素已經變了
@@ -184,7 +171,6 @@ Firefox嶄露頭角
 我們從Mark Cuban那獲得天使投資
 這在Shark Tank之前不過類似
 我們獲得投資後非常興奮
-We are going to drop out of college, we are going to move to the Bay area, and it's going to be awesome. And when you drop out of college, anybody drop out of college yet? Okay, good. Stay in school! When you drop out of college, everyone pictures it like it's going to be incredible. Bill Gates dropped out of college, it will be like Bill Gates. Or Michael Dell dropped out of college, it will be super exciting like Michael Dell. Steve Jobs dropped out of college, so this is what people imagine, but nobody ever remembers that this guy dropped out of college also.
 我們決定要輟學
 要搬到​​灣區想像著前途一片光明
 你們中有人輟學了嗎？
@@ -198,7 +184,6 @@ We are going to drop out of college, we are going to move to the Bay area, and i
 或者像Steve Jobs那樣
 這只是大家的一廂情願而已
 大家不會記起來圖中這個人也曾輟學
-So it's not really a guarantee that it's going to be successful. It's funny, I don't even know if this guy dropped out of college. It just seems like he had to. And I apologize if anyone is related to him, it's just a funny picture on the internet. So basically we decided we would drop out of college, we moved up to first Berkeley, then Palo Alto. We decided we were going to open up the product for free. We got hundreds of thousands of people to sign up for the product every single month. If you go to Box.net you get one free gigabyte of file storage space. Which once again was big back in 2006. But we were getting so many users, we were trying to figure out what to do.
 輟學並不能保證
 事業能夠成功
 其實吧
@@ -218,7 +203,6 @@ So it's not really a guarantee that it's going to be successful. It's funny, I d
 當時應該是2006年
 有了這麼多的用戶
 我們尋求公司今後的出路
-What we ran into was a common problem that, really, any startup runs into. Really pronounced by our business model which was, for consumers we built a very robust, very reliable enterprise. We really brought a really insignificant product. So for consumers, what we were running into was we had all these features you could pay for but a lot of consumers didn't need all those features. And for enterprises, we really didn't have enough securities and we didn't have enough capabilities around how enterprises want to use their data. So we had more than what a consumer needed and not enough that an enterprise needed. So we found ourselves at the juncture. We found ourselves basically in this period where its very difficult to figure out what we wanted to do with the business. So we had to make this choice. We were at this path, where we had to choose which path to go down.
 我們遇到了一個
 任何創業公司都會遇到的問題
 從我們公司的經營模式上就能看出來
@@ -241,7 +225,6 @@ What we ran into was a common problem that, really, any startup runs into. Reall
 我們面臨抉擇
 在交叉路口上
 我們得選擇走哪條路
-This is back in early, mid 2006 up to late 2006. I was 23 at the time, my cofounder was 22. Our founding team was even younger, we had all dropped out of college. So in 2006, 2007, we imagined these two paths and the worlds were very very different. When you do a consumer startup it's basically lots of fun. You have parties all the time, it's just super exciting. Then in the enterprise you are battling these large, it's a rather thankless model because people just generally hate enterprise software. So that was sort of how we imagined the two paths, was we had to choose one of these two worlds. So we looked at that and thought. Okay consumer looks really fun, enterprise looks really hard and there is a lot of competition. At the same time, in this consumer space you are always fighting this issue of how do you monetize? How do you actually get people to pay for product? In the consumer space there are really only two business models that you can do.
 當時是2006年中旬到下旬
 我當時23歲
 我的合夥人22歲創始團隊更年輕
@@ -265,7 +248,6 @@ This is back in early, mid 2006 up to late 2006. I was 23 at the time, my cofoun
 如何讓用戶付費買產品？
 在普通用戶領域
 有兩種經營模式可選
-You can either have people pay for your application or you could provide advertising on the application. To give you a little bit of perspective, these are today's numbers. In the consumer world there are about thirty-five billion spent on mobile apps every year. Pretty big number right? Thirty-five billion dollars. That's a lot of money being spent on mobile apps today. For advertising, the global digital advertising is $135 billion dollars. So most consumer businesses are going after, if you are not doing e-commerce, are going after about $170 billion dollars of either purchasing power on applications or global advertising around these types of services. So big number, a lot of opportunity there.
 要麼讓用戶付費使用產品
 要麼在產品中打廣告
 讓大家有更深的體會
@@ -274,15 +256,19 @@ You can either have people pay for your application or you could provide adverti
 在普通用戶領域
 每年有350億美元花在移動應用軟件上
 挺驚人的數字
-350億\N258\N00:12:25,030 --> 00:12:26,​​840\N有這麼多錢花在移動應用軟件上\N259\N00:12:26,​​840 --> 00:12:33,600\N全球數字廣告市場收入是1350億美元
+350億
+258
+00:12:25,030 --> 00:12:26,​​840
+有這麼多錢花在移動應用軟件上
+259
+00:12:26,​​840 --> 00:12:33,600
+全球數字廣告市場收入是1350億美元
 你懂的
 除了電商公司
 幾乎擁有眾多用戶的公司
 會爭奪這1700億的市場
 包括應用軟件和廣告
 市場很大機會很多
-
-However, in the enterprise there are $3.7 trillion on enterprise IT every single year. These are the servers, the infrastructure, the software, the networking, the services. All of that stack of technology equates to a few trillion spent every year. What we realized was there was a rather wide delta between these two markets. We are going to be fighting to get consumers to pay a few dollars a month. And Google, Microsoft, and Apple will try to make this product free over time. And there were rumors that google drive was coming out. And all these products that were going to happen, are coming out. But in enterprise, its not about them trying to save money on IT.They are either trying to increase productivity, they are trying to increase business. So the value equation is very different. So the consumer, we have limited amount of money that we wish to conserve for as few things as possible that we are going to spend. On the enterprise it's a little bit of a shift, actually what can I get out of technology? How much value is that for me? So that was a really important data point.
 然而在企業這一塊
 每年有3.7萬億美元花在了IT上
 包括服務器基礎設施
@@ -309,7 +295,6 @@ However, in the enterprise there are $3.7 trillion on enterprise IT every single
 他們考慮的是
 如何通過科技來創造更大的價值
 這點很重要
-However, the problem was that enterprise software was very unsexy right? Very competitive, very hard to build a business. It wasn't something you shot out of bed in the morning saying, I'm super excited to build an enterprise software company. And the reason for that was actually very straight forward at the time. The way that you built software was very slow. It was very slow because you couldn't break anything for customers, the sales process was very slow because customers take a long time to purchase technology. So I think everyone is used to this philosophy that when you are trying to sell enterprise software, it could take up to years for them to actually just buy the software. Then it could take even more years for them to implement the technology in the first place. So a lot of companies are around for years without their technology even used in the first place.
 然後企業軟件
 吸引力不大
 競爭壓力大創業困難
@@ -330,12 +315,26 @@ However, the problem was that enterprise software was very unsexy right? Very co
 等到他們大規模地使用
 又得過幾年的時間
 很多公司得等好幾年
-
-That felt like a huge problem, and not something that we wanted to be a part of. The technology itself is complex, I don't know how many people have had to use enterprise software but it's generally really complicated. You try to figure out, why in God’s creation did a designer try to put forty-seven buttons on one page. You just can't even understand it and the reason is something we will get into in a second. But basically there is just no love or care for the design or user service. The software is just complex. And finally, if that wasn't bad enough, you have to figure out how you are going to sell this software. For anyone who loves the power of the internet, this notion of having a sales intermediary to get to your customer, seemed really unappealing. You have to hire a bunch of people, who are going to be in every country, they are going to be the only interface you have to your customer. You hire this guy named Chuck, and Chuck is going to roll in with a brief case and he is going to try to sell lots of enterprise software to the customer. Just so we are clear, this is what Chuck looks like. And that was the sale process that you, in the enterprise at least, that we imagined in our head. Chuck looks like a happy guy, but he is still an intermediary to getting your software. Well why cant use the power of to internet and get our technology out here that way?
 他們的IT產品才應用到企業中
 這個問題很嚴重
-是我們極力想避免的 產品本身很複雜 至於體驗呢  不知道有多少人由於工作需要不得不使用企業軟件  產品本身真的很複雜 他們可能在心裡咒罵
-為什麼設計者在一個頁面上弄了47個按鍵！真是讓人費解
+是我們極力想避免的
+315
+00:14:59,520 --> 00:15:0​​2,260
+IT產品本身很複雜
+316
+00:15:0​​2,260 --> 00:15:0​​5,090
+至於體驗呢
+317
+00:15:0​​5,090 --> 00:15:0​​7,700
+不知道有多少人由於工作需要不得不使用企業軟件
+318
+00:15:0​​7,700 --> 00:15:0​​9,920
+產品本身真的很複雜
+319
+00:15:0​​9,920 --> 00:15:11,210
+他們可能在心裡咒罵
+為什麼設計者在一個頁面上弄了47個按鍵！
+真是讓人費解
 我們過一會就會講到為什麼會這樣
 總之人們不喜歡
 企業軟件的設計和體驗
@@ -361,8 +360,6 @@ Chuck貌似挺開心的
 所以我們就這麼想：
 為什麼我們不利用網絡的力量
 將產品直接面向顧客呢？
-
-Why should we have to go through this sales intermediary as we scale up the business? I will get into it in a minute why we were wrong about the sales business. But this was sort of the fear that we had. And if that wasn't hard enough, we had investors saying, in 2007, basically there is no way you are going to make it in enterprise. You again, are basically a founding team of 20 year olds. You don't have anyone on your team that has been in an enterprise. Microsoft, Oracle, IBM, these companies are going to stomp on you. This is going to be very very hard to succeed. And to be fair they were right on several areas. We were a very inexperienced team. We were still very early in our careers. Our co-founder, for instance, looked like he was 13 years old. Just to be clear on what he looked like. So it sort of made sense right? This is him as our CFO, I think this is him at 29. But it looked like we were going to run off with the money and go to Disneyland. I appreciate why they didn't think we could pull it off. I can't imagine giving him money.
 我們發展業務為什麼非得
 通過銷售中間人呢？
 我過會會講到
@@ -389,7 +386,6 @@ Oracle和IBM
 我完全理解
 為什麼他們不相信我們會成功
 把錢投給這樣的小鮮肉我也無法接受
-So, we decided that we still have to go do it. We have to give this our best shot. We are going to take the scale, the consumer experience, the DNA of our company and we are going to see if we can bring this into the enterprise. We were really fortunate. We had an investor, early in his career, make a belief on us because there was something changing with the enterprise that we would be able to take advantage of. We decided, if we are going to do the enterprise, if we were going to go after the enterprise, we were going to have to play with a very different set of rules. So what about the complexity of software can change in this era? What about the sales process is very slow can change in this new era? How do we move and go directly to the user the customer, instead of having this really indirect process at getting our technology out there? How do we build a design for the user instead of just for the RFP process that a customer is going to go through? So we looked at all of the factors that are true with the enterprise and we are going to do, not in all cases, the opposite. We are going to find what has changed in the technology world that we can build a newer, and better software company. That was the decision we embarked on, the path we embarked on 8 years ago. And that is why we have been focused on enterprise.
 我們決定至少得試一下
 全力以赴地試一下
 我們決定把
@@ -422,7 +418,6 @@ So, we decided that we still have to go do it. We have to give this our best sho
 這就是我們當時做出的抉擇
 8年前我們選擇的道路
 這就是為什麼我們專注於企業軟件
-Today, again we have about two hundred and forty thousand businesses using the product. And the reason is we architected the business model, we architected the software, we architected the solution to work in one specific version of the world, and it turned out that one solution was the one that happened. And I will go a little bit into what has changed in the world that we sort of built our company around. And what I would highly recommend to you, if you are building an enterprise software company to orient to your technology. So that was sort of why we made the decision, how we started to take on the problem.
 時至今日
 有24萬家企業使用我們的產品
 我們的成功在於我們重構了銷售模型
@@ -442,8 +437,6 @@ Today, again we have about two hundred and forty thousand businesses using the p
 企業軟件行業發生的哪些變化
 使得進入這個行業變得可能
 或者說比以前更容易
-
-So everything about enterprise, and by definition the software that the enterprise uses, has changed just in the past 5 years. If there ever was a magical time to build an enterprise software company, now is that time in terms of how much has changed in what is going on with organizations. Lets go over a couple of these things. The first is that most application companies are moving to the cloud. And the biggest thing is, if you are going to start a business management company, or a business intelligence company, even a contact management company years ago you had to have you idea implemented in every single customer location. No matter how many customers you sold to, no matter what region you were in, every customer had to put that in their datacenter. That was the flaw with on premise computing. You were doing all this work, you were creating so much redundancy, it was the slowing down the whole process of delivering and building software for the enterprise. All of a sudden the cloud came around, things like Sales Source. com, things like Amazon Web Services, basically said. Why is it that every customer that wants to implement a couple servers, have to implement servers, put them in their data server, but security or networking around them, six months later they go live and a developer can use them in the organization, same thing with an application? They said, why does that make any sense today? We could just put together tens of thousands of servers, put them on demand, and you can use whatever you want, when you want and we can do that. That obviously is the definition of Cloud Computing. What's happening is CIO’s and large enterprises are taking advantage of this. So it seems obvious to everyone in this room because you would never build your company by buying your own servers. You would start is on google, yahoo, or ashore rather. But to an enterprise there are decades of infrastructure that now has to move to that cloud. So thats a massive shift that is actually happening.
 在過去的5年裡
 企業以及企業軟件
 發生了翻天覆地的變化
@@ -495,14 +488,18 @@ Amazon認為我們剛才所說的東西已經落伍了
 使用Amazon Google和Azure給提供的就行
 對於企業而言
 它們在基礎設施上已經投資了數十年
-
-We are moving to a world of cheaper, on demand computing from a world of expensive computing. The benefit of starting a startup is the customers don't have the same friction,, they are going to go and adopt new technology. As soon as the computing becomes cheaper, its easier to adopt new solutions. Which means, their barrier for showing you in--the barrier is a lot lower which is great for startups. We are going from a world of customized platforms to standardize softwares. It use to be that you had to build all the customizations, all the customer experiences on top of the software itself and now customers are realizing that they won't open platforms and they can customize a layer on top of the product. It use to be that when you started an enterprise software, you could only sell to the top five or ten thousand companies in the world. Because only those companies had the wear with all, the talent, the infostructure, and the budget to employ you technology into the enterprise .Today, literally a two person company can sign up for box, as well as we work with General Electric who has over 300 thousand employees. So the fact that you can now serve a small business anywhere in the world, as well as some of the largest on the planet means there are much larger markets you can go after. Which makes it an even better economical proposition to go after the enterprise. The platforms themselves are becoming more global. Our customers were internationally a couple weeks after starting the company. If you would have done enterprise the traditional way that would have take years to actually be able to go internally.
 現在轉移到雲端的話
 顯然轉移的任務量很大
 計算成本從昂貴
 變得便宜低成本
 目前創業的一個優勢是
-顧客採納新技術的阻力減小了  採用你們的產品的阻力減小了  計算成本的降低
+顧客採納新技術的阻力減小了
+481
+00:22:23,800 --> 00:22:26,​​250
+採用你們的產品的阻力減小了
+482
+00:22:26,​​250 --> 00:22:28,910
+計算成本的降低
 使得採納新技術變得容易
 這就是說更新換代的障礙
 採納你們產品的障礙
@@ -537,7 +534,6 @@ We are moving to a world of cheaper, on demand computing from a world of expensi
 如果按照傳統的方式打造企業軟件的話
 得花數年的時間
 才能國際化
-And finally, the most profound shift of all, mobile devices. iPhones, iPads, Androids, Tablets, IT of these models have become a lot more user led. It's fundamentally important. In an IT world, incumbents generally win because they have the existing relationship with the IT organization, with the CIO, with the spending power of that company. In a user lead model, users are bringing in their own technology. They’re bring it in in the sales team, they are bringing it in in the marketing team, they are brining it in in finance and you can build software around that user. Which means they can bring the enterprise in and you can sell to the enterprise when they want to have better control, better security, better scalability.
 最深遠的變化是
 由於移動設備
 iPhone iPad 安卓平板等
@@ -555,8 +551,6 @@ iPhone iPad 安卓平板等
 當他們公司需要更好的控制性更好的安全性
 更好的可擴展性時
 就可以順勢把產品賣給他們公司
-
-So you still have the same model as a business software company but the way to get into the company now is through the end user. So those are quantitative factory changes. Just a couple quantitative changes, there is over nearly 2 billion smart phones on the planet. That changes every single IT model planet. Because it use to be 10 years ago, if you were managing technology for the company, you just had to manage the computers network that was inside your building. But now with billions of smart phones you have to manage ways of computing anywhere at any time on any network. And that becomes big in software companies, because no incumbent has built a technology stack that powers this line of work and how enterprises are using their data. So that creates a massive start up opportunity.
 和傳統的企業軟件公司相比
 商業模型是一樣的
 不過產品是通過終端使用者引入到他們公司的
@@ -573,7 +567,12 @@ So you still have the same model as a business software company but the way to g
 和數據處理
 從而用戶可以隨時隨地登錄
 這就為軟件公司帶來了很大的機會
-There are nearly 3 billion people online. That means that every single enterprise is changing how they are going to give their own products to their customers. Which means that every industry changes. There are only two times, two moments of opportunity where a technology revolution will happen in an enterprise. The first is where raw materials change. So cost of computing goes down and they centralize and let people use it on demand. The second thing that can change, is the very people that these enterprises have to go after need new experiences at that enterprises product. Let me give you an example. If you go off campus you probably use something like Uber or Lyft. If you are in the shipping business, if you are in the transportation business, Uber represents a massive change to your industry. So you can't let Uber exist without understanding, what are the implications of Uber? What are the implications of Instacart? What are the implications of Lyft to my business model?
+因為沒有公司做好這一塊了
+抱歉
+沒有公司做好這一塊了
+這就指明了前進的方向
+指明了企業使用數據的方式
+這就為創業公司創造了大量的機會
 目前有30億網民
 這就意味著每個企業同樣在改變
 改變他們向用戶提供產品的方式
@@ -598,7 +597,6 @@ Uber對你從事的行業有很大的影響
 Uber會帶來什麼影響？
 InstaCart會帶來什麼影響？
 Lyft對於我們公司有什麼影響？
-So in a world where enterprises are dealing with that kind of change, you are going to need new technology to help them create their business models, how they adapt to this disruption. This is why it's such an amazing time to even start vertical software companies for industries. Right now every single industry is going through a business model and technology orientated disruption. Means they are going to need technology from start ups to help them work through this. I will give you a couple of examples: so in the retail industry there's this vision of omni channel or multichannel commerce. You are going to shop online, you are going to shop on your phone, you are going to shop in a store, and you want things to be delivered to you as well. So most of the incumbent technology does not power multichannel commerce. No one is prepared, what does it mean when consumers want to go buy goods anytime from anywhere with better information, better intelligence. So every retailer in the world is going to need a new technology stack to power their retail experiences.
 全世界的企業
 都在應對這種變化
 他們需要新的技術
@@ -624,8 +622,6 @@ So in a world where enterprises are dealing with that kind of change, you are go
 每個零售商
 都需要新技術
 為顧客提供新的購物體驗
-
-In the healthcare space, every single health care institution is trying to find ways of building more personalized experiences, more predictive experiences, they want to have medicine be adapted to the individual. As the business model of healthcare changes to being about the surgery, charging for the check up, and instead, really where the customer pays for the wellness and staying healthy. Then all of a sudden every healthcare institution needs technology to deliver health care experiences. They are going to want to deliver telemedicine. They are going to want to deliver health care in more regional locations instead of just in the monolithic hospital environment. There are going to be new use cases coming around. How are our healthcare providers get connected to one another so one doctor can make better decisions? All of these things are going to require new enterprise software to power these businesses and industries.
 在醫護領域每個醫護機構
 都在極力尋找方法來提供更個性化的服務
 更前瞻性的服務
@@ -644,8 +640,6 @@ In the healthcare space, every single health care institution is trying to find 
 從而使醫生可以做出更好的病情判斷
 以上所說的種種
 都需要新技術的支持
-
-In the media space, as an example, you have a world where the industry is going from really linear programming, whether that's television or that's music or that's movies, it's a linear supply chain oriented business model, when a film gets made, it goes to the theater for 3 months, then afterwards it goes to iTunes or other platforms, to a world where people want experiences on demand. So that's going to change how distribution works on a scale of 3 billion people on the internet, and again no media network has a platform that is actually going to power how content, data, and information moves to this system at scale. I was just in LA yesterday, meeting with a media company that has basically done predictive analytics to find their potential moviegoers in the middle of 3 billion users. They want to be hyper targeted on how to get to the specific 3 billion fans that are into a certain film types. And so all of a sudden you have a movie company who needs big data and they need business intelligence and marketing in order to go and market and distribute.
 比如說媒體行業
 目前的媒體行業
 經歷著從線性規劃變成…
@@ -675,8 +669,6 @@ In the media space, as an example, you have a world where the industry is going 
 需要大數據
 需要商業智能需要營銷自動化
 來協助他們制定營銷策略
-
-This is where two industries come together, where all new software is going to be necessary. So every industry is going through some form of this change. You can take any industry you want and zoom into it and say, what are the underlying technology factors that are going to change the business model for the next couple of years? And then there is going to need to be software to power those types of experiences. Think of the future of water, who is going to power that? That's going to need software, I'm sure.
 重申一下
 兩種行業突然就這樣融合起來了
 需要很多新技術作為支撐
@@ -689,14 +681,19 @@ This is where two industries come together, where all new software is going to b
 相應地就需要軟件來
 支持相應的用戶體驗
 能跟得上我吧？
-So basically every company in the world, the great thing about being at Stanford is we study the technology. And we think of the technology industry as an industry. But in reality what is happening, is every industry is going to have a technology component of what they do. Enterprises are not going to be able to survive in the future if they do not get good at technology. If they don't have competency at leveraging data and using these new tools. But they are going to do that by working with what we call the technology industry.
-
+我得喝點水
+大家可以趁機說點話
+剪輯的時候可以把我喝水的部分切了去嗎？
+不要讓觀眾覺得我好像有喝水強迫症似地
+好的想一想未來的飲用水行業
+需要什麼來支撐呢？
+當然得需要軟件
 每個公司…
 呆在帕羅奧多在斯坦福
 一個好處是我們可以高度專注於科技
 科技行業也是一種行業
 現實是科技對於每個公司每個行業而言
-是必須的一部分
+都是必須的一部分
 一個企業如果不能
 善於利用科技
 不能利用數據
@@ -706,7 +703,6 @@ So basically every company in the world, the great thing about being at Stanford
 他們就能做到這些
 而不是
 關起門來自己開發技術
-Instead of everyone else building out in these expertise for themselves. So there's going to be a lot of partnership over the next five to ten years where companies are going to need technology to work smarter, to work faster, they are going to need to do this more securely. And this is not only going to change how individuals work in these environments but ultimately change the business models of these companies. So that was chapter two of this.
 今後的五到十年間
 會有更多的企業和科技公司合作
 從而使自己的企業
@@ -716,7 +712,6 @@ Instead of everyone else building out in these expertise for themselves. So ther
 也可以改變這些公司的商業模型
 以上是第二大部分的內容
 講的是一些變化
-Now I'll give you some practical advice to help you get started. To be fair, most of this advice is looking through the lens of retrospect which means this is not how this is going to happen, but I can look back through time and say that these are the things that led this to be true. It's hard to be deterministic about building a company. You may not have all these things figured out, but this will give you a sense of pattern to recognize as you are building or thinking about building an enterprise software company.
 現在我們講一些關於創業的實用建議
 大部分建議
 都是事後之明
@@ -724,9 +719,14 @@ Now I'll give you some practical advice to help you get started. To be fair, mos
 而是回顧總結的時候發現
 從結果來看這些方法是對的
 在創立公司的時候很難做到胸有成竹
-所以這些建議你不一定都能用得上\N703\N00:32:22,940 --> 00:32:26,​​960\N這些建議可以給你大體的框架\N704\N00:32:26,​​960 --> 00:32:29,510\N讓你在創建或打算創建公司的時候
+所以這些建議你不一定都能用得上
+703
+00:32:22,940 --> 00:32:26,​​960
+這些建議可以給你大體的框架
+704
+00:32:26,​​960 --> 00:32:29,510
+讓你在創建或打算創建公司的時候
 給你一些借鑒的模式或幫助你發現機遇
-So the first one is spot technology disruptions. This is going to be true whether you are building consumer or enterprise. The rest are more enterprise, but this is just fundamental if you are going to build a tech company. You have to look for new enabling technologies, or major trends, like fundamental trends, that create a wide gap between how things are done and how they can be done. Looking back in time to our business, the gap was basically storage was getting cheaper, internet was getting faster, browsers where getting better yet we are still sharing files with this very complicated, very cumbersome means. Anytime, between the delta of what is possible, and how things work today is at its widest. That is an opportunity to build new technology to go solve a problem. As you are looking at the enterprise, the question is, what about the cost of computing dropping so rapidly changes what enterprises can do with their data?
 第一點是洞悉科技變革
 這一點既適用於面向普通用戶的公司
 又適用於面向企業的公司
@@ -751,7 +751,6 @@ So the first one is spot technology disruptions. This is going to be true whethe
 會給企業處理數據帶來什麼樣的影響呢？
 從商業模型角度來看
 這會帶來什麼變化呢？
-What does it do to change from a business standpoint? What was impossible, because of either economic feasibility or technical feasibility that 10-15 years ago is now possible. A fun thing to do every now and then, if you find a newspaper article from the 1990’s or 1980’s, business articles about technology, all we are really doing is repeating all the technologies we tried 10, 20, 30 years ago. It was too expensive, too unusable, and we didn't have the enabling technologies to make it possible. You can see this concept emerge, something that was impossible 5, 10 years ago is now very practical. I will give you an example. There is a company called PlanGrid, does anyone know what PlanGrid does? Okay, cool. Are you in the construction industry? You are? Oh my god! What does that even mean?
 由於經濟和技術的限制
 什麼東西在10年或15年前是不可能的
 而現在
@@ -766,16 +765,20 @@ What does it do to change from a business standpoint? What was impossible, becau
 你可以發現其中的規律
 5年或10年前無法實施的技術
 現在突然大規模使用了
-Q: PlanGrid? Or construction?
 舉例來說PlanGrid公司
 有人知道這個公司嗎？
 你是建築行業的嗎？
-Aaron Levie: Construction.
-
-Q: I work at a job site, we build buildings.
-建築業\N751\N00:34:35,580 --> 00:34:38​​,470\N我們是搞建築的\N752\N00:34:38​​,470 --> 00:34:40,100\N挺好的
-
-Aaron Levie: Holy crap, that's great. Basically PlanGrid is a mobile application that lets you manage construction projects, lets you access your blueprints, lets you manage all the data around a construction process. And what this company realized is, 4 billion dollars, I think, are spent every year printing out blueprints. And they have all the prints and updates to them anytime there a change, then they have to ripple and cascade through a very wide network of contractors and construction workers every time. Even if it's one slight, minute change, suddenly they realized, with the iPad, we have the perfect form factor to load up blueprints and content. This is something that can ripple through the construction industry, which isn't really known for high technology, except on the design side. How can they build technology that makes data collaboration problem really seamless and easy to do in an industry that hasn't really changed in a while? It was a perfect discovery of a change in a market and figuring out how those two things converge. Then this team built a great startup for it that is doing incredibly well and taking over the construction industry as proven by this individual. Thank you.
+是的
+能具體說說嗎？
+說PlanGrid還是建築業？
+建築業
+751
+00:34:35,580 --> 00:34:38​​,470
+我們是搞建築的
+752
+00:34:38​​,470 --> 00:34:40,100
+挺好的
+好的謝謝你
 PlanGrid是一款移動應用
 可以用來管理建築項目
 可以查看規劃圖
@@ -800,11 +803,17 @@ PlanGrid是一款移動應用
 能夠輕鬆地做到
 數據獲取和融合呢
 這是個很好的例子
-他們發現了市場的變化\N779\N00:35:53,280 --> 00:35:55​​,780\N並且利用科技提供了解決方案\N780\N00:35:55​​,780 --> 00:35:57,880\N該團隊基於此
+他們發現了市場的變化
+779
+00:35:53,280 --> 00:35:55​​,780
+並且利用科技提供了解決方案
+780
+00:35:55​​,780 --> 00:35:57,880
+該團隊基於此
 創建了一個成功的公司
 在建築行業
 獨領風騷
-The next thing is, in enterprise, you want to start intentionally small. What I mean by that is you want to find, this is more true with all companies in an enterprise in a user light paradigm, you want to find the wedge that is sort of natural that you can create a product that will slip in the gaps of other existing products. But something that you think over time expands to be a more important product of the enterprise structure. What you want to start to do is say, we will take this sliver of a problem, we are going to make the user experience on the incredible. We are either going to change the business model, we are going to create new technology to make this previously problem really really simple. It might feel small at first, maybe you are going after small businesses and then you are going to go up market. Maybe you are starting with a sliver of the use case and expand out, but you intentionally start small. Because you will not be able to compete with an incumbent because the incumbent is always going to go for the full solution. So you have to find, what are the gaps in the full solution, that are significant enough that the customer is going to want to solve the problem with a discreet technology. But over time you are going to be able to expand. Again to either larger customers or to more use cases over time.
+謝謝
 另一件要注意的事情是
 在開始的時候要刻意保持較小規模的公司
 很多公司都是這樣子
@@ -835,9 +844,10 @@ The next thing is, in enterprise, you want to start intentionally small. What I 
 會讓用戶希望去解決它們
 然後你就可以逐漸進行擴展
 要麼吸引更大的客戶要麼創造更多的用例
-
-Great example is ZenPayroll. ZenPayroll was started by Stanford graduates couple of years ago. Basically, they discovered that the payroll is some small business is complicated and incredibly annoying process. That is because we use the same vendors that we have for decades to do that and they were digitally ordinated. You didn't get your payments as a receipt over email. Very complicated. You didn't get to see graphs of your salaries. There was really no good data around this. And they said we are going to take off the slice that is most painful to start out at, around hiring people and paying people. Just that payroll management process. We are going to plug into a lot of existing structure. But we are going to make it dead simple to go do this. And now they are able to move up market over time as well as deliver new services over time. And what happens is the incumbent in this market, eventually looks at something like Zen Payroll and says, well thats small. Its only for small businesses’. How can it be very powerful? But thats just the start. As they get that wedge, as they fit into the market, they are going to be able to expand again over time. Build out more services and more capabilities. But they found just the right, exact opening to build a new company and have the emerge.
-Zenpayroll是個很好的例子  Zenpayroll是一群斯坦福的研究生創立的
+Zenpayroll是個很好的例子
+816
+00:37:29,130​​ --> 00:37:33,840
+Zenpayroll是一群斯坦福的研究生創立的
 就在幾年前
 他們發現在小公司管理工資單這件事情
 是一個很複雜​​也很煩人的過程
@@ -866,9 +876,6 @@ Zenpayroll是個很好的例子  Zenpayroll是一群斯坦福的研究生創立�
 加入更多服務和功能
 可以說他們的創業
 在開始階段的方向是很正確的
-
-Then next you really want to find asymmetries. You want to do things that incumbents can't or won't do because either the economics don't make sense for them, the economics are so unusual, or because technically they can't. I will give you two examples. So, if you are going to build software today for the enterprise that goes after an incumbent category, that has more of a suite? oriented approach. Then what you are going to want to do is build technology that is platform agnostic. What suite players will do is want everything to be integrated with itself, and theres more value with the vertical integration. But you want to go after a different access. Which you want your technology to work across all the platforms. That way you can work with so many different kinds of customers. You can be an ally to so many kinds of platforms, which a traditional incumbent is not able to do. That is technically infeasible because its architecture or its a fundamental component business model to not do that. The other thing is, trying to do things that is economic feasible. You can look at the cost structure of an incumbent company and discover where they are not going to be able to drop their prices. Because that business model is fundamental to the company. Or where can you find ways of monetizing the customer that are unusual or unique that no one has discovered before, thus making impractical for anyone else to do.
-
 下一點是要找到現有結構的不合理之處
 你會發現-- 哎呀我去
 咱們過後能把聲音調調嗎
@@ -906,7 +913,6 @@ Then next you really want to find asymmetries. You want to do things that incumb
 獨特的需求
 別人沒發現的需求
 因此這也是其他人做不到而你可以做的東西
-There is a company called Zenefits where they have an HR management software company that helps you as a small startup manage all your benefits, all your HR information. And instead of charging the startup that may not value the software stage they are at, they realize they can get commission from the insurance companies that pays for the ability to use their software. The customer itself is not paying for Zenefits. Zenefits platform is being paid for by the insurance company and they have thus created a business model that no other software company has been able to think of or attack. And they are equally going and disrupting a category that has not seen a lot of innovation previously which is the health and benefits space in small businesses.
 有個公司叫Zenefits
 他們做了一個人力資源管理的軟件
 可以幫助小公司
@@ -923,8 +929,6 @@ Zenefits這個平台是從保險公司那裡賺錢
 因此Zenefits成功打亂了這個市場的格局
 在此之前對於小公司的健康與福利這個領域
 沒有多少創新可言
-
-The next is you want to find the mostly crazy, but still reasonable outliers within the customer ecosystem. So you need to find the customers that are at the edge of the business, their business model, their industry and find the unique characteristics of those customers. Leverage them as your early adopters. Paul Graham has a great article where he talks about living in the future and building what is missing when you are living in the future. Thats an easy way to spot trends and patterns about disruption that is playing out. The same is true in the workplace. If you find customers that are working in the future, you will be able to work with them to find what is missing in the future. And how do we build technology that supports all these new use cases that are going to emerge? There is a company called Skycatch that does enterprise drones. At first it seems kind of weird, but in construction space, farming they are using drones now for data capture and modeling different environments. So this company is able to find all the companies that are on the bleeding edge of their industry. What is unique, or new about how those businesses operate. And they worked with a lot of those early adopters to establish their platform. Which really is first enterprise drone company. So the idea is, go look at your market. Find the customers on the bleeding edge of their market who use technology to get a head. And that use technology for performance advantages, and go work with them to see how your product can evolve.
 下一步是要找出在客戶的生態系統中
 比較瘋狂但又能說的通的一些
 極端情況
@@ -960,9 +964,7 @@ Skycatch幫助他們建立了平台
 這些用戶
 通過使用技術不斷進步獲得優勢
 然後與他們進行合作把你的產品整合到他們的企業中
-
-
-Listen to your customers but don't always build exactly what they are telling you. This is a really key distinction around building enterprise software. Your customers are going to have a large number of requests. Your job is to instill those lists down into the ultimate product. This does not mean that you are not going to build exactly what they tell you to build. It is your job to listen to their problems, and translate those into what is going to build the best and simplest solution for them. It's really your job, and Palantir does a really good example of very very complex issues and then scaling them down into simple solutions for complex problems that the customer would not have known how to ask for.
+還有兩分鐘好的
 下一件事是
 我們用5分鐘把這裡講完
 能行吧？
@@ -981,8 +983,6 @@ Palantir就是​​個很好的例子
 但他們提出了一個非常簡單的解決方案
 甚至連他們的用戶也沒有想到
 會如此簡單
-
-You want to modularize not customize. So build a platform as opposed to building all the custom technology and customer vertical experiences into the software itself. Make sure you really think about openness and APIs as a way of building experiences. Don't build that directly into the product. Focus on the user always. The magical thing about building an enterprise software company right now is you can keep consumer information at the center of the product. That will always mean that adoption is easier, that your product has a much better chance of going viral. It becomes easier to sell in the organization. Always make sure you bring consumer DNA into the product. Your product should sell itself. But that does not mean you don't need sales people. So this is a really important distinction. Leverage everything about the internet, leverage everything about users to get to your customers. But you still will likely need sales as a way to help your customers navigate your product, help your customers navigate the competitive landscape and ecosystem. So you are going to want very domain specific sales associates that are going to be helpful for your customer in deploying enabled in these positions. But don't make that be a substitute, don't make that be a handicap for not building a great product. So you fundamentally build a product inside that. A company called Mixpanel comes in through the developer and eventually sells to that organization with a more inside sales process. Also read these three books: Crossing the Chasm, the Innovators Dilemma, and Behind the Cloud. These three combined, if you binge and read them all, you will come out ahead.
 你要做的是模塊化而非定制化
 建立一個平台
 而不是把所有定制的技術
@@ -1023,8 +1023,6 @@ Mixed Panel這個公司面向開發者提供軟件
 如果你把這三本書讀完
 你就可以甩開對手
 建立一家龐大的軟件公司
-So in closing, today, right now is an amazing time to start a software company. I wish you the best of luck. If it doesn't work, we are hiring. The only other thing is, please do not compete with me because I have a lot of competition already. Ideally either come work with us or build your own company.
-
 那麼總結下今天的內容
 當你們走出這間教室時
 就是一個​​創立一家企業軟件公司的非常好的時機
@@ -1033,4 +1031,4 @@ So in closing, today, right now is an amazing time to start a software company. 
 另外給大家的忠告就是別和我競爭
 以為和我競爭的已經夠多了
 那麼要麼加入我們要麼自己創業
-So thank you very much!
+謝謝大家
