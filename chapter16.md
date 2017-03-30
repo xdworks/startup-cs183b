@@ -1,4 +1,4 @@
-# Lecture 16: How to Run a User Interview，
+# Lecture 16: How to Run a User Interview
 
 今天的講座嘉賓是Twitch的CEO Emmett Shear，Twitch已經被亞馬遜收購，他目前還在該部門工作，他會給大家帶來全新的內容，給大家講講如何做好用戶調研，尤其適用於初創業公司，大家會受益匪淺。
 
