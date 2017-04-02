@@ -1,6 +1,6 @@
 # Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started
 
-謝謝Sam的邀請
+謝謝Sam的邀請，
 我叫Stanley 是DoorDash的創始人
 能站在這里挺有意思的
 因為不久前我就坐在你們的位子上
