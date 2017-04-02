@@ -7,11 +7,11 @@
 * [Lecture 5: Business Strategy and Monopoly Theory](chapter05.md)
 * [Lecture 6: Growth](chapter06.md)
 * [Lecture 7: How to Build Products Users Love](chapter07.md)
-* Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started
-* Lecture 9: How to Raise Money
+* [Lecture 8: Doing Things That Don't Scale, PR, and How to Get Started](chapter08.md)
+* [Lecture 9: How to Raise Money](chapter09.md)
 * [Lecture 10: Company Culture and Building a Team, Part I](chapter10.md)
 * [Lecture 11: Company Culture and Building a Team, Part II](chapter11.md)
-* Lecture 12: Sales and Marketing
+* [Lecture 12: Sales and Marketing](chapter12.md)
 * [Lecture 13: How To Be A Great Founder](chapter13.md)
 * [Lecture 14: How to Operate ](chapter14.md)
 * [Lecture 15: How to Manage](chapter15.md)
